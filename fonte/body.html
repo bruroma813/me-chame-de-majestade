@@ -159,8 +159,11 @@ function desenhar(){const c=CAD,{qs,R}=c;if(!qs.length){$("app").innerHTML="<p>C
 function finalizar(c){const R=c.R,nresp=Object.keys(R.a).length,emb=c.qs.length-nresp;
  const msg=c.tipo==="round"?(nresp?`Finalizar o round com ${nresp} questão(ões) respondida(s)?${emb?` As ${emb} não respondidas simplesmente saem do round (não contam como erro).`:""}`:"Você ainda não respondeu nenhuma questão. Finalizar e descartar este round?")
   :`Entregar o simulado? ${emb?`Há ${emb} questões em branco, que contam como erro, como na prova.`:"Todas respondidas."}`;
- confirmar(msg,()=>{if(c.tipo==="round"&&!nresp){ST.rounds=ST.rounds.filter(r=>r!==R);save();location.hash="inicio";return}
-  R.fim=true;R.fimEm=new Date().toISOString();clearInterval(tick);save();desenhar();scrollTo(0,0);parabens(c)},c.tipo==="round"?"Finalizar round":"Entregar")}
+ confirmar(msg,()=>{clearInterval(tick);
+  if(c.tipo==="round"&&!nresp){ST.rounds=ST.rounds.filter(r=>r!==R);save();if(location.hash==="#inicio"||!location.hash)rota();else location.hash="inicio";return}
+  R.fim=true;R.fimEm=new Date().toISOString();save();
+  const alvo=c.tipo==="round"?"#round-"+c.id:"#sim-"+c.id;
+  if(location.hash!==alvo){location.hash=alvo.slice(1);setTimeout(()=>parabens(c),150)}else{CAD=c;desenhar();scrollTo(0,0);parabens(c)}},c.tipo==="round"?"Finalizar round":"Entregar")}
 function parabens(c){const s=stats(c),den=c.tipo==="round"?s.corr:s.tot,p=pct(s.ac,den);
  const prev=c.tipo==="round"?ST.rounds.filter(r=>r.fim&&r!==c.R).slice(-1)[0]:null;let comp="";
  if(prev){const sp=stats(cadRound(prev)),pp=pct(sp.ac,sp.corr);comp=`<p class="note" style="margin:0 0 10px">Round anterior: ${pp}% · ${p>pp?`<b style="color:var(--ok)">+${p-pp} pontos</b>`:p<pp?`<b style="color:var(--bad)">${p-pp} pontos</b>`:"mesmo resultado"}</p>`}
