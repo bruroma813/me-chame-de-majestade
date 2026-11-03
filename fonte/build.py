@@ -64,7 +64,8 @@ def qid(q): return q['origem'].split(' – ')[0].replace('ENAM ','F')+'-'+q['ori
 def main():
     M=json.load(open(os.path.join(DATA,'matriz.json'),encoding='utf-8'))
     banco={}; sims={}
-    for cid in [f'S{i:02d}' for i in range(1,22)]+['M1','M2','M3']:
+    nums=sorted({int(re.match(r'serie(\d+)_',os.path.basename(f)).group(1)) for f in glob.glob(os.path.join(DATA,'serie*_*.json'))})
+    for cid in [f'S{i:02d}' for i in nums]+['M1','M2','M3']:
         q=montar(cid,M,random.Random(int(hashlib.md5(cid.encode()).hexdigest(),16)%9973))
         if not q: continue
         for x in q: x['id']=qid(x)
