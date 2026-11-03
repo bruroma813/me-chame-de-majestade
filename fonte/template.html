@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Me chame de majestade</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<style>
+:root{
+ --bg:#f6f3ec; --card:#fffdf9; --ink:#15213a; --ink2:#46506a; --mute:#8a90a0; --line:#e6e0d3; --line2:#d9d1bf;
+ --navy:#15213a; --navy2:#24365c; --amber:#c9822b; --amberbg:#fbf1e1; --sel:#eaf0fa;
+ --ok:#2b7a50; --okbg:#e8f4ed; --bad:#b9412f; --badbg:#fbecea;
+ --f:#2b7a50; --m:#c9822b; --d:#b9412f;
+ --head:'Fraunces',Georgia,serif; --sans:'Inter',system-ui,-apple-system,sans-serif; --serif:'Source Serif 4',Georgia,serif;
+ --r:14px; --sh:0 1px 2px rgba(21,33,58,.04),0 6px 24px rgba(21,33,58,.06);
+}
+*{box-sizing:border-box} html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 var(--sans)}
+a{color:var(--navy2)} button{font-family:inherit}
+/* topo */
+.top{background:var(--navy);color:#fff}
+.topin{max-width:1080px;margin:0 auto;padding:14px 22px;display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+.logo{display:flex;align-items:center;gap:11px}
+.logo .mk{width:34px;height:34px;border-radius:9px;background:linear-gradient(135deg,var(--amber),#e3a54f);display:grid;place-items:center;font:700 16px var(--head);color:var(--navy)}
+.logo b{font:600 18px var(--head);letter-spacing:.2px;display:block;line-height:1.1}
+.logo small{font-size:11.5px;color:#aeb8cc;letter-spacing:.3px}
+.cd{margin-left:auto;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.14);border-radius:99px;padding:6px 13px;font-size:13px;color:#e8edf6}
+.cd b{color:#ffd59a}
+.tabs{max-width:1080px;margin:0 auto;padding:0 14px;display:flex;gap:2px;overflow-x:auto}
+.tabs a{color:#c3cbdb;text-decoration:none;padding:11px 14px 12px;font-size:14px;font-weight:500;border-bottom:2.5px solid transparent;white-space:nowrap}
+.tabs a.on{color:#fff;border-color:var(--amber)} .tabs a:hover{color:#fff}
+main{max-width:1080px;margin:0 auto;padding:28px 22px 90px}
+h1{font:600 30px/1.15 var(--head);margin:0 0 6px;letter-spacing:-.2px}
+h2{font:600 21px var(--head);margin:34px 0 14px}
+.kick{font-size:12px;font-weight:600;letter-spacing:.9px;text-transform:uppercase;color:var(--mute);margin:0 0 6px}
+.sub{color:var(--ink2);margin:0 0 22px;max-width:760px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:20px 22px;box-shadow:var(--sh)}
+.grid{display:grid;gap:16px} .g2{grid-template-columns:1fr 1fr} .g3{grid-template-columns:repeat(3,1fr)} .g4{grid-template-columns:repeat(4,1fr)}
+@media(max-width:820px){.g2,.g3{grid-template-columns:1fr}.g4{grid-template-columns:1fr 1fr}}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;border:0;background:var(--navy);color:#fff;padding:11px 18px;border-radius:10px;font:600 14.5px var(--sans);cursor:pointer;text-decoration:none;transition:.15s}
+.btn:hover{background:var(--navy2);transform:translateY(-1px)}
+.btn.amber{background:var(--amber);color:#1b1306} .btn.amber:hover{background:#d6913a}
+.btn.ghost{background:transparent;color:var(--navy);border:1.5px solid var(--line2)} .btn.ghost:hover{background:#fff;border-color:var(--navy2)}
+.btn.sm{padding:7px 12px;font-size:13px;border-radius:8px}
+.btn:disabled{opacity:.4;cursor:not-allowed;transform:none}
+.chip{display:inline-flex;align-items:center;gap:5px;font-size:11.5px;font-weight:600;padding:3px 9px;border-radius:99px;background:#efece4;color:var(--ink2);white-space:nowrap}
+.chip.navy{background:var(--sel);color:var(--navy2)} .chip.amber{background:var(--amberbg);color:#8a5a14}
+.chip.ok{background:var(--okbg);color:var(--ok)} .chip.bad{background:var(--badbg);color:var(--bad)}
+.chip.fgv{background:#1f2f52;color:#fff}
+.dot{width:7px;height:7px;border-radius:50%;display:inline-block}
+.stat{font:600 34px/1 var(--head);color:var(--navy)} .stat small{font:500 14px var(--sans);color:var(--mute);margin-left:3px}
+.note{font-size:13px;color:var(--mute)}
+/* hoje */
+.hero{display:grid;grid-template-columns:auto 1fr;gap:28px;align-items:center;padding:26px 28px;border-radius:18px;background:linear-gradient(135deg,#fffdf9 0%,#fbf4e6 100%);border:1px solid var(--line);box-shadow:var(--sh)}
+@media(max-width:700px){.hero{grid-template-columns:1fr;text-align:center;padding:22px}.hero .acts{justify-content:center}}
+.ring{width:150px;height:150px;margin:auto}
+.hero h1{font-size:32px}
+.acts{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
+.week{display:grid;grid-template-columns:repeat(7,1fr);gap:8px;margin-top:6px}
+.wd{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:9px 6px;text-align:center;text-decoration:none;color:inherit;font-size:12px}
+.wd b{display:block;font:600 16px var(--head);margin:2px 0}
+.wd.today{border:2px solid var(--amber)} .wd.sim{background:#eef2f9} .wd.prova{background:var(--navy);color:#fff}
+.wd .st{height:6px;border-radius:3px;margin:5px 8px 0;background:#ebe6da}
+/* barras */
+.bar{display:grid;grid-template-columns:150px 1fr 70px;gap:12px;align-items:center;margin:9px 0;font-size:13.5px}
+@media(max-width:600px){.bar{grid-template-columns:100px 1fr 60px;font-size:12.5px}}
+.trk{position:relative;height:10px;background:#ece7db;border-radius:6px}
+.fil{height:100%;border-radius:6px}
+.mk70{position:absolute;top:-4px;bottom:-4px;width:2px;background:var(--ink);opacity:.55}
+.pv{text-align:right;font-weight:600;font-variant-numeric:tabular-nums}
+/* quiz */
+.qbar{position:sticky;top:0;z-index:20;background:rgba(246,243,236,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);margin:0 -22px 18px;padding:10px 22px}
+.qbarin{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.qbar h3{margin:0;font:600 17px var(--head)}
+.prog{flex:1;min-width:140px;height:8px;background:#e6e0d3;border-radius:5px;overflow:hidden;display:flex}
+.prog i{display:block;height:100%}
+.mode{display:inline-flex;background:#fff;border:1px solid var(--line);border-radius:9px;overflow:hidden}
+.mode button{border:0;background:none;padding:6px 11px;font:600 12.5px var(--sans);color:var(--ink2);cursor:pointer}
+.mode button.on{background:var(--navy);color:#fff}
+.timer{font:700 14px var(--sans);font-variant-numeric:tabular-nums;color:var(--navy);background:#fff;border:1px solid var(--line);padding:5px 10px;border-radius:8px}
+.qcard{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:26px 28px;box-shadow:var(--sh)}
+@media(max-width:600px){.qcard{padding:20px 16px;border-radius:14px}}
+.qhead{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+.qn{font:600 22px var(--head);color:var(--navy);margin-right:4px}
+.tema{font-size:13px;color:var(--mute);margin:-6px 0 14px}
+.enun{font:17px/1.68 var(--serif);white-space:pre-line;margin-bottom:18px;color:#1c2436}
+.alt{display:block;width:100%;text-align:left;border:1.5px solid var(--line);background:#fff;border-radius:12px;padding:13px 16px 13px 52px;margin:9px 0;position:relative;font:16px/1.55 var(--serif);color:var(--ink);cursor:pointer;transition:border-color .12s,background .12s}
+.alt:hover{border-color:#b8c4da;background:#fbfcff}
+.alt .L{position:absolute;left:14px;top:12px;width:26px;height:26px;border-radius:50%;border:1.5px solid #b6bfcf;display:grid;place-items:center;font:700 12.5px var(--sans);color:var(--ink2);background:#fff}
+.alt.sel{background:var(--sel);border-color:var(--navy2)} .alt.sel .L{background:var(--navy);border-color:var(--navy);color:#fff}
+.alt.ok{background:var(--okbg);border-color:#9ccdb2} .alt.ok .L{background:var(--ok);border-color:var(--ok);color:#fff}
+.alt.bad{background:var(--badbg);border-color:#e4a79d} .alt.bad .L{background:var(--bad);border-color:var(--bad);color:#fff}
+.alt.lk{cursor:default} .alt.lk:hover{background:inherit}
+.alt.dim{opacity:.92}
+.com{font:14px/1.6 var(--sans);color:var(--ink2);margin-top:9px;padding-top:9px;border-top:1px dashed var(--line2)}
+.com b{color:var(--ok)}
+.fb{display:flex;align-items:center;gap:10px;margin:4px 0 10px;font:600 15px var(--sans)}
+.fb.ok{color:var(--ok)} .fb.bad{color:var(--bad)}
+.box{border-radius:12px;padding:13px 16px;margin-top:12px;font-size:14px}
+.box.base{background:#f1eee6} .box.dica{background:var(--amberbg);border-left:3px solid var(--amber)}
+.qnav{display:flex;justify-content:space-between;gap:10px;margin-top:20px;flex-wrap:wrap}
+details.mapa{margin:18px 0 0}
+details.mapa summary{cursor:pointer;font-weight:600;font-size:13.5px;color:var(--ink2);list-style:none}
+details.mapa summary::-webkit-details-marker{display:none}
+.grid40{display:grid;grid-template-columns:repeat(auto-fill,minmax(38px,1fr));gap:6px;margin-top:12px}
+.grid40 button{height:36px;border:1.5px solid var(--line);background:#fff;border-radius:8px;font:600 12.5px var(--sans);cursor:pointer;color:var(--ink2)}
+.grid40 button.cur{box-shadow:0 0 0 2px var(--navy)} .grid40 button.ans{background:var(--sel);border-color:#c4d2ea}
+.grid40 button.ok{background:var(--okbg);color:var(--ok);border-color:#b2d8c2} .grid40 button.bad{background:var(--badbg);color:var(--bad);border-color:#ebbdb5}
+.result{display:grid;grid-template-columns:auto 1fr;gap:28px;align-items:center}
+@media(max-width:640px){.result{grid-template-columns:1fr}}
+/* tabelas/listas */
+table.t{width:100%;border-collapse:collapse;font-size:13.5px}
+table.t td,table.t th{padding:9px 6px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+table.t th{font-size:11px;text-transform:uppercase;letter-spacing:.6px;color:var(--mute);font-weight:600}
+.cal{display:grid;grid-template-columns:repeat(7,1fr);gap:9px}
+.calh{font-size:11px;font-weight:600;color:var(--mute);text-transform:uppercase;text-align:center;letter-spacing:.6px}
+.day{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;min-height:104px;font-size:12.5px;display:flex;flex-direction:column;gap:4px;text-decoration:none;color:inherit;transition:.15s}
+a.day:hover{border-color:var(--navy2);transform:translateY(-1px);box-shadow:var(--sh)}
+.day .d{font:600 15px var(--head)} .day .t{font-weight:600}
+.day.simulado{background:#eef2f9;border-color:#cfdbee} .day.prova{background:var(--navy);color:#fff;border-color:var(--navy)}
+.day.descanso,.day.revisao{background:#f1ede4} .day.hoje{outline:2.5px solid var(--amber);outline-offset:1px}
+.day .st{margin-top:auto} .day.empty{visibility:hidden}
+@media(max-width:760px){.cal{grid-template-columns:1fr}.calh,.day.empty{display:none}.day{min-height:0}}
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}
+.filters button{border:1.5px solid var(--line);background:#fff;border-radius:99px;padding:5px 13px;font:500 12.5px var(--sans);cursor:pointer;color:var(--ink2)}
+.filters button.on{background:var(--navy);color:#fff;border-color:var(--navy)}
+.err{border-top:1px solid var(--line);padding:18px 0}
+.err:first-child{border-top:0;padding-top:4px}
+textarea{width:100%;min-height:96px;font:12px monospace;border:1px solid var(--line);border-radius:10px;padding:10px;background:#fff}
+.modal{position:fixed;inset:0;background:rgba(15,22,38,.5);display:none;align-items:center;justify-content:center;z-index:50;padding:16px}
+.modal.on{display:flex} .modal .card{max-width:520px;width:100%}
+.cov{display:grid;grid-template-columns:1fr 60px 90px;gap:8px;align-items:center;font-size:13px;padding:6px 0;border-bottom:1px solid var(--line)}
+.cov:last-child{border-bottom:0}
+
+.opt{display:flex;gap:8px;flex-wrap:wrap}
+.opt button{border:1.5px solid var(--line2);background:#fff;border-radius:10px;padding:8px 14px;font:600 13.5px var(--sans);cursor:pointer;color:var(--ink2)}
+.opt button.on{background:var(--navy);color:#fff;border-color:var(--navy)}
+.opt button:disabled{opacity:.35;cursor:not-allowed}
+.lbl{font-size:12px;font-weight:600;letter-spacing:.7px;text-transform:uppercase;color:var(--mute);margin:18px 0 8px}
+.simc{display:flex;align-items:center;gap:14px;justify-content:space-between;flex-wrap:wrap;padding:14px 0;border-bottom:1px solid var(--line)}
+.simc:last-child{border-bottom:0}
+.chart{width:100%;height:auto;display:block}
+.hist{display:grid;grid-template-columns:110px 1fr 90px 90px;gap:10px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line);font-size:13.5px}
+.hist:last-child{border-bottom:0}
+@media(max-width:600px){.hist{grid-template-columns:80px 1fr 70px}.hist .hx{display:none}}
+</style>
+</head>
+<body>
+<div class="top">
+ <div class="topin">
+  <div class="logo"><div class="mk">♛</div><div><b>Me chame de majestade</b><small>Banco de questões da Karina · 6º Exame Nacional da Magistratura</small></div></div>
+  <div class="cd" id="cd"></div>
+ </div>
+ <nav class="tabs" id="tabs">
+  <a href="#inicio" data-r="inicio">Início</a><a href="#evolucao" data-r="evolucao">Evolução</a><a href="#erros" data-r="erros">Caderno de erros</a>
+ </nav>
+</div>
+<main id="app"></main>
+<div class="modal" id="modal"><div class="card" id="modalc"></div></div>
+<script>
+const D=/*__DADOS__*/null;
+const CUR={"Direito Constitucional":"Constitucional","Direito Administrativo":"Administrativo","Noções Gerais de Direito e Formação Humanística":"Humanística","Noções Gerais e Formação Humanística":"Humanística","Direitos Humanos":"Direitos Humanos","Direito Processual Civil":"Processo Civil","Direito Civil":"Civil","Direito Empresarial":"Empresarial","Direito Penal":"Penal"};
+const DISCS=["Constitucional","Administrativo","Humanística","Direitos Humanos","Processo Civil","Civil","Empresarial","Penal"];
+const PESO={"Constitucional":16,"Administrativo":10,"Humanística":6,"Direitos Humanos":6,"Processo Civil":12,"Civil":12,"Empresarial":6,"Penal":12};
+const cur=d=>CUR[d]||d, L="ABCDE", KEY="enam-karina-v2", NIV={"fácil":"f","médio":"m","difícil":"d"};
+const BQ=Object.fromEntries(D.banco.map(q=>[q.id,q]));
+let MEM=null;
+function load(){try{const s=localStorage.getItem(KEY);return s?JSON.parse(s):null}catch(e){return MEM}}
+function save(){MEM=ST;try{localStorage.setItem(KEY,JSON.stringify(ST))}catch(e){}}
+let ST=load()||{rounds:[],sims:{},rev:{},cfg:{n:20,discs:[],orig:"todas",modo:"estudo"}};
+if(!ST.cfg.discs||ST.cfg.discs.length===DISCS.length)ST.cfg.discs=[];
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const $=id=>document.getElementById(id);
+const hojeISO=()=>{const d=new Date();return new Date(d-d.getTimezoneOffset()*6e4).toISOString().slice(0,10)};
+const fmtD=iso=>{const[y,m,d]=iso.slice(0,10).split("-");return `${d}/${m}`};
+const diasAte=()=>Math.round((new Date("2026-11-29T00:00:00")-new Date(hojeISO()+"T00:00:00"))/864e5);
+const cor=p=>p>=70?"var(--ok)":p>=55?"var(--amber)":"var(--bad)";
+const pct=(a,t)=>t?Math.round(100*a/t):0;
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+/* ---------- cadernos (round ou simulado) ---------- */
+// caderno = {tipo:'round'|'sim', id, qs:[obj], R:{a:{n:idx}, cur, modo, fim, seg, ini, fimEm}}
+function cadRound(r){return {tipo:"round",id:r.id,titulo:`Round ${r.num}`,qs:r.qids.map((id,i)=>({...BQ[id],n:i+1})).filter(q=>q.id),R:r}}
+function cadSim(id){if(!ST.sims[id])ST.sims[id]={a:{},cur:1,modo:"prova",fim:false,seg:0,ini:new Date().toISOString()};return {tipo:"sim",id,titulo:`Simulado ${id.slice(1)}`,qs:D.sims[id],R:ST.sims[id]}}
+const corrigida=(R,q)=>R.fim||(R.modo==="estudo"&&R.a[q.n]!==undefined);
+function stats(c){const{qs,R}=c;let ac=0,resp=0,corr=0;const por={},niv={};
+ qs.forEach(q=>{const k=cur(q.disc);const a=R.a[q.n];if(a===undefined&&!R.fim)return;
+  // round finalizado: conta só as respondidas; simulado finalizado: em branco conta erro
+  if(a===undefined&&c.tipo==="round")return;
+  por[k]=por[k]||{t:0,a:0};niv[q.nivel]=niv[q.nivel]||{t:0,a:0};
+  if(a!==undefined)resp++; if(corrigida(R,q)||a===undefined){corr++;por[k].t++;niv[q.nivel].t++;if(a===q.c){ac++;por[k].a++;niv[q.nivel].a++}}});
+ return {ac,resp,corr,tot:qs.length,por,niv}}
+/* respondidas no banco (para 'só inéditas para mim') */
+function respondidasBanco(){const s=new Set();ST.rounds.forEach(r=>r.qids.forEach((id,i)=>{if(r.a[i+1]!==undefined)s.add(id)}));return s}
+/* ---------- UI helpers ---------- */
+function ring(p,big,small,size=150,col){const r=60,C=2*Math.PI*r,off=C*(1-p/100);return `<svg style="width:${size}px;height:${size}px;display:block;margin:auto" viewBox="0 0 150 150"><circle cx="75" cy="75" r="${r}" fill="none" stroke="#ebe5d8" stroke-width="13"/><circle cx="75" cy="75" r="${r}" fill="none" stroke="${col||cor(p)}" stroke-width="13" stroke-linecap="round" stroke-dasharray="${C}" stroke-dashoffset="${off}" transform="rotate(-90 75 75)"/><text x="75" y="77" text-anchor="middle" font-family="Fraunces,Georgia" font-size="31" font-weight="600" fill="#15213a">${big}</text><text x="75" y="100" text-anchor="middle" font-family="Inter" font-size="12" fill="#8a90a0">${small}</text></svg>`}
+function bars(obj){const e=Object.entries(obj).filter(([k,v])=>v.t>0);if(!e.length)return '<p class="note" style="margin:0">Ainda sem dados.</p>';return e.map(([k,v])=>{const p=pct(v.a,v.t);return `<div class="bar"><div>${esc(k)} <span class="note">${v.a}/${v.t}</span></div><div class="trk"><div class="fil" style="width:${p}%;background:${cor(p)}"></div><div class="mk70" style="left:70%"></div></div><div class="pv">${p}%</div></div>`}).join("")}
+function modal(html){$("modalc").innerHTML=html;$("modal").classList.add("on")}
+function fecha(){$("modal").classList.remove("on")}
+function confirmar(msg,ok,okTxt="Confirmar",noTxt="Cancelar",noFn=null){modal(`<p style="margin-top:0;font-size:15px">${esc(msg)}</p><div style="display:flex;gap:8px;justify-content:flex-end;flex-wrap:wrap"><button class="btn ghost sm" id="mno">${noTxt}</button><button class="btn sm" id="mok">${okTxt}</button></div>`);$("mno").onclick=()=>{fecha();if(noFn)noFn()};$("mok").onclick=()=>{fecha();ok()}}
+/* ---------- rotas ---------- */
+let tick=null;
+function rota(){clearInterval(tick);const h=(location.hash||"#inicio").slice(1);
+ document.querySelectorAll("#tabs a").forEach(a=>a.classList.toggle("on",a.dataset.r===h||(h.startsWith("round")&&a.dataset.r==="inicio")||(h.startsWith("sim-")&&a.dataset.r==="simulados")));
+ const d=diasAte();$("cd").innerHTML=d>0?`Faltam <b>${d} dias</b> · 29/11`:d===0?"<b>Hoje é o dia. Boa prova!</b>":"<b>ENAM concluído</b>";
+ if(h.startsWith("round-")){const r=ST.rounds.find(x=>x.id===h.slice(6));if(r)return abrir(cadRound(r))}
+ if(h.startsWith("sim-")&&D.sims[h.slice(4)])return abrir(cadSim(h.slice(4)));
+ ({inicio:telaInicio,evolucao:telaEvol,erros:telaErros}[h]||telaInicio)();scrollTo(0,0)}
+addEventListener("hashchange",rota);
+/* ---------- INÍCIO ---------- */
+function telaInicio(){
+ const aberto=ST.rounds.find(r=>!r.fim); const fin=ST.rounds.filter(r=>r.fim);
+ const ult=fin.slice(-1)[0]; const resp=respondidasBanco();
+ let A=0,T=0; fin.forEach(r=>{const s=stats(cadRound(r));A+=s.ac;T+=s.corr});
+ const cfg=ST.cfg;
+ const hero=aberto?(()=>{const c=cadRound(aberto),s=stats(c);const prox=(c.qs.find(q=>aberto.a[q.n]===undefined)||{}).n;const pa=pct(s.ac,s.corr);
+  return `<div class="hero">${ring(pct(s.resp,s.tot),`${s.resp}/${s.tot}`,"respondidas",150,"var(--navy2)")}<div><p class="kick">Round em andamento · iniciado em ${fmtD(aberto.ini)}</p><h1>Round ${aberto.num}</h1>
+  <p class="sub" style="margin-bottom:6px">${s.corr?`Acerto até aqui: <b style="color:${cor(pa)}">${pa}%</b> (${s.ac}/${s.corr}).`:"Nenhuma questão respondida ainda."} Pode parar e voltar quando quiser: tudo fica salvo.</p>
+  <div class="acts"><a class="btn amber" href="#round-${aberto.id}" onclick="irPara('${aberto.id}',${prox||1})">${s.resp?(prox?`Continuar — questão ${prox}`:"Revisar"):"Começar"}</a><button class="btn ghost" id="finR">Finalizar round</button></div></div></div>`})()
+ :`<div class="hero">${ult?ring(pct(stats(cadRound(ult)).ac,stats(cadRound(ult)).corr),pct(stats(cadRound(ult)).ac,stats(cadRound(ult)).corr)+"%","último round"):`<div style="font:600 60px var(--head);text-align:center;color:var(--amber)">${D.banco.length}</div>`}<div>
+  <p class="kick">${ult?`Último round: ${fmtD(ult.fimEm)}`:"Banco de questões"}</p><h1>${ult?"Pronta para outro round?":"Bem-vinda, Karina."}</h1>
+  <p class="sub" style="margin-bottom:6px">Monte um round do tamanho que couber no seu dia. Faça no seu ritmo e finalize quando quiser para ver seu percentual de acerto.</p>
+  <div class="acts"><button class="btn amber" id="novoTop">+ Novo round</button></div></div></div>`;
+ $("app").innerHTML=`${hero}
+ <div class="card" style="margin-top:22px" id="cfgbox"><p class="kick">Configurar novo round</p>
+  <div class="lbl">Quantidade de questões</div><div class="opt" id="oN">${[10,20,40,80,0].map(n=>`<button data-v="${n}" class="${cfg.n===n?'on':''}">${n||"Livre"}</button>`).join("")}</div>
+  <div class="lbl">Matérias <span style="text-transform:none;letter-spacing:0;font-weight:500">(Todas segue a proporção da prova; clique em uma ou mais para focar)</span></div><div class="opt" id="oD"><button data-v="__todas" class="${!cfg.discs.length?'on':''}">Todas</button>${DISCS.map(d=>`<button data-v="${d}" class="${cfg.discs.includes(d)?'on':''}">${d}</button>`).join("")}</div>
+  <div class="lbl">Tipo de questão</div><div class="opt" id="oO">${[["todas","Todas"],["fgv","Só reais da FGV"],["ineditas","Só inéditas"]].map(([v,t])=>`<button data-v="${v}" class="${cfg.orig===v?'on':''}">${t}</button>`).join("")}</div>
+  <div class="lbl">Correção</div><div class="opt" id="oM">${[["estudo","Na hora (estudo)"],["prova","No final, com cronômetro (prova)"]].map(([v,t])=>`<button data-v="${v}" class="${cfg.modo===v?'on':''}">${t}</button>`).join("")}</div>
+  <div style="display:flex;align-items:center;gap:14px;margin-top:18px;flex-wrap:wrap"><button class="btn" id="novo" ${aberto?"disabled":""}>Iniciar round</button><span class="note" id="disp"></span></div>
+  ${aberto?'<p class="note">Finalize o round em andamento para iniciar outro.</p>':""}
+ </div>
+ <div class="grid g3" style="margin-top:18px">
+  <div class="card"><p class="kick">Questões novas para você</p><div class="stat">${D.banco.length-resp.size}<small>de ${D.banco.length} no banco</small></div><p class="note">Questão respondida não volta em rounds novos: a revisão fica no caderno de erros.</p></div>
+  <div class="card"><p class="kick">Acerto nos rounds</p><div class="stat" style="color:${T?cor(pct(A,T)):"var(--navy)"}">${T?pct(A,T)+"<small>%</small>":"—"}</div><p class="note">${fin.length} round(s) finalizado(s) · meta 70%. <a href="#evolucao">Ver evolução →</a></p></div>
+  <div class="card"><p class="kick">Erros a revisar</p><div class="stat">${coletar().filter(e=>!ST.rev[e.key]).length}</div><p class="note"><a href="#erros">Abrir caderno de erros →</a></p></div>
+ </div>
+ <p class="note" style="margin-top:22px">Questões <span class="chip fgv">ENAM</span> são de provas anteriores da FGV, com comentários nossos. As <span class="chip">Inédita</span> foram elaboradas no padrão da banca, cobrindo o edital do 6º ENAM. Banco atualizado em ${D.gerado}.</p>`;
+ const upd=()=>{const base={...ST.cfg,discs:[]};const cnt={};filtrar(base).forEach(q=>{const k=cur(q.disc);cnt[k]=(cnt[k]||0)+1});
+  $("oD").querySelectorAll("button").forEach(x=>{const v=x.dataset.v;const n=v==="__todas"?Object.values(cnt).reduce((s,y)=>s+y,0):(cnt[v]||0);x.innerHTML=`${v==="__todas"?"Todas":v} <span style="opacity:.6;font-weight:500">· ${n}</span>`;});
+  const pool=filtrar(ST.cfg);$("disp").textContent=pool.length?`${pool.length} questões novas disponíveis com esses filtros`:"Você já fez todas as questões disponíveis com esses filtros. Chegam questões novas todos os dias."};
+ const tog=(box,key,multi)=>$(box).onclick=e=>{const b=e.target.closest("button");if(!b)return;let v=b.dataset.v;if(key==="n")v=+v;
+  if(multi&&v==="__todas"){ST.cfg[key]=[]}
+  else if(multi){const a=ST.cfg[key];ST.cfg[key]=a.includes(v)?a.filter(x=>x!==v):[...a,v]}else ST.cfg[key]=v;save();
+  $(box).querySelectorAll("button").forEach(x=>x.classList.toggle("on",multi?(x.dataset.v==="__todas"?!ST.cfg[key].length:ST.cfg[key].includes(x.dataset.v)):String(ST.cfg[key])===x.dataset.v));upd()};
+ tog("oN","n");tog("oD","discs",true);tog("oO","orig");tog("oM","modo");
+ upd();
+ const nv=$("novo");if(nv)nv.onclick=novoRound; const nt=$("novoTop");if(nt)nt.onclick=()=>$("cfgbox").scrollIntoView({behavior:"smooth"});
+ const fr=$("finR");if(fr)fr.onclick=()=>finalizar(cadRound(aberto));
+}
+function filtrar(cfg,soNovas=true){const feitas=soNovas?respondidasBanco():new Set();return D.banco.filter(q=>!feitas.has(q.id)&&(!cfg.discs.length||cfg.discs.includes(cur(q.disc)))&&(cfg.orig==="todas"||(cfg.orig==="fgv")===(q.origem!=="Inédita")))}
+function novoRound(){const cfg=ST.cfg;let pool=filtrar(cfg);if(!pool.length){modal(`<p style="margin-top:0">Você já fez todas as questões disponíveis com esses filtros. Novas questões entram no banco todos os dias. Enquanto isso, que tal revisar o caderno de erros?</p><button class="btn sm" onclick="fecha()">Ok</button>`);return}
+ const ord=q=>Math.random();
+ let n=cfg.n||pool.length; n=Math.min(n,pool.length);
+ // proporcional à prova
+ const grupos={};pool.forEach(q=>{(grupos[cur(q.disc)]=grupos[cur(q.disc)]||[]).push(q)});
+ Object.values(grupos).forEach(g=>g.sort((a,b)=>ord(a)-ord(b)));
+ const ks=Object.keys(grupos),W=ks.reduce((s,k)=>s+PESO[k],0);const quota={};ks.forEach(k=>quota[k]=Math.min(grupos[k].length,Math.floor(n*PESO[k]/W)));
+ let falta=n-Object.values(quota).reduce((a,b)=>a+b,0);
+ while(falta>0){const k=ks.filter(k=>quota[k]<grupos[k].length).sort((a,b)=>(quota[a]/PESO[a])-(quota[b]/PESO[b]))[0];if(!k)break;quota[k]++;falta--}
+ const sel=DISCS.filter(k=>grupos[k]).flatMap(k=>shuffle(grupos[k].slice(0,quota[k])));
+ const r={id:Date.now().toString(36),num:ST.rounds.length+1,ini:new Date().toISOString(),qids:sel.map(q=>q.id),a:{},cur:1,modo:cfg.modo,fim:false,seg:0,filtro:{...cfg}};
+ ST.rounds.push(r);save();location.hash="round-"+r.id}
+function irPara(id,n){const r=ST.rounds.find(x=>x.id===id);if(r){r.cur=n;save()}}
+/* ---------- SIMULADOS ---------- */
+function telaSims(){const lst=D.simsPlan.map(id=>{const ok=!!D.sims[id],S=ST.sims[id];let st='<span class="chip">em preparo</span>',btn="";
+  if(ok){if(S&&S.fim){const s=stats(cadSim(id));st=`<span class="chip ${pct(s.ac,s.tot)>=70?'ok':'bad'}">${s.ac}/80 · ${pct(s.ac,80)}%</span>`;btn=`<a class="btn ghost sm" href="#sim-${id}">Ver correção</a>`}
+   else if(S){st=`<span class="chip amber">${Object.keys(S.a).length}/80 respondidas</span>`;btn=`<a class="btn sm" href="#sim-${id}">Continuar</a>`}else{st='<span class="chip navy">pronto</span>';btn=`<a class="btn amber sm" href="#sim-${id}">Iniciar</a>`}}
+  return `<div class="simc"><div><b style="font:600 18px var(--head)">Simulado ${id.slice(1)}</b><div class="note">80 questões · distribuição oficial do edital · ~30% reais da FGV · 5 horas</div></div><div style="display:flex;gap:10px;align-items:center">${st}${btn}</div></div>`}).join("");
+ $("app").innerHTML=`<p class="kick">Prova completa</p><h1>Simulados</h1><p class="sub">80 questões na mesma distribuição da prova (16 Constitucional, 10 Administrativo, 6 Humanística, 6 DH, 12 Processo Civil, 12 Civil, 6 Empresarial, 12 Penal). Abre no modo Prova, com cronômetro no ritmo do exame (5h) e correção no final, mas você pode trocar para o modo Estudo. Uma sugestão: fazer num domingo, das 13h às 18h, para treinar o horário da prova.</p><div class="card">${lst}</div>`}
+/* ---------- QUIZ ---------- */
+let CAD=null;
+function abrir(c){CAD=c;const R=c.R;R.cur=R.cur||1;if(R.modo==="prova"&&!R.fim)tick=setInterval(()=>{R.seg=(R.seg||0)+1;if(R.seg%15===0)save();const t=$("timer");if(t)t.textContent=tempo()},1000);desenhar();scrollTo(0,0)}
+const lim=()=>CAD.qs.length*225;
+function tempo(){const rest=lim()-(CAD.R.seg||0),s=Math.abs(rest);return(rest<0?"+":"")+`${Math.floor(s/3600)}:${String(Math.floor(s%3600/60)).padStart(2,"0")}:${String(s%60).padStart(2,"0")}`}
+function desenhar(){const c=CAD,{qs,R}=c;if(!qs.length){$("app").innerHTML="<p>Caderno vazio.</p>";return}
+ const q=qs[Math.min(R.cur,qs.length)-1];const show=corrigida(R,q);const a=R.a[q.n];const s=stats(c);const nresp=Object.keys(R.a).length;
+ const segs=qs.map(x=>{const v=R.a[x.n];let col="transparent";if(v!==undefined)col=corrigida(R,x)?(v===x.c?"var(--ok)":"var(--bad)"):"var(--navy2)";return `<i style="width:${100/qs.length}%;background:${col}"></i>`}).join("");
+ const grid=qs.map(x=>{let cl=x.n===R.cur?"cur ":"";const v=R.a[x.n];if(v!==undefined)cl+=corrigida(R,x)?(v===x.c?"ok":"bad"):"ans";return `<button class="${cl}" data-n="${x.n}">${x.n}</button>`}).join("");
+ const alts=q.alts.map((t,i)=>{let cl="alt";if(show){cl+=" lk";if(i===q.c)cl+=" ok";else if(i===a)cl+=" bad";else cl+=" dim"}else if(i===a)cl+=" sel";
+  const cm=show?`<div class="com">${q.coms[i].startsWith("CORRETA")?"<b>CORRETA.</b>"+esc(q.coms[i].replace(/^CORRETA[^.]*\.?/,"")):esc(q.coms[i])}</div>`:"";
+  return `<button class="${cl}" data-i="${i}"><span class="L">${L[i]}</span>${esc(t)}${cm}</button>`}).join("");
+ const fb=show&&a!==undefined?`<div class="fb ${a===q.c?'ok':'bad'}">${a===q.c?"✓ Você acertou.":"✗ Você marcou "+L[a]+". Gabarito: "+L[q.c]+"."}</div>`:(show&&a===undefined?`<div class="fb bad">Em branco. Gabarito: ${L[q.c]}.</div>`:"");
+ const nv=NIV[q.nivel]||"m";
+ $("app").innerHTML=`
+ <div class="qbar"><div class="qbarin"><h3>${esc(c.titulo)}${R.fim?' <span class="chip ok" style="vertical-align:middle">finalizado</span>':""}</h3>
+  <div class="prog">${segs}</div><span class="note"><b style="color:var(--ink)">${nresp}</b>/${qs.length}${s.corr&&!R.fim?` · <b style="color:${cor(pct(s.ac,s.corr))}">${pct(s.ac,s.corr)}%</b>`:""}</span>
+  ${R.modo==="prova"&&!R.fim?`<span class="timer" id="timer" title="Tempo no ritmo da prova (3min45s por questão)">${tempo()}</span>`:""}
+  <div class="mode"><button data-m="estudo" class="${R.modo==='estudo'?'on':''}">Estudo</button><button data-m="prova" class="${R.modo==='prova'?'on':''}">Prova</button></div>
+  ${R.fim?"":`<button class="btn sm" id="fin">Finalizar</button>`}</div></div>
+ ${R.fim?painel(c):""}
+ <div class="qcard">
+  <div class="qhead"><span class="qn">${q.n}</span><span class="chip" title="Código da questão" style="font-family:ui-monospace,monospace;background:#fff;border:1px solid var(--line2)">${esc(q.cod||"")}</span><span class="chip navy">${cur(q.disc)}</span><span class="chip"><span class="dot" style="background:var(--${nv})"></span>${esc(q.nivel)}</span>${q.origem==="Inédita"?'<span class="chip">Inédita</span>':`<span class="chip fgv">${esc(q.origem)}</span>`}</div>
+  <div class="tema">${esc(q.tema)}</div><div class="enun">${esc(q.enun)}</div>
+  ${fb}<div id="alts">${alts}</div>
+  ${show?`<div class="box base"><b>Base:</b> ${esc(q.base)}</div>${q.dica?`<div class="box dica"><b>Para memorizar:</b> ${esc(q.dica)}</div>`:""}`:""}
+  <div class="qnav"><button class="btn ghost sm" id="prev" ${R.cur<=1?"disabled":""}>← Anterior</button><button class="btn sm" id="next" ${R.cur>=qs.length&&R.fim?"disabled":""}>${R.cur>=qs.length&&!R.fim?"Finalizar":"Próxima →"}</button></div>
+  <details class="mapa" ${matchMedia('(min-width:700px)').matches?"open":""}><summary>▾ Mapa das questões (verde acerto · vermelho erro · azul respondida)</summary><div class="grid40" id="g40">${grid}</div></details>
+ </div>`;
+ $("g40").onclick=e=>{const n=e.target.dataset.n;if(n){R.cur=+n;save();desenhar()}};
+ $("alts").onclick=e=>{const b=e.target.closest(".alt");if(!b||R.fim)return;if(R.modo==="estudo"&&R.a[q.n]!==undefined)return;R.a[q.n]=+b.dataset.i;save();desenhar()};
+ $("prev").onclick=()=>{R.cur--;save();desenhar();scrollTo(0,0)};
+ $("next").onclick=()=>{if(R.cur>=qs.length){if(!R.fim)finalizar(c);return}R.cur++;save();desenhar();scrollTo(0,0)};
+ const f=$("fin");if(f)f.onclick=()=>finalizar(c);
+ document.querySelectorAll(".mode button").forEach(b=>b.onclick=()=>{if(R.fim||R.modo===b.dataset.m)return;R.modo=b.dataset.m;save();clearInterval(tick);abrir(c)});
+}
+function finalizar(c){const R=c.R,nresp=Object.keys(R.a).length,emb=c.qs.length-nresp;
+ const msg=c.tipo==="round"?(nresp?`Finalizar o round com ${nresp} questão(ões) respondida(s)?${emb?` As ${emb} não respondidas simplesmente saem do round (não contam como erro).`:""}`:"Você ainda não respondeu nenhuma questão. Finalizar e descartar este round?")
+  :`Entregar o simulado? ${emb?`Há ${emb} questões em branco, que contam como erro, como na prova.`:"Todas respondidas."}`;
+ confirmar(msg,()=>{if(c.tipo==="round"&&!nresp){ST.rounds=ST.rounds.filter(r=>r!==R);save();location.hash="inicio";return}
+  R.fim=true;R.fimEm=new Date().toISOString();clearInterval(tick);save();desenhar();scrollTo(0,0);parabens(c)},c.tipo==="round"?"Finalizar round":"Entregar")}
+function parabens(c){const s=stats(c),den=c.tipo==="round"?s.corr:s.tot,p=pct(s.ac,den);
+ const prev=c.tipo==="round"?ST.rounds.filter(r=>r.fim&&r!==c.R).slice(-1)[0]:null;let comp="";
+ if(prev){const sp=stats(cadRound(prev)),pp=pct(sp.ac,sp.corr);comp=`<p class="note" style="margin:0 0 10px">Round anterior: ${pp}% · ${p>pp?`<b style="color:var(--ok)">+${p-pp} pontos</b>`:p<pp?`<b style="color:var(--bad)">${p-pp} pontos</b>`:"mesmo resultado"}</p>`}
+ modal(`<div style="text-align:center">${ring(p,p+"%",`${s.ac} de ${den} acertos`,130)}<h2 style="margin:10px 0 4px">${p>=70?"Acima da meta! 🎉":"Round finalizado"}</h2>${comp}
+ <div style="text-align:left;margin-top:8px">${bars(s.por)}</div><div class="acts" style="justify-content:center"><button class="btn amber" id="mv">Ver correção</button><a class="btn ghost" href="#evolucao" onclick="fecha()">Minha evolução</a></div></div>`);$("mv").onclick=fecha}
+function painel(c){const s=stats(c),den=c.tipo==="round"?s.corr:s.tot,p=pct(s.ac,den);
+ const nv=Object.fromEntries(["fácil","médio","difícil"].filter(k=>s.niv[k]).map(k=>[k[0].toUpperCase()+k.slice(1),s.niv[k]]));
+ return `<div class="card" style="margin-bottom:18px"><div class="result">${ring(p,p+"%",`${s.ac} de ${den} acertos`,140)}<div><p class="kick">Resultado · ${c.R.fimEm?fmtD(c.R.fimEm):""}</p>${bars(s.por)}<div style="margin-top:12px;padding-top:10px;border-top:1px solid var(--line)"><p class="kick" style="margin-bottom:2px">Por nível</p>${bars(nv)}</div>${c.R.seg?`<p class="note">Tempo: ${Math.floor(c.R.seg/60)} min${c.tipo==="sim"?" (prova: 300 min)":""}.</p>`:""}</div></div></div>`}
+/* ---------- EVOLUÇÃO ---------- */
+function linha(pts){if(!pts.length)return '<p class="note" style="margin:0">Finalize o primeiro round para ver o gráfico.</p>';
+ const W=760,H=240,P={l:40,r:16,t:16,b:34},w=W-P.l-P.r,h=H-P.t-P.b;const x=i=>P.l+(pts.length===1?w/2:i*w/(pts.length-1)),y=v=>P.t+h*(1-v/100);
+ let g=[0,25,50,70,100].map(v=>`<line x1="${P.l}" x2="${W-P.r}" y1="${y(v)}" y2="${y(v)}" stroke="${v===70?'#15213a':'#e6e0d3'}" stroke-dasharray="${v===70?'5 4':''}" stroke-width="${v===70?1.2:1}" opacity="${v===70?.55:1}"/><text x="${P.l-8}" y="${y(v)+4}" text-anchor="end" font-size="11" fill="#8a90a0" font-family="Inter">${v}%</text>`).join("");
+ g+=`<text x="${W-P.r}" y="${y(70)-6}" text-anchor="end" font-size="11" fill="#15213a" font-family="Inter" opacity=".7">meta 70%</text>`;
+ const path=pts.map((p,i)=>`${i?"L":"M"}${x(i)},${y(p.v)}`).join(" ");
+ g+=`<path d="${path}" fill="none" stroke="#24365c" stroke-width="2.5" stroke-linejoin="round"/>`;
+ g+=pts.map((p,i)=>`<circle cx="${x(i)}" cy="${y(p.v)}" r="5" fill="${p.v>=70?'#2b7a50':p.v>=55?'#c9822b':'#b9412f'}" stroke="#fff" stroke-width="2"><title>${p.lab}: ${p.v}% (${p.n} questões)</title></circle>`).join("");
+ const step=Math.ceil(pts.length/10);g+=pts.map((p,i)=>i%step===0||i===pts.length-1?`<text x="${x(i)}" y="${H-12}" text-anchor="middle" font-size="11" fill="#8a90a0" font-family="Inter">${p.lab}</text>`:"").join("");
+ return `<svg class="chart" viewBox="0 0 ${W} ${H}">${g}</svg>`}
+function telaEvol(){const fin=ST.rounds.filter(r=>r.fim);const pts=fin.map(r=>{const s=stats(cadRound(r));return {v:pct(s.ac,s.corr),n:s.corr,lab:"R"+r.num}});
+ const porDia={};fin.forEach(r=>{const s=stats(cadRound(r));const d=r.fimEm.slice(0,10);porDia[d]=porDia[d]||{a:0,t:0};porDia[d].a+=s.ac;porDia[d].t+=s.corr});
+ Object.entries(ST.sims).forEach(([id,S])=>{if(S.fim){const s=stats(cadSim(id));const d=S.fimEm.slice(0,10);porDia[d]=porDia[d]||{a:0,t:0};porDia[d].a+=s.ac;porDia[d].t+=s.tot}});
+ const dias=Object.keys(porDia).sort();const ptsD=dias.map(d=>({v:pct(porDia[d].a,porDia[d].t),n:porDia[d].t,lab:fmtD(d)}));
+ const por={},niv={},it={};let A=0,T=0;
+ const add=(c)=>{c.qs.forEach(q=>{const a=c.R.a[q.n];if(a===undefined&&c.tipo==="round")return;if(!c.R.fim&&!(c.R.modo==="estudo"&&a!==undefined))return;const ok=a===q.c;[[por,cur(q.disc)],[niv,q.nivel],[it,q.item]].forEach(([o,k])=>{o[k]=o[k]||{t:0,a:0};o[k].t++;if(ok)o[k].a++});T++;if(ok)A++})};
+ ST.rounds.forEach(r=>add(cadRound(r)));Object.keys(ST.sims).forEach(id=>add(cadSim(id)));
+ const hist=fin.slice().reverse().map(r=>{const s=stats(cadRound(r)),p=pct(s.ac,s.corr);return `<div class="hist"><div><b>Round ${r.num}</b><div class="note">${fmtD(r.fimEm)}</div></div><div class="trk"><div class="fil" style="width:${p}%;background:${cor(p)}"></div><div class="mk70" style="left:70%"></div></div><div class="pv">${p}% <span class="note">(${s.ac}/${s.corr})</span></div><div class="hx"><a href="#round-${r.id}" class="note">correção →</a></div></div>`}).join("");
+ const sims=Object.entries(ST.sims).filter(([id,S])=>S.fim).map(([id,S])=>{const s=stats(cadSim(id)),p=pct(s.ac,80);return `<div class="hist"><div><b>Simulado ${id.slice(1)}</b><div class="note">${fmtD(S.fimEm)}</div></div><div class="trk"><div class="fil" style="width:${p}%;background:${cor(p)}"></div><div class="mk70" style="left:70%"></div></div><div class="pv">${s.ac}/80</div><div class="hx"><a href="#sim-${id}" class="note">correção →</a></div></div>`}).join("");
+ const dg=D.diag,diag={};dg.disciplinas.forEach(x=>diag[cur(x.nome)]={t:x.validas,a:x.acertos});
+ const cov=Object.entries(D.cobertura).map(([d,items])=>`<details style="margin:4px 0"><summary style="cursor:pointer;font-weight:600;padding:7px 0">${d}</summary>${items.map(x=>{const f=it[x.item];return `<div class="cov"><div>${esc(x.item.split(' ').slice(1).join(' '))} <span class="note">· caiu ${x.inc}× nas 5 últimas provas</span></div><div class="note">${x.plan} no plano</div><div>${f?`<span class="chip ${pct(f.a,f.t)>=70?'ok':'bad'}">${f.a}/${f.t} · ${pct(f.a,f.t)}%</span>`:'<span class="note">—</span>'}</div></div>`}).join("")}</details>`).join("");
+ $("app").innerHTML=`<p class="kick">Seu progresso</p><h1>Evolução</h1>
+ <div class="grid g3" style="margin-top:16px"><div class="card"><p class="kick">Questões corrigidas</p><div class="stat">${T}</div></div><div class="card"><p class="kick">Acerto geral</p><div class="stat" style="color:${T?cor(pct(A,T)):"var(--navy)"}">${T?pct(A,T)+"<small>%</small>":"—"}</div></div><div class="card"><p class="kick">Rounds finalizados</p><div class="stat">${fin.length}</div></div></div>
+ <h2>Acerto por round</h2><div class="card">${linha(pts)}</div>
+ <h2>Acerto por dia</h2><div class="card">${linha(ptsD)}<p class="note" style="margin-bottom:0">Soma de todos os rounds e simulados finalizados em cada dia.</p></div>
+ <div class="grid g2" style="margin-top:22px"><div class="card"><p class="kick">Por matéria (banco)</p>${bars(por)}</div><div class="card"><p class="kick">Por nível</p>${bars(niv)}<p class="kick" style="margin-top:18px">Ponto de partida: simulado 2º ENAM</p>${bars(diag)}</div></div>
+ <h2>Histórico</h2><div class="card">${hist||'<p class="note" style="margin:0">Nenhum round finalizado ainda.</p>'}${sims}</div>
+ <h2>Cobertura do edital</h2><p class="sub">Itens do conteúdo programático, quantas vezes caíram nas últimas 5 provas, quantas questões o banco prevê e seu acerto em cada um.</p><div class="card">${cov}</div>
+ <h2>Os 27 erros do simulado anterior</h2><div class="card"><table class="t"><tr><th>Q.</th><th>Tema</th><th>Marcou → Gab.</th><th>Lição</th></tr>${dg.erros.map(e=>`<tr><td><b>${e.q}</b></td><td><span class="chip navy">${cur(e.disc)}</span><br>${esc(e.tema)}</td><td style="white-space:nowrap"><span class="chip bad">${e.marcou}</span> → <span class="chip ok">${e.gab}</span></td><td>${esc(e["lição"])}</td></tr>`).join("")}</table></div>
+ <h2>Backup</h2><div class="card"><p style="margin-top:0">O progresso fica salvo neste navegador. Para usar em outro aparelho, copie o código e cole lá em "Restaurar".</p><textarea id="bk" readonly>${esc(JSON.stringify(ST))}</textarea><div style="display:flex;gap:8px;align-items:center;margin:8px 0 16px"><button class="btn sm" id="cp">Copiar backup</button><span class="note" id="cpm"></span></div><textarea id="rs" placeholder="Cole aqui o código de backup"></textarea><div style="display:flex;gap:8px;align-items:center;margin-top:8px"><button class="btn ghost sm" id="rsb">Restaurar</button><span class="note" id="rsm"></span></div></div>`;
+ $("cp").onclick=async()=>{try{await navigator.clipboard.writeText($("bk").value);$("cpm").textContent="Copiado!"}catch(e){$("bk").select();$("cpm").textContent="Texto selecionado: use Copiar."}};
+ $("rsb").onclick=()=>{try{const o=JSON.parse($("rs").value);if(!o.rounds)throw 0;confirmar("Substituir o progresso deste aparelho pelo backup?",()=>{ST=o;save();telaEvol()},"Restaurar")}catch(e){$("rsm").textContent="Código inválido."}}}
+/* ---------- ERROS ---------- */
+function coletar(){const o=[];const ver=(c)=>c.qs.forEach(q=>{const a=c.R.a[q.n];if(!corrigida(c.R,q))return;if(a===undefined&&c.tipo==="round")return;if(a!==q.c)o.push({c,q,a,key:q.id})});
+ ST.rounds.forEach(r=>ver(cadRound(r)));Object.keys(ST.sims).forEach(id=>ver(cadSim(id)));
+ const m=new Map();o.forEach(e=>m.set(e.key,e));return [...m.values()]}
+let fD="Todas",fP=true;
+function telaErros(){const all=coletar();const ds=["Todas",...DISCS.filter(d=>all.some(e=>cur(e.q.disc)===d))];
+ const l=all.filter(e=>(fD==="Todas"||cur(e.q.disc)===fD)&&(!fP||!ST.rev[e.key]));
+ $("app").innerHTML=`<p class="kick">Revisão ativa</p><h1>Caderno de erros</h1><p class="sub">Tudo o que você errou nos rounds e simulados. Releia o comentário da sua resposta e o do gabarito, abra o artigo no Vade Mecum e marque como revisada. Se quiser refazer, monte um round só com a matéria.</p>
+ <div class="filters" id="flt">${ds.map(d=>`<button class="${d===fD?'on':''}" data-d="${d}">${d}</button>`).join("")}<label class="note" style="margin-left:auto;display:flex;gap:6px;align-items:center"><input type="checkbox" id="pd" ${fP?"checked":""}> só pendentes</label></div>
+ <div class="card">${l.length?l.map(e=>{const q=e.q;return `<div class="err"><div class="qhead"><span class="chip navy">${cur(q.disc)}</span><span class="chip">${esc(q.nivel)}</span>${q.origem!=="Inédita"?`<span class="chip fgv">${esc(q.origem)}</span>`:'<span class="chip">Inédita</span>'}<span class="note"><b style="font-family:ui-monospace,monospace">${esc(q.cod||"")}</b> · ${esc(e.c.titulo)} · ${esc(q.tema)}</span></div>
+  <div class="enun" style="font-size:15.5px;margin-bottom:6px">${esc(q.enun)}</div>
+  ${e.a!==undefined?`<div class="box" style="background:var(--badbg)"><b>Você marcou ${L[e.a]}:</b> ${esc(q.alts[e.a])}<div class="com">${esc(q.coms[e.a])}</div></div>`:`<div class="box" style="background:var(--badbg)"><b>Ficou em branco.</b></div>`}
+  <div class="box" style="background:var(--okbg)"><b>Gabarito ${L[q.c]}:</b> ${esc(q.alts[q.c])}<div class="com">${esc(q.coms[q.c])}</div></div>
+  <div class="box base"><b>Base:</b> ${esc(q.base)}</div>${q.dica?`<div class="box dica"><b>Para memorizar:</b> ${esc(q.dica)}</div>`:""}
+  <label style="display:flex;gap:8px;align-items:center;margin-top:12px;font-weight:500"><input type="checkbox" data-k="${e.key}" ${ST.rev[e.key]?"checked":""}> Revisei esta questão</label></div>`}).join("")
+ :`<p style="margin:0">${all.length?"Nenhum erro pendente neste filtro. 👏":"Nenhum erro registrado ainda. Eles aparecem aqui conforme você faz os rounds."}</p>`}</div>`;
+ $("flt").onclick=e=>{if(e.target.dataset.d){fD=e.target.dataset.d;telaErros()}};$("pd").onchange=e=>{fP=e.target.checked;telaErros()};
+ document.querySelectorAll("[data-k]").forEach(cb=>cb.onchange=()=>{if(cb.checked)ST.rev[cb.dataset.k]=Date.now();else delete ST.rev[cb.dataset.k];save()})}
+rota();
+</script>
+</body>
+</html>

@@ -1,0 +1,419 @@
+[
+ {
+  "disc": "Direito Civil",
+  "item": "V10-11",
+  "nivel": "médio",
+  "tema": "Usucapião familiar (art. 1.240-A do CC)",
+  "enun": "Marta e Fábio, casados sob o regime da comunhão parcial, adquiriram durante o casamento um apartamento de 120 m² na cidade de Salvador, onde residiam com os dois filhos. Em janeiro de 2023, Fábio abandonou o lar, mudou-se para outro estado e não deu mais notícias, deixando de contribuir com qualquer despesa. Marta permaneceu no imóvel com os filhos, sem oposição, e não possui outro imóvel. Em março de 2025, Marta procurou orientação jurídica.\nSobre a situação de Marta, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Marta pode adquirir o domínio integral do imóvel por usucapião familiar, pois exerceu por mais de dois anos, ininterruptamente e sem oposição, posse direta e exclusiva sobre imóvel urbano de até 250 m² que dividia com o ex-cônjuge que abandonou o lar, utilizando-o para sua moradia e de sua família.",
+    "CORRETA. Todos os requisitos do art. 1.240-A do CC estão presentes: 2 anos, imóvel urbano de até 250 m², copropriedade com quem abandonou o lar, moradia e ausência de outro imóvel. O direito só é reconhecido uma vez ao mesmo possuidor (§1º)."
+   ],
+   [
+    "Marta somente poderá adquirir a parte de Fábio por usucapião especial urbana, após cinco anos de posse.",
+    "Errada. Os 5 anos são da usucapião especial urbana (CF, art. 183; CC, art. 1.240). A usucapião familiar tem prazo de 2 anos."
+   ],
+   [
+    "A usucapião familiar é inviável, pois exige o prévio divórcio do casal.",
+    "Errada. A lei fala em 'ex-cônjuge ou ex-companheiro', mas a jurisprudência e os enunciados das Jornadas admitem a contagem a partir da separação de fato com abandono do lar. O divórcio prévio não é requisito."
+   ],
+   [
+    "A usucapião familiar é inviável, pois a lei a restringe a imóveis rurais destinados à subsistência familiar.",
+    "Errada. A usucapião familiar é para imóvel URBANO de até 250 m²."
+   ],
+   [
+    "Marta adquire apenas a metade ideal de Fábio, mantido o condomínio sobre a outra fração.",
+    "Errada. Ela adquire o domínio INTEGRAL: a metade dela ela já tinha, e usucape a metade de Fábio."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 1.238 a 1.242 e 1.240-A; CF, art. 183.",
+  "dica": "Prazos de usucapião: 2 anos (familiar), 5 anos (especial urbana e rural; ordinária com moradia), 10 anos (ordinária; extraordinária com moradia) e 15 anos (extraordinária)."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V12-14",
+  "nivel": "difícil",
+  "tema": "Alienação fiduciária de imóvel e CDC (Tema 1.095/STJ)",
+  "enun": "Vítor adquiriu de uma incorporadora um apartamento, com financiamento garantido por alienação fiduciária devidamente registrada na matrícula. Após pagar 40% do preço, ficou inadimplente e foi constituído em mora. Vítor ajuizou ação pleiteando a resolução do contrato e a restituição de 75% das parcelas pagas, com base no Código de Defesa do Consumidor.\nÀ luz da jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A resolução do pacto deve observar o procedimento da Lei nº 9.514/1997, com consolidação da propriedade e leilões, afastando-se a aplicação do Código de Defesa do Consumidor.",
+    "CORRETA. Tese do Tema 1.095/STJ: no contrato de compra e venda de imóvel com alienação fiduciária registrada, a resolução por inadimplemento do devedor constituído em mora segue a Lei 9.514/1997, legislação específica, afastado o CDC."
+   ],
+   [
+    "Vítor tem direito à restituição de 75% das parcelas pagas, por aplicação do Art. 53 do CDC, que veda a perda total das prestações.",
+    "Errada. O Tema 1.095 afasta o CDC quando há alienação fiduciária registrada. A devolução segue a sistemática dos leilões da Lei 9.514."
+   ],
+   [
+    "Vítor tem direito à restituição integral das parcelas pagas, por se tratar de relação de consumo.",
+    "Errada. Não há restituição integral: aplica-se o procedimento da Lei 9.514/1997."
+   ],
+   [
+    "A alienação fiduciária somente produz efeitos após a quitação integral do preço pelo devedor fiduciante.",
+    "Errada. A propriedade fiduciária se constitui com o registro do contrato e produz efeitos desde então. Com a quitação, ela se resolve em favor do devedor."
+   ],
+   [
+    "A resolução depende de ação judicial de rescisão contratual, sendo vedada a consolidação extrajudicial da propriedade.",
+    "Errada. A Lei 9.514 prevê intimação, consolidação e leilões pela via extrajudicial, no registro de imóveis."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 9.514/1997, arts. 22 a 27; CDC, art. 53; STJ, Tema 1.095; Lei 14.711/2023 (Marco Legal das Garantias).",
+  "dica": "Imóvel com alienação fiduciária registrada segue a Lei 9.514 (Tema 1.095). Promessa de compra e venda sem fiduciária segue o CDC ou a Lei 13.786/2018 (distrato)."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V03",
+  "nivel": "médio",
+  "tema": "Desconsideração da personalidade jurídica (teoria maior)",
+  "enun": "A sociedade empresária Alfa Ltda., que fornece insumos a outras empresas, tornou-se insolvente após sucessivos prejuízos operacionais. Não há indícios de confusão patrimonial nem de desvio de finalidade. A credora Beta S.A., que adquiria insumos para sua linha de produção, requereu a desconsideração da personalidade jurídica para atingir o patrimônio dos sócios, alegando apenas a insuficiência de bens de Alfa e o fato de os sócios integrarem o mesmo grupo econômico de outra empresa solvente.\nSobre o pedido, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O pedido deve ser indeferido, pois, no Código Civil, a desconsideração exige abuso da personalidade jurídica, caracterizado por desvio de finalidade ou confusão patrimonial, e a mera existência de grupo econômico não autoriza a medida.",
+    "CORRETA. O CC adota a teoria MAIOR (art. 50): insolvência isolada não basta, e a mera existência de grupo econômico sem os requisitos do caput não autoriza a desconsideração (art. 50, §4º). Beta não é consumidora, porque usa os insumos na produção, e por isso não se aplica a teoria menor do CDC."
+   ],
+   [
+    "O pedido deve ser deferido, pois a insolvência da pessoa jurídica é suficiente para a desconsideração, segundo a teoria menor.",
+    "Errada. A teoria menor (CDC, art. 28, §5º; legislação ambiental) não se aplica a relação empresarial de insumo entre empresas."
+   ],
+   [
+    "O pedido deve ser deferido, pois a existência de grupo econômico autoriza, por si só, a extensão da responsabilidade aos sócios.",
+    "Errada. O art. 50, §4º, diz o contrário."
+   ],
+   [
+    "O pedido deve ser indeferido, pois a desconsideração da personalidade jurídica somente pode ser decretada de ofício pelo juiz.",
+    "Errada. A desconsideração depende de requerimento da parte ou do MP (art. 50; CPC, art. 133)."
+   ],
+   [
+    "O pedido deve ser deferido, mas a responsabilidade dos sócios será subsidiária e limitada ao valor de suas quotas.",
+    "Errada. Os requisitos não estão presentes. Além disso, quando cabível, a desconsideração alcança os bens particulares dos administradores ou sócios beneficiados direta ou indiretamente pelo abuso."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, art. 50 (redação da Lei 13.874/2019); CDC, art. 28, §5º; CPC, arts. 133 a 137.",
+  "dica": "Teoria maior (CC): abuso, com desvio de finalidade ou confusão patrimonial. Teoria menor (CDC, ambiental): basta o obstáculo ao ressarcimento. Ampliar ou mudar a atividade original não é desvio de finalidade (art. 50, §5º)."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V18",
+  "nivel": "médio",
+  "tema": "Marco Civil: divulgação não consentida de imagens íntimas",
+  "enun": "Após o término de um relacionamento, o ex-namorado de Paula publicou, em uma rede social, vídeos íntimos do casal, sem autorização dela. Paula enviou notificação extrajudicial ao provedor de aplicação, indicando com precisão os endereços eletrônicos das publicações. Passados dez dias, o conteúdo permanecia disponível.\nÀ luz do Marco Civil da Internet (Lei nº 12.965/2014), assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O provedor responde subsidiariamente pela violação da intimidade de Paula, pois deixou de promover, de forma diligente, a indisponibilização do conteúdo após receber notificação da participante com os elementos que permitiam sua identificação específica.",
+    "CORRETA. O art. 21 do Marco Civil traz regime próprio para imagens, vídeos ou outros materiais com cenas de nudez ou atos sexuais de caráter privado: basta a notificação do participante, sem ordem judicial, e o provedor que não remove responde subsidiariamente."
+   ],
+   [
+    "O provedor somente responderia após descumprir ordem judicial específica, pois a lei condiciona sua responsabilidade à prévia decisão judicial em qualquer hipótese.",
+    "Errada. A regra do art. 19 (ordem judicial) tem exceção expressa no art. 21 para conteúdo íntimo não consentido."
+   ],
+   [
+    "O provedor responde solidariamente com o autor da publicação, independentemente de notificação.",
+    "Errada. A responsabilidade é SUBSIDIÁRIA e depende de notificação descumprida (art. 21)."
+   ],
+   [
+    "O provedor não responde, pois a notificação extrajudicial somente poderia ser feita por advogado constituído.",
+    "Errada. A notificação pode ser feita pelo participante ou por seu representante legal (art. 21)."
+   ],
+   [
+    "O provedor não responde, pois a remoção de conteúdo violaria a liberdade de expressão do usuário que o publicou.",
+    "Errada. A divulgação não consentida de intimidade sexual não é protegida pela liberdade de expressão e configura, inclusive, crime (CP, art. 218-C)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 12.965/2014, arts. 19 e 21; CP, art. 218-C; CF, art. 5º, X.",
+  "dica": "O edital (Civil, item 18) cita o Marco Civil e a LGPD. Guarda de registros: conexão por 1 ano (art. 13) e acesso a aplicações por 6 meses (art. 15)."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V20",
+  "nivel": "fácil",
+  "tema": "Fraude bancária e fortuito interno (Súmula 479/STJ)",
+  "enun": "Terceiros, utilizando documentos falsificados em nome de Sônia, abriram conta corrente e contrataram empréstimo em um banco digital. Diante do inadimplemento, o nome de Sônia foi inscrito em cadastro de inadimplentes. O banco alegou que também foi vítima de estelionatários e que adotou os procedimentos usuais de verificação.\nSobre a responsabilidade do banco, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O banco responde objetivamente pelos danos causados a Sônia, pois as fraudes praticadas por terceiros no âmbito de operações bancárias configuram fortuito interno.",
+    "CORRETA. Súmula 479/STJ: as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias. Sônia é consumidora por equiparação (CDC, art. 17)."
+   ],
+   [
+    "O banco não responde, pois a fraude praticada por terceiro configura excludente de responsabilidade, nos termos do Art. 14, § 3º, II, do CDC.",
+    "Errada. A culpa exclusiva de terceiro só exclui a responsabilidade quando o fato é EXTERNO ao risco da atividade. A fraude bancária é risco inerente ao negócio."
+   ],
+   [
+    "O banco responde subjetivamente, devendo Sônia provar sua culpa na verificação dos documentos.",
+    "Errada. A responsabilidade é objetiva (CDC, art. 14; Súmula 479)."
+   ],
+   [
+    "Sônia não pode invocar o CDC, pois não celebrou qualquer contrato com o banco.",
+    "Errada. Ela é consumidora por equiparação, como vítima do evento (CDC, art. 17)."
+   ],
+   [
+    "O CDC não se aplica às instituições financeiras, que se submetem exclusivamente à regulação do Banco Central.",
+    "Errada. O CDC se aplica às instituições financeiras (Súmula 297/STJ; STF, ADI 2.591)."
+   ]
+  ],
+  "c": 0,
+  "base": "CDC, arts. 14 e 17; Súmulas 297, 385 e 479/STJ; STF, ADI 2.591.",
+  "dica": "Na inscrição indevida, o dano moral é presumido (in re ipsa), salvo se já houver anotação legítima anterior (Súmula 385/STJ)."
+ },
+ {
+  "disc": "Direito Empresarial",
+  "item": "E04",
+  "nivel": "médio",
+  "tema": "Sociedade simples x empresária",
+  "enun": "Três médicos constituíram uma sociedade para prestar serviços de consultas em suas especialidades, cada um atendendo pessoalmente seus pacientes, em consultório alugado, com uma secretária. Anos depois, a sociedade passou a operar um grande hospital, com centenas de empregados, setor de compras, farmácia, lanchonete e estacionamento, em que os sócios já não atendem pacientes e se dedicam apenas à gestão.\nSobre a natureza da sociedade, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Inicialmente a sociedade era simples, pois exercia profissão intelectual de natureza científica sem elemento de empresa; com a nova estrutura, em que a atividade intelectual passou a ser elemento de empresa, ela passou a ter natureza empresária.",
+    "CORRETA. O art. 966, parágrafo único, do CC não considera empresário quem exerce profissão intelectual, salvo se o exercício constituir elemento de empresa. A organização dos fatores de produção, com a atividade intelectual diluída na estrutura, caracteriza a empresa."
+   ],
+   [
+    "A sociedade sempre foi empresária, pois toda atividade econômica organizada com finalidade lucrativa é empresarial.",
+    "Errada. A profissão intelectual sem elemento de empresa não é empresarial (art. 966, parágrafo único)."
+   ],
+   [
+    "A sociedade sempre foi simples, pois a atividade médica jamais pode ser considerada empresarial.",
+    "Errada. A atividade intelectual pode virar elemento de empresa quando absorvida por uma organização empresarial."
+   ],
+   [
+    "A natureza da sociedade depende exclusivamente do tipo societário adotado no contrato social.",
+    "Errada. Em regra, a natureza decorre do OBJETO (art. 982). Por força de lei, a S.A. é sempre empresária e a cooperativa é sempre simples (art. 982, parágrafo único)."
+   ],
+   [
+    "A sociedade passou a ser empresária porque contratou empregados, o que é suficiente para caracterizar o elemento de empresa.",
+    "Errada. Ter empregados não basta, porque a sociedade inicial já tinha uma secretária. O critério é a organização em que a atividade intelectual se torna um componente da empresa."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 966, 982 e 983.",
+  "dica": "Por força de lei, a S.A. é sempre empresária e a cooperativa é sempre simples. A sociedade de advogados é sempre simples e registrada na OAB (Lei 8.906, art. 15)."
+ },
+ {
+  "disc": "Direito Empresarial",
+  "item": "E05",
+  "nivel": "difícil",
+  "tema": "Quóruns na sociedade limitada (Lei 14.451/2022)",
+  "enun": "A Sociedade Delta Ltda. tem três sócios: Ana, com 55% do capital; Bruno, com 30%; e Caio, com 15%. O capital está totalmente integralizado. Ana pretende designar como administrador Pedro, profissional de mercado que não é sócio, e alterar o contrato social para mudar a sede da sociedade. Bruno e Caio discordam das duas medidas.\nConsiderando o Código Civil, com as alterações da Lei nº 14.451/2022, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Ana, sozinha, pode aprovar as duas deliberações, pois, integralizado o capital, a designação de administrador não sócio depende de titulares de mais da metade do capital, e a modificação do contrato social também se aprova pelos votos de mais da metade do capital.",
+    "CORRETA. Art. 1.061 do CC (Lei 14.451/2022): administrador não sócio depende de 2/3 dos sócios enquanto o capital não estiver integralizado e de mais da metade do capital após a integralização. A modificação do contrato social (art. 1.071, V) também exige mais da metade do capital (art. 1.076, II). Com 55%, Ana aprova as duas."
+   ],
+   [
+    "A designação de administrador não sócio exige a unanimidade dos sócios, de modo que Bruno e Caio podem impedi-la.",
+    "Errada. A unanimidade era exigida na redação original, enquanto o capital não estivesse integralizado. A regra atual é de 2/3 dos sócios nessa fase e de mais da metade do capital após a integralização."
+   ],
+   [
+    "A modificação do contrato social exige votos correspondentes a, no mínimo, três quartos do capital social.",
+    "Errada. O quórum de 3/4 (antigo art. 1.076, I) foi revogado pela Lei 14.451/2022. Hoje basta mais da metade do capital."
+   ],
+   [
+    "A designação de administrador não sócio exige aprovação de, no mínimo, dois terços do capital social, após a integralização.",
+    "Errada. Os 2/3 do capital eram a regra antiga. Desde a Lei 14.451/2022, após a integralização, basta mais da metade do capital."
+   ],
+   [
+    "A sociedade limitada não pode ter administrador que não seja sócio.",
+    "Errada. A administração por não sócio é admitida, desde que o contrato permita (art. 1.061)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 1.061, 1.071, 1.076 e 1.085 (redação da Lei 14.451/2022).",
+  "dica": "A Lei 14.451/2022 derrubou os quóruns de 3/4 e de 2/3 do capital. Hoje, na limitada, 'mais da metade do capital' resolve quase tudo."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21a",
+  "nivel": "médio",
+  "tema": "Feminicídio como crime autônomo (Lei 14.994/2024)",
+  "enun": "Em março de 2025, Rui matou sua companheira, Lia, com quem vivia em união estável, após discussão motivada por ciúmes, no interior da residência do casal.\nConsiderando a legislação penal vigente, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Rui praticou feminicídio, crime autônomo previsto no Art. 121-A do Código Penal, com pena de reclusão de 20 a 40 anos, pois o crime envolve violência doméstica e familiar, o que caracteriza as razões da condição do sexo feminino.",
+    "CORRETA. A Lei 14.994/2024 transformou o feminicídio em tipo autônomo (art. 121-A), com pena de 20 a 40 anos. Há razões da condição do sexo feminino quando o crime envolve violência doméstica e familiar ou menosprezo ou discriminação à condição de mulher (§1º). O feminicídio é crime hediondo."
+   ],
+   [
+    "Rui praticou homicídio qualificado pelo feminicídio, previsto no Art. 121, § 2º, VI, do Código Penal, com pena de 12 a 30 anos.",
+    "Errada. Para fatos posteriores à Lei 14.994/2024 (outubro de 2024), o feminicídio deixou de ser qualificadora do art. 121 e passou a crime autônomo, com pena mais grave."
+   ],
+   [
+    "Rui praticou homicídio simples, pois o motivo foi ciúme, e não o menosprezo à condição de mulher.",
+    "Errada. A violência doméstica e familiar já caracteriza, por si só, as razões da condição do sexo feminino (art. 121-A, §1º, I)."
+   ],
+   [
+    "O feminicídio exige que a vítima seja casada com o autor, não se aplicando às uniões estáveis.",
+    "Errada. A violência doméstica e familiar abrange qualquer relação íntima de afeto, independentemente de coabitação ou de casamento (Lei 11.340, art. 5º)."
+   ],
+   [
+    "A conduta de Rui configura feminicídio, mas a pena aplicável é a do homicídio qualificado, em respeito ao princípio da legalidade, pois a lei nova é mais gravosa.",
+    "Errada. O fato ocorreu em março de 2025, depois da entrada em vigor da Lei 14.994/2024. Aplica-se a lei vigente à época do fato."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, art. 121-A (Lei 14.994/2024); Lei 11.340/2006, art. 5º; Lei 8.072/1990.",
+  "dica": "Feminicídio é crime autônomo desde 10/10/2024, com pena de 20 a 40 anos e aumento de 1/3 até a metade nas hipóteses do §2º (gestação, menor de 14, maior de 60, descumprimento de medida protetiva, presença de descendente ou ascendente etc.)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D18",
+  "nivel": "médio",
+  "tema": "Lavagem de dinheiro — autonomia em relação à infração antecedente",
+  "enun": "O Ministério Público denunciou Gustavo por lavagem de dinheiro, por ter ocultado, por meio de empresas de fachada, valores provenientes de tráfico de drogas praticado por terceiros. A defesa sustentou que (i) o autor do tráfico não foi identificado; e (ii) não houve condenação definitiva pelo crime antecedente.\nÀ luz da Lei nº 9.613/1998, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A denúncia pode ser recebida se instruída com indícios suficientes da existência da infração penal antecedente, sendo puníveis os fatos de lavagem ainda que desconhecido ou isento de pena o autor daquela infração.",
+    "CORRETA. O processo por lavagem independe do processo e julgamento da infração antecedente (art. 2º, II), e basta que a denúncia traga indícios suficientes da existência dela, ainda que o autor seja desconhecido, isento de pena ou com punibilidade extinta (art. 2º, §1º)."
+   ],
+   [
+    "A denúncia deve ser rejeitada, pois a punição da lavagem depende da condenação definitiva pelo crime antecedente.",
+    "Errada. A lavagem é crime autônomo, e não se exige condenação, nem sequer processo, pelo antecedente (art. 2º, II)."
+   ],
+   [
+    "A denúncia deve ser rejeitada, pois a lavagem pressupõe que o crime antecedente conste de rol taxativo previsto em lei.",
+    "Errada. Desde a Lei 12.683/2012, qualquer infração penal pode ser antecedente da lavagem."
+   ],
+   [
+    "A denúncia deve ser rejeitada, pois somente o autor do crime antecedente pode responder por lavagem dos valores dele provenientes.",
+    "Errada. Terceiros que ocultam os valores respondem por lavagem. A autolavagem também é punível, segundo a jurisprudência."
+   ],
+   [
+    "A extinção da punibilidade do crime antecedente impede a persecução pela lavagem.",
+    "Errada. O art. 2º, §1º, diz o contrário: a lavagem é punível mesmo com a punibilidade do antecedente extinta."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 9.613/1998, arts. 1º e 2º (redação da Lei 12.683/2012).",
+  "dica": "Lavagem: crime autônomo, qualquer infração penal pode ser antecedente, e bastam indícios do antecedente. O edital cita criptomoedas e lavagem em Humanística (item 7)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D01-03",
+  "nivel": "fácil",
+  "tema": "Princípio da insignificância",
+  "enun": "Joel, primário e sem antecedentes, subtraiu de um supermercado duas barras de chocolate, avaliadas em R$ 14,00, que foram imediatamente restituídas. Em outro caso, Marta, servidora pública, apropriou-se de R$ 50,00 da caixa da repartição em que trabalhava. Em um terceiro caso, Válter, no âmbito de violência doméstica, desferiu um tapa em sua esposa, sem deixar lesões aparentes.\nÀ luz da jurisprudência dos Tribunais Superiores, o princípio da insignificância",
+  "alts": [
+   [
+    "pode ser aplicado apenas a Joel.",
+    "CORRETA. Joel preenche os vetores do STF: mínima ofensividade, nenhuma periculosidade social, reduzidíssimo grau de reprovabilidade e inexpressividade da lesão. Marta: Súmula 599/STJ (insignificância inaplicável aos crimes contra a Administração Pública). Válter: Súmula 589/STJ (inaplicável aos crimes ou contravenções contra a mulher no âmbito doméstico)."
+   ],
+   [
+    "pode ser aplicado a Joel e a Marta, pois em ambos os casos o valor é ínfimo.",
+    "Errada. No crime contra a Administração Pública, o bem jurídico é também a moralidade administrativa, e não só o patrimônio (Súmula 599/STJ)."
+   ],
+   [
+    "pode ser aplicado aos três casos, pois nenhuma das condutas causou lesão relevante.",
+    "Errada. As Súmulas 589 e 599 do STJ afastam a insignificância nos casos de Válter e de Marta."
+   ],
+   [
+    "não pode ser aplicado a nenhum dos casos, pois o furto, ainda que de pequeno valor, configura apenas furto privilegiado.",
+    "Errada. O furto privilegiado (art. 155, §2º) reduz a pena. Quando a lesão é ínfima e os demais vetores estão presentes, a insignificância afasta a tipicidade material."
+   ],
+   [
+    "pode ser aplicado a Válter, pois não houve lesão aparente.",
+    "Errada. Súmula 589/STJ."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, art. 155; Súmulas 589 e 599/STJ; STF, HC 84.412 (vetores da insignificância).",
+  "dica": "Os quatro vetores do STF formam o 'MARI': Mínima ofensividade, Ausência de periculosidade, Reduzido grau de reprovabilidade e Inexpressividade da lesão."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D17",
+  "nivel": "difícil",
+  "tema": "Prescrição retroativa e redução pela idade",
+  "enun": "Leonardo, com 20 anos de idade na data do fato, praticou furto simples em 10 de março de 2020. A denúncia foi recebida em 2 de junho de 2021, e a sentença condenatória, publicada em 15 de agosto de 2023, fixou a pena definitiva em 1 ano de reclusão. Apenas a defesa recorreu.\nSobre a hipótese, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Ocorreu a prescrição da pretensão punitiva na modalidade retroativa, pois o prazo de quatro anos, reduzido à metade em razão da idade do agente ao tempo do crime, foi superado entre o recebimento da denúncia e a publicação da sentença.",
+    "CORRETA. Pena de 1 ano: prescrição em 4 anos (CP, art. 109, V). Leonardo tinha menos de 21 anos ao tempo do crime, e o prazo cai pela metade, para 2 anos (art. 115). Com trânsito para a acusação, conta-se pela pena aplicada (art. 110, §1º). Entre 2/6/2021 e 15/8/2023 passaram mais de 2 anos."
+   ],
+   [
+    "Não ocorreu a prescrição, pois o prazo é de quatro anos, e a redução pela idade somente se aplica ao agente maior de 70 anos na data da sentença.",
+    "Errada. O art. 115 reduz o prazo pela metade também para quem tinha menos de 21 anos ao tempo do crime."
+   ],
+   [
+    "Ocorreu a prescrição retroativa, contada entre a data do fato e o recebimento da denúncia.",
+    "Errada. A prescrição retroativa não pode ter por termo inicial data anterior à denúncia ou queixa (art. 110, §1º, na redação da Lei 12.234/2010)."
+   ],
+   [
+    "O juiz poderia ter reconhecido a prescrição antes da sentença, com base na pena que provavelmente seria aplicada.",
+    "Errada. A prescrição virtual, em perspectiva ou antecipada, é inadmissível (Súmula 438/STJ)."
+   ],
+   [
+    "Não ocorreu a prescrição, pois a prescrição pela pena aplicada somente pode ser reconhecida após o trânsito em julgado para ambas as partes.",
+    "Errada. Basta o trânsito em julgado para a acusação ou o improvimento do recurso dela (art. 110, §1º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 109, 110, §1º, 115 e 117; Súmula 438/STJ.",
+  "dica": "O art. 115 traz uma exceção nova, que o Vade Mecum atualizado já mostra: não há redução se o crime envolver violência sexual contra a mulher. Confira sempre a redação vigente."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21e",
+  "nivel": "médio",
+  "tema": "Abuso de autoridade (Lei 13.869/2019)",
+  "enun": "O juiz Otávio decretou a prisão preventiva de um investigado, fundamentando a decisão na garantia da ordem pública. O Tribunal, em habeas corpus, revogou a prisão, por entender insuficiente a fundamentação. O investigado ofereceu representação contra Otávio por abuso de autoridade.\nÀ luz da Lei nº 13.869/2019, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A divergência na interpretação de lei ou na avaliação de fatos e provas não configura, por si só, abuso de autoridade, que exige finalidade específica de prejudicar outrem, beneficiar a si mesmo ou a terceiro, ou mero capricho ou satisfação pessoal.",
+    "CORRETA. Art. 1º, §§1º e 2º, da Lei 13.869/2019. A simples reforma da decisão pelo tribunal não configura o crime, que exige dolo específico."
+   ],
+   [
+    "A revogação da prisão pelo Tribunal configura, automaticamente, o crime de decretação de medida de privação da liberdade em manifesta desconformidade com as hipóteses legais.",
+    "Errada. A reforma da decisão não demonstra, por si, a manifesta desconformidade nem o dolo específico."
+   ],
+   [
+    "Os crimes de abuso de autoridade são de ação penal pública condicionada à representação do ofendido.",
+    "Errada. A ação é pública INCONDICIONADA (art. 3º), admitida a ação privada subsidiária se o MP não agir no prazo legal."
+   ],
+   [
+    "A condenação por abuso de autoridade acarreta automaticamente a perda do cargo, mandato ou função pública.",
+    "Errada. A perda do cargo e a inabilitação dependem de reincidência em crime de abuso de autoridade, não são automáticas e devem ser declaradas motivadamente na sentença (art. 4º, parágrafo único)."
+   ],
+   [
+    "Magistrados não podem ser sujeitos ativos de crimes de abuso de autoridade, por força da independência funcional.",
+    "Errada. Os membros do Poder Judiciário estão expressamente entre os sujeitos ativos (art. 2º, IV)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 13.869/2019, arts. 1º a 4º e 9º.",
+  "dica": "Abuso de autoridade exige dolo específico (prejudicar, beneficiar ou capricho), e a mera divergência de interpretação não é crime. A ação penal é pública incondicionada."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D12",
+  "nivel": "médio",
+  "tema": "Dosimetria — súmulas do STJ",
+  "enun": "Na dosimetria da pena de Igor, condenado por furto qualificado, o juiz: (i) elevou a pena-base em razão de duas ações penais em curso contra o réu; (ii) reconheceu a atenuante da confissão espontânea, embora o réu a tenha retratado em juízo, pois a confissão extrajudicial foi utilizada para fundamentar a condenação; e (iii) deixou de reduzir a pena abaixo do mínimo legal na segunda fase, apesar da atenuante.\nÀ luz das súmulas do STJ, está correto o que consta em",
+  "alts": [
+   [
+    "(ii), apenas.",
+    "Errada. (iii) também está correto."
+   ],
+   [
+    "(iii), apenas.",
+    "Errada. (ii) também está correto."
+   ],
+   [
+    "(i) e (iii), apenas.",
+    "Errada. (i) é vedado, e (ii) está correto (Súmula 545)."
+   ],
+   [
+    "(ii) e (iii), apenas.",
+    "CORRETA. (i) está errado: inquéritos e ações penais em curso não podem agravar a pena-base (Súmula 444/STJ). (ii) está certo: a confissão usada para formar o convencimento do julgador gera a atenuante, ainda que parcial, qualificada ou retratada (Súmula 545/STJ). (iii) está certo: a atenuante não reduz a pena abaixo do mínimo legal (Súmula 231/STJ)."
+   ],
+   [
+    "(i), (ii) e (iii).",
+    "Errada. (i) contraria a Súmula 444/STJ."
+   ]
+  ],
+  "c": 3,
+  "fixa": true,
+  "base": "CP, arts. 59, 65, III, d, e 68; Súmulas 231, 444 e 545/STJ.",
+  "dica": "Súmulas da dosimetria: 231 (atenuante não reduz abaixo do mínimo), 241 (reincidência não serve como agravante e como circunstância judicial ao mesmo tempo), 444 (processos em curso não agravam a pena-base) e 545 (confissão usada na fundamentação gera atenuante)."
+ }
+]

@@ -1,0 +1,166 @@
+[
+{"disc":"Direito Constitucional","item":"C08t","nivel":"médio","tema":"Greve de servidores públicos (Temas 531, 541 e 544/STF)",
+"enun":"Os servidores estatutários da Secretaria de Saúde do Município Alfa deflagraram greve por reajuste salarial, mantendo 40% do efetivo em atividade. Após 15 dias, o Município determinou o desconto dos dias não trabalhados. Paralelamente, os policiais civis do Estado Beta, onde se situa Alfa, anunciaram adesão ao movimento grevista em solidariedade.\nÀ luz da jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+"alts":[
+["O desconto dos dias de paralisação é devido, permitida a compensação em caso de acordo, salvo se demonstrado que a greve foi provocada por conduta ilícita do Poder Público; já o exercício do direito de greve é vedado aos policiais civis.","CORRETA. Tema 531/STF: a Administração deve descontar os dias parados, em razão da suspensão do vínculo, admitida a compensação por acordo e vedado o desconto se a greve decorrer de conduta ilícita do Poder Público. Tema 541/STF: é vedado o direito de greve aos servidores que atuam diretamente na segurança pública, como os policiais civis."],
+["O desconto dos dias parados é inconstitucional, pois a greve é direito fundamental, e sua efetividade não pode ser esvaziada por sanção remuneratória.","Errada. O STF entende que a greve suspende o vínculo, o que autoriza o desconto. A efetividade do direito é preservada pela possibilidade de compensação."],
+["Os policiais civis podem aderir à greve, desde que mantido percentual mínimo de efetivo, por aplicação analógica da Lei nº 7.783/1989.","Errada. A aplicação da Lei 7.783/1989 aos servidores (MI 670, 708 e 712) não alcança as carreiras de segurança pública, para as quais a greve é vedada (Tema 541)."],
+["Compete à Justiça do Trabalho julgar a abusividade da greve dos servidores estatutários municipais.","Errada. A abusividade de greve de servidores da Administração direta, autárquica e fundacional, inclusive celetistas, é julgada pela Justiça comum (Tema 544/STF)."],
+["Enquanto não editada a lei específica prevista no Art. 37, VII, da Constituição, os servidores públicos civis não podem exercer o direito de greve.","Errada. O STF supriu a omissão nos MIs 670, 708 e 712, mandando aplicar, no que couber, a Lei 7.783/1989."]],
+"c":0,"base":"CF, art. 37, VII; Lei 7.783/1989; STF, MIs 670, 708 e 712, Temas 531, 541 e 544.",
+"dica":"Na segurança pública, a greve é vedada, mas o STF impõe ao Poder Público participar de mediação com as entidades de classe (Tema 541)."},
+
+{"disc":"Direito Constitucional","item":"C12","nivel":"fácil","tema":"Quinto constitucional",
+"enun":"Abriu-se, no Tribunal de Justiça do Estado Alfa, vaga destinada ao quinto constitucional, a ser preenchida por advogado.\nSobre o procedimento de preenchimento da vaga, assinale a afirmativa correta.",
+"alts":[
+["O órgão de representação da classe indicará lista sêxtupla de advogados de notório saber jurídico e reputação ilibada, com mais de dez anos de efetiva atividade profissional; o Tribunal formará lista tríplice e a enviará ao Poder Executivo, que, nos vinte dias subsequentes, escolherá um de seus integrantes para nomeação.","CORRETA. Literalidade do art. 94 da CF."],
+["A OAB indicará lista tríplice diretamente ao Governador, que escolherá um nome, sujeito à aprovação da Assembleia Legislativa.","Errada. A OAB forma lista SÊXTUPLA, o Tribunal a reduz a tríplice, e não há sabatina pela Assembleia nas vagas do quinto dos TJs."],
+["O advogado deverá contar com, no mínimo, cinco anos de efetiva atividade profissional.","Errada. A CF exige mais de dez anos de efetiva atividade profissional (art. 94)."],
+["O Tribunal de Justiça escolherá diretamente o advogado, por votação de seu Órgão Especial, a partir de lista sêxtupla da OAB.","Errada. Quem escolhe e nomeia é o chefe do Poder Executivo, a partir da lista tríplice do Tribunal."],
+["O magistrado oriundo do quinto adquire a vitaliciedade somente após dois anos de exercício.","Errada. Nos tribunais, a vitaliciedade é adquirida com a posse. O prazo de 2 anos vale para os juízes de primeiro grau (art. 95, I)."]],
+"c":0,"base":"CF, arts. 94 e 95, I.",
+"dica":"Quinto: lista sêxtupla da OAB ou do MP, depois lista tríplice do tribunal, e o Executivo escolhe em 20 dias. No STJ, há regra própria, com nomeação pelo Presidente após aprovação do Senado (art. 104)."},
+
+{"disc":"Direito Constitucional","item":"C08","nivel":"difícil","tema":"Medicamento sem registro na Anvisa (Tema 500/STF)",
+"enun":"Pedro, portador de doença rara, ajuizou ação em face do Estado Alfa pleiteando o fornecimento de medicamento que não possui registro na Anvisa, embora registrado nas agências sanitárias dos Estados Unidos e da União Europeia. O pedido de registro foi protocolado na Anvisa há mais de três anos, sem decisão. Não há substituto terapêutico registrado no Brasil.\nÀ luz da tese fixada pelo STF no Tema 500 da repercussão geral, assinale a afirmativa correta.",
+"alts":[
+["É possível, excepcionalmente, a concessão judicial do medicamento, diante da mora irrazoável da Anvisa, desde que presentes os requisitos fixados pelo STF; contudo, a ação deveria ter sido proposta em face da União.","CORRETA. Tema 500: a ausência de registro impede, como regra, o fornecimento judicial, mas admite-se a concessão em caso de mora irrazoável da Anvisa, com pedido de registro no Brasil (salvo medicamentos órfãos), registro em renomadas agências estrangeiras e ausência de substituto registrado. As ações devem ser propostas necessariamente em face da União."],
+["O fornecimento é juridicamente impossível, pois a ausência de registro na Anvisa impede, em qualquer hipótese, a concessão judicial do medicamento.","Errada. A regra admite exceção na hipótese de mora irrazoável da Anvisa (Tema 500, item 3)."],
+["O Estado Alfa é parte legítima e deve fornecer o medicamento, em razão da responsabilidade solidária dos entes federativos na área da saúde.","Errada. A solidariedade (Tema 793) não se aplica a medicamento sem registro: nesse caso, a ação deve ser proposta contra a União (Tema 500, item 4)."],
+["O Estado pode ser obrigado a fornecer medicamentos experimentais, desde que haja prescrição médica fundamentada e risco de morte.","Errada. O Estado não pode ser obrigado a fornecer medicamentos experimentais (Tema 500, item 1)."],
+["A concessão judicial depende exclusivamente da prova da hipossuficiência econômica do autor e da prescrição médica.","Errada. Os requisitos do Tema 500 são específicos: mora irrazoável, pedido de registro, registro no exterior e ausência de substituto."]],
+"c":0,"base":"CF, arts. 6º, 196 e 198; Lei 13.411/2016; STF, Temas 500 e 793 (e Temas 6 e 1.234, para medicamentos registrados e não incorporados).",
+"dica":"Sem registro na Anvisa, aplica-se o Tema 500 e a ação é contra a União. Registrado mas não incorporado ao SUS, aplicam-se os Temas 6 e 1.234, com requisitos cumulativos e regras de competência e custeio."},
+
+{"disc":"Direito Constitucional","item":"C06","nivel":"fácil","tema":"Eficácia horizontal dos direitos fundamentais",
+"enun":"A Associação Cultural Alfa, entidade privada sem fins lucrativos, excluiu de seus quadros o associado Ricardo, por decisão da diretoria, sob a alegação de que ele teria difamado dirigentes em redes sociais. Ricardo não foi ouvido previamente nem lhe foi oferecida oportunidade de recurso, embora o estatuto previsse o procedimento.\nSobre a validade da exclusão, assinale a afirmativa correta.",
+"alts":[
+["A exclusão é inválida, pois os direitos fundamentais, como o contraditório e a ampla defesa, também incidem nas relações entre particulares, e o Código Civil exige justa causa e procedimento que assegure direito de defesa e de recurso.","CORRETA. No RE 201.819 (caso UBC), o STF reconheceu a eficácia horizontal dos direitos fundamentais, exigindo defesa na exclusão de associado. O art. 57 do CC exige justa causa reconhecida em procedimento que assegure direito de defesa e de recurso, nos termos do estatuto."],
+["A exclusão é válida, pois os direitos fundamentais vinculam apenas o Estado, e a autonomia privada da associação prevalece.","Errada. O STF adota a eficácia horizontal, inclusive direta, em entidades privadas com relevância social, como as associações."],
+["A exclusão é válida, pois a Constituição assegura a liberdade de associação, de modo que a entidade pode excluir associados sem motivação.","Errada. A liberdade de associação não autoriza a exclusão arbitrária: o art. 57 do CC exige justa causa e procedimento com defesa."],
+["A exclusão somente seria inválida se a associação recebesse recursos públicos.","Errada. A incidência dos direitos fundamentais nas relações privadas não depende de financiamento público."],
+["A exclusão é válida, mas Ricardo poderá pleitear indenização por danos morais.","Errada. A exclusão sem defesa é inválida e pode ser anulada judicialmente, o que não impede eventual indenização."]],
+"c":0,"base":"CF, art. 5º, LIV, LV e XVII a XX; CC, art. 57; STF, RE 201.819.",
+"dica":"Eficácia horizontal é a aplicação dos direitos fundamentais entre particulares. O caso-símbolo é o RE 201.819 (UBC), com exclusão de associado sem defesa."},
+
+{"disc":"Direito Constitucional","item":"C13","nivel":"difícil","tema":"Guardas municipais e segurança pública (Tema 656/STF)",
+"enun":"Lei do Município Alfa atribuiu à guarda municipal: (i) o patrulhamento preventivo e ostensivo das vias públicas, em cooperação com a Polícia Militar; (ii) a instauração e condução de inquéritos para apurar crimes contra o patrimônio municipal; e (iii) a prisão em flagrante de quem fosse surpreendido cometendo crime.\nÀ luz da Constituição e da jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+"alts":[
+["São válidas as atribuições (i) e (iii), mas é inconstitucional a (ii), pois as guardas municipais podem exercer ações de segurança urbana, inclusive policiamento ostensivo e comunitário, mas não atividade de polícia judiciária.","CORRETA. No Tema 656 (RE 608.588), o STF declarou constitucional o exercício de ações de segurança urbana pelas guardas municipais, inclusive policiamento ostensivo e comunitário, respeitadas as atribuições dos demais órgãos do art. 144 e EXCLUÍDA a polícia judiciária, com controle externo do MP. A prisão em flagrante pode ser feita por qualquer do povo (CPP, art. 301)."],
+["As três atribuições são inconstitucionais, pois as guardas municipais destinam-se exclusivamente à proteção de bens, serviços e instalações do Município.","Errada. O STF superou a leitura restritiva do art. 144, §8º, reconhecendo as guardas como órgãos do sistema de segurança pública (ADPF 995) e admitindo o policiamento ostensivo e comunitário (Tema 656)."],
+["As três atribuições são válidas, pois as guardas municipais integram o Sistema Único de Segurança Pública e exercem as mesmas funções das polícias civis e militares.","Errada. A investigação criminal (polícia judiciária) é das polícias civil e federal (art. 144, §§1º e 4º) e está excluída das guardas."],
+["Apenas a atribuição (iii) é válida, pois a prisão em flagrante é facultada a qualquer do povo, sendo vedado às guardas o patrulhamento ostensivo.","Errada. O STF admitiu o policiamento ostensivo e comunitário pelas guardas (Tema 656)."],
+["A atribuição (ii) é válida, desde que os inquéritos sejam posteriormente remetidos à Polícia Civil.","Errada. A remessa posterior não supre o vício: a guarda não pode exercer atividade de polícia judiciária."]],
+"c":0,"base":"CF, art. 144, §§1º, 4º e 8º; CPP, art. 301; Lei 13.022/2014; STF, ADPF 995 e Tema 656.",
+"dica":"Guardas municipais podem fazer policiamento ostensivo e comunitário, mas não investigação. Prender em flagrante qualquer pessoa pode."},
+
+{"disc":"Direito Administrativo","item":"A07","nivel":"médio","tema":"Recurso administrativo e reformatio in pejus (Lei 9.784/1999)",
+"enun":"Luíza, servidora federal, recebeu pena de advertência em processo disciplinar e interpôs recurso administrativo. A autoridade superior, ao examinar o recurso, entendeu que os fatos eram mais graves e pretende aplicar pena de suspensão.\nÀ luz da Lei nº 9.784/1999, assinale a afirmativa correta.",
+"alts":[
+["A autoridade poderá agravar a sanção, desde que Luíza seja previamente cientificada para formular alegações antes da decisão.","CORRETA. No recurso administrativo, admite-se a reformatio in pejus, mas, se da decisão puder decorrer gravame à situação do recorrente, este deve ser cientificado para formular alegações antes da decisão (art. 64, parágrafo único)."],
+["É vedado o agravamento da sanção em sede de recurso, em razão da proibição da reformatio in pejus no processo administrativo.","Errada. A vedação de agravamento existe na REVISÃO (art. 65, parágrafo único), e não no recurso."],
+["O recurso deve ser dirigido diretamente à autoridade superior, sendo vedado à autoridade que proferiu a decisão reconsiderá-la.","Errada. O recurso é dirigido à autoridade que proferiu a decisão, que pode reconsiderar em 5 dias. Se não reconsiderar, encaminha à superior (art. 56, §1º)."],
+["O prazo para interposição do recurso administrativo é de 15 dias, contados da ciência da decisão.","Errada. Salvo disposição legal específica, o prazo é de 10 dias (art. 59)."],
+["A admissibilidade do recurso pode ser condicionada ao depósito prévio de 10% do valor da sanção.","Errada. É inconstitucional exigir depósito ou arrolamento prévios de dinheiro ou bens para admitir recurso administrativo (Súmula Vinculante 21; art. 56, §2º)."]],
+"c":0,"base":"Lei 9.784/1999, arts. 56, 57, 59, 64 e 65; Súmula Vinculante 21.",
+"dica":"Recurso administrativo pode piorar a situação, com ciência prévia (art. 64). Revisão não pode piorar (art. 65). O recurso tramita por no máximo 3 instâncias (art. 57)."},
+
+{"disc":"Direito Administrativo","item":"A10-11","nivel":"médio","tema":"Caducidade do decreto expropriatório",
+"enun":"Em março de 2020, o Governador do Estado Alfa expediu decreto declarando de utilidade pública, para fins de desapropriação, imóvel de Rogério, destinado à construção de uma escola. Não houve acordo nem ajuizamento de ação de desapropriação. Em junho de 2025, o Estado pretende ajuizar a ação com base no mesmo decreto.\nSobre a hipótese, assinale a afirmativa correta.",
+"alts":[
+["O decreto caducou, pois a desapropriação deveria ter sido efetivada mediante acordo ou intentada judicialmente em cinco anos, e somente decorrido um ano poderá o bem ser objeto de nova declaração.","CORRETA. Literalidade do art. 10 do Decreto-Lei 3.365/1941. O decreto de março de 2020 caducou em março de 2025, e uma nova declaração só pode ser feita a partir de março de 2026."],
+["O decreto continua válido, pois a declaração de utilidade pública não está sujeita a prazo de caducidade.","Errada. O art. 10 do DL 3.365/1941 fixa a caducidade em 5 anos."],
+["O decreto caducou em dois anos, prazo aplicável às desapropriações por utilidade pública.","Errada. O prazo de 2 anos é o da desapropriação por INTERESSE SOCIAL (Lei 4.132/1962, art. 3º)."],
+["O Estado poderá expedir novo decreto imediatamente, renovando a declaração sobre o mesmo bem.","Errada. A lei exige o decurso de 1 ano após a caducidade (art. 10)."],
+["Caducado o decreto, o imóvel passa a integrar o patrimônio público, cabendo a Rogério apenas a indenização.","Errada. A caducidade extingue os efeitos da declaração. O bem continua com o proprietário."]],
+"c":0,"base":"Decreto-Lei 3.365/1941, arts. 10 e 15, §2º; Lei 4.132/1962, art. 3º.",
+"dica":"Utilidade pública: 5 anos de caducidade, mais 1 ano de 'quarentena'. Interesse social: 2 anos. A alegação de urgência caduca se a imissão não for requerida em 120 dias (art. 15, §2º)."},
+
+{"disc":"Direito Administrativo","item":"A12-13","nivel":"médio","tema":"Extinção da concessão: encampação, caducidade e rescisão",
+"enun":"O Município Alfa concedeu, por 25 anos, o serviço de transporte coletivo urbano à sociedade empresária Beta. No 10º ano do contrato, sem qualquer inadimplemento da concessionária, o Prefeito decidiu retomar o serviço para prestá-lo diretamente, por entender que isso atenderia melhor ao interesse público.\nÀ luz da Lei nº 8.987/1995, assinale a afirmativa correta.",
+"alts":[
+["Trata-se de encampação, que depende de lei autorizativa específica e de prévio pagamento da indenização devida à concessionária.","CORRETA. Encampação é a retomada do serviço durante o prazo da concessão, por interesse público, mediante lei autorizativa específica e após prévio pagamento da indenização (art. 37)."],
+["Trata-se de caducidade, que pode ser declarada por decreto do Poder Concedente, com indenização posterior.","Errada. A caducidade pressupõe inexecução total ou parcial pela concessionária, apurada em processo administrativo (art. 38). Não é o caso."],
+["Trata-se de rescisão unilateral, que dispensa autorização legislativa e indenização, por se tratar de cláusula exorbitante.","Errada. Na concessão, a retomada por interesse público tem nome e regime próprios (encampação), com lei específica e indenização prévia."],
+["A retomada somente poderá ocorrer por meio de ação judicial proposta pelo Poder Concedente.","Errada. A ação judicial é exigida para a concessionária rescindir por inadimplemento do Poder Concedente (art. 39)."],
+["Trata-se de anulação, que produz efeitos ex tunc e afasta qualquer indenização.","Errada. A anulação pressupõe ilegalidade na concessão ou na licitação (art. 35, V), o que não ocorre aqui."]],
+"c":0,"base":"Lei 8.987/1995, arts. 35 a 39.",
+"dica":"Encampação: interesse público, lei específica e indenização prévia. Caducidade: culpa da concessionária, processo administrativo, decreto e indenização posterior. Rescisão: iniciativa da concessionária, ação judicial e serviço sem interrupção até o trânsito em julgado."},
+
+{"disc":"Direito Administrativo","item":"A17","nivel":"fácil","tema":"Ocupação de bem público (Súmula 619/STJ)",
+"enun":"Há 20 anos, Josué ocupa, de forma mansa e pacífica, terreno pertencente ao Município Alfa, onde construiu sua casa. O Município ajuizou ação reivindicatória. Em contestação, Josué alegou usucapião e, subsidiariamente, pediu indenização pelas benfeitorias e direito de retenção.\nÀ luz da Constituição e da jurisprudência do STJ, assinale a afirmativa correta.",
+"alts":[
+["A ocupação indevida de bem público configura mera detenção, de natureza precária, insuscetível de retenção ou indenização por acessões e benfeitorias, e os imóveis públicos não são adquiridos por usucapião.","CORRETA. Súmula 619/STJ (detenção, sem retenção ou indenização) e CF, arts. 183, §3º, e 191, parágrafo único (imóveis públicos não se adquirem por usucapião). No mesmo sentido, a Súmula 340/STF."],
+["Josué adquiriu o imóvel por usucapião extraordinária, pois exerceu posse por mais de 15 anos.","Errada. A imprescritibilidade dos bens públicos é regra constitucional (arts. 183, §3º, e 191, parágrafo único)."],
+["Josué não adquiriu o imóvel, mas tem direito à indenização pelas benfeitorias necessárias, por ser possuidor de boa-fé.","Errada. Em relação ao Poder Público não há posse, apenas detenção, e por isso não há indenização (Súmula 619/STJ)."],
+["Josué pode usucapir o imóvel, desde que se trate de bem dominical, não afetado a finalidade pública.","Errada. Mesmo os bens dominicais são imprescritíveis (CC, art. 102)."],
+["A ocupação de bem público gera posse plena, oponível inclusive ao ente público, até o trânsito em julgado da reivindicatória.","Errada. Perante o ente público há mera detenção. O STJ admite, porém, proteção possessória do ocupante contra OUTROS particulares."]],
+"c":0,"base":"CF, arts. 183, §3º, e 191, parágrafo único; CC, arts. 99 a 102; Súmulas 340/STF e 619/STJ.",
+"dica":"Contra o Poder Público, o ocupante tem detenção. Contra outro particular, pode ter proteção possessória (jurisprudência do STJ)."},
+
+{"disc":"Noções Gerais de Direito e Formação Humanística","item":"H2","nivel":"fácil","tema":"Conciliação x mediação",
+"enun":"Em ação de dissolução de sociedade entre dois irmãos, sócios há 20 anos de um restaurante familiar, o juiz designou audiência destinada à autocomposição. Ambos manifestaram interesse em preservar a relação familiar.\nConsiderando o CPC e a Lei nº 13.140/2015, assinale a afirmativa correta.",
+"alts":[
+["A mediação é a técnica mais indicada, pois o mediador atua preferencialmente nos casos em que houver vínculo anterior entre as partes, auxiliando-as a compreender as questões e os interesses em conflito, de modo que possam, pelo restabelecimento da comunicação, identificar por si próprias soluções consensuais.","CORRETA. É a literalidade do art. 165, §3º, do CPC. Havendo vínculo anterior (família, sociedade de longa data), a mediação é o meio adequado."],
+["A conciliação é a técnica mais indicada, pois o conciliador atua preferencialmente nos casos em que houver vínculo anterior entre as partes, podendo sugerir soluções.","Errada. O conciliador atua preferencialmente nos casos em que NÃO houver vínculo anterior (art. 165, §2º)."],
+["O mediador pode propor e impor soluções às partes, em razão da celeridade processual.","Errada. O mediador não impõe nem sugere soluções: auxilia as partes a construírem a solução. Quem pode sugerir é o conciliador, e nenhum dos dois impõe."],
+["O mediador poderá, posteriormente, atuar como árbitro ou testemunha em processo relativo ao mesmo conflito.","Errada. A Lei 13.140 veda essa atuação (art. 7º) e impede o mediador, por 1 ano, de assessorar, representar ou patrocinar as partes (art. 6º)."],
+["A confidencialidade não se aplica à mediação judicial, que se submete ao princípio da publicidade.","Errada. A confidencialidade é princípio da mediação e da conciliação (CPC, art. 166; Lei 13.140, arts. 2º, VII, e 30)."]],
+"c":0,"base":"CPC, arts. 165 e 166; Lei 13.140/2015, arts. 2º, 6º, 7º e 30.",
+"dica":"Sem vínculo anterior: conciliador, que pode sugerir soluções. Com vínculo anterior: mediador, que restabelece a comunicação para que as partes encontrem a solução."},
+
+{"disc":"Noções Gerais de Direito e Formação Humanística","item":"H9","nivel":"médio","tema":"Discriminação indireta",
+"enun":"Uma rede de supermercados passou a exigir, para contratação de operadores de caixa, que os candidatos residissem em bairros considerados 'de baixo índice de criminalidade' segundo levantamento interno. A política foi aplicada indistintamente a todos os candidatos. Estudo posterior demonstrou que a exigência excluiu proporcionalmente muito mais candidatos negros, majoritariamente residentes nas periferias da cidade.\nÀ luz do direito da antidiscriminação, a hipótese configura",
+"alts":[
+["discriminação indireta, pois um critério aparentemente neutro produz impacto desproporcional sobre grupo protegido, independentemente da intenção de discriminar.","CORRETA. A discriminação indireta (teoria do impacto desproporcional) está definida na Convenção Interamericana contra o Racismo (art. 1.2), que tem status de emenda constitucional, e se caracteriza pelo EFEITO, e não pela intenção. O Estatuto da Igualdade Racial também conceitua discriminação pelo 'objeto ou efeito' (art. 1º, parágrafo único, I)."],
+["discriminação direta, pois houve tratamento diferenciado explícito e intencional em razão da raça.","Errada. O critério era formalmente neutro (local de residência), sem menção a raça. Faltam o tratamento explícito e a intenção."],
+["conduta lícita, pois o critério foi aplicado indistintamente a todos, sem intenção discriminatória.","Errada. A aplicação uniforme não afasta a discriminação indireta, que se mede pelo impacto."],
+["ação afirmativa, por se tratar de medida voltada à segurança dos trabalhadores e clientes.","Errada. Ação afirmativa é medida temporária para promover a igualdade de grupos desfavorecidos, e não para excluí-los."],
+["discriminação interseccional, pois o critério combina raça e gênero.","Errada. A interseccionalidade envolve a sobreposição de fatores de discriminação (por exemplo, raça e gênero). O enunciado trata apenas do impacto racial de um critério neutro."]],
+"c":0,"base":"Convenção Interamericana contra o Racismo (Decreto 10.932/2022), art. 1º; Lei 12.288/2010, art. 1º; Protocolo para Julgamento com Perspectiva Racial (CNJ).",
+"dica":"Direta: intenção ou tratamento explícito. Indireta: critério neutro com efeito desproporcional. Estrutural: produzida pelo funcionamento normal das instituições. Interseccional: sobreposição de fatores."},
+
+{"disc":"Direitos Humanos","item":"DH1","nivel":"fácil","tema":"Empresas e direitos humanos (Princípios de Ruggie)",
+"enun":"Os Princípios Orientadores sobre Empresas e Direitos Humanos foram endossados pelo Conselho de Direitos Humanos da ONU em 2011, a partir do trabalho do Representante Especial John Ruggie.\nSobre esses Princípios, assinale a afirmativa correta.",
+"alts":[
+["Estruturam-se em três pilares: o dever do Estado de proteger os direitos humanos, a responsabilidade das empresas de respeitá-los e o acesso das vítimas a mecanismos de reparação.","CORRETA. É o marco 'Proteger, Respeitar e Reparar'. A responsabilidade empresarial de respeitar se materializa, sobretudo, pela devida diligência em direitos humanos."],
+["Constituem tratado internacional vinculante, ratificado pelo Brasil e incorporado com status supralegal.","Errada. São soft law, sem natureza de tratado. No Brasil, o Decreto 9.571/2018 estabeleceu diretrizes nacionais de adoção voluntária."],
+["Atribuem às empresas o dever primário de proteger os direitos humanos, cabendo ao Estado papel apenas subsidiário.","Errada. O dever de PROTEGER é do Estado. Às empresas cabe a responsabilidade de RESPEITAR."],
+["Aplicam-se exclusivamente às empresas transnacionais, excluídas as de pequeno porte.","Errada. Aplicam-se a todas as empresas, independentemente do porte, setor ou estrutura, com proporcionalidade dos meios."],
+["Afastam a necessidade de mecanismos judiciais, privilegiando apenas a autorregulação empresarial.","Errada. O terceiro pilar inclui mecanismos judiciais e extrajudiciais, estatais e não estatais, de reparação."]],
+"c":0,"base":"Princípios Orientadores da ONU sobre Empresas e Direitos Humanos (2011); Decreto 9.571/2018.",
+"dica":"O marco é 'Proteger (Estado), Respeitar (empresas), Reparar (acesso a remédios)'. O edital cita o tema em DH (item 1) e em Civil (pessoas jurídicas)."},
+
+{"disc":"Direito Processual Civil","item":"P16-19","nivel":"médio","tema":"Cumprimento de sentença por quantia certa",
+"enun":"Transitada em julgado a sentença que condenou a sociedade empresária Alfa a pagar R$ 100.000,00 a Bruno, este requereu o cumprimento da sentença. Intimada, Alfa depositou R$ 40.000,00 no prazo legal e nada mais pagou.\nSobre a hipótese, assinale a afirmativa correta.",
+"alts":[
+["Incidirão multa de 10% e honorários advocatícios de 10% apenas sobre o restante de R$ 60.000,00, e o prazo para impugnação começa a correr após o prazo para pagamento voluntário, independentemente de penhora.","CORRETA. Havendo pagamento parcial, a multa e os honorários incidem sobre o restante (CPC, art. 523, §§1º e 2º). A impugnação deve ser oferecida em 15 dias contados do fim do prazo para pagamento, independentemente de penhora ou nova intimação (art. 525)."],
+["Incidirão multa e honorários de 10% cada sobre o valor total da condenação, pois o pagamento parcial não afasta as sanções.","Errada. O art. 523, §2º, manda calcular multa e honorários sobre o restante."],
+["Não são devidos honorários advocatícios na fase de cumprimento de sentença, mas apenas a multa de 10%.","Errada. A Súmula 517/STJ e o art. 523, §1º, preveem honorários no cumprimento, depois de escoado o prazo para pagamento voluntário."],
+["A impugnação ao cumprimento de sentença depende de prévia garantia do juízo pela penhora.","Errada. A impugnação independe de penhora (art. 525, caput)."],
+["O prazo para pagamento voluntário é de 3 dias, contados da intimação do devedor.","Errada. O prazo é de 15 dias (art. 523). Os 3 dias são da execução de título extrajudicial (art. 829)."]],
+"c":0,"base":"CPC, arts. 523, 525 e 829; Súmula 517/STJ.",
+"dica":"Contra a Fazenda Pública não incide a multa do art. 523 (art. 534, §2º). No cumprimento provisório, a multa e os honorários também incidem (art. 520, §2º)."},
+
+{"disc":"Direito Processual Civil","item":"P23","nivel":"difícil","tema":"ACP de âmbito nacional: competência e limites da coisa julgada (Tema 1.075/STF)",
+"enun":"Associação de defesa do consumidor ajuizou, na comarca de Curitiba/PR, ação civil pública contra instituição financeira com atuação nacional, questionando cláusula padrão de contratos firmados em todo o país. O banco sustentou que (i) a sentença somente produziria efeitos nos limites da competência territorial do órgão prolator; e (ii) a ação deveria ter sido proposta no Distrito Federal. Havia outra ACP idêntica em trâmite em São Paulo, ajuizada posteriormente.\nÀ luz da tese fixada no Tema 1.075 do STF, assinale a afirmativa correta.",
+"alts":[
+["É inconstitucional a limitação territorial dos efeitos da sentença na ACP; tratando-se de dano de âmbito nacional, a competência é do foro da capital do Estado ou do Distrito Federal, e, havendo múltiplas ações, firma-se a prevenção do juízo que primeiro conheceu de uma delas.","CORRETA. Tema 1.075 (RE 1.101.937): é inconstitucional o art. 16 da LACP na redação da Lei 9.494/1997; em ACP de efeitos nacionais ou regionais aplica-se o art. 93, II, do CDC (capital do Estado ou DF, concorrentemente); e firma-se a prevenção do primeiro juízo. Curitiba, capital, é competente e preventa."],
+["A sentença produzirá efeitos apenas no Estado do Paraná, nos termos do Art. 16 da Lei nº 7.347/1985.","Errada. O STF declarou inconstitucional a limitação territorial introduzida pela Lei 9.494/1997 e repristinou a redação original do art. 16."],
+["A ação deveria ter sido proposta obrigatoriamente no Distrito Federal, por se tratar de dano de âmbito nacional.","Errada. O art. 93, II, do CDC prevê a competência CONCORRENTE da capital do Estado ou do DF. O DF não é foro exclusivo."],
+["As duas ações devem tramitar separadamente, pois a ação coletiva não induz litispendência nem prevenção.","Errada. O Tema 1.075 fixou a prevenção do juízo que primeiro conheceu de uma delas para julgar todas as conexas."],
+["A competência é do foro do domicílio da instituição financeira, por aplicação da regra geral do Código de Processo Civil.","Errada. Nas ações coletivas, aplica-se o microssistema (LACP e CDC, art. 93), e não a regra geral do domicílio do réu."]],
+"c":0,"base":"Lei 7.347/1985, arts. 2º e 16; CDC, arts. 93 e 103; STF, Tema 1.075 (RE 1.101.937).",
+"dica":"Dano local: foro do local do dano. Dano regional ou nacional: capital do Estado ou DF, concorrentemente. Limitação territorial da coisa julgada: inconstitucional (Tema 1.075)."},
+
+{"disc":"Direito Processual Civil","item":"P22","nivel":"médio","tema":"Juizado Especial da Fazenda Pública (Lei 12.153/2009)",
+"enun":"Clara, servidora pública estadual, pretende ajuizar ação em face do Estado Alfa para cobrar diferenças remuneratórias no valor de R$ 30.000,00, em comarca onde está instalado o Juizado Especial da Fazenda Pública. Na mesma comarca, seu colega Marcos pretende anular a pena de demissão que lhe foi imposta.\nSobre a hipótese, assinale a afirmativa correta.",
+"alts":[
+["A ação de Clara é de competência absoluta do Juizado Especial da Fazenda Pública, no qual não há prazo diferenciado para o Estado nem reexame necessário; a ação de Marcos está excluída da competência do Juizado.","CORRETA. A competência do JEFP é absoluta onde instalado, até 60 salários mínimos (Lei 12.153, art. 2º, caput e §4º). Não há prazo diferenciado para a Fazenda (art. 7º) nem reexame necessário (art. 11). A impugnação de pena de demissão está expressamente excluída (art. 2º, §1º, III)."],
+["Clara pode optar entre o Juizado e a Vara da Fazenda Pública, por se tratar de competência relativa.","Errada. Onde instalado, o JEFP tem competência absoluta (art. 2º, §4º), ao contrário do Juizado Cível comum da Lei 9.099, que é opcional."],
+["O Estado terá prazo em dobro para contestar e recorrer, nos termos do Art. 183 do CPC.","Errada. A Lei 12.153 afasta o prazo diferenciado para as pessoas jurídicas de direito público (art. 7º)."],
+["A sentença de procedência na ação de Clara estará sujeita a reexame necessário.","Errada. Não há reexame necessário nos Juizados da Fazenda Pública (art. 11)."],
+["A ação de Marcos também pode tramitar no Juizado, desde que o valor da causa não ultrapasse 60 salários mínimos.","Errada. A exclusão da impugnação de pena de demissão independe do valor (art. 2º, §1º, III)."]],
+"c":0,"base":"Lei 12.153/2009, arts. 2º, 5º, 7º e 11.",
+"dica":"Fora do JEFP: MS, desapropriação, ação popular, improbidade, execução fiscal, direitos difusos e coletivos, imóveis do ente e demissão de servidor."}
+]

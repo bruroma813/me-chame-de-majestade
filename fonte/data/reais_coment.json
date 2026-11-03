@@ -1,0 +1,327 @@
+{
+ "e5-15": {
+  "nivel": "difícil",
+  "tema": "IPVA e alienação fiduciária (Tema 1.153/STF)",
+  "coms": [
+   "Errada. A definição de responsáveis tributários pelo próprio Estado, em lei ordinária, é compatível com o CTN (arts. 121 e 128). O vício não está na espécie normativa, mas na escolha de quem não manifesta a riqueza tributada.",
+   "Errada. A EC 132/2023 passou a prever expressamente a incidência do IPVA sobre veículos aquáticos e aéreos (CF, art. 155, §6º, III), ressalvadas as exceções do próprio dispositivo.",
+   "Errada. Enquanto vigente a alienação fiduciária, o credor tem propriedade resolúvel apenas em garantia e não reúne os atributos de uso e fruição. Por isso não pode ser contribuinte nem responsável.",
+   "Errada. Com a consolidação da propriedade plena (por exemplo, após o inadimplemento e a retomada do bem), o credor passa a ser proprietário e pode, a partir daí, figurar como sujeito passivo.",
+   "CORRETA. Tese do Tema 1.153 do STF (RE 1.355.870): é inconstitucional eleger o credor fiduciário como contribuinte ou responsável pelo IPVA do veículo alienado fiduciariamente, ressalvada a hipótese de consolidação da propriedade plena."
+  ],
+  "base": "CF, art. 155, III e §6º (EC 132/2023); CTN, arts. 121 e 128; STF, Tema 1.153.",
+  "dica": "Tributário cai cerca de 3 vezes por prova dentro de Constitucional. Revise imunidades, anterioridades, competência residual e as teses do STF sobre IPVA, ICMS e ITCMD."
+ },
+ "e4-6": {
+  "nivel": "médio",
+  "tema": "Normas de reprodução obrigatória",
+  "coms": [
+   "CORRETA (V–F–F). 1ª: as normas de reprodução obrigatória têm validade nacional e integram a ordem estadual. 2ª: falsa, pois elas incidem mesmo que a Constituição Estadual seja omissa, por força do próprio texto federal. 3ª: falsa, pois o Estado não tem discricionariedade para deixar de incorporá-las.",
+   "Errada. A 3ª assertiva é falsa: não há discricionariedade estadual quanto às normas de reprodução obrigatória.",
+   "Errada. A 2ª é falsa: a omissão da Constituição Estadual não impede a incidência dessas normas.",
+   "Errada. A 1ª é verdadeira e a 2ª e a 3ª são falsas.",
+   "Errada. A 1ª é verdadeira e a 2ª é falsa."
+  ],
+  "base": "CF, arts. 25 e 125, §2º; STF, Tema 484 (RE 650.898) e Rcl 383.",
+  "dica": "Os TJs podem usar como parâmetro de ADI estadual normas da CF de reprodução obrigatória, mesmo que não reproduzidas na Constituição Estadual (Tema 484). Cabe RE ao STF dessa decisão."
+ },
+ "e3-19": {
+  "nivel": "difícil",
+  "tema": "Contratação integrada e reequilíbrio (Lei 14.133/2021)",
+  "coms": [
+   "Errada. A afirmativa I está correta, mas a III também está.",
+   "Errada. A II é falsa: a variação de quantitativos do projeto básico elaborado pela própria contratada é risco dela na contratação integrada, e não gera direito automático a reequilíbrio.",
+   "CORRETA. I: na contratação integrada, a contratada elabora o projeto básico e assume os riscos dessa solução (art. 22, §4º). III: o art. 133 veda a alteração dos valores contratuais nas contratações integradas e semi-integradas, salvo nas hipóteses que lista (caso fortuito ou força maior; alteração a pedido da Administração não decorrente de erro da contratada; evento superveniente alocado à Administração na matriz de riscos). O erro de quantitativos não está entre elas.",
+   "Errada. A II é falsa.",
+   "Errada. A II é falsa e a I e a III são verdadeiras."
+  ],
+  "base": "Lei 14.133/2021, arts. 6º, XXXII, 22, §4º, e 133; CF, art. 37, XXI.",
+  "dica": "Na contratação integrada, a contratada elabora o projeto básico, assume esse risco e não pode reclamar dos próprios quantitativos."
+ },
+ "e1-24": {
+  "nivel": "médio",
+  "tema": "Improbidade: tipificação e sanções (Lei 14.230/2021)",
+  "coms": [
+   "Afirmativa verdadeira (não é a resposta). Não há remessa necessária nas sentenças da Lei de Improbidade (art. 17, §19, IV).",
+   "Afirmativa verdadeira. O vínculo precário (cargo em comissão) não afasta a condição de agente público para fins de improbidade (art. 2º).",
+   "CORRETA, por ser a INCORRETA. A conduta não se enquadra em ofensa a princípios: usar em obra particular máquinas e empregados da entidade é enriquecimento ilícito (art. 9º, IV). Por isso, João está sujeito à perda da função pública (art. 12, I). A premissa da assertiva está errada.",
+   "Afirmativa verdadeira. A prescrição é de 8 anos (art. 23) e, interrompida, recomeça a correr pela metade (art. 23, §5º).",
+   "Afirmativa verdadeira. Cada ato deve ser enquadrado em apenas um dos tipos dos arts. 9º, 10 ou 11 (art. 17, §10-D)."
+  ],
+  "base": "Lei 8.429/1992, arts. 2º, 9º, IV, 12, 17, §§10-D e 19, e 23, com a redação da Lei 14.230/2021.",
+  "dica": "Após a reforma, o art. 11 (princípios) não admite perda da função nem suspensão dos direitos políticos. As sanções são multa de até 24 vezes a remuneração e proibição de contratar por até 4 anos."
+ },
+ "e1-30": {
+  "nivel": "fácil",
+  "tema": "Criminalização da homotransfobia (ADO 26 e MI 4.733)",
+  "coms": [
+   "Errada. O STF não fixou prazo para depois considerar o mandamento 'autoaplicável', e o enquadramento foi na Lei 7.716/1989, não no Código Penal.",
+   "CORRETA. Tese da ADO 26: até que sobrevenha lei, a homotransfobia se enquadra nos tipos da Lei 7.716/1989, como racismo em sua dimensão social, e, no homicídio doloso, configura motivo torpe (qualificadora).",
+   "Errada. O STF ressalvou expressamente a liberdade religiosa: fiéis e ministros podem pregar suas convicções, desde que isso não configure discurso de ódio.",
+   "Errada. O enquadramento foi na Lei do Racismo, e não na Lei Antiterrorismo.",
+   "Errada. Não houve prazo de 1 ano nem 'analogia pro societate', que é vedada em matéria penal. O fundamento foi o conceito social de racismo."
+  ],
+  "base": "CF, art. 5º, XLI e XLII; Lei 7.716/1989; STF, ADO 26 e MI 4.733.",
+  "dica": "Nos embargos do MI 4.733 (2023), o STF estendeu o entendimento à injúria racial (Lei 7.716, art. 2º-A) quando a ofensa é dirigida a pessoas LGBTQIA+."
+ },
+ "e1-33": {
+  "nivel": "difícil",
+  "tema": "Justiciabilidade dos DESCA na Corte IDH (art. 26 da CADH)",
+  "coms": [
+   "Errada. A Convenção Europeia de Direitos Humanos protege essencialmente direitos civis e políticos. Os direitos sociais estão na Carta Social Europeia.",
+   "Errada. A jurisprudência recente da Corte IDH (desde Lagos del Campo, 2017) reconhece a justiciabilidade direta e autônoma do art. 26, sem depender do Protocolo de San Salvador.",
+   "CORRETA. Lagos del Campo vs. Peru (2017) foi a primeira condenação autônoma pelo art. 26, mas a Corte já afirmara sua competência sobre o dispositivo em Acevedo Buendía vs. Peru (2009).",
+   "Errada. A violação do art. 26 pode ser declarada de forma autônoma, sem depender de violação conjunta de direito civil ou político.",
+   "Errada. A Corte já declarou, para a mesma vítima, violação do direito à vida e do direito à saúde (por exemplo, Poblete Vilches vs. Chile, 2018)."
+  ],
+  "base": "Convenção Americana, art. 26; Protocolo de San Salvador; Corte IDH, casos Acevedo Buendía (2009), Lagos del Campo (2017) e Poblete Vilches (2018).",
+  "dica": "Linha do tempo dos DESCA: Acevedo Buendía (competência), Lagos del Campo (primeira violação autônoma) e Poblete Vilches (direito à saúde)."
+ },
+ "e5-44": {
+  "nivel": "médio",
+  "tema": "Juizados Especiais x procedimento comum",
+  "coms": [
+   "Errada. A I é falsa: nos Juizados não se admite intervenção de terceiro nem assistência, de nenhuma espécie (Lei 9.099, art. 10). Admite-se apenas o litisconsórcio.",
+   "Errada. A I é falsa.",
+   "Errada. A I é falsa.",
+   "CORRETA. II: nos Juizados não há reconvenção, mas cabe pedido contraposto (Lei 9.099, art. 31); no procedimento comum, a reconvenção pode incluir terceiro (CPC, art. 343, §3º). III: a rescisória é vedada nos Juizados (art. 59), mas o STF (Tema 100) admite a arguição de inexigibilidade do título fundado em entendimento contrário ao do STF (CPC, art. 525, §12).",
+   "Errada. A I é falsa."
+  ],
+  "base": "Lei 9.099/1995, arts. 10, 31 e 59; CPC, arts. 343, §3º, e 525, §12; STF, Tema 100.",
+  "dica": "Juizados: sem intervenção de terceiros, sem reconvenção (mas com pedido contraposto) e sem rescisória."
+ },
+ "e5-50": {
+  "nivel": "médio",
+  "tema": "Homologação e execução de sentença estrangeira",
+  "coms": [
+   "CORRETA. A sentença estrangeira só produz efeitos no Brasil depois de homologada pelo STJ (CF, art. 105, I, i; CPC, art. 961), e a execução cabe à Justiça Federal (CF, art. 109, X), qualquer que seja a natureza da causa.",
+   "Errada. Mesmo com origem trabalhista, a execução de sentença estrangeira homologada é da Justiça Federal (CF, art. 109, X).",
+   "Errada. A demanda indenizatória trabalhista não está entre as hipóteses de jurisdição exclusiva brasileira (CPC, art. 23), e ser o réu brasileiro aqui domiciliado não impede a homologação.",
+   "Errada. A reciprocidade não é exigida para a homologação de sentença estrangeira (CPC, art. 26, §2º), e a execução é na Justiça Federal.",
+   "Errada. Não se exige reciprocidade para a homologação (CPC, art. 26, §2º), e a competência para executar está definida na CF (art. 109, X)."
+  ],
+  "base": "CF, arts. 105, I, i, e 109, X; CPC, arts. 23, 26, §2º, 960 a 965.",
+  "dica": "Homologação: STJ. Execução: juiz federal. Exequatur de carta rogatória: STJ, com cumprimento também pelo juiz federal."
+ },
+ "e3-52": {
+  "nivel": "difícil",
+  "tema": "Pagamento indevido: recebimento como parte de dívida verdadeira",
+  "coms": [
+   "Errada. A I é falsa, porque existe regra específica (pagamento indevido, arts. 876 e seguintes), e a ação de enriquecimento sem causa é subsidiária (art. 886).",
+   "Errada. A II é falsa: não há restituição em dobro no pagamento indevido.",
+   "CORRETA. III: fica isento de restituir quem recebeu o pagamento indevido como parte de dívida verdadeira e deixou prescrever a pretensão (art. 880). Quem pagou tem ação regressiva contra o verdadeiro devedor (Aderbal). É o mesmo bloco de artigos da questão 61 do simulado que a Karina errou.",
+   "Errada. A I e a II são falsas.",
+   "Errada. A I é falsa."
+  ],
+  "base": "CC, arts. 876, 877, 880, 884 a 886.",
+  "dica": "Releia em sequência os arts. 876 a 883 do CC. A FGV cobra os detalhes: prova do erro (877), recebimento como parte de dívida verdadeira (880), dívida prescrita (882) e fim ilícito (883)."
+ },
+ "e4-55": {
+  "nivel": "médio",
+  "tema": "Tutela x guarda de adolescente",
+  "coms": [
+   "Errada. O abandono não gera destituição automática: a perda do poder familiar exige decisão judicial em procedimento contraditório (CC, art. 1.638; ECA, art. 24).",
+   "Errada. A guarda pode, excepcionalmente, conferir representação para atos determinados (ECA, art. 33, §2º). Além disso, o caminho adequado é a tutela, e não necessariamente a adoção.",
+   "Errada. A guarda obriga à assistência material, moral e educacional (ECA, art. 33), o que inclui decisões do cotidiano. A assertiva restringe demais os seus efeitos.",
+   "Errada. É incompleta: o instituto que confere representação e administração de bens é a tutela, que exige prévia perda ou suspensão do poder familiar da mãe. Não se trata de mera 'autorização expressa'.",
+   "CORRETA. A tutela pressupõe falecimento ou ausência dos pais ou perda ou suspensão do poder familiar (CC, art. 1.728; ECA, art. 36, parágrafo único). Como a mãe continua titular do poder familiar, é preciso antes a destituição ou suspensão. Deferida a tutela, Lucas assume guarda, representação e administração dos bens (CC, arts. 1.740 e 1.741)."
+  ],
+  "base": "CC, arts. 1.638, 1.728, 1.740 e 1.741; ECA, arts. 24, 33 e 36.",
+  "dica": "Guarda regulariza a posse de fato. Tutela substitui o poder familiar e exige que nenhum dos pais o exerça."
+ },
+ "e5-65": {
+  "nivel": "fácil",
+  "tema": "Créditos não sujeitos à recuperação judicial",
+  "coms": [
+   "Errada. O credor hipotecário (garantia real) se sujeita à recuperação judicial, na classe II (art. 41, II).",
+   "Errada. O crédito trabalhista se sujeita à recuperação, na classe I, com regras de pagamento próprias (art. 54).",
+   "Errada. O credor pignoratício também tem garantia real e se sujeita à recuperação.",
+   "CORRETA. O crédito do arrendador mercantil não se sujeita aos efeitos da recuperação judicial, assim como o do proprietário fiduciário, do promitente vendedor com cláusula de irrevogabilidade e do vendedor com reserva de domínio (Lei 11.101, art. 49, §3º).",
+   "Errada. Não há exceção legal para o empreendedor de shopping center: seu crédito de aluguéis é concursal."
+  ],
+  "base": "Lei 11.101/2005, arts. 41, 49, §3º, e 54.",
+  "dica": "Mnemônico para o art. 49, §3º: 'FARR' — Fiduciário, Arrendador mercantil, promitente com iRrevogabilidade, Reserva de domínio. Some o ACC do §4º."
+ },
+ "e4-78": {
+  "nivel": "médio",
+  "tema": "Roubo com simulacro e substituição da pena",
+  "coms": [
+   "Errada. O simulacro não configura violência física. Ele configura GRAVE AMEAÇA, por intimidar a vítima.",
+   "Errada. Para o STJ, o simulacro configura grave ameaça, e isso impede a substituição (CP, art. 44, I).",
+   "CORRETA. Para o STJ, o emprego de simulacro de arma de fogo configura grave ameaça (elementar do roubo, sem incidir a majorante), o que veda a substituição por restritiva de direitos (art. 44, I), mesmo com pena de até 4 anos.",
+   "Errada. O requisito do art. 44, I, é objetivo: crime cometido com violência ou grave ameaça impede a substituição, sem margem para avaliação subjetiva.",
+   "Errada. A vedação decorre da violência ou grave ameaça (art. 44, I), e não da natureza patrimonial do bem jurídico."
+  ],
+  "base": "CP, arts. 44, I, e 157, §2º-A, I; jurisprudência do STJ (Súmula 174 cancelada).",
+  "dica": "O simulacro configura grave ameaça (é roubo), mas não majora a pena, porque a majorante exige arma de fogo verdadeira e apta a disparar."
+ },
+ "e3-69": {
+  "nivel": "médio",
+  "tema": "Desistência voluntária x tentativa",
+  "coms": [
+   "CORRETA. Ricardo interrompeu a execução porque acreditou que a polícia chegava, uma circunstância alheia à sua vontade, ainda que imaginária. Não é desistência voluntária, e ele responde por roubo tentado (art. 14, II). Fórmula de Frank: 'quero, mas não posso' é tentativa; 'posso, mas não quero' é desistência.",
+   "Errada. Roubo impróprio é a violência ou grave ameaça empregada depois da subtração, para assegurar a coisa (art. 157, §1º). Aqui não houve subtração.",
+   "Errada. Na extorsão, o comportamento da vítima é indispensável. Aqui o agente exigiu a entrega imediata do dinheiro, que ele poderia tomar diretamente, e isso caracteriza roubo.",
+   "Errada. O arrependimento eficaz pressupõe execução esgotada e atuação do agente para impedir o resultado. Não é o caso.",
+   "Errada. A desistência foi motivada por receio de prisão causado por fator externo, o que afasta a voluntariedade."
+  ],
+  "base": "CP, arts. 14, II, 15, 157, caput e §1º, e 158.",
+  "dica": "Desistência voluntária exige voluntariedade, não espontaneidade: desistir por remorso ou por dinheiro conta; desistir por medo de um fator externo (real ou imaginado) é tentativa."
+ },
+ "e1-11": {
+  "nivel": "médio",
+  "tema": "Ouro como ativo financeiro — IOF e repartição",
+  "coms": [
+   "Errada. A alíquota mínima de 1% é a do IOF-ouro (CF, art. 153, §5º), e não a do ICMS, que não incide nessa operação.",
+   "Errada. O Estado de origem recebe 30% da arrecadação do IOF-ouro, e não 50% (art. 153, §5º, I).",
+   "Errada. O ouro definido em lei como ativo financeiro ou instrumento cambial sujeita-se EXCLUSIVAMENTE ao IOF (art. 153, §5º). Não incide ICMS.",
+   "CORRETA. Do IOF-ouro, 70% vão para o Município de origem e 30% para o Estado, DF ou Território de origem (art. 153, §5º, I e II).",
+   "Errada. O tributo exclusivo é o IOF, e não o IPI."
+  ],
+  "base": "CF, art. 153, V e §5º.",
+  "dica": "IOF-ouro: alíquota mínima de 1%, tributo exclusivo, com 30% para o Estado e 70% para o Município de origem. É um dos poucos impostos federais em que o Município fica com a maior parte."
+ },
+ "e4-1": {
+  "nivel": "fácil",
+  "tema": "ADPF — legitimidade, objeto e efeitos",
+  "coms": [
+   "Errada. A decisão na ADPF é irrecorrível e NÃO pode ser objeto de ação rescisória (Lei 9.882, art. 12).",
+   "Errada. O STF admite ADPF contra um conjunto de decisões judiciais reiteradas (ex.: ADPF 101, importação de pneus usados).",
+   "Errada. A ADPF é justamente o meio de controle concentrado do direito pré-constitucional (Lei 9.882, art. 1º, parágrafo único, I). A ADI não serve para isso.",
+   "CORRETA. Os legitimados da ADPF são os mesmos da ADI, ou seja, os do art. 103 da CF (Lei 9.882, art. 2º, I).",
+   "Errada. O STF admite ADPF contra omissões do poder público e reconhece a fungibilidade entre ADPF e ADO (ex.: ADPF 347)."
+  ],
+  "base": "CF, arts. 102, §1º, e 103; Lei 9.882/1999, arts. 1º, 2º, 4º, §1º, e 12.",
+  "dica": "A ADPF é subsidiária (art. 4º, §1º): só cabe quando não houver outro meio eficaz de sanar a lesividade, considerando o controle concentrado como um todo."
+ },
+ "e4-25": {
+  "nivel": "médio",
+  "tema": "Programa de integridade em licitações",
+  "coms": [
+   "Errada. A Lei 14.133 não autoriza exigir programa de integridade na habilitação. Ela o exige apenas do VENCEDOR de contratação de grande vulto, depois do contrato.",
+   "Errada. A lei trata de programa de integridade do licitante ou contratado (arts. 25, §4º, e 60, IV), e não do ente público.",
+   "CORRETA. Normas gerais de licitação são de competência da União (CF, art. 22, XXVII). A Lei 14.133 prevê o programa de integridade como obrigação do vencedor em obras e serviços de grande vulto, a ser implantado em 6 meses da contratação (art. 25, §4º), e como critério de desempate e de dosimetria (arts. 60, IV, e 156, §1º, V). Não o transforma em requisito de habilitação.",
+   "Errada. Não existe essa obrigação na fase de habilitação, e o Município não pode criar requisito de habilitação não previsto nas normas gerais.",
+   "Errada. O momento legal não é a primeira fatura: o prazo é de 6 meses contados da celebração do contrato, e só nas contratações de grande vulto (art. 25, §4º)."
+  ],
+  "base": "CF, art. 22, XXVII; Lei 14.133/2021, arts. 25, §4º, 60, IV, 62 a 70 e 156, §1º, V; Lei 12.846/2013.",
+  "dica": "Na Lei 14.133, o programa de integridade aparece em 3 lugares: obrigação do vencedor de grande vulto (25, §4º), desempate (60, IV) e atenuante na sanção (156, §1º, V)."
+ },
+ "e5-20": {
+  "nivel": "médio",
+  "tema": "Alteração unilateral do contrato (Lei 14.133/2021)",
+  "coms": [
+   "Errada. A I é falsa: o contratado é obrigado a aceitar acréscimos ou supressões de até 25% do valor inicial atualizado (art. 125). A redução de 20% está dentro do limite.",
+   "Errada. A II está correta, mas a III também está.",
+   "Errada. A III está correta, mas a II também está.",
+   "Errada. A I é falsa.",
+   "CORRETA. II: na alteração unilateral que aumente ou diminua os encargos do contratado, a Administração deve restabelecer o equilíbrio econômico-financeiro no mesmo termo aditivo (art. 130). III: na supressão, os materiais já adquiridos e postos no local devem ser pagos pelos custos de aquisição comprovados e reajustados, cabendo indenização por outros danos comprovados (art. 129)."
+  ],
+  "base": "Lei 14.133/2021, arts. 104, I, 124, I, 125, 129 e 130.",
+  "dica": "Limites do art. 125: até 25% para acréscimos ou supressões em obras, serviços e compras; até 50% para acréscimos em reforma de edifício ou equipamento."
+ },
+ "e4-30": {
+  "nivel": "médio",
+  "tema": "STF e direitos da população LGBTQIA+",
+  "coms": [
+   "Errada. A I é falsa (veja a alternativa correta).",
+   "Errada. A III é falsa: o STF exige fatores contextuais de subalternidade.",
+   "Errada. A I é falsa e a II é verdadeira.",
+   "Errada. A II é verdadeira.",
+   "CORRETA (F–V–F). I: falsa, pois o STF declarou inconstitucionais as normas que restringiam a doação de sangue por homens que fazem sexo com homens, por discriminação baseada na orientação sexual, e não na conduta de risco (ADI 5.543). II: verdadeira, pois a alteração do prenome e do gênero depende só da autodeclaração, pela via judicial ou administrativa, vedada a menção a 'transgênero' (ADI 4.275; Tema 761). III: falsa, pois o STF estendeu a Lei Maria da Penha aos casais homoafetivos masculinos (MI 7.452), mas exigiu fatores contextuais que coloquem o homem vítima em posição de subalternidade na relação. A afirmativa diz que esses fatores são prescindíveis."
+  ],
+  "base": "STF, ADI 5.543, ADI 4.275, RE 670.422 (Tema 761) e MI 7.452; Lei 11.340/2006.",
+  "dica": "Nas afirmativas longas da FGV, procure a palavra que inverte o sentido. Aqui é 'prescindível' no lugar de 'imprescindível'."
+ },
+ "e3-35": {
+  "nivel": "difícil",
+  "tema": "Pessoas indígenas no processo penal (Resolução CNJ 287/2019)",
+  "coms": [
+   "Errada. A II também está correta.",
+   "CORRETA. I: a identificação como indígena, a etnia e a língua falada devem constar do registro de todos os atos processuais (Res. CNJ 287/2019). II: a autoridade judicial pode adotar ou homologar práticas de resolução de conflitos e de responsabilização conforme os costumes e normas da própria comunidade. III: falsa por causa da expressão 'com exceção': a adaptação aos costumes, ao local de residência e às tradições vale TAMBÉM para as medidas cautelares alternativas à prisão.",
+   "Errada. A III é falsa.",
+   "Errada. A III é falsa.",
+   "Errada. A III é falsa."
+  ],
+  "base": "Resolução CNJ 287/2019; Convenção 169 da OIT, arts. 8º a 10; Resolução CNJ 213/2015.",
+  "dica": "A Resolução CNJ 287/2019 garante intérprete, laudo antropológico, cumprimento de pena preferencialmente em regime especial e respeito aos mecanismos próprios da comunidade."
+ },
+ "e4-45": {
+  "nivel": "médio",
+  "tema": "Ação popular: MP, assistência e honorários",
+  "coms": [
+   "CORRETA. I: o MP acompanha a ação, cabe-lhe apressar a produção da prova (Lei 4.717, art. 6º, §4º) e, se o autor desistir, pode promover o prosseguimento (art. 9º). É a legitimidade subsidiária ulterior. II: falsa, pois só o CIDADÃO pode se habilitar como litisconsorte ou assistente do autor (art. 6º, §5º), e pessoa jurídica não tem legitimidade (Súmula 365/STF). III: falsa, pois o autor é isento de sucumbência, salvo má-fé (CF, art. 5º, LXXIII), mas os réus vencidos pagam honorários (art. 12).",
+   "Errada. A II é falsa: pessoa jurídica não pode ser assistente do autor popular.",
+   "Errada. A III é falsa: há condenação dos réus em honorários (art. 12).",
+   "Errada. A II e a III são falsas.",
+   "Errada. A II e a III são falsas."
+  ],
+  "base": "CF, art. 5º, LXXIII; Lei 4.717/1965, arts. 6º, §§4º e 5º, 9º e 12; Súmula 365/STF.",
+  "dica": "A isenção de custas e sucumbência é do autor popular, salvo má-fé. Réu vencido paga honorários."
+ },
+ "e1-50": {
+  "nivel": "difícil",
+  "tema": "Prova impertinente e estabilização da demanda",
+  "coms": [
+   "Errada. Não há necessidade de nova conciliação. O problema é que a prova não guarda relação com a causa de pedir.",
+   "Errada. A concordância do réu não torna pertinente uma prova sobre fato estranho à demanda. Depois do saneamento, alterar a causa de pedir é vedado (CPC, art. 329, II).",
+   "Errada. A prova deve ser indeferida por ser impertinente, independentemente do resultado do julgamento.",
+   "CORRETA. A causa de pedir é só a coação. A quitação é fato jurídico diverso, não alegado na inicial, e não pode ser introduzida após o saneamento (art. 329). Cabe ao juiz indeferir as diligências inúteis ou meramente protelatórias (art. 370, parágrafo único).",
+   "Errada. O fundamento não é a preclusão temporal do pedido de prova, e sim a impertinência em relação à causa de pedir."
+  ],
+  "base": "CPC, arts. 141, 329, 357 e 370, parágrafo único.",
+  "dica": "A prova serve para os fatos controvertidos da causa de pedir. Fato novo que mudaria a causa de pedir depois do saneamento é inadmissível (estabilização da demanda)."
+ },
+ "e1-60": {
+  "nivel": "médio",
+  "tema": "Cláusula penal",
+  "coms": [
+   "Errada. A cláusula penal pode ser estipulada junto com a obrigação ou em ato posterior (CC, art. 409).",
+   "CORRETA. Ainda que o prejuízo exceda a cláusula penal, o credor não pode exigir indenização suplementar se isso não foi convencionado. Se foi, a pena vale como mínimo da indenização (art. 416, parágrafo único).",
+   "Errada. O valor da cominação não pode exceder o da obrigação principal (art. 412), mas o excesso leva à redução, e não à invalidade total da cláusula.",
+   "Errada. A redução é um DEVER do juiz ('deve ser reduzida', art. 413), e não uma faculdade. Além disso, o 'estado anímico' não é critério legal.",
+   "Errada. Na obrigação indivisível, todos os devedores incorrem na pena, mas ela só pode ser demandada integralmente do culpado. Os demais respondem só pela sua quota (art. 414)."
+  ],
+  "base": "CC, arts. 408 a 416.",
+  "dica": "Releia os arts. 408 a 416 de uma vez. A FGV cobra a literalidade: posterior (409), limite da principal (412), deve reduzir (413), indivisível (414) e indenização suplementar (416)."
+ },
+ "e4-51": {
+  "nivel": "fácil",
+  "tema": "Atos que exigem outorga conjugal",
+  "coms": [
+   "Errada. O empréstimo para comprar coisas necessárias à economia doméstica dispensa autorização do outro cônjuge (CC, arts. 1.643 e 1.644).",
+   "Errada. A I não exige outorga.",
+   "Errada. A I não exige outorga.",
+   "CORRETA. Salvo no regime da separação absoluta, nenhum cônjuge pode, sem autorização do outro, pleitear como autor ou réu acerca de bens imóveis (art. 1.647, II) nem gravar de ônus real os bens imóveis (art. 1.647, I), mesmo que sejam bens particulares, como a fazenda anterior ao casamento.",
+   "Errada. A I não exige outorga."
+  ],
+  "base": "CC, arts. 1.643, 1.644 e 1.647.",
+  "dica": "O art. 1.647 vale para todos os regimes, salvo a separação absoluta, e alcança inclusive os imóveis particulares."
+ },
+ "e5-74": {
+  "nivel": "médio",
+  "tema": "Peculato e arrependimento posterior",
+  "coms": [
+   "Errada. A extinção da punibilidade pela reparação antes da sentença irrecorrível é exclusiva do peculato CULPOSO (art. 312, §3º). Filomena agiu com dolo.",
+   "Errada. A redução pela metade com reparação após a sentença irrecorrível também é exclusiva do peculato culposo (art. 312, §3º).",
+   "CORRETA. Desviar em proveito próprio a remuneração de um servidor 'fantasma' é peculato-desvio (art. 312, caput). Como o crime não tem violência ou grave ameaça, a reparação voluntária até o recebimento da denúncia autoriza a redução de 1/3 a 2/3 pelo arrependimento posterior (art. 16).",
+   "Errada. O emprego irregular de verbas (art. 315) é dar destinação pública diversa da prevista em lei. Aqui houve apropriação em proveito próprio.",
+   "Errada. O tipo é peculato, e não emprego irregular de verbas."
+  ],
+  "base": "CP, arts. 16, 312 e 315.",
+  "dica": "No peculato doloso, a reparação do dano antes da denúncia leva ao arrependimento posterior (art. 16), com redução de 1/3 a 2/3. Os benefícios do art. 312, §3º, são só do peculato culposo."
+ },
+ "e5-78": {
+  "nivel": "fácil",
+  "tema": "Classificação dos crimes quanto ao resultado",
+  "coms": [
+   "Errada. O crime material exige o resultado naturalístico para se consumar.",
+   "Errada. Os crimes material e culposo dependem de resultado naturalístico. O culposo, em regra, só existe se houver o resultado.",
+   "CORRETA. Crime formal: o tipo descreve o resultado, mas a consumação ocorre antes dele (consumação antecipada). Crime de mera conduta: o tipo nem descreve resultado naturalístico, como a violação de domicílio.",
+   "Errada. O crime culposo depende do resultado.",
+   "Errada. O omissivo impróprio exige resultado (art. 13, §2º), e o qualificado pelo resultado também."
+  ],
+  "base": "CP, arts. 13 e 14, I.",
+  "dica": "Material: o resultado é necessário. Formal: o resultado é possível, mas dispensável. Mera conduta: não há resultado naturalístico. Na questão 79 do simulado, a definição correta era a de crime formal."
+ }
+}

@@ -1,0 +1,386 @@
+[
+ {
+  "disc": "Direito Civil",
+  "item": "V05",
+  "nivel": "médio",
+  "tema": "Prescrição contra absolutamente incapaz",
+  "enun": "Em 10 de março de 2020, Lívia, então com 14 anos de idade, sofreu graves lesões ao ser atingida por uma placa publicitária mal fixada, que desabou na calçada em frente a uma loja. Lívia completou 16 anos em 2 de agosto de 2021. Em 20 de julho de 2024, por meio de sua mãe, ajuizou ação de reparação civil em face da sociedade empresária responsável pela placa, que alegou prescrição.\nConsiderando que não há relação de consumo e que se aplica o prazo prescricional geral da pretensão de reparação civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A pretensão não está prescrita, pois a prescrição não corre contra absolutamente incapazes, tendo o prazo trienal começado a fluir apenas quando Lívia completou 16 anos.",
+    "CORRETA. Até os 16 anos, Lívia era absolutamente incapaz (CC, art. 3º), e contra ela não corria a prescrição (art. 198, I). O prazo de 3 anos (art. 206, §3º, V) começou em 2/8/2021 e terminaria em 2/8/2024. A ação de 20/7/2024 é tempestiva."
+   ],
+   [
+    "A pretensão está prescrita, pois o prazo trienal começou a fluir na data do evento danoso, em 10 de março de 2020.",
+    "Errada. A causa impeditiva do art. 198, I, impede o início da contagem enquanto durar a incapacidade absoluta."
+   ],
+   [
+    "A pretensão não está prescrita, pois a prescrição somente começa a correr contra o menor quando ele atinge a maioridade civil, aos 18 anos.",
+    "Errada. Entre 16 e 18 anos, o menor é relativamente incapaz, e contra ele a prescrição corre normalmente. Só não corre contra os absolutamente incapazes."
+   ],
+   [
+    "A pretensão não está prescrita, pois o prazo aplicável é o decenal, previsto para as hipóteses em que a lei não fixa prazo menor.",
+    "Errada. A reparação civil tem prazo próprio de 3 anos (art. 206, §3º, V). O prazo de 10 anos (art. 205) é residual."
+   ],
+   [
+    "A prescrição não pode ser reconhecida, pois é matéria que depende de alegação da parte autora e é vedada sua arguição em contestação.",
+    "Errada. O réu pode alegar a prescrição em qualquer grau de jurisdição (art. 193), e o juiz pode reconhecê-la de ofício (CPC, art. 487, II)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 3º, 4º, I, 193, 198, I, 205 e 206, §3º, V; CPC, art. 487, II.",
+  "dica": "Faça a conta na prova: marque a data em que a causa impeditiva cessa e só então some o prazo. A FGV adora datas próximas do limite."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V08",
+  "nivel": "difícil",
+  "tema": "Exoneração do fiador na locação prorrogada",
+  "enun": "Em contrato de locação residencial com prazo de 30 meses, Rodrigo figurou como fiador, responsabilizando-se 'até a efetiva entrega das chaves'. Findo o prazo, a locação prorrogou-se por prazo indeterminado. Meses depois, Rodrigo notificou o locador de que pretendia se exonerar da fiança. Três meses após a notificação, o locatário deixou de pagar os aluguéis.\nSobre a responsabilidade de Rodrigo, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Rodrigo responde pelos aluguéis vencidos até 120 dias após a notificação ao locador, ficando exonerado a partir de então.",
+    "CORRETA. Na locação de imóvel urbano prorrogada por prazo indeterminado, o fiador pode se exonerar notificando o locador e fica obrigado por todos os efeitos da fiança durante 120 dias após a notificação (Lei 8.245/1991, art. 40, X). Como o inadimplemento começou no 3º mês (cerca de 90 dias), Rodrigo responde pelos aluguéis vencidos até o 120º dia."
+   ],
+   [
+    "Rodrigo responde pelos aluguéis vencidos até 60 dias após a notificação, nos termos do Código Civil.",
+    "Errada. Os 60 dias são do art. 835 do CC, regra geral. Para a locação urbana prevalece a lei especial: 120 dias (art. 40, X, da Lei 8.245)."
+   ],
+   [
+    "Rodrigo não pode se exonerar, pois assumiu a garantia até a efetiva entrega das chaves.",
+    "Errada. Pela Lei 8.245, salvo disposição contratual em contrário, a garantia se estende até a efetiva devolução do imóvel, mesmo na prorrogação (art. 39). Isso não retira o direito do fiador de se exonerar na locação por prazo indeterminado (art. 40, X)."
+   ],
+   [
+    "Rodrigo está exonerado desde a data da notificação, pois a fiança não admite interpretação extensiva.",
+    "Errada. A exoneração não é imediata, porque a lei fixa um período de transição. O art. 819 do CC (sem interpretação extensiva) não afasta o prazo legal."
+   ],
+   [
+    "Rodrigo somente poderá se exonerar por sentença judicial, em ação própria de exoneração de fiança.",
+    "Errada. Na locação basta a notificação ao locador (art. 40, X). A ação judicial é desnecessária."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 8.245/1991, arts. 39 e 40, X; CC, arts. 819 e 835.",
+  "dica": "Fiança comum (CC, art. 835): 60 dias. Locação urbana (Lei 8.245, art. 40, X): 120 dias. A FGV coloca os dois números nas alternativas."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V09",
+  "nivel": "médio",
+  "tema": "Perda de uma chance",
+  "enun": "Tânia contratou o advogado Sérgio para recorrer de sentença que julgou improcedente seu pedido de indenização de R$ 200.000,00. Sérgio perdeu o prazo da apelação, e a sentença transitou em julgado. Tânia ajuizou ação contra Sérgio, pedindo a condenação dele ao pagamento dos R$ 200.000,00 que deixou de receber. Restou demonstrado que havia jurisprudência favorável à tese de Tânia no tribunal competente, embora não pacífica.\nSobre a pretensão de Tânia, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Aplica-se a teoria da perda de uma chance, sendo devida indenização proporcional à probabilidade séria e real de êxito do recurso, e não o valor integral que Tânia pretendia obter na ação originária.",
+    "CORRETA. O STJ adota a perda de uma chance quando a chance é séria e real. O dano indenizável é a chance perdida, com valor proporcional à probabilidade de êxito, e não o benefício final esperado. O advogado responde subjetivamente (CDC, art. 14, §4º; EAOAB, art. 32)."
+   ],
+   [
+    "Sérgio deve indenizar o valor integral de R$ 200.000,00, pois sua conduta foi a causa direta do trânsito em julgado desfavorável.",
+    "Errada. Não há certeza de que o recurso seria provido, e indenizar o valor integral equivaleria a presumir a vitória. O que se indeniza é a chance."
+   ],
+   [
+    "Não há dever de indenizar, pois a vitória no recurso era incerta, e o dano hipotético não é indenizável.",
+    "Errada. A chance séria e real é dano certo e autônomo, ainda que o resultado final fosse incerto. Só a chance meramente hipotética não se indeniza."
+   ],
+   [
+    "A responsabilidade de Sérgio é objetiva, por se tratar de prestação de serviços regida pelo Código de Defesa do Consumidor.",
+    "Errada. A responsabilidade do profissional liberal é subjetiva (CDC, art. 14, §4º). Além disso, o STJ tem precedentes afastando o CDC da relação advogado-cliente."
+   ],
+   [
+    "A indenização deve corresponder exclusivamente aos honorários pagos a Sérgio, por se tratar de inadimplemento contratual.",
+    "Errada. A restituição dos honorários não esgota o dano: a chance perdida tem valor econômico próprio."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 186, 402, 403 e 927; CDC, art. 14, §4º; Lei 8.906/1994, art. 32; jurisprudência do STJ sobre perda de uma chance.",
+  "dica": "Perda de uma chance não é lucro cessante nem dano hipotético. É uma terceira categoria: a chance séria e real, valorada pela probabilidade de êxito."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V07",
+  "nivel": "difícil",
+  "tema": "Vícios redibitórios — prazos",
+  "enun": "Em 5 de janeiro, Júlio adquiriu de Paula, particular, um veículo usado, recebendo-o na mesma data. Em 20 de abril, o motor apresentou defeito grave. A perícia constatou que se tratava de vício oculto preexistente à venda que, por sua natureza, só poderia ser percebido com o uso prolongado do veículo. Em 10 de maio, Júlio ajuizou ação redibitória.\nSobre a pretensão de Júlio, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A ação é tempestiva, pois, quando o vício só puder ser conhecido mais tarde, o prazo de 30 dias conta do momento em que o adquirente dele tiver ciência, até o prazo máximo de 180 dias, em se tratando de bem móvel.",
+    "CORRETA. Art. 445, §1º, do CC: o vício que só pode ser conhecido mais tarde tem o prazo contado da ciência, até 180 dias para móveis (e 1 ano para imóveis). A ciência ocorreu em 20/4, dentro dos 180 dias contados de 5/1, e a ação foi ajuizada em 20 dias."
+   ],
+   [
+    "A ação é intempestiva, pois o prazo de 30 dias para bens móveis conta-se da entrega efetiva da coisa.",
+    "Errada. Essa é a regra geral (art. 445, caput), mas o §1º traz regra própria para o vício que, por sua natureza, só se conhece mais tarde."
+   ],
+   [
+    "A ação é tempestiva, pois o prazo decadencial para bens móveis é de 90 dias, contado da ciência do vício.",
+    "Errada. Os 90 dias são do CDC (art. 26, II), para produto durável em relação de consumo. Aqui a venda é entre particulares e rege-se pelo CC."
+   ],
+   [
+    "A ação é intempestiva, pois o prazo de 30 dias se reduz à metade quando o adquirente já estava na posse do bem.",
+    "Errada. A redução à metade só ocorre quando o adquirente já estava na posse ANTES da alienação, contando-se então da alienação (art. 445, caput, parte final). Não é o caso."
+   ],
+   [
+    "A ação é tempestiva, pois o prazo para reclamar de vícios redibitórios é prescricional de 3 anos.",
+    "Errada. O prazo é decadencial (art. 445) e não se confunde com o da pretensão indenizatória."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 441 a 446; CDC, art. 26.",
+  "dica": "Prazos do art. 445: móvel 30 dias e imóvel 1 ano, contados da entrega; vício que só se conhece depois, contado da ciência, com teto de 180 dias (móvel) ou 1 ano (imóvel); posse anterior, prazo pela metade contado da alienação."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V02",
+  "nivel": "fácil",
+  "tema": "Ausência",
+  "enun": "Roberto desapareceu de seu domicílio sem deixar notícias e sem deixar representante ou procurador para administrar seus bens. A requerimento de sua esposa, o juiz declarou a ausência, nomeou curador e determinou a arrecadação dos bens.\nSobre as fases subsequentes, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Decorrido um ano da arrecadação dos bens, os interessados poderão requerer que se declare a ausência e se abra provisoriamente a sucessão.",
+    "CORRETA. Art. 26 do CC: um ano da arrecadação dos bens, ou, se o ausente deixou representante ou procurador, três anos."
+   ],
+   [
+    "A sucessão provisória poderá ser requerida decorridos três anos da arrecadação dos bens, independentemente de o ausente ter deixado representante.",
+    "Errada. Os 3 anos se aplicam quando o ausente deixou representante ou procurador. Sem representante, o prazo é de 1 ano."
+   ],
+   [
+    "A sucessão definitiva poderá ser requerida dois anos após o trânsito em julgado da sentença que concedeu a abertura da sucessão provisória.",
+    "Errada. O prazo é de 10 anos após o trânsito em julgado da sentença da sucessão provisória (art. 37)."
+   ],
+   [
+    "Com a abertura da sucessão provisória, o casamento de Roberto se dissolve automaticamente.",
+    "Errada. O casamento se dissolve pela presunção de morte do ausente, que ocorre com a abertura da sucessão DEFINITIVA (arts. 6º e 1.571, §1º)."
+   ],
+   [
+    "Os herdeiros imitidos na posse dos bens, na sucessão provisória, não precisam prestar garantia, ainda que não sejam ascendentes, descendentes ou cônjuge.",
+    "Errada. Os herdeiros que não sejam ascendentes, descendentes ou cônjuge devem dar garantia da restituição dos bens (art. 30, §2º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 6º, 22 a 39 e 1.571, §1º.",
+  "dica": "Números da ausência: 1 ano (sem representante) ou 3 anos (com representante) para a provisória; 10 anos depois para a definitiva; ou 80 anos de idade com 5 anos sem notícias (art. 38)."
+ },
+ {
+  "disc": "Direito Empresarial",
+  "item": "E03",
+  "nivel": "difícil",
+  "tema": "Aval parcial em título regido por lei especial",
+  "enun": "Tiago emitiu nota promissória no valor de R$ 100.000,00 em favor de Rafael. Lucas, seu amigo, lançou aval no título, com a expressão 'por aval, até R$ 40.000,00', seguida de sua assinatura. Vencido e não pago o título, Rafael executou Tiago e Lucas, pretendendo receber deste a totalidade do valor, ao argumento de que o Código Civil veda o aval parcial.\nSobre a hipótese, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O aval parcial é válido, pois a nota promissória é regida pela Lei Uniforme de Genebra, que o admite, aplicando-se a vedação do Código Civil apenas aos títulos atípicos ou sem disciplina legal específica; Lucas responde até R$ 40.000,00.",
+    "CORRETA. O CC veda o aval parcial (art. 897, parágrafo único), mas o art. 903 manda aplicar as disposições do Código apenas quando não houver lei especial. A LUG (art. 30, aplicável à nota promissória por força do art. 77) admite expressamente o aval parcial."
+   ],
+   [
+    "O aval parcial é nulo, por expressa vedação do Código Civil, devendo ser considerado como aval total, de modo que Lucas responde pelos R$ 100.000,00.",
+    "Errada. A vedação do CC não se aplica aos títulos regidos por lei especial (art. 903). A conversão em aval total não tem amparo legal."
+   ],
+   [
+    "O aval parcial é nulo e, por isso, Lucas não responde por qualquer valor.",
+    "Errada. O aval parcial é válido na LUG."
+   ],
+   [
+    "O aval é válido, mas Lucas só responde após o esgotamento do patrimônio de Tiago, em razão do benefício de ordem.",
+    "Errada. O aval é obrigação autônoma e solidária, sem benefício de ordem (LUG, arts. 32 e 47). O benefício de ordem é próprio da fiança."
+   ],
+   [
+    "O aval é inválido por falta de outorga conjugal, que é exigida para qualquer aval prestado por pessoa casada.",
+    "Errada. O enunciado não informa que Lucas é casado. Além disso, o STJ entende que a outorga do art. 1.647, III, do CC não se aplica aos títulos de crédito típicos regidos por lei especial."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 897, parágrafo único, e 903; LUG (Decreto 57.663/1966), arts. 30, 32, 47 e 77.",
+  "dica": "Na dúvida entre CC e LUG para títulos típicos (letra, nota promissória, cheque, duplicata), lembre que o art. 903 do CC dá preferência à lei especial."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D01-03",
+  "nivel": "médio",
+  "tema": "Lei penal no tempo — crime permanente (Súmula 711/STF)",
+  "enun": "Wesley sequestrou a vítima em 10 de janeiro, mantendo-a em cativeiro. Em 1º de fevereiro, entrou em vigor lei que aumentou a pena do crime de sequestro e cárcere privado. A vítima foi libertada pela polícia em 15 de fevereiro, quando Wesley foi preso em flagrante.\nSobre a lei aplicável, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Aplica-se a lei nova, mais grave, pois o crime permanente se protrai no tempo e a lei entrou em vigor antes da cessação da permanência.",
+    "CORRETA. Súmula 711/STF: a lei penal mais grave aplica-se ao crime continuado ou ao crime permanente se a sua vigência é anterior à cessação da continuidade ou da permanência. A permanência só cessou em 15/2."
+   ],
+   [
+    "Aplica-se a lei anterior, pois o tempo do crime é o momento da ação, e a privação da liberdade teve início em 10 de janeiro.",
+    "Errada. A teoria da atividade (art. 4º) vale, mas no crime permanente a ação se prolonga enquanto dura a permanência."
+   ],
+   [
+    "Aplica-se a lei anterior, pois a lei penal mais grave nunca retroage, nos termos do art. 5º, XL, da Constituição.",
+    "Errada. Não há retroatividade: a lei nova incide sobre conduta que ainda estava sendo praticada na sua vigência."
+   ],
+   [
+    "Aplica-se uma combinação das duas leis, com a pena da lei anterior e o regime da lei nova, conforme o que for mais favorável.",
+    "Errada. A combinação de leis (lex tertia) é vedada pelo STJ (Súmula 501, em matéria de drogas) e pela jurisprudência majoritária. De todo modo, não há o que combinar aqui."
+   ],
+   [
+    "Aplica-se a lei nova apenas ao período posterior à sua vigência, devendo o juiz fracionar a pena proporcionalmente aos dias de cativeiro em cada período.",
+    "Errada. Não existe fracionamento: o crime permanente é único, e incide a lei vigente ao tempo da cessação da permanência."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, XL; CP, arts. 2º, 4º e 148; Súmulas 711/STF e 501/STJ.",
+  "dica": "Crime permanente ou continuado se rege pela lei vigente quando cessa a permanência ou a continuidade, ainda que mais grave (Súmula 711)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D12",
+  "nivel": "médio",
+  "tema": "Conflito aparente: falso e estelionato (Súmula 17/STJ)",
+  "enun": "Hugo falsificou a assinatura do titular em uma folha de cheque que encontrara na rua e utilizou o título para adquirir um aparelho celular em uma loja. A folha foi entregue ao lojista e compensada, não havendo qualquer outra utilização possível do documento.\nSobre a responsabilização penal de Hugo, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Hugo responde apenas por estelionato, pois o falso se exauriu no estelionato, sem mais potencialidade lesiva.",
+    "CORRETA. Súmula 17/STJ: quando o falso se exaure no estelionato, sem mais potencialidade lesiva, é por este absorvido. É o princípio da consunção (crime-meio absorvido pelo crime-fim)."
+   ],
+   [
+    "Hugo responde por falsificação de documento particular e estelionato, em concurso material, por se tratar de condutas distintas.",
+    "Errada. Esgotada a potencialidade lesiva do falso no estelionato, não há concurso: aplica-se a consunção (Súmula 17/STJ)."
+   ],
+   [
+    "Hugo responde apenas por falsificação de documento público, crime mais grave, que absorve o estelionato.",
+    "Errada. O cheque é equiparado a documento público para fins penais (CP, art. 297, §2º), mas a Súmula 17 manda que o estelionato absorva o falso exaurido, independentemente da pena maior do falso."
+   ],
+   [
+    "Hugo responde por falsificação de documento público e estelionato, em concurso formal, por ter havido uma única conduta com dois resultados.",
+    "Errada. Houve duas condutas (falsificar e usar para enganar). Ainda assim, o falso fica absorvido."
+   ],
+   [
+    "Hugo responde por uso de documento falso, pois o crime de falsificação é absorvido pelo seu uso.",
+    "Errada. Quem falsifica e usa responde pela falsificação (o uso é pós-fato impunível). Aqui, porém, tudo se exauriu no estelionato."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 171, 297, §2º, e 304; Súmula 17/STJ.",
+  "dica": "Se o documento falso continua podendo enganar outras pessoas (como uma carteira de identidade falsa), não há absorção e há concurso de crimes."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D13-16",
+  "nivel": "difícil",
+  "tema": "Arquivamento do inquérito (art. 28 do CPP após as ADIs do Pacote Anticrime)",
+  "enun": "Concluído o inquérito policial que apurava crime de lesão corporal grave, o Promotor de Justiça promoveu o arquivamento por insuficiência de elementos de autoria. A vítima, inconformada, procurou orientação sobre o que poderia fazer.\nConsiderando o art. 28 do CPP, na redação da Lei nº 13.964/2019, e a interpretação conferida pelo STF nas ADIs 6.298, 6.299, 6.300 e 6.305, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A vítima, não concordando com o arquivamento, poderá, no prazo de 30 dias do recebimento da comunicação, submeter a matéria à revisão da instância competente do órgão ministerial.",
+    "CORRETA. Art. 28, §1º, do CPP. O STF manteve esse mecanismo e fixou que o MP deve submeter a promoção de arquivamento ao juiz, que pode, diante de patente ilegalidade ou teratologia, provocar a revisão ministerial."
+   ],
+   [
+    "O juiz não exerce qualquer controle sobre a promoção de arquivamento, que se torna definitiva com a mera manifestação do Ministério Público.",
+    "Errada. O STF deu interpretação conforme: a manifestação deve ser submetida ao juiz, que pode provocar a instância revisora do MP em caso de patente ilegalidade ou teratologia."
+   ],
+   [
+    "Arquivado o inquérito por falta de base para a denúncia, a autoridade policial poderá proceder a novas pesquisas, e o Ministério Público poderá oferecer denúncia ainda que não surjam provas novas.",
+    "Errada. A autoridade policial pode fazer novas pesquisas (CPP, art. 18), mas a ação penal só pode ser iniciada com novas provas (Súmula 524/STF)."
+   ],
+   [
+    "Admite-se o arquivamento implícito quando o Ministério Público deixa de denunciar algum dos investigados sem fundamentação expressa.",
+    "Errada. STF e STJ não admitem o arquivamento implícito. A omissão deve ser suprida, e não presumida como arquivamento."
+   ],
+   [
+    "A vítima poderá ajuizar ação penal privada subsidiária da pública, em razão do arquivamento promovido pelo Ministério Público.",
+    "Errada. A ação privada subsidiária pressupõe INÉRCIA do MP (CF, art. 5º, LIX; CPP, art. 29). Arquivar é manifestação, e não inércia."
+   ]
+  ],
+  "c": 0,
+  "base": "CPP, arts. 18, 28 e 29; CF, art. 5º, LIX; Súmula 524/STF; STF, ADIs 6.298, 6.299, 6.300 e 6.305.",
+  "dica": "O arquivamento por atipicidade ou extinção da punibilidade faz coisa julgada material. O arquivamento por falta de provas permite reabertura com prova nova (Súmula 524)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D04-06",
+  "nivel": "médio",
+  "tema": "Omissão imprópria — dever de garante",
+  "enun": "Numa piscina de clube, a criança Theo, de 6 anos, começou a se afogar. Sua babá, Márcia, contratada para vigiá-lo, estava a poucos metros, viu a cena e, distraída ao celular, decidiu não intervir por julgar que 'não seria nada'. Joel, outro frequentador, que sabia nadar, também viu a criança se debatendo e nada fez, embora pudesse prestar socorro sem risco pessoal. Theo morreu.\nSobre a responsabilidade penal de Márcia e Joel, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Márcia, por ter assumido a responsabilidade de impedir o resultado, responde pelo homicídio na forma omissiva imprópria; Joel responde por omissão de socorro, com a pena triplicada em razão do resultado morte.",
+    "CORRETA. Márcia é garante (CP, art. 13, §2º, b), e sua omissão equivale à ação: responde pelo resultado, a título de dolo ou culpa conforme o elemento subjetivo apurado. Joel não é garante e responde pelo crime omissivo próprio do art. 135, com a pena triplicada pela morte (parágrafo único)."
+   ],
+   [
+    "Márcia e Joel respondem por homicídio na forma omissiva imprópria, pois ambos podiam agir para evitar o resultado.",
+    "Errada. A mera possibilidade de agir não torna alguém garante. É preciso estar em uma das hipóteses do art. 13, §2º."
+   ],
+   [
+    "Márcia e Joel respondem apenas por omissão de socorro, pois nenhum deles causou diretamente a morte de Theo.",
+    "Errada. Para o garante, a omissão é penalmente relevante como causa do resultado (art. 13, §2º)."
+   ],
+   [
+    "Márcia responde por omissão de socorro majorada, e Joel não responde por crime algum, por inexistir vínculo com a vítima.",
+    "Errada. Joel tinha o dever geral de assistência (art. 135), e Márcia tinha o dever especial de garante."
+   ],
+   [
+    "Márcia somente poderia ser responsabilizada se houvesse lei específica impondo dever de cuidado às babás.",
+    "Errada. O dever de garante pode decorrer da assunção fática ou contratual da responsabilidade (art. 13, §2º, b), sem lei específica."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 13, §2º, 121 e 135, parágrafo único.",
+  "dica": "Garantes do art. 13, §2º: quem tem dever legal (pais), quem assumiu a responsabilidade (babá, salva-vidas) e quem criou o risco (ingerência)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21d",
+  "nivel": "fácil",
+  "tema": "Concussão x corrupção passiva",
+  "enun": "Durante fiscalização sanitária em um restaurante, o fiscal municipal Otávio afirmou ao proprietário, Felipe: 'Se você não me pagar R$ 5.000,00 até sexta-feira, eu interdito o seu estabelecimento'. Felipe, temendo prejuízos, entregou a quantia a Otávio na quinta-feira.\nSobre a hipótese, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Otávio praticou concussão, consumada no momento da exigência, sendo o recebimento mero exaurimento; Felipe não pratica crime, pois foi vítima da exigência.",
+    "CORRETA. Exigir vantagem indevida em razão da função é concussão (CP, art. 316). O crime é formal e se consuma com a exigência. Quem cede à exigência é vítima e não comete corrupção ativa."
+   ],
+   [
+    "Otávio praticou corrupção passiva, e Felipe, corrupção ativa, pois ambos participaram do ajuste ilícito.",
+    "Errada. Na corrupção passiva o verbo é solicitar, receber ou aceitar promessa. Aqui houve EXIGÊNCIA, com intimidação, o que é concussão."
+   ],
+   [
+    "Otávio praticou concussão, que somente se consumou na quinta-feira, com o recebimento da quantia.",
+    "Errada. A concussão é crime formal: a consumação ocorre com a exigência, e o recebimento é exaurimento."
+   ],
+   [
+    "Otávio praticou extorsão, pois houve grave ameaça para obtenção de vantagem econômica.",
+    "Errada. A exigência ligada à função pública e ao temor da autoridade caracteriza o crime específico de concussão. A extorsão exige violência ou grave ameaça de mal injusto alheio à função."
+   ],
+   [
+    "Otávio praticou prevaricação, pois deixou de praticar ato de ofício para satisfazer interesse pessoal.",
+    "Errada. Na prevaricação não há vantagem indevida exigida de terceiro: o agente retarda ou omite ato de ofício para satisfazer interesse ou sentimento pessoal (art. 319)."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 158, 316, 317, 319 e 333.",
+  "dica": "Exigir é concussão (art. 316). Solicitar ou receber é corrupção passiva (art. 317). Oferecer ou prometer é corrupção ativa (art. 333). Quem cede à exigência é vítima."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D08-10",
+  "nivel": "médio",
+  "tema": "Embriaguez e imputabilidade",
+  "enun": "Em uma festa, ocorreram três episódios distintos de lesão corporal:\n• Pedro, que bebeu voluntariamente até ficar completamente embriagado, agrediu um convidado;\n• Mário, cujo refrigerante foi adulterado com grande quantidade de álcool por terceiro, sem seu conhecimento, ficou completamente embriagado e, inteiramente incapaz de entender o caráter ilícito do fato, agrediu outro convidado;\n• Luiz, portador de alcoolismo crônico que lhe retirou integralmente a capacidade de entendimento, agrediu um garçom.\nSobre a responsabilidade penal de cada um, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Pedro é imputável; Mário é isento de pena por embriaguez completa proveniente de caso fortuito; Luiz é inimputável, tratando-se a embriaguez patológica como doença mental, sujeita a medida de segurança.",
+    "CORRETA. A embriaguez voluntária ou culposa não exclui a imputabilidade (CP, art. 28, II, actio libera in causa). A completa e fortuita isenta de pena (§1º). A patológica (alcoolismo crônico) se equipara a doença mental (art. 26) e leva à absolvição imprópria com medida de segurança."
+   ],
+   [
+    "Os três são isentos de pena, pois em todos os casos a embriaguez era completa.",
+    "Errada. A embriaguez voluntária, mesmo completa, não exclui a imputabilidade (art. 28, II)."
+   ],
+   [
+    "Pedro e Mário são imputáveis, pois a embriaguez, voluntária ou não, nunca exclui a imputabilidade; Luiz é inimputável.",
+    "Errada. A embriaguez completa proveniente de caso fortuito ou força maior isenta de pena (art. 28, §1º)."
+   ],
+   [
+    "Pedro tem a pena reduzida de um a dois terços; Mário e Luiz são isentos de pena, sem aplicação de medida de segurança.",
+    "Errada. A redução de 1 a 2/3 é para a embriaguez fortuita INCOMPLETA (art. 28, §2º). Luiz, inimputável por doença mental, recebe medida de segurança."
+   ],
+   [
+    "Pedro é inimputável, por aplicação da teoria da actio libera in causa, que exclui a culpabilidade de quem se embriaga voluntariamente.",
+    "Errada. A actio libera in causa fundamenta justamente a punição de quem se embriagou voluntariamente, transportando a imputabilidade para o momento em que bebeu."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 26, 28, II e §§1º e 2º, e 97.",
+  "dica": "Voluntária ou culposa: responde. Fortuita completa: isento. Fortuita incompleta: redução de 1 a 2/3. Patológica: tratada como doença mental (art. 26). Preordenada: agravante (art. 61, II, l)."
+ }
+]
