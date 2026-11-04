@@ -1,0 +1,483 @@
+[
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P12-15",
+  "nivel": "difícil",
+  "tema": "Agravo de instrumento: taxatividade mitigada (Tema 988/STJ)",
+  "enun": "Em ação de indenização proposta por Valéria contra a Construtora Kappa, o juiz, na decisão de saneamento, indeferiu a produção de prova pericial de engenharia requerida pela ré, por considerá-la desnecessária. Na mesma decisão, rejeitou a alegação de incompetência territorial, mantendo o processo na comarca escolhida pela autora, a mais de mil quilômetros da sede da ré e do local do imóvel. Meses depois, já na fase de cumprimento de sentença, o juiz rejeitou a impugnação apresentada pela construtora quanto ao cálculo dos juros. A construtora pretende recorrer imediatamente das três decisões. Considerando o Código de Processo Civil e a jurisprudência do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A decisão proferida no cumprimento de sentença é recorrível por agravo de instrumento; a decisão sobre competência pode ser impugnada por agravo, com base na taxatividade mitigada, diante da urgência decorrente da inutilidade do exame posterior; e o indeferimento da perícia, em regra, deve ser impugnado em preliminar de apelação.",
+    "CORRETA. O art. 1.015, parágrafo único, torna agraváveis todas as interlocutórias do cumprimento de sentença. No Tema 988, o STJ fixou que o rol do art. 1.015 é de taxatividade mitigada e admite o agravo quando houver urgência decorrente da inutilidade do julgamento da questão na apelação, situação que o STJ reconhece para decisões sobre competência. O indeferimento de prova não consta do rol e, em regra, não precluiu: deve ser suscitado em preliminar de apelação ou nas contrarrazões (art. 1.009, §1º)."
+   ],
+   [
+    "As três decisões são irrecorríveis de imediato, porque o rol do art. 1.015 do CPC é absolutamente taxativo e nenhuma delas está expressamente prevista nele.",
+    "Errada. O parágrafo único do art. 1.015 abrange as decisões do cumprimento de sentença, e o STJ (Tema 988) adota a taxatividade mitigada, e não a taxatividade absoluta."
+   ],
+   [
+    "As três decisões são agraváveis, porque o rol do art. 1.015 é meramente exemplificativo, admitindo agravo contra qualquer decisão interlocutória.",
+    "Errada. O STJ rejeitou a tese do rol exemplificativo. A mitigação exige urgência decorrente da inutilidade do julgamento diferido."
+   ],
+   [
+    "O indeferimento da perícia é agravável, por se tratar de decisão sobre redistribuição do ônus da prova, e a decisão sobre competência deve ser impugnada em preliminar de apelação.",
+    "Errada. Indeferir prova não é redistribuir o ônus da prova (art. 1.015, XI, combinado com art. 373, §1º). Quanto à competência, o STJ admite agravo com base na taxatividade mitigada."
+   ],
+   [
+    "A decisão sobre competência e o indeferimento da perícia, por não serem agraváveis, precluem se não impugnados por mandado de segurança no prazo de 120 dias.",
+    "Errada. As interlocutórias não agraváveis não precluem (art. 1.009, §1º); são impugnadas na apelação ou nas contrarrazões. O mandado de segurança não é o sucedâneo recursal adequado."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 1.009, §1º, e 1.015; STJ, Tema 988 (REsp 1.704.520).",
+  "dica": "Agravo: rol do 1.015 + parágrafo único (liquidação, cumprimento, execução, inventário: tudo agravável) + urgência (Tema 988). O resto vai em preliminar de apelação."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P25-26",
+  "nivel": "médio",
+  "tema": "Convenção de arbitragem no processo judicial",
+  "enun": "A Distribuidora Lambda e a Indústria Sigma celebraram contrato de fornecimento com cláusula compromissória cheia, que elegia câmara arbitral para dirimir qualquer controvérsia. Surgido o litígio, a Lambda ajuizou ação de cobrança na Justiça estadual. Citada, a Sigma apresentou contestação apenas quanto ao mérito, sem mencionar a cláusula. Na audiência, o juiz, ao examinar o contrato, constatou a existência da convenção de arbitragem e pretendeu extinguir o processo de ofício. Em outro caso, a Indústria Sigma, vencida em procedimento arbitral, pretende anular a sentença arbitral alegando que o árbitro era impedido, tendo sido notificada da sentença há quatro meses. Com base na Lei nº 9.307/1996 e no CPC, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O juiz não pode conhecer de ofício da convenção de arbitragem, e a ausência de sua alegação na contestação implica aceitação da jurisdição estatal e renúncia ao juízo arbitral; já a ação anulatória da Sigma está fora do prazo de 90 dias contados da notificação da sentença arbitral.",
+    "CORRETA. Art. 337, §5º, do CPC: o juiz não conhece de ofício da convenção de arbitragem. Art. 337, §6º: a ausência de alegação na contestação implica aceitação da jurisdição estatal e renúncia ao juízo arbitral. Art. 33, §1º, da Lei 9.307/1996: a ação de nulidade deve ser proposta em até 90 dias do recebimento da notificação da sentença arbitral."
+   ],
+   [
+    "O juiz deve extinguir o processo sem resolução do mérito de ofício, pois a convenção de arbitragem é pressuposto processual negativo cognoscível a qualquer tempo.",
+    "Errada. A convenção de arbitragem é a exceção expressa do art. 337, §5º: diferentemente das demais matérias do art. 337, não pode ser conhecida de ofício."
+   ],
+   [
+    "A Sigma pode alegar a convenção de arbitragem a qualquer tempo, até a sentença, por se tratar de matéria de ordem pública.",
+    "Errada. A não alegação na contestação gera renúncia ao juízo arbitral (art. 337, §6º); não se trata de matéria de ordem pública."
+   ],
+   [
+    "A sentença arbitral pode ser impugnada por apelação ao Tribunal de Justiça no prazo de quinze dias, e a ação anulatória é cabível no prazo de dois anos.",
+    "Errada. A sentença arbitral não se sujeita a recurso nem a homologação pelo Judiciário (art. 18 da Lei 9.307/1996). A ação anulatória tem prazo de 90 dias, e o prazo de dois anos é o da rescisória."
+   ],
+   [
+    "Cabe ao Judiciário, e não ao árbitro, decidir previamente sobre a existência, a validade e a eficácia da cláusula compromissória, devendo o processo arbitral ser suspenso até essa decisão.",
+    "Errada. Pelo princípio da competência-competência (art. 8º, parágrafo único, da Lei 9.307/1996), cabe ao árbitro decidir, de ofício ou por provocação, sobre a existência, a validade e a eficácia da convenção."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 337, §§5º e 6º, 485, VII, e 1.015, III; Lei 9.307/1996, arts. 8º, 18, 31 e 33.",
+  "dica": "Arbitragem: o juiz não conhece de ofício; se o réu não alega na contestação, renunciou. Anulatória: 90 dias. Competência-competência: o árbitro decide antes."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P02",
+  "nivel": "fácil",
+  "tema": "Impedimento x suspeição do juiz",
+  "enun": "A juíza Carolina recebeu para julgamento ação em que figuram como partes a Seguradora Ômega e Rafael. Verificou-se que: (i) a filha da magistrada, advogada, já atuava no processo como patrona da seguradora quando Carolina assumiu a vara; (ii) Rafael é amigo íntimo do marido da juíza, frequentando a casa do casal. A sentença foi proferida por Carolina e transitou em julgado sem que nenhuma das partes arguisse qualquer vício. A seguradora venceu a demanda. Rafael somente soube das circunstâncias após o trânsito em julgado, quando encontrou a juíza e o marido em uma festa na casa de amigos em comum, e consultou um advogado para saber se ainda poderia desconstituir a decisão. Considerando o Código de Processo Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A atuação da filha como advogada de uma das partes gera impedimento da juíza, vício que autoriza a propositura de ação rescisória.",
+    "CORRETA. Há impedimento quando postula no processo, como advogado, parente do juiz em linha reta ou colateral até o terceiro grau (art. 144, III), e a filha já atuava antes de a juíza assumir (§1º). O impedimento é vício grave que autoriza a rescisória (art. 966, II), ao contrário da suspeição."
+   ],
+   [
+    "A atuação da filha gera mera suspeição, que se convalida se não arguida no prazo de quinze dias.",
+    "Errada. O parentesco com advogado da parte é hipótese de impedimento (art. 144, III), objetivo e não sujeito a preclusão para fins de rescisória."
+   ],
+   [
+    "A amizade íntima entre Rafael e o marido da juíza configura impedimento, e a sentença é rescindível também por esse fundamento.",
+    "Errada. A amizade íntima é hipótese de suspeição (art. 145, I) e refere-se à relação do próprio juiz com a parte ou o advogado. Suspeição não é fundamento de rescisória (art. 966, II, menciona só impedimento e incompetência absoluta)."
+   ],
+   [
+    "Nenhum vício existe, pois o impedimento só ocorre quando o próprio juiz, seu cônjuge ou parente for parte no processo.",
+    "Errada. O art. 144 tem várias hipóteses, inclusive a do inciso III (parente atuando como advogado)."
+   ],
+   [
+    "O impedimento poderia ser arguido no prazo de quinze dias, contado do trânsito em julgado da sentença, por simples petição nos autos.",
+    "Errada. O prazo de quinze dias do art. 146 conta-se do conhecimento do fato, no curso do processo. Após o trânsito em julgado, a via é a ação rescisória."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 144, III e §1º, 145, 146 e 966, II.",
+  "dica": "Impedimento = objetivo, permite rescisória. Suspeição = subjetiva (amizade, inimizade, interesse) e não permite rescisória."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V08",
+  "nivel": "médio",
+  "tema": "Revogação da doação por ingratidão",
+  "enun": "Em 2023, Augusto doou à sobrinha Marina um apartamento, sem impor encargo. Em janeiro de 2025, Marina, em discussão familiar, agrediu fisicamente o tio, causando-lhe lesões graves; Augusto tomou conhecimento imediato do fato e da autoria. Em março de 2026, Augusto ajuizou ação de revogação da doação. Na mesma época, ele pretendeu também revogar outra doação, feita em 2020 ao enfermeiro Caio, como retribuição pelos cuidados prestados durante longa enfermidade, porque Caio passou a ofendê-lo publicamente. Augusto alega que só não ajuizou antes a ação contra Marina porque esperava uma reconciliação familiar, que não ocorreu. Marina contestou alegando, além da questão temporal, que a agressão ocorreu em momento de descontrole emocional. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A revogação contra Marina não é mais possível, pois decorreu mais de um ano desde que Augusto soube do fato e de sua autoria, e a doação a Caio, por ser remuneratória, não se revoga por ingratidão.",
+    "CORRETA. A revogação por ingratidão deve ser pleiteada dentro de um ano, contado de quando o doador soube do fato e de que o donatário foi o autor (art. 559 do CC). Ofensa física é causa de ingratidão (art. 557, II), mas o prazo decadencial se esgotou em janeiro de 2026. As doações remuneratórias não se revogam por ingratidão (art. 564, I)."
+   ],
+   [
+    "A revogação contra Marina é possível, pois o prazo para revogar a doação por ingratidão é de dois anos, e a doação a Caio também pode ser revogada por injúria grave.",
+    "Errada. O prazo é de um ano (art. 559), e a doação remuneratória é irrevogável por ingratidão (art. 564, I)."
+   ],
+   [
+    "A revogação contra Marina é possível, pois a lesão corporal grave permite revogação a qualquer tempo, e a doação a Caio só não poderia ser revogada se houvesse encargo.",
+    "Errada. Não há revogação 'a qualquer tempo': o prazo é decadencial de um ano. Além das doações com encargo já cumprido, também as remuneratórias são irrevogáveis por ingratidão (art. 564, I e II)."
+   ],
+   [
+    "O direito de revogar a doação por ingratidão pode ser renunciado antecipadamente na própria escritura de doação, o que dispensaria o exame do prazo.",
+    "Errada. Não se pode renunciar antecipadamente ao direito de revogar a liberalidade por ingratidão do donatário (art. 556)."
+   ],
+   [
+    "Como Marina é parente colateral de Augusto, a revogação depende de prévia condenação criminal pela lesão corporal.",
+    "Errada. A lei não exige condenação criminal prévia para a revogação por ingratidão, e o parentesco não altera o regime."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 555 a 564.",
+  "dica": "Ingratidão: 1 ano a contar do conhecimento do fato e da autoria; irrenunciável antecipadamente. Remuneratória, com encargo cumprido, obrigação natural e para casamento não se revogam."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V19",
+  "nivel": "difícil",
+  "tema": "Separação obrigatória do maior de 70 anos (Tema 1.236/STF)",
+  "enun": "Otávio, viúvo de 72 anos, e Lívia, de 55 anos, decidiram casar-se em 2025. Assessorados por advogado, compareceram ao cartório e lavraram escritura pública de pacto antenupcial adotando o regime da comunhão parcial de bens. O oficial do registro civil recusou-se a habilitar o casamento com esse regime, afirmando que o art. 1.641, II, do Código Civil impõe a separação obrigatória a quem tem mais de 70 anos. Paralelamente, o irmão de Otávio, Vicente, de 75 anos, que vive em união estável desde os 71 anos sob o regime legal presumido, pergunta se pode alterar o regime. Lívia tem dois filhos de relacionamento anterior, e Otávio, um filho, que manifestou discordância com a escolha do regime. O advogado do casal sustentou que a escritura pública é o instrumento adequado e que a capacidade civil de Otávio está plenamente preservada. Considerando o Código Civil e a jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A recusa do oficial é indevida, pois o regime da separação obrigatória para maiores de 70 anos pode ser afastado por expressa manifestação de vontade das partes, mediante escritura pública, regra que se aplica também às uniões estáveis; Vicente pode alterar o regime, com efeitos apenas prospectivos.",
+    "CORRETA. Tese do Tema 1.236 do STF (ARE 1.309.642, 2024): nos casamentos e uniões estáveis envolvendo pessoa maior de 70 anos, o regime de separação de bens do art. 1.641, II, pode ser afastado por expressa manifestação de vontade das partes, mediante escritura pública. Para quem já está casado ou em união estável, o STF admitiu a alteração do regime, por autorização judicial no casamento ou por escritura pública na união estável, com efeitos patrimoniais apenas para o futuro."
+   ],
+   [
+    "A recusa do oficial é devida, porque o STF declarou constitucional o art. 1.641, II, do Código Civil, sem ressalvas, como forma de proteção do idoso e de seus herdeiros.",
+    "Errada. O STF fez interpretação conforme: a separação obrigatória deixou de ser imperativa e passou a ser regime supletivo, afastável por escritura pública."
+   ],
+   [
+    "A recusa do oficial é indevida, porque o STF declarou inconstitucional o art. 1.641, II, por discriminação etária, de modo que o regime legal para maiores de 70 anos passou a ser a comunhão parcial, independentemente de pacto.",
+    "Errada. O dispositivo não foi declarado inconstitucional: sem manifestação expressa em escritura pública, continua incidindo a separação de bens para o maior de 70 anos."
+   ],
+   [
+    "O afastamento da separação obrigatória é possível no casamento, mas não na união estável, à qual não se aplica o art. 1.641, II, do Código Civil.",
+    "Errada. A tese do STF abrange expressamente casamentos e uniões estáveis."
+   ],
+   [
+    "Vicente pode alterar o regime da união estável com efeitos retroativos ao início da convivência, alcançando os bens adquiridos desde os 71 anos.",
+    "Errada. O STF assentou que a alteração do regime produz efeitos apenas prospectivos, preservando os direitos de terceiros e a situação patrimonial já consolidada."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 1.639, §2º, 1.640 e 1.641, II; STF, Tema 1.236 (ARE 1.309.642).",
+  "dica": "Maior de 70: separação de bens só se o casal não lavrar escritura escolhendo outro regime (Tema 1.236). Vale para casamento e união estável; mudar depois só produz efeitos para o futuro."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V09",
+  "nivel": "médio",
+  "tema": "Responsabilidade dos pais por atos dos filhos menores",
+  "enun": "Pedro, de 16 anos, que mora com os pais, Ana e Bruno, pegou sem autorização o carro da família e, dirigindo em alta velocidade, atropelou Joaquim, causando-lhe graves lesões. Os pais comprovaram que guardavam as chaves em local trancado e que o filho jamais demonstrara interesse em dirigir. Pedro herdou de um avô patrimônio considerável, administrado pelos pais. Joaquim ajuizou ação de indenização contra Ana, Bruno e Pedro. Na contestação, os pais também alegaram que Pedro, por ter mais de 16 anos e patrimônio próprio, deveria responder sozinho, e requereram, em caso de condenação, o direito de cobrar do filho os valores que viessem a pagar. Considerando o Código Civil e a jurisprudência do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Os pais respondem objetivamente pelos danos causados pelo filho menor que esteja sob sua autoridade e em sua companhia, e Pedro responde de forma subsidiária e mitigada, se os pais não dispuserem de meios suficientes; os pais que pagarem a indenização não têm direito de regresso contra o filho.",
+    "CORRETA. Os pais respondem pelos filhos menores sob sua autoridade e em sua companhia (art. 932, I) independentemente de culpa (art. 933); a prova de cuidado com as chaves não os exime. O incapaz responde subsidiariamente se os responsáveis não tiverem obrigação ou meios suficientes, e a indenização é equitativa e não pode privá-lo do necessário (art. 928). Não há regresso contra descendente absoluta ou relativamente incapaz (art. 934)."
+   ],
+   [
+    "Os pais não respondem, porque comprovaram que não houve culpa in vigilando, já que as chaves estavam guardadas em local trancado.",
+    "Errada. Desde o CC/2002, a responsabilidade dos pais é objetiva (art. 933). A culpa presumida do Código de 1916 foi superada."
+   ],
+   [
+    "Pedro responde solidária e integralmente com os pais, por ser relativamente incapaz e ter patrimônio próprio.",
+    "Errada. A responsabilidade do incapaz é subsidiária e equitativa (art. 928). Para o STJ, a solidariedade do parágrafo único do art. 942 não se aplica ao menor incapaz em relação aos pais."
+   ],
+   [
+    "Os pais respondem, mas, após pagar a indenização, podem reaver de Pedro o que pagaram, utilizando o patrimônio herdado do avô.",
+    "Errada. O art. 934 veda o regresso contra descendente absoluta ou relativamente incapaz."
+   ],
+   [
+    "Somente Pedro responde, pois, por ser maior de 16 anos, é relativamente capaz e responde pessoalmente por seus atos ilícitos.",
+    "Errada. O menor de 18 anos não emancipado continua sob a autoridade dos pais, que respondem pelos seus atos (art. 932, I)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 928, 932, I, 933, 934 e 942; STJ, REsp 1.436.401/MG.",
+  "dica": "Pais pelos filhos: responsabilidade objetiva. O filho responde de forma subsidiária e equitativa. Não há regresso contra descendente incapaz."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V01",
+  "nivel": "fácil",
+  "tema": "Vigência e repristinação (LINDB)",
+  "enun": "Analise as afirmativas a seguir, relativas à vigência das leis segundo a Lei de Introdução às Normas do Direito Brasileiro, e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Salvo disposição em contrário, a lei começa a vigorar em todo o país quarenta e cinco dias depois de oficialmente publicada e, nos Estados estrangeiros, sua obrigatoriedade inicia-se três meses depois de oficialmente publicada.\n( ) Salvo disposição em contrário, a lei revogada se restaura por ter a lei revogadora perdido a vigência.\n( ) As correções a texto de lei já em vigor consideram-se lei nova.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   [
+    "V – F – V.",
+    "CORRETA. (1) V: art. 1º, caput e §1º, da LINDB. (2) F: o art. 2º, §3º, diz o contrário. Salvo disposição em contrário, a lei revogada não se restaura por ter a revogadora perdido a vigência; não há repristinação automática. (3) V: art. 1º, §4º."
+   ],
+   [
+    "V – V – V.",
+    "Errada. A repristinação não é automática (art. 2º, §3º)."
+   ],
+   [
+    "F – F – V.",
+    "Errada. A primeira reproduz o art. 1º, caput e §1º, da LINDB."
+   ],
+   [
+    "V – F – F.",
+    "Errada. Correção de texto de lei já em vigor é lei nova (art. 1º, §4º)."
+   ],
+   [
+    "F – V – F.",
+    "Errada. Inverte as três assertivas."
+   ]
+  ],
+  "c": 0,
+  "base": "LINDB, arts. 1º e 2º.",
+  "dica": "LINDB: 45 dias no Brasil, 3 meses no exterior. Repristinação só se a lei disser expressamente. Correção de lei já vigente = lei nova; antes de entrar em vigor, reabre a vacatio.",
+  "fixa": true
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V16-17",
+  "nivel": "fácil",
+  "tema": "Requisitos da adoção (ECA, art. 42)",
+  "enun": "Diante da morte dos pais de Davi, de 8 anos, várias pessoas manifestaram interesse em adotá-lo: (i) a avó materna, Sônia, com quem ele já convive; (ii) Gabriel, de 20 anos, solteiro, vizinho que mantém forte vínculo afetivo com a criança; (iii) Teresa e Hugo, divorciados, que iniciaram o estágio de convivência com Davi quando ainda eram casados e acordaram sobre guarda e visitas; (iv) Fábio, irmão de Davi, de 30 anos. O Ministério Público, em seu parecer, ressaltou que todos os interessados mantêm vínculos afetivos com a criança e que a decisão deve observar o melhor interesse de Davi e as regras do Estatuto sobre quem pode adotar. Considerando o Estatuto da Criança e do Adolescente, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Podem adotar Davi Gabriel, desde que observados os demais requisitos legais, e Teresa e Hugo, conjuntamente, comprovada a afinidade com o não detentor da guarda; Sônia e Fábio não podem adotá-lo.",
+    "CORRETA. Podem adotar os maiores de 18 anos, independentemente do estado civil, com diferença mínima de 16 anos em relação ao adotando (art. 42, caput e §3º), e Gabriel tem 20 anos contra 8. Divorciados podem adotar conjuntamente se acordarem sobre guarda e visitas e se o estágio de convivência tiver começado na constância da sociedade conjugal, comprovados vínculos de afinidade e afetividade com o não detentor da guarda (§4º). Ascendentes e irmãos não podem adotar (§1º)."
+   ],
+   [
+    "Somente Sônia pode adotar, pois a adoção por avós é preferencial por manter a criança na família extensa.",
+    "Errada. O art. 42, §1º, veda a adoção por ascendentes e irmãos do adotando. A família extensa pode obter guarda ou tutela, mas não adoção."
+   ],
+   [
+    "Gabriel não pode adotar, porque a lei exige idade mínima de 21 anos para o adotante.",
+    "Errada. Desde a Lei 12.010/2009, a idade mínima é de 18 anos (art. 42, caput)."
+   ],
+   [
+    "Teresa e Hugo não podem adotar conjuntamente, pois a adoção conjunta exige que os adotantes sejam casados ou vivam em união estável no momento da sentença.",
+    "Errada. O §4º do art. 42 abre exceção expressa para divorciados, judicialmente separados e ex-companheiros, preenchidos os requisitos."
+   ],
+   [
+    "Fábio pode adotar, pois a vedação legal alcança apenas os ascendentes, sendo admitida a adoção entre irmãos com diferença de idade superior a dezesseis anos.",
+    "Errada. A vedação do art. 42, §1º, alcança ascendentes e irmãos."
+   ]
+  ],
+  "c": 0,
+  "base": "ECA, art. 42, caput e §§1º a 4º.",
+  "dica": "Adoção: 18 anos + 16 de diferença. Avós e irmãos não adotam. Divorciados podem adotar juntos se o convívio começou durante o casamento."
+ },
+ {
+  "disc": "Direito Empresarial",
+  "item": "E12",
+  "nivel": "fácil",
+  "tema": "Direito de arrependimento no comércio eletrônico",
+  "enun": "Mariana adquiriu, pelo aplicativo de uma loja virtual, uma geladeira e um fogão, pagando com cartão de crédito, inclusive o frete. Os produtos foram entregues em 3 de março. No dia 8 do mesmo mês, sem que houvesse qualquer defeito, Mariana comunicou à loja que desistia da compra da geladeira, por ter encontrado modelo mais adequado à sua cozinha. A loja respondeu que só aceitaria a devolução mediante pagamento do frete de retorno e que a política da empresa, informada no site, previa restituição em crédito para compras futuras. Considerando o Código de Defesa do Consumidor e o Decreto nº 7.962/2013, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Mariana pode desistir da compra, pois exerceu o direito de arrependimento dentro de sete dias do recebimento do produto, e tem direito à devolução imediata dos valores pagos, monetariamente atualizados, inclusive do frete, sem custos de retorno.",
+    "CORRETA. O art. 49 do CDC garante a desistência no prazo de sete dias da assinatura ou do recebimento do produto, nas contratações fora do estabelecimento comercial. Os valores pagos, a qualquer título, devem ser devolvidos de imediato e atualizados (parágrafo único). O Decreto 7.962/2013 (art. 5º) obriga o fornecedor a comunicar a administradora do cartão para estornar o valor."
+   ],
+   [
+    "Mariana não pode desistir, porque o direito de arrependimento pressupõe vício do produto.",
+    "Errada. O direito de arrependimento é imotivado e independe de defeito; o regime de vícios é outro (arts. 18 e 26)."
+   ],
+   [
+    "Mariana pode desistir, mas a loja pode reter o valor do frete e condicionar a devolução ao pagamento do frete de retorno, conforme informado no site.",
+    "Errada. O parágrafo único do art. 49 manda devolver os valores pagos 'a qualquer título', o que inclui o frete. Cláusula em sentido contrário é abusiva (art. 51, I e IV)."
+   ],
+   [
+    "Mariana pode desistir, mas o prazo de sete dias conta-se da data da compra pelo aplicativo, e não da entrega.",
+    "Errada. O prazo conta-se 'de sua assinatura ou do ato de recebimento do produto ou serviço' (art. 49), e prevalece o termo mais favorável ao consumidor."
+   ],
+   [
+    "A restituição em crédito para compras futuras é válida, desde que informada previamente no site, em respeito ao dever de informação.",
+    "Errada. A restituição deve ser imediata e em dinheiro, ou por estorno. A política da empresa não pode afastar direito do consumidor previsto em norma de ordem pública (art. 1º do CDC)."
+   ]
+  ],
+  "c": 0,
+  "base": "CDC, arts. 1º, 49 e 51; Decreto 7.962/2013, art. 5º.",
+  "dica": "Arrependimento: compra fora da loja, 7 dias do recebimento, sem motivo, devolve tudo, inclusive o frete."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D13-16",
+  "nivel": "médio",
+  "tema": "Ação penal na violência contra a mulher",
+  "enun": "Após o término do namoro, Rodrigo passou a perseguir Fernanda. Em uma ocasião, ameaçou-a de morte por mensagens, dizendo que 'nenhuma mulher o abandona'; dias depois, encontrou-a na rua e desferiu-lhe tapas, causando lesões leves. Fernanda registrou ocorrência, mas, na delegacia, declarou que não desejava representar contra Rodrigo por nenhum dos fatos, pois temia represálias. O Ministério Público ofereceu denúncia por ambos os fatos, e a defesa de Rodrigo requereu a designação da audiência prevista no art. 16 da Lei Maria da Penha, para que a vítima pudesse confirmar em juízo seu desinteresse, além da aplicação dos institutos despenalizadores da Lei nº 9.099/1995. Considerando o Código Penal, a Lei Maria da Penha e a jurisprudência do STJ e do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A lesão corporal leve praticada no contexto de violência doméstica é de ação penal pública incondicionada, e a ameaça praticada contra a mulher por razões da condição do sexo feminino também se procede independentemente de representação.",
+    "CORRETA. Súmula 542 do STJ (e ADI 4.424 do STF): a ação penal por lesão corporal resultante de violência doméstica contra a mulher é pública incondicionada, porque o art. 41 da Lei Maria da Penha afasta a Lei 9.099/1995. Desde a Lei 14.994/2024, a ameaça contra a mulher por razões da condição do sexo feminino tem pena em dobro e ação penal incondicionada (art. 147, §§1º e 2º, do CP)."
+   ],
+   [
+    "Ambos os crimes dependem de representação, e a manifestação de Fernanda na delegacia extingue a punibilidade pela renúncia.",
+    "Errada. A lesão no contexto doméstico é de ação incondicionada (Súmula 542/STJ), e a ameaça por razões de gênero também passou a ser incondicionada (art. 147, §2º, do CP)."
+   ],
+   [
+    "A lesão corporal depende de representação, que só pode ser retratada perante o juiz, em audiência designada para esse fim, antes do recebimento da denúncia.",
+    "Errada. A audiência do art. 16 da Lei Maria da Penha se aplica aos crimes de ação condicionada, o que não é o caso da lesão corporal no contexto doméstico, que é incondicionada."
+   ],
+   [
+    "Como o relacionamento já havia terminado, não incide a Lei Maria da Penha, e os crimes seguem o rito dos Juizados Especiais Criminais.",
+    "Errada. A Lei 11.340/2006 alcança qualquer relação íntima de afeto, independentemente de coabitação e mesmo após o término (art. 5º, III; Súmula 600/STJ). O art. 41 afasta a Lei 9.099/1995."
+   ],
+   [
+    "A ameaça depende de representação, e a lesão corporal admite transação penal, desde que a vítima concorde.",
+    "Errada. Pela Súmula 536 do STJ, a suspensão condicional do processo e a transação penal não se aplicam aos delitos sujeitos à Lei Maria da Penha. Além disso, a ameaça, no caso, é incondicionada."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 129, §13, e 147, §§1º e 2º (Lei 14.994/2024); Lei 11.340/2006, arts. 5º, 16 e 41; Súmulas 536, 542 e 600 do STJ; STF, ADI 4.424.",
+  "dica": "Lei Maria da Penha: lesão = incondicionada (Súm. 542); ameaça por razões de gênero = incondicionada (Lei 14.994/2024); sem Lei 9.099 (Súm. 536)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D04-06",
+  "nivel": "médio",
+  "tema": "Erro de tipo essencial: vencível x invencível",
+  "enun": "Durante caçada autorizada em área rural, Leandro ouviu barulho atrás de um arbusto, ao entardecer, e disparou sua espingarda acreditando tratar-se de um javali, espécie cujo abate era permitido. Atingiu, no entanto, Sérgio, outro caçador, que morreu no local. A perícia apurou que Sérgio não usava o colete laranja obrigatório e que a visibilidade era razoável, de modo que um caçador prudente teria se aproximado ou aguardado antes de atirar. Em outro episódio, Kátia saiu de uma festa levando, por engano, um casaco idêntico ao seu, que pertencia a outra convidada. A família de Sérgio pediu a condenação de Leandro por homicídio doloso, alegando que ele assumira o risco ao atirar sem visualizar o alvo. Kátia, por sua vez, devolveu o casaco no dia seguinte, assim que percebeu o engano. Considerando o Código Penal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Leandro agiu em erro de tipo essencial vencível, que exclui o dolo e permite a punição por homicídio culposo; Kátia agiu em erro de tipo que exclui o dolo, e o fato é atípico, porque não há furto culposo.",
+    "CORRETA. O erro sobre elemento constitutivo do tipo ('alguém') exclui o dolo, mas permite a punição por crime culposo, se previsto em lei (art. 20, caput, do CP). Como o erro era evitável com a prudência exigível, Leandro responde por homicídio culposo (art. 121, §3º). Kátia errou sobre a elementar 'coisa alheia', e como não há modalidade culposa de furto, o fato é atípico."
+   ],
+   [
+    "Leandro responde por homicídio doloso, na modalidade de dolo eventual, pois assumiu o risco de atingir alguém ao disparar sem visibilidade plena.",
+    "Errada. Leandro acreditava atirar em um animal: não representou nem aceitou o resultado morte. A falta de cautela caracteriza culpa, e não dolo eventual."
+   ],
+   [
+    "Leandro agiu em erro de proibição inevitável, que isenta de pena, pois desconhecia que havia outra pessoa no local.",
+    "Errada. O erro recaiu sobre a realidade fática (elemento do tipo), e não sobre a ilicitude da conduta (art. 21). É erro de tipo."
+   ],
+   [
+    "Leandro está isento de pena por descriminante putativa, pois supôs situação de fato que, se existisse, tornaria a ação legítima.",
+    "Errada. Leandro não supôs uma situação de justificação (legítima defesa, estado de necessidade). Supôs atingir um animal, o que configura erro sobre elementar do tipo. Além disso, o erro derivava de culpa."
+   ],
+   [
+    "Kátia responde por furto culposo, pois o erro era evitável, bastando conferir a etiqueta do casaco.",
+    "Errada. O Código Penal não prevê furto culposo, e o crime culposo exige previsão expressa (art. 18, parágrafo único)."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 18, parágrafo único, 20, 21 e 121, §3º.",
+  "dica": "Erro de tipo sempre exclui o dolo. Se for vencível, pune-se a culpa, se houver previsão legal. Furto culposo não existe."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D11",
+  "nivel": "difícil",
+  "tema": "Cooperação dolosamente distinta (art. 29, §2º, do CP)",
+  "enun": "Thiago e Wesley combinaram furtar uma residência que acreditavam estar vazia, durante a madrugada. Thiago ficou do lado de fora, vigiando a rua, enquanto Wesley entrou. Lá dentro, Wesley deparou-se com o morador, idoso, e, para garantir a subtração, desferiu-lhe golpes que causaram lesão corporal grave, saindo em seguida com joias e dinheiro. Thiago não sabia que Wesley estava armado com uma barra de ferro, nem presenciou a violência. Ficou comprovado, porém, que Thiago sabia que, às vezes, o morador permanecia na casa nos fins de semana, e o fato ocorreu em um sábado. Considerando as regras do concurso de pessoas no Código Penal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Thiago responde por furto qualificado pelo concurso de pessoas, com a pena aumentada até a metade, por ter sido previsível o resultado mais grave, e Wesley responde por roubo com resultado lesão corporal grave.",
+    "CORRETA. Pela cooperação dolosamente distinta (art. 29, §2º), quem quis participar de crime menos grave responde pela pena deste, aumentada até a metade se o resultado mais grave era previsível. Thiago quis o furto (art. 155, §4º, IV), e a presença do morador era previsível. Wesley empregou violência para assegurar a subtração e causou lesão grave (art. 157, §3º, I)."
+   ],
+   [
+    "Ambos respondem por roubo com resultado lesão grave, pois a teoria monista impõe a todos os concorrentes a responsabilidade pelo mesmo crime.",
+    "Errada. O art. 29, §2º, é exceção à teoria monista: cada concorrente responde de acordo com seu dolo."
+   ],
+   [
+    "Thiago responde por furto qualificado, sem qualquer aumento, pois não aderiu à violência praticada por Wesley.",
+    "Errada. O aumento de até metade incide quando o resultado mais grave era previsível, como no caso, em que Thiago sabia da possível presença do morador nos fins de semana."
+   ],
+   [
+    "Thiago responde por roubo com resultado lesão grave, com a pena diminuída de um sexto a um terço pela participação de menor importância.",
+    "Errada. A participação de menor importância (art. 29, §1º) supõe adesão ao mesmo crime, o que não ocorreu: Thiago quis o furto. Aplica-se o §2º."
+   ],
+   [
+    "Thiago não responde por crime algum, pois o crime efetivamente praticado (roubo) não corresponde ao combinado, o que rompe o liame subjetivo.",
+    "Errada. O liame subjetivo existiu quanto ao furto, que se consumou com a subtração, e Thiago responde nos limites do seu dolo."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 29, §§1º e 2º, 155, §4º, IV, e 157, §3º, I.",
+  "dica": "Cooperação dolosamente distinta: cada um responde pelo que quis. Se o resultado mais grave era previsível, aumenta até a metade; se não era, só a pena do crime menos grave."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D19-20",
+  "nivel": "difícil",
+  "tema": "Extraterritorialidade da lei penal brasileira",
+  "enun": "Analise as situações a seguir, ocorridas no exterior.\nI. Um cidadão estrangeiro, em viagem oficial do Presidente da República à Europa, tentou matá-lo; foi processado e absolvido pela Justiça local.\nII. Um brasileiro, residente em país vizinho, praticou ali um furto e retornou ao Brasil; o furto também é crime no país onde foi praticado, e não houve julgamento no exterior.\nIII. Um funcionário de autarquia federal, em missão no exterior, desviou recursos públicos sob sua guarda; foi condenado no país estrangeiro e cumpriu a pena integralmente.\nConsiderando as regras do Código Penal sobre extraterritorialidade, está correto afirmar que a lei brasileira",
+  "alts": [
+   [
+    "aplica-se às situações I e III, mesmo após a absolvição ou o cumprimento da pena no estrangeiro, por se tratar de extraterritorialidade incondicionada; e à situação II, desde que satisfeitas as condições legais, como a entrada no território nacional.",
+    "CORRETA. Crimes contra a vida do Presidente e contra a administração pública por quem está a seu serviço submetem-se à extraterritorialidade incondicionada (art. 7º, I, a e c), e o agente é punido ainda que absolvido ou condenado no estrangeiro (§1º). A pena cumprida no exterior é descontada (art. 8º). O crime de brasileiro no exterior (art. 7º, II, b) depende das condições do §2º: entrada no território, dupla tipicidade, crime extraditável, não ter sido absolvido ou cumprido pena lá e punibilidade não extinta."
+   ],
+   [
+    "aplica-se apenas à situação II, pois nas situações I e III já houve julgamento no estrangeiro, o que impede nova persecução em respeito ao ne bis in idem.",
+    "Errada. Nas hipóteses do art. 7º, I, a lei brasileira se aplica 'ainda que absolvido ou condenado no estrangeiro' (§1º). O art. 8º apenas atenua ou compensa a pena."
+   ],
+   [
+    "aplica-se às três situações, todas de extraterritorialidade incondicionada, independentemente de qualquer condição.",
+    "Errada. O crime praticado por brasileiro no estrangeiro é hipótese de extraterritorialidade condicionada (art. 7º, II, b, e §2º)."
+   ],
+   [
+    "aplica-se apenas às situações I e II, pois, na situação III, o cumprimento integral da pena no estrangeiro extingue a punibilidade também no Brasil.",
+    "Errada. O crime contra a administração pública por quem está a seu serviço é de extraterritorialidade incondicionada (art. 7º, I, c). A pena cumprida no estrangeiro é computada (art. 8º), mas não impede a aplicação da lei brasileira."
+   ],
+   [
+    "não se aplica à situação I, porque o agente é estrangeiro, hipótese que exige requisição do Ministro da Justiça.",
+    "Errada. A requisição do Ministro da Justiça é condição do §3º (crime de estrangeiro contra brasileiro fora do Brasil). O crime contra a vida do Presidente é incondicionado, qualquer que seja a nacionalidade do agente."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 7º e 8º.",
+  "dica": "Incondicionada (art. 7º, I): vida ou liberdade do Presidente, patrimônio ou fé pública dos entes, administração pública por quem está a seu serviço, genocídio. Pune-se mesmo após absolvição lá fora; a pena cumprida é descontada."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21c",
+  "nivel": "médio",
+  "tema": "Estupro de vulnerável: irrelevância do consentimento (Súmula 593/STJ)",
+  "enun": "Caio, de 19 anos, manteve relações sexuais com Bianca, de 13 anos, com quem namorava havia seis meses com conhecimento dos pais dela. Ficou provado que Bianca consentiu com os atos, que já tivera relacionamento anterior e que o casal pretendia morar junto. Denunciado, Caio alegou que o consentimento da adolescente e a aprovação da família afastariam o crime, e invocou o princípio da adequação social. O Ministério Público ofereceu denúncia, e os pais de Bianca declararam em juízo que apoiavam o relacionamento e que não se sentiam lesados. A defesa requereu, subsidiariamente, a desclassificação para crime menos grave ou a redução da pena. Considerando o Código Penal e a jurisprudência do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Caio praticou estupro de vulnerável, pois o crime se configura com a conjunção carnal ou prática de ato libidinoso com menor de 14 anos, sendo irrelevantes o consentimento da vítima, sua experiência sexual anterior ou a existência de relacionamento amoroso.",
+    "CORRETA. Súmula 593 do STJ (e Tema 918): o crime de estupro de vulnerável se configura com a conjunção carnal ou prática de ato libidinoso com menor de 14 anos, sendo irrelevantes o consentimento, a experiência sexual anterior ou o relacionamento amoroso. O art. 217-A, §5º, do CP, incluído pela Lei 13.718/2018, positivou essa orientação."
+   ],
+   [
+    "O fato é atípico, pela adequação social, uma vez que o relacionamento era público e aprovado pela família da adolescente.",
+    "Errada. O STJ afasta expressamente a aplicação da adequação social e da 'exceção de Romeu e Julieta' ao art. 217-A, considerando a proteção integral do menor de 14 anos."
+   ],
+   [
+    "Caio praticou estupro de vulnerável, mas a pena pode ser reduzida de um terço a dois terços em razão do consentimento da vítima.",
+    "Errada. Não há causa de diminuição pelo consentimento: o §5º do art. 217-A declara as penas aplicáveis independentemente dele."
+   ],
+   [
+    "Caio praticou o crime de corrupção de menores do art. 218 do Código Penal, pois a vítima consentiu e tinha mais de 12 anos.",
+    "Errada. O art. 218 pune induzir menor de 14 anos a satisfazer a lascívia de outrem. A conjunção carnal com o próprio agente é o art. 217-A."
+   ],
+   [
+    "A punibilidade estaria extinta se Caio e Bianca viessem a se casar, nos termos do Código Penal.",
+    "Errada. O casamento do agente com a vítima deixou de extinguir a punibilidade com a Lei 11.106/2005, que revogou o art. 107, VII, do CP."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 217-A, caput e §5º, e 218; Súmula 593/STJ; STJ, Tema 918.",
+  "dica": "Menor de 14: vulnerabilidade absoluta. Consentimento, experiência ou namoro não importam (Súm. 593 e art. 217-A, §5º)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21d",
+  "nivel": "fácil",
+  "tema": "Falsa identidade em autodefesa (Súmula 522/STJ)",
+  "enun": "Abordado por policiais militares em patrulhamento de rotina, Ronaldo, contra quem havia mandado de prisão em aberto, apresentou-se verbalmente com o nome do irmão, Rogério, para não ser preso. Na delegacia, a identificação datiloscópica revelou sua verdadeira identidade. Denunciado pelo crime de falsa identidade, a defesa sustentou que o fato seria atípico, por se tratar de exercício do direito de autodefesa e de não produzir prova contra si. Ronaldo não portava documentos no momento da abordagem e repetiu o nome falso ao delegado até o resultado da identificação. A defesa também sustentou que a conduta, por ter sido rapidamente descoberta, não teria causado prejuízo a ninguém. Considerando a jurisprudência dos tribunais superiores, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A conduta é típica, pois a atribuição de falsa identidade perante autoridade policial configura o crime do art. 307 do Código Penal, ainda que em situação de alegada autodefesa.",
+    "CORRETA. Súmula 522 do STJ: a conduta de atribuir-se falsa identidade perante autoridade policial é típica, ainda que em situação de alegada autodefesa. O STF tem a mesma orientação (Tema 478, RE 640.139): o direito de não se autoincriminar não abrange a falsa identidade."
+   ],
+   [
+    "A conduta é atípica, pois o direito constitucional ao silêncio abrange a possibilidade de o investigado mentir sobre sua identidade.",
+    "Errada. O direito ao silêncio protege a recusa em produzir prova contra si, e não autoriza a atribuição de identidade falsa, que lesa a fé pública."
+   ],
+   [
+    "A conduta configura uso de documento falso (art. 304 do CP), por equiparação.",
+    "Errada. Ronaldo não usou documento; apenas atribuiu a si, verbalmente, identidade alheia, o que configura o art. 307."
+   ],
+   [
+    "A conduta configura falsidade ideológica (art. 299 do CP), pois houve declaração falsa sobre fato juridicamente relevante.",
+    "Errada. A falsidade ideológica exige omissão ou inserção de declaração falsa em documento. A atribuição verbal de falsa identidade amolda-se ao art. 307."
+   ],
+   [
+    "A conduta é típica, mas fica absorvida pelo crime de desobediência, por ter sido praticada para evitar o cumprimento do mandado de prisão.",
+    "Errada. Não há desobediência no caso, e a falsa identidade é crime autônomo contra a fé pública."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 299, 304 e 307; Súmula 522/STJ; STF, Tema 478.",
+  "dica": "Mentir o nome para a polícia é crime (art. 307 e Súm. 522), mesmo para fugir da prisão. Calar é direito; mentir a identidade, não."
+ }
+]

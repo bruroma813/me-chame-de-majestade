@@ -1,0 +1,388 @@
+[
+ {
+  "disc": "Direito Constitucional",
+  "item": "C08t",
+  "nivel": "médio",
+  "tema": "Estabilidade da gestante (Temas 497 e 542/STF)",
+  "enun": "Juliana ocupava cargo em comissão de assessora no Município Sigma quando foi exonerada pelo novo Secretário, em reorganização administrativa. Dias depois, descobriu que estava grávida de cinco semanas na data da exoneração, fato que nem ela nem a Administração conheciam. Na mesma época, Patrícia, empregada de uma rede de farmácias, foi dispensada sem justa causa e só comunicou a gravidez à empresa um mês após a dispensa, mediante exame que comprovava a gestação anterior ao desligamento. A empresa alegou que não poderia responder por fato que desconhecia. Juliana ingressou com ação pedindo reintegração ou indenização, e Patrícia ajuizou reclamação trabalhista. O Município defendeu que a exoneração de comissionados é livre e que a servidora não comunicara a gravidez. Considerando a Constituição Federal, o ADCT e a jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Ambas têm direito à proteção: a estabilidade da gestante exige apenas a anterioridade da gravidez em relação à dispensa, independentemente do conhecimento do empregador, e alcança a ocupante de cargo em comissão, que tem direito à licença-maternidade e à estabilidade provisória.",
+    "CORRETA. No Tema 497 (RE 629.053), o STF fixou que a estabilidade do art. 10, II, b, do ADCT só exige a anterioridade da gravidez à dispensa sem justa causa; o desconhecimento é irrelevante. No Tema 542 (RE 842.844), afirmou que a gestante tem direito à licença-maternidade e à estabilidade provisória independentemente do regime jurídico, ainda que ocupe cargo em comissão ou seja contratada por tempo determinado. Na comissionada, a proteção se resolve, em regra, em indenização correspondente ao período."
+   ],
+   [
+    "Apenas Patrícia tem direito à estabilidade, pois a ocupante de cargo em comissão é demissível ad nutum, o que afasta qualquer proteção à gestante.",
+    "Errada. O Tema 542 do STF estendeu a proteção às comissionadas e temporárias. A livre exoneração não prevalece sobre a proteção à maternidade e ao nascituro."
+   ],
+   [
+    "Nenhuma delas tem direito à estabilidade, porque a garantia pressupõe a comunicação da gravidez ao empregador antes da dispensa.",
+    "Errada. O STF adotou a teoria objetiva: basta a gravidez anterior à dispensa (Tema 497)."
+   ],
+   [
+    "Ambas têm direito à estabilidade, que se estende desde a confirmação da gravidez até cento e vinte dias após o parto.",
+    "Errada. A estabilidade vai até cinco meses após o parto (art. 10, II, b, do ADCT). Os 120 dias são o prazo da licença-gestante (art. 7º, XVIII, da CF), uma troca clássica."
+   ],
+   [
+    "Apenas Juliana tem direito à proteção, porque, na iniciativa privada, a dispensa da gestante sem conhecimento do empregador gera apenas o direito ao salário-maternidade pago pelo INSS.",
+    "Errada. A proteção do ADCT alcança a empregada da iniciativa privada, e a responsabilidade é objetiva (Tema 497)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 7º, XVIII; ADCT, art. 10, II, b; STF, Temas 497 e 542.",
+  "dica": "Gestante: basta estar grávida na data da dispensa, saiba o empregador ou não. Vale para comissionada e temporária. Estabilidade: até 5 meses após o parto; licença: 120 dias."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C07",
+  "nivel": "difícil",
+  "tema": "Tribunal do Júri: competência, execução imediata e legítima defesa da honra",
+  "enun": "Renato, vereador do Município Alfa, matou a ex-companheira a tiros após descobrir que ela mantinha novo relacionamento. A Constituição do Estado atribui ao Tribunal de Justiça a competência para julgar vereadores nos crimes comuns. O Tribunal de Justiça declinou da competência para o Tribunal do Júri da comarca. Em plenário, a defesa sustentou a tese da 'legítima defesa da honra', mas os jurados condenaram Renato, e o juiz presidente fixou a pena em 14 anos de reclusão, determinando a imediata execução da condenação. A defesa recorreu, sustentando: (i) a competência do Tribunal de Justiça; (ii) a impossibilidade de execução antes do trânsito em julgado. Considerando a Constituição e a jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A competência é do Tribunal do Júri, pois a competência constitucional do Júri prevalece sobre o foro por prerrogativa de função estabelecido exclusivamente pela Constituição estadual; a soberania dos veredictos autoriza a imediata execução da condenação imposta pelos jurados, independentemente do total da pena; e a tese da legítima defesa da honra é inconstitucional.",
+    "CORRETA. Súmula Vinculante 45: a competência constitucional do Júri prevalece sobre o foro por prerrogativa de função estabelecido exclusivamente pela Constituição estadual, como o dos vereadores. Tema 1.068 (RE 1.235.340, 2024): a soberania dos veredictos autoriza a execução imediata da condenação do Júri, qualquer que seja o total da pena. ADPF 779: a tese da legítima defesa da honra é inconstitucional, e seu uso pela defesa pode gerar a nulidade do ato e do julgamento."
+   ],
+   [
+    "A competência é do Tribunal de Justiça, pois o foro por prerrogativa de função, ainda que previsto apenas na Constituição estadual, prevalece sobre a competência do Júri.",
+    "Errada. É exatamente o contrário do que diz a SV 45. O foro previsto apenas na Constituição estadual cede diante da competência constitucional do Júri."
+   ],
+   [
+    "A competência é do Júri, mas a execução imediata só é possível quando a pena for igual ou superior a 15 anos de reclusão, nos termos do Código de Processo Penal.",
+    "Errada. No Tema 1.068, o STF deu interpretação conforme ao art. 492, I, e, do CPP e afastou o limite de 15 anos: a execução imediata independe do total da pena."
+   ],
+   [
+    "A competência é do Júri, e a execução imediata é inconstitucional, por violar a presunção de inocência, que exige o trânsito em julgado, conforme as ADCs 43, 44 e 54.",
+    "Errada. As ADCs 43, 44 e 54 tratam da execução após condenação em segunda instância. Para o Júri, o STF fixou orientação específica, fundada na soberania dos veredictos (Tema 1.068)."
+   ],
+   [
+    "A tese da legítima defesa da honra pode ser sustentada em plenário, em respeito à plenitude de defesa, cabendo aos jurados acolhê-la ou não.",
+    "Errada. Na ADPF 779, o STF afirmou que a plenitude de defesa não abrange teses que violam a dignidade humana e a igualdade de gênero, e vedou sua utilização direta ou indireta."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, XXXVIII; SV 45; STF, Tema 1.068 (RE 1.235.340) e ADPF 779; CPP, art. 492, I, e.",
+  "dica": "Júri: vence o foro previsto só na Constituição estadual (SV 45); condenação executada de imediato, qualquer pena (Tema 1.068); legítima defesa da honra proibida (ADPF 779)."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C11",
+  "nivel": "médio",
+  "tema": "Responsabilização do Presidente da República",
+  "enun": "No segundo ano de mandato, o Presidente da República passou a ser alvo de duas acusações: (i) a de ter recebido vantagem indevida de empresário para editar decreto que favorecia o setor deste, no exercício do cargo; (ii) a de ter praticado sonegação fiscal como sócio de uma empresa familiar, seis anos antes de assumir a Presidência. Parlamentares de oposição também apresentaram denúncia por crime de responsabilidade, em razão de atos atentatórios à lei orçamentária. Diante da repercussão, o Procurador-Geral da República anunciou que ofereceria denúncia pelos dois fatos penais. Um partido político ajuizou ação pedindo a prisão preventiva do Presidente, alegando risco à instrução criminal. Considerando a Constituição Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Quanto à vantagem indevida, a acusação depende de admissão por dois terços da Câmara dos Deputados, o julgamento cabe ao STF, e o Presidente ficará suspenso se a denúncia for recebida; quanto à sonegação anterior ao mandato, ele não pode ser responsabilizado na vigência do mandato.",
+    "CORRETA. Art. 86, caput: admitida a acusação por dois terços da Câmara, o julgamento das infrações penais comuns cabe ao STF. Art. 86, §1º, I: há suspensão se o STF receber a denúncia, por até 180 dias (§2º). Art. 86, §4º: na vigência do mandato, o Presidente não pode ser responsabilizado por atos estranhos ao exercício de suas funções (imunidade temporária à persecução penal)."
+   ],
+   [
+    "Ambas as infrações penais podem ser processadas imediatamente pelo STF, independentemente de autorização da Câmara, pois a imunidade presidencial alcança apenas os crimes de responsabilidade.",
+    "Errada. A autorização de dois terços da Câmara também é exigida para as infrações penais comuns (art. 86, caput), e os atos estranhos ao mandato não podem ser objeto de responsabilização durante o mandato (§4º)."
+   ],
+   [
+    "O crime de responsabilidade será julgado pelo STF, após autorização da maioria absoluta da Câmara, e a condenação dependerá do voto de dois terços dos Ministros.",
+    "Errada. O crime de responsabilidade é julgado pelo Senado Federal, sob a presidência do Presidente do STF, após admissão por dois terços da Câmara (arts. 52, I e parágrafo único, e 86). A condenação exige dois terços dos senadores."
+   ],
+   [
+    "O Presidente pode ser preso preventivamente pelo crime de corrupção, por decisão fundamentada do STF, enquanto o processo estiver em curso.",
+    "Errada. Enquanto não sobrevier sentença condenatória nas infrações comuns, o Presidente não está sujeito a prisão (art. 86, §3º)."
+   ],
+   [
+    "Nos crimes de responsabilidade, o Presidente ficará suspenso de suas funções a partir da admissão da acusação pela Câmara dos Deputados, e o afastamento perdura até o julgamento final, sem limite de prazo.",
+    "Errada. A suspensão começa com a instauração do processo pelo Senado (art. 86, §1º, II) e cessa se o julgamento não terminar em 180 dias, sem prejuízo do prosseguimento do processo (§2º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 52, I e parágrafo único, e 86.",
+  "dica": "Presidente: Câmara admite (2/3); STF julga crime comum e Senado julga crime de responsabilidade; suspensão por até 180 dias; prisão só com sentença condenatória; atos estranhos ao mandato ficam para depois dele."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C12",
+  "nivel": "médio",
+  "tema": "Competências e limites do CNJ",
+  "enun": "O Conselho Nacional de Justiça recebeu três reclamações: (i) contra decisão liminar de um desembargador que, em ação de improbidade, determinara a indisponibilidade de bens, considerada abusiva pelo reclamante; (ii) contra o Tribunal de Justiça do Estado Beta, que, havia oito meses, mantinha paralisado processo administrativo disciplinar contra um juiz acusado de venda de decisões; (iii) contra ato administrativo de Ministro do STF, praticado na gestão do Tribunal. O Tribunal de Justiça do Estado Beta, em informações, alegou que o CNJ só poderia atuar depois de esgotada a atuação de sua corregedoria. O desembargador alegou, por sua vez, que suas decisões jurisdicionais não estão sujeitas ao Conselho. Considerando a Constituição Federal e a jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O CNJ não pode rever a decisão liminar do desembargador, por ser ato jurisdicional; pode avocar o processo disciplinar paralisado no Tribunal de Justiça, já que sua competência disciplinar é originária e concorrente; e não tem competência para controlar atos do STF ou de seus Ministros.",
+    "CORRETA. O CNJ controla a atuação administrativa e financeira do Judiciário e os deveres funcionais dos juízes (art. 103-B, §4º), sem competência sobre atos jurisdicionais. Pode avocar processos disciplinares em curso (§4º, III), e o STF (ADI 4.638) reconheceu sua competência disciplinar originária e concorrente, que independe da atuação prévia das corregedorias. Na ADI 3.367, o STF afirmou que o CNJ não tem competência sobre o STF e seus Ministros."
+   ],
+   [
+    "O CNJ pode cassar a decisão liminar do desembargador, por ser órgão de controle externo do Poder Judiciário, com competência para rever atos abusivos.",
+    "Errada. O CNJ é órgão interno do Judiciário, de natureza administrativa, e não pode rever decisões jurisdicionais, que se impugnam por recursos."
+   ],
+   [
+    "O CNJ só pode atuar em matéria disciplinar de forma subsidiária, depois de esgotada a atuação da corregedoria local, motivo pelo qual não pode avocar o processo disciplinar.",
+    "Errada. Na ADI 4.638, o STF afastou a tese da subsidiariedade: a competência disciplinar do CNJ é originária e concorrente."
+   ],
+   [
+    "O CNJ pode controlar o ato administrativo do Ministro do STF, porque é presidido pelo Presidente do STF e exerce controle sobre todos os órgãos do Poder Judiciário.",
+    "Errada. O STF está acima do CNJ na estrutura do Judiciário (ADI 3.367); o CNJ não exerce controle sobre a Corte."
+   ],
+   [
+    "O CNJ pode avocar o processo disciplinar, mas não pode aplicar sanções a magistrados, limitando-se a recomendar providências ao tribunal de origem.",
+    "Errada. O art. 103-B, §4º, III, permite ao CNJ determinar a remoção ou a disponibilidade e aplicar outras sanções administrativas, assegurada a ampla defesa."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 103-B, §4º; STF, ADI 3.367 e ADI 4.638.",
+  "dica": "CNJ: administrativo, financeiro e disciplinar, nunca jurisdicional. Competência disciplinar originária e concorrente. O STF fica fora do seu alcance."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C08",
+  "nivel": "fácil",
+  "tema": "Direito à creche (Tema 548/STF)",
+  "enun": "Michele, mãe solo e trabalhadora, requereu ao Município Delta vaga em creche pública próxima de sua residência para o filho de 2 anos. O pedido foi negado sob o argumento de que não havia vagas e de que a educação infantil seria norma programática, dependente de disponibilidade orçamentária e de escolhas políticas do gestor. Michele ajuizou ação individual pedindo a matrícula. O Município demonstrou que havia lista de espera com mais de 300 crianças e que os recursos da educação estavam integralmente comprometidos com o ensino fundamental. Sustentou, ainda, que a matrícula por ordem judicial desrespeitaria a fila e a separação de Poderes. Considerando a Constituição Federal e a jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O pedido deve ser acolhido, pois a educação básica, em todas as suas fases, inclusive a educação infantil em creche, é direito fundamental assegurado por normas constitucionais de eficácia plena e aplicabilidade imediata, e sua oferta pelo Poder Público pode ser exigida individualmente em juízo.",
+    "CORRETA. Tese do Tema 548 do STF (RE 1.008.166): a educação infantil compreende creche (0 a 3 anos) e pré-escola (4 e 5 anos), e sua oferta pode ser exigida individualmente. A CF garante educação infantil em creche e pré-escola às crianças até 5 anos (art. 208, IV), e os Municípios atuam prioritariamente nessa etapa (art. 211, §2º)."
+   ],
+   [
+    "O pedido deve ser rejeitado, porque a creche não integra a educação básica obrigatória, que vai apenas dos 4 aos 17 anos.",
+    "Errada. A obrigatoriedade da matrícula pela família vai dos 4 aos 17 anos (art. 208, I), mas o dever estatal de oferecer creche está no art. 208, IV, e o STF reconheceu sua exigibilidade."
+   ],
+   [
+    "O pedido deve ser rejeitado, pois a intervenção judicial violaria a separação de Poderes, e o direito à creche só pode ser tutelado por ação civil pública.",
+    "Errada. O STF admitiu expressamente a exigibilidade individual da vaga; não há ofensa à separação de Poderes."
+   ],
+   [
+    "O pedido deve ser acolhido apenas se o Município não comprovar a falta de recursos, pois a cláusula da reserva do possível sempre prevalece sobre direitos sociais.",
+    "Errada. A reserva do possível não pode ser invocada genericamente para frustrar o mínimo existencial, que inclui a educação infantil."
+   ],
+   [
+    "O dever de oferecer creche é do Estado-membro, e não do Município, que atua prioritariamente apenas no ensino médio.",
+    "Errada. Os Municípios atuam prioritariamente no ensino fundamental e na educação infantil (art. 211, §2º). O ensino médio é prioridade dos Estados (§3º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 208, I e IV, e 211, §§2º e 3º; STF, Tema 548 (RE 1.008.166).",
+  "dica": "Creche (0–3) e pré-escola (4–5): direito exigível individualmente (Tema 548). Município cuida prioritariamente da educação infantil e do fundamental."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A19",
+  "nivel": "médio",
+  "tema": "Mandado de segurança coletivo: legitimidade e relação com a ação individual",
+  "enun": "O Sindicato dos Servidores da Saúde do Estado Ômega, regularmente registrado e em funcionamento há seis meses, impetrou mandado de segurança coletivo contra ato do Secretário de Saúde que suprimira adicional de insalubridade de parte da categoria, sem autorização específica dos filiados em assembleia. Antes disso, Laura, servidora atingida, já havia impetrado mandado de segurança individual com o mesmo objeto e tomou ciência comprovada da impetração coletiva. A autoridade sustentou a ilegitimidade do sindicato. A autoridade alegou que o sindicato, por ter menos de um ano de funcionamento, não poderia impetrar mandado de segurança coletivo, que a pretensão interessava a apenas parte da categoria e que não havia ata de assembleia autorizando a impetração. Considerando a Lei nº 12.016/2009, a Constituição Federal e as súmulas do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O sindicato tem legitimidade, pois o requisito de funcionamento há pelo menos um ano se aplica apenas às associações, e a impetração independe de autorização dos filiados, ainda que a pretensão interesse a apenas parte da categoria; Laura só se beneficiará da coisa julgada coletiva se requerer a desistência de seu mandado de segurança individual no prazo de 30 dias a contar da ciência da impetração coletiva.",
+    "CORRETA. O STF entende que o requisito de um ano de funcionamento (art. 5º, LXX, b, da CF) se refere só às associações. A impetração por entidade de classe independe de autorização (Súmula 629), e há legitimação mesmo quando a pretensão interessa a parte da categoria (Súmula 630). Pelo art. 22, §1º, da Lei 12.016/2009, o MS coletivo não induz litispendência, mas o impetrante individual só se beneficia se desistir do seu em 30 dias da ciência comprovada."
+   ],
+   [
+    "O sindicato não tem legitimidade, porque toda organização sindical, entidade de classe ou associação precisa estar em funcionamento há pelo menos um ano.",
+    "Errada. O requisito temporal não alcança sindicatos e entidades de classe; é exigência restrita às associações."
+   ],
+   [
+    "O sindicato tem legitimidade, mas a impetração depende de autorização expressa dos filiados em assembleia, pois atua como representante, e não como substituto processual.",
+    "Errada. No MS coletivo há substituição processual, e a autorização é dispensada (art. 21 da Lei 12.016/2009; Súmula 629/STF)."
+   ],
+   [
+    "O mandado de segurança coletivo induz litispendência em relação ao individual de Laura, que deverá ser extinto sem resolução do mérito.",
+    "Errada. O art. 22, §1º, diz expressamente que o MS coletivo não induz litispendência para as ações individuais."
+   ],
+   [
+    "O sindicato só tem legitimidade se a pretensão interessar à totalidade da categoria, e não apenas a parte dela.",
+    "Errada. A Súmula 630 do STF e o art. 21 da Lei 12.016/2009 admitem a defesa de direitos da totalidade ou de parte dos membros."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, LXX; Lei 12.016/2009, arts. 21, 22 e 23; Súmulas 629 e 630 do STF.",
+  "dica": "MS coletivo: sindicato e entidade de classe não precisam de 1 ano de existência (só associação precisa) nem de autorização. O impetrante individual tem 30 dias para desistir se quiser aproveitar o coletivo."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A01",
+  "nivel": "médio",
+  "tema": "Segurança jurídica na LINDB: mudança de orientação e erro grosseiro",
+  "enun": "Em 2019, o Município Épsilon celebrou contrato de concessão de iluminação pública com base em interpretação então pacífica no Tribunal de Contas do Estado sobre o cálculo da contraprestação. Em 2023, o Tribunal mudou de entendimento e, em 2026, ao julgar as contas, pretendeu declarar inválido o contrato, já integralmente executado, com fundamento na nova orientação. Pretendeu também multar pessoalmente o procurador municipal que emitira o parecer favorável, embora não houvesse indício de dolo e o parecer estivesse amparado na jurisprudência da época. O contrato foi executado sem qualquer apontamento de superfaturamento, e o serviço foi prestado regularmente durante toda a sua vigência. O relator no Tribunal de Contas afirmou que a moralidade administrativa, por si só, bastaria para fundamentar a invalidação. Considerando a Lei de Introdução às Normas do Direito Brasileiro, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A revisão da validade de ato cuja produção já se completou deve levar em conta as orientações gerais da época, sendo vedado declarar inválidas situações plenamente constituídas com base em mudança posterior de orientação geral; e o procurador só responde pessoalmente por sua opinião técnica em caso de dolo ou erro grosseiro.",
+    "CORRETA. O art. 24 da LINDB manda considerar as orientações gerais da época e veda declarar inválidas situações plenamente constituídas com base em mudança posterior de orientação geral. O art. 28 dispõe que o agente público responde pessoalmente por decisões ou opiniões técnicas apenas em caso de dolo ou erro grosseiro, que não existe quando o parecer segue a jurisprudência então dominante."
+   ],
+   [
+    "O Tribunal de Contas pode declarar a invalidade do contrato, pois a nova interpretação tem efeitos retroativos, por se limitar a declarar o sentido que a norma sempre teve.",
+    "Errada. A LINDB protege a segurança jurídica e veda a invalidação retroativa com base em mudança de orientação (art. 24). Para novas interpretações com efeitos futuros, prevê regime de transição (art. 23)."
+   ],
+   [
+    "O procurador responde pessoalmente por qualquer culpa, ainda que leve, pois o parecer integrou a motivação do ato administrativo.",
+    "Errada. A LINDB restringe a responsabilização pessoal ao dolo ou ao erro grosseiro (art. 28); a culpa leve não basta."
+   ],
+   [
+    "A LINDB não se aplica aos Tribunais de Contas, mas apenas às esferas administrativa e judicial em sentido estrito.",
+    "Errada. Os arts. 20 a 30 da LINDB dirigem-se expressamente às esferas administrativa, controladora e judicial."
+   ],
+   [
+    "O Tribunal pode invalidar o contrato desde que motive a decisão com base em valores jurídicos abstratos, como a moralidade, dispensada a análise das consequências práticas.",
+    "Errada. O art. 20 veda decidir com base em valores jurídicos abstratos sem considerar as consequências práticas da decisão, e o art. 21 exige que se indiquem as consequências jurídicas e administrativas da invalidação."
+   ]
+  ],
+  "c": 0,
+  "base": "LINDB, arts. 20, 21, 23, 24 e 28 (Lei 13.655/2018).",
+  "dica": "LINDB: mudança de entendimento não desfaz o passado (art. 24). Agente responde por dolo ou erro grosseiro (art. 28). Nada de valores abstratos sem olhar as consequências (art. 20)."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A20",
+  "nivel": "médio",
+  "tema": "Responsabilidade civil do Estado: dupla garantia, detento e foragido",
+  "enun": "Três ações foram ajuizadas na comarca de Teta: (i) Cláudio processou diretamente o policial militar Rui, que o agredira durante abordagem em serviço, sem incluir o Estado no polo passivo; (ii) a mãe de Fábio, preso provisório morto por outros detentos dentro da cela, processou o Estado; (iii) Lúcia, assaltada por Jonas, que fugira do presídio estadual três anos antes e vivia em outra cidade, processou o Estado, alegando falha na custódia. Na ação proposta por Cláudio, Rui alegou ilegitimidade passiva. Na ação da mãe de Fábio, o Estado alegou fato exclusivo de terceiros. Na de Lúcia, sustentou que não havia relação entre a fuga e o roubo. Considerando o art. 37, §6º, da Constituição e a jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Rui é parte ilegítima, pois a ação deve ser ajuizada contra o Estado, assegurado o regresso contra o agente nos casos de dolo ou culpa; o Estado responde pela morte de Fábio, por descumprir o dever específico de proteção do detento; e não responde pelo assalto sofrido por Lúcia, por ausência de nexo causal direto entre a fuga e o crime.",
+    "CORRETA. Tema 940 (RE 1.027.633): a ação deve ser ajuizada contra o Estado ou a prestadora de serviço público, e o agente é parte ilegítima (dupla garantia). Tema 592 (RE 841.526): o Estado responde pela morte de detento quando descumpre o dever específico de proteção (art. 5º, XLIX). Tema 362 (RE 608.880): não há responsabilidade por crime de foragido sem nexo causal direto entre a fuga e a conduta."
+   ],
+   [
+    "Cláudio pode escolher processar o Estado, o agente ou ambos em litisconsórcio, segundo a jurisprudência atual do STF.",
+    "Errada. O STF fixou a tese da dupla garantia (Tema 940): o agente não responde diretamente perante a vítima, apenas em regresso."
+   ],
+   [
+    "O Estado responde pelo assalto sofrido por Lúcia, porque a responsabilidade objetiva abrange qualquer dano causado por pessoa que deveria estar sob custódia estatal.",
+    "Errada. O Tema 362 exige nexo causal direto entre o momento da fuga e o crime. Três anos depois, em outra cidade, esse nexo não existe."
+   ],
+   [
+    "O Estado não responde pela morte de Fábio, porque o homicídio foi praticado por terceiros, o que configura fato exclusivo de terceiro e rompe o nexo causal.",
+    "Errada. O Estado tem dever específico de guarda e proteção da integridade física do preso (art. 5º, XLIX). A morte na cela demonstra falha nesse dever (Tema 592)."
+   ],
+   [
+    "Nas três hipóteses, a responsabilidade do Estado é subjetiva, exigindo prova de culpa do serviço, por se tratar de condutas omissivas.",
+    "Errada. A agressão de Rui é conduta comissiva, com responsabilidade objetiva. Na omissão específica (detento), o STF também aplica a responsabilidade objetiva."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 5º, XLIX, e 37, §6º; STF, Temas 362, 592 e 940.",
+  "dica": "Dupla garantia: a vítima processa o Estado, e o Estado cobra do agente. Preso morto na cela: Estado responde. Foragido: só responde se houver nexo direto com a fuga."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A21",
+  "nivel": "difícil",
+  "tema": "Prescrição das pretensões de ressarcimento ao erário (Temas 666, 897 e 899/STF)",
+  "enun": "Sobre a prescrição das pretensões de ressarcimento ao erário, considerando a Constituição Federal e as teses de repercussão geral do Supremo Tribunal Federal, analise as afirmativas a seguir.\nI. É prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil, como o causado por acidente de trânsito envolvendo veículo oficial.\nII. São imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa.\nIII. É imprescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas que imputa débito ao gestor, por se tratar de dano ao patrimônio público.\nEstá correto o que se afirma em",
+  "alts": [
+   [
+    "I, apenas.",
+    "Errada. A II também está correta (Tema 897)."
+   ],
+   [
+    "I e II, apenas.",
+    "CORRETA. I: Tema 666 (RE 669.069), segundo o qual é prescritível a ação de reparação de danos à Fazenda decorrente de ilícito civil. II: Tema 897 (RE 852.475), segundo o qual são imprescritíveis as ações de ressarcimento fundadas em ato doloso de improbidade (art. 37, §5º, da CF). III: falsa, porque no Tema 899 (RE 636.886) o STF declarou prescritível a pretensão de ressarcimento fundada em decisão de Tribunal de Contas."
+   ],
+   [
+    "II, apenas.",
+    "Errada. A I também está correta (Tema 666)."
+   ],
+   [
+    "II e III, apenas.",
+    "Errada. A III é falsa: a execução de acórdão de Tribunal de Contas é prescritível (Tema 899)."
+   ],
+   [
+    "I, II e III.",
+    "Errada. A III é falsa (Tema 899)."
+   ]
+  ],
+  "c": 1,
+  "base": "CF, art. 37, §5º; STF, Temas 666, 897 e 899.",
+  "dica": "Ressarcimento ao erário: só é imprescritível o ato DOLOSO de improbidade (897). Ilícito civil (666) e acórdão de Tribunal de Contas (899) prescrevem.",
+  "fixa": true
+ },
+ {
+  "disc": "Noções Gerais de Direito e Formação Humanística",
+  "item": "H4",
+  "nivel": "médio",
+  "tema": "Dworkin: princípios, regras e direito como integridade",
+  "enun": "No caso Riggs v. Palmer, julgado em Nova York em 1889, discutiu-se se Elmer Palmer, que assassinara o avô para garantir a herança prevista em testamento, poderia herdar. A lei de sucessões vigente, interpretada literalmente, não previa exceção. O tribunal negou a herança com base no princípio de que ninguém pode beneficiar-se da própria torpeza. Ronald Dworkin utilizou esse caso para criticar o positivismo jurídico. Para os positivistas da época, a decisão do tribunal teria criado uma exceção não prevista em lei, no exercício de discricionariedade judicial. Dworkin, ao contrário, extraiu do caso consequências sobre a estrutura do próprio direito e o papel do juiz nos casos difíceis. Sobre a teoria de Dworkin, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Dworkin sustenta que os princípios integram o direito ao lado das regras; enquanto as regras se aplicam na forma do tudo ou nada, os princípios têm uma dimensão de peso, e, nos casos difíceis, o juiz não decide com discricionariedade forte, mas busca a resposta correta à luz da integridade do direito.",
+    "CORRETA. Em Levando os direitos a sério, Dworkin distingue regras (tudo ou nada) e princípios (dimensão de peso) e rejeita a discricionariedade judicial defendida por Hart para os casos difíceis. O juiz Hércules constrói a melhor interpretação do direito como integridade, na metáfora do romance em cadeia, o que conduz à tese da única resposta correta."
+   ],
+   [
+    "Dworkin define os princípios como mandamentos de otimização, que devem ser realizados na maior medida possível dentro das possibilidades fáticas e jurídicas, aplicados por meio da regra da proporcionalidade.",
+    "Errada. A definição de princípios como mandamentos de otimização e a máxima da proporcionalidade são de Robert Alexy, uma troca típica de autor."
+   ],
+   [
+    "Dworkin confirma a tese positivista de que, diante da lacuna ou da textura aberta da lei, o juiz exerce discricionariedade e cria direito novo, como fez o tribunal em Riggs v. Palmer.",
+    "Errada. Essa é a posição de Hart, que Dworkin critica justamente com Riggs v. Palmer: para Dworkin, o tribunal aplicou um princípio que já integrava o direito."
+   ],
+   [
+    "Dworkin sustenta que a interpretação jurídica é um ato de vontade, cabendo ao juiz escolher qualquer das possibilidades contidas na moldura da norma.",
+    "Errada. A moldura da norma e a interpretação como ato de vontade pertencem a Kelsen (Teoria Pura do Direito, cap. VIII)."
+   ],
+   [
+    "Dworkin é expoente do realismo jurídico, para quem o direito é aquilo que os tribunais efetivamente decidem, a partir de fatores psicológicos e sociais dos juízes.",
+    "Errada. Essa visão é a do realismo jurídico (Holmes, Frank, Ross). Dworkin é um teórico interpretativista e antipositivista."
+   ]
+  ],
+  "c": 0,
+  "base": "R. Dworkin, Levando os direitos a sério e O império do direito; R. Alexy, Teoria dos direitos fundamentais; H. L. A. Hart, O Conceito de Direito.",
+  "dica": "Dworkin: regras no tudo ou nada, princípios com peso, juiz Hércules, integridade, romance em cadeia, resposta correta. Alexy: mandamentos de otimização. Kelsen: moldura."
+ },
+ {
+  "disc": "Noções Gerais de Direito e Formação Humanística",
+  "item": "H5",
+  "nivel": "fácil",
+  "tema": "Julgamento com perspectiva de gênero (Res. CNJ 492/2023 e ADPF 1.107)",
+  "enun": "Em audiência de instrução de processo por estupro, o advogado do réu passou a formular à vítima perguntas sobre sua vida sexual anterior, seus hábitos de vestimenta e frequência a festas, com o objetivo declarado de demonstrar que ela 'não era uma pessoa recatada'. O Ministério Público protestou. A juíza que presidia o ato considerou as diretrizes do Protocolo para Julgamento com Perspectiva de Gênero. A defesa protestou contra a intervenção, alegando cerceamento de defesa, e requereu que constasse em ata seu inconformismo. A vítima, visivelmente abalada, pediu para interromper o depoimento. Considerando a normativa do CNJ, a legislação processual penal e a jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A juíza deve indeferir as perguntas, pois é vedado o uso de linguagem, informações ou material que ofendam a dignidade da vítima, inclusive a menção à sua vida sexual pregressa e ao seu modo de vida, e a observância das diretrizes do Protocolo para Julgamento com Perspectiva de Gênero é obrigatória no Poder Judiciário.",
+    "CORRETA. O art. 400-A do CPP (Lei 14.245/2021, Lei Mariana Ferrer) veda manifestações sobre circunstâncias alheias aos fatos e o uso de linguagem ou material que ofenda a dignidade da vítima. Na ADPF 1.107 (2024), o STF declarou inconstitucional questionar a vida sexual pregressa ou o modo de vida da vítima em crimes contra a dignidade sexual, sob pena de nulidade. A Res. CNJ 492/2023 tornou obrigatórias as diretrizes do Protocolo."
+   ],
+   [
+    "A juíza deve admitir as perguntas, em respeito à ampla defesa, cabendo-lhe apenas valorar as respostas na sentença.",
+    "Errada. A ampla defesa não autoriza a revitimização nem a desqualificação moral da vítima (art. 400-A do CPP; ADPF 1.107)."
+   ],
+   [
+    "O Protocolo para Julgamento com Perspectiva de Gênero é mera recomendação, sem caráter obrigatório para os magistrados, que podem segui-lo segundo sua convicção.",
+    "Errada. A Res. CNJ 492/2023 estabeleceu a adoção obrigatória das diretrizes do Protocolo e a capacitação de magistrados em direitos humanos, gênero, raça e etnia."
+   ],
+   [
+    "As perguntas são vedadas apenas se a vítima for menor de idade, por força do Estatuto da Criança e do Adolescente.",
+    "Errada. A proteção do art. 400-A do CPP e da ADPF 1.107 alcança qualquer vítima, de qualquer idade."
+   ],
+   [
+    "A juíza deve admitir as perguntas, mas a vítima tem o direito de permanecer em silêncio, como qualquer acusado.",
+    "Errada. A questão não é o silêncio da vítima, e sim a vedação das perguntas, que cabe ao juiz controlar (art. 400-A do CPP)."
+   ]
+  ],
+  "c": 0,
+  "base": "CPP, arts. 400-A e 474-A; Lei 14.245/2021; Resolução CNJ 492/2023; STF, ADPF 1.107.",
+  "dica": "Vida sexual pregressa da vítima não se pergunta (ADPF 1.107 e Lei Mariana Ferrer). Protocolo de gênero é obrigatório desde a Res. CNJ 492/2023."
+ },
+ {
+  "disc": "Direitos Humanos",
+  "item": "DH4",
+  "nivel": "médio",
+  "tema": "Controle de convencionalidade no Brasil",
+  "enun": "Sobre o controle de convencionalidade e a hierarquia dos tratados internacionais de direitos humanos no ordenamento brasileiro, analise as afirmativas a seguir.\nI. Os tratados de direitos humanos aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros equivalem às emendas constitucionais, e os demais tratados de direitos humanos têm, segundo o STF, status supralegal.\nII. O controle de convencionalidade é de competência exclusiva do Supremo Tribunal Federal, exercido apenas pela via concentrada, não podendo ser realizado por juízes de primeiro grau.\nIII. O Conselho Nacional de Justiça recomendou aos órgãos do Poder Judiciário a observância dos tratados internacionais de direitos humanos e o uso da jurisprudência da Corte Interamericana de Direitos Humanos, bem como a realização do controle de convencionalidade das leis internas.\nEstá correto o que se afirma em",
+  "alts": [
+   [
+    "I, apenas.",
+    "Errada. A III também está correta (Recomendação CNJ 123/2022)."
+   ],
+   [
+    "II, apenas.",
+    "Errada. A II é a única falsa."
+   ],
+   [
+    "III, apenas.",
+    "Errada. A I também está correta."
+   ],
+   [
+    "II e III, apenas.",
+    "Errada. A II é falsa."
+   ],
+   [
+    "I e III, apenas.",
+    "CORRETA. I: art. 5º, §3º, da CF e RE 466.343 (status supralegal dos demais tratados de direitos humanos). II: falsa. O controle de convencionalidade pode ser difuso, exercido por qualquer juiz, e a Corte IDH exige que todos os órgãos do Estado o façam, inclusive de ofício (caso Almonacid Arellano e seguintes). III: Recomendação CNJ 123/2022."
+   ]
+  ],
+  "c": 4,
+  "base": "CF, art. 5º, §§2º e 3º; STF, RE 466.343; Recomendação CNJ 123/2022; Corte IDH, caso Almonacid Arellano vs. Chile.",
+  "dica": "Tratado de DH com rito de emenda (3/5, dois turnos) = emenda; sem o rito = supralegal; tratado comum = lei ordinária. Convencionalidade: qualquer juiz, até de ofício.",
+  "fixa": true
+ }
+]

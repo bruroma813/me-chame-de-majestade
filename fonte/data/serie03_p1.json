@@ -1,0 +1,389 @@
+[
+ {
+  "disc": "Direito Constitucional",
+  "item": "C07",
+  "nivel": "médio",
+  "tema": "Interceptação telefônica: requisitos e prorrogações (Lei 9.296/1996)",
+  "enun": "Em investigação sobre um esquema de desvio de verbas da saúde no Município Beta, a autoridade policial representou pela interceptação das comunicações telefônicas de Rogério, secretário municipal, apontado em depoimentos e em relatórios do COAF como operador financeiro do grupo. O juiz deferiu a medida por 15 dias, em decisão fundamentada. Ao fim do período, diante de diálogos que revelavam novos integrantes, a medida foi renovada quatro vezes, sempre por decisões que examinavam o material colhido e justificavam a continuidade. Durante a escuta, captaram-se conversas em que Rogério ameaçava um vereador, fato até então desconhecido. A defesa, no processo, sustentou: (i) a ilicitude das renovações sucessivas, porque a lei limitaria a medida a 30 dias; (ii) a imprestabilidade da prova da ameaça, crime punido com detenção, que não admite interceptação. Considerando a Constituição, a Lei nº 9.296/1996 e a jurisprudência do STF e do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "As renovações sucessivas são lícitas, desde que cada uma seja fundamentada e demonstre a indispensabilidade da medida, e a prova da ameaça, obtida fortuitamente em interceptação legítima, pode ser usada, sobretudo por guardar conexão com os fatos investigados.",
+    "CORRETA. O art. 5º da Lei 9.296/1996 fixa 15 dias, renováveis por igual tempo, comprovada a indispensabilidade. No Tema 661 (RE 625.263), o STF admitiu sucessivas renovações, desde que cada decisão seja fundamentada e demonstre a necessidade concreta. Quanto ao encontro fortuito (serendipidade), o STF e o STJ admitem a prova de crime punido com detenção descoberto em interceptação regularmente autorizada, especialmente quando conexo ao crime investigado."
+   ],
+   [
+    "As renovações são ilícitas a partir da segunda, pois a lei permite uma única prorrogação de 15 dias, totalizando 30 dias.",
+    "Errada. A lei fala em 'renovável por igual tempo', sem limitar o número de renovações. O STF (Tema 661) admite renovações sucessivas fundamentadas. O limite de 30 dias é próprio do estado de defesa (art. 136, §2º, da CF), uma troca típica de prova."
+   ],
+   [
+    "As renovações são lícitas, mas a prova da ameaça é ilícita, porque a interceptação não pode ser autorizada para crimes punidos com detenção, o que impede seu aproveitamento em qualquer hipótese.",
+    "Errada. O art. 2º, III, da Lei 9.296/1996 impede a autorização da medida para investigar crime punido, no máximo, com detenção. Isso não impede o aproveitamento de prova colhida fortuitamente em interceptação licitamente deferida para crime punido com reclusão."
+   ],
+   [
+    "A interceptação só poderia ter sido decretada após a instauração da ação penal, pois a Constituição a admite apenas para instrução processual penal.",
+    "Errada. O art. 5º, XII, da CF admite a interceptação 'para fins de investigação criminal ou instrução processual penal'. Ela pode ser deferida no inquérito, mediante representação da autoridade policial (art. 3º, I, da Lei 9.296/1996)."
+   ],
+   [
+    "Toda a prova é ilícita, porque a interceptação deveria ter sido precedida da quebra do sigilo bancário de Rogério, providência menos invasiva exigida pela lei.",
+    "Errada. A lei exige que a prova não possa ser feita por outros meios disponíveis (art. 2º, II), mas não impõe uma sequência obrigatória de medidas. Além disso, já havia relatórios do COAF e depoimentos."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, XII; Lei 9.296/1996, arts. 2º, 3º e 5º; STF, Tema 661 (RE 625.263).",
+  "dica": "Interceptação: reclusão + indícios + prova impossível por outro meio. 15 dias + renovações fundamentadas, sem limite fixo. Encontro fortuito vale."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C08t",
+  "nivel": "fácil",
+  "tema": "Prescrição trabalhista (CF, art. 7º, XXIX)",
+  "enun": "Marcos trabalhou como operador de máquinas em uma usina de açúcar, localizada em zona rural, de fevereiro de 2012 até 10 de março de 2025, quando foi dispensado sem justa causa. Em 5 de fevereiro de 2027, ajuizou reclamação trabalhista pedindo horas extras de todo o contrato, alegando que nunca recebeu o adicional, e diferenças de FGTS não depositado. Em contestação, a empregadora arguiu prescrição. Sustentou que o direito de ação estaria fulminado, por ter sido proposta a demanda após um ano da dispensa, e, subsidiariamente, que só poderiam ser cobradas as parcelas dos cinco anos anteriores à extinção do contrato. Considerando a Constituição Federal e a jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A ação é tempestiva, pois foi ajuizada dentro de dois anos da extinção do contrato, mas somente podem ser cobradas as parcelas exigíveis nos cinco anos anteriores ao ajuizamento, inclusive quanto ao FGTS.",
+    "CORRETA. O art. 7º, XXIX, da CF prevê prazo de cinco anos para urbanos e rurais, até o limite de dois anos após a extinção do contrato. Os cinco anos contam-se retroativamente do ajuizamento (Súmula 308, I, do TST). No Tema 608 (ARE 709.212), o STF afastou a prescrição trintenária do FGTS e aplicou o prazo quinquenal, com modulação para contratos antigos que já não alcança este caso."
+   ],
+   [
+    "A ação é tempestiva e, por se tratar de trabalhador rural, não há prescrição durante o curso do contrato, podendo ser cobradas as horas extras de todo o período.",
+    "Errada. A imprescritibilidade no curso do contrato para o rurícola foi extinta pela EC 28/2000, que unificou o prazo para urbanos e rurais."
+   ],
+   [
+    "A pretensão está prescrita, pois o prazo para ajuizar a ação é de um ano a contar da extinção do contrato.",
+    "Errada. O prazo constitucional para ajuizar a ação após a extinção é de dois anos, e não de um."
+   ],
+   [
+    "A ação é tempestiva, e os cinco anos devem ser contados retroativamente a partir da extinção do contrato, como sustentou a empresa.",
+    "Errada. O quinquênio conta-se da data do ajuizamento da ação, e não da extinção do contrato (Súmula 308, I, do TST)."
+   ],
+   [
+    "A ação é tempestiva; as horas extras sujeitam-se à prescrição quinquenal, mas o FGTS pode ser cobrado quanto aos últimos trinta anos.",
+    "Errada. No Tema 608, o STF declarou inconstitucional a prescrição trintenária do FGTS (art. 23, §5º, da Lei 8.036/1990), que passou a seguir o prazo quinquenal do art. 7º, XXIX."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 7º, III e XXIX; Súmula 308, I, do TST; STF, Tema 608 (ARE 709.212).",
+  "dica": "Prescrição trabalhista: 2 anos para ajuizar, contados da extinção, e 5 anos para trás, contados do ajuizamento. Urbano = rural. FGTS também é quinquenal."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C01",
+  "nivel": "fácil",
+  "tema": "Limites ao poder de reforma (art. 60 da CF)",
+  "enun": "Em março, a Câmara dos Deputados rejeitou, em segundo turno, proposta de emenda à Constituição que alterava o sistema de financiamento de campanhas. Em agosto do mesmo ano, durante a vigência de intervenção federal em um Estado, um grupo de deputados articulou a reapresentação do texto, com pequenas alterações de redação. Sobre o caso e o regime constitucional das emendas, analise as afirmativas a seguir.\nI. A matéria constante de proposta de emenda rejeitada não pode ser objeto de nova proposta na mesma sessão legislativa, nem mesmo mediante requerimento da maioria absoluta dos membros de uma das Casas.\nII. Enquanto vigorar a intervenção federal, a Constituição não pode ser emendada, ainda que a proposta não guarde relação com o Estado sob intervenção.\nIII. Aprovada a proposta nas duas Casas, a emenda será encaminhada ao Presidente da República, que poderá sancioná-la ou vetá-la no prazo de quinze dias úteis.\nEstá correto o que se afirma em",
+  "alts": [
+   [
+    "I, apenas.",
+    "Errada. A afirmativa II também está correta (art. 60, §1º)."
+   ],
+   [
+    "II, apenas.",
+    "Errada. A afirmativa I também está correta (art. 60, §5º)."
+   ],
+   [
+    "I e II, apenas.",
+    "CORRETA. I: art. 60, §5º. A vedação é absoluta na mesma sessão legislativa, diferentemente dos projetos de lei, que podem ser reapresentados por proposta da maioria absoluta (art. 67). II: art. 60, §1º. Intervenção federal, estado de defesa e estado de sítio são limitações circunstanciais que impedem qualquer emenda. III: falsa, porque a emenda é promulgada pelas Mesas da Câmara e do Senado (art. 60, §3º), sem sanção ou veto."
+   ],
+   [
+    "II e III, apenas.",
+    "Errada. A III é falsa: não há sanção nem veto de emenda constitucional."
+   ],
+   [
+    "I, II e III.",
+    "Errada. A III é falsa: a promulgação é feita pelas Mesas das duas Casas (art. 60, §3º)."
+   ]
+  ],
+  "c": 2,
+  "base": "CF, arts. 60, §§1º, 3º e 5º, e 67.",
+  "dica": "PEC rejeitada: só na próxima sessão legislativa, sem exceção. PL rejeitado: na mesma sessão, se a maioria absoluta propuser. PEC não tem sanção nem veto.",
+  "fixa": true
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C09",
+  "nivel": "difícil",
+  "tema": "Intervenção federal: requisição e controle político",
+  "enun": "O Tribunal de Justiça do Estado Ômega deixou de cumprir, por mais de um ano, decisão do Superior Tribunal de Justiça que determinava o pagamento de verbas a servidores, em razão de sucessivos atos do Governador que impediam o repasse. Paralelamente, a Assembleia Legislativa aprovou lei estadual que autorizava a criação de 'milícias comunitárias' armadas, e o Procurador-Geral da República considerou a lei ofensiva à forma republicana e aos direitos da pessoa humana. Diante desses fatos, discute-se a possibilidade de intervenção federal no Estado. A situação gerou protestos de servidores e paralisação de serviços de saúde, e o Governador declarou publicamente que não cumpriria 'decisões de Brasília'. O Presidente da República reuniu o Conselho da República e o Conselho de Defesa Nacional para avaliar as medidas cabíveis. Com base na Constituição Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A intervenção pelo descumprimento da decisão judicial depende de requisição do STJ, e a intervenção em razão da lei estadual depende de provimento, pelo STF, de representação do PGR. Nesta última hipótese, o decreto pode limitar-se a suspender a execução do ato impugnado, dispensada a apreciação pelo Congresso Nacional, se a medida bastar.",
+    "CORRETA. Na desobediência a ordem ou decisão judiciária, a intervenção depende de requisição do STF, do STJ ou do TSE (art. 36, II). Na violação de princípio sensível (art. 34, VII, a e b), depende de provimento, pelo STF, de representação interventiva do PGR (art. 36, III). Nos casos do art. 34, VI e VII, dispensa-se a apreciação do Congresso, e o decreto limita-se a suspender o ato, se isso bastar (art. 36, §3º)."
+   ],
+   [
+    "Nas duas hipóteses, o Presidente da República pode decretar a intervenção de ofício, submetendo o decreto à apreciação do Congresso Nacional no prazo de vinte e quatro horas.",
+    "Errada. A intervenção de ofício (espontânea) só cabe nos incisos I, II, III e V do art. 34. Nos casos de desobediência a decisão judicial e de violação de princípio sensível, a intervenção é provocada (art. 36, II e III)."
+   ],
+   [
+    "A intervenção pelo descumprimento da decisão do STJ depende de requisição exclusiva do STF, único tribunal legitimado a requisitar intervenção federal.",
+    "Errada. O art. 36, II, legitima o STF, o STJ e o TSE a requisitar a intervenção em caso de desobediência a suas ordens ou decisões."
+   ],
+   [
+    "A intervenção em razão da lei estadual depende de representação do PGR julgada procedente pelo STJ, e o decreto deverá ser sempre submetido ao Congresso Nacional em vinte e quatro horas.",
+    "Errada. A representação interventiva é julgada pelo STF (art. 36, III). Nos casos do art. 34, VI e VII, o controle político é dispensado (art. 36, §3º)."
+   ],
+   [
+    "Nenhuma das hipóteses autoriza intervenção federal, porque a Constituição só a admite para manter a integridade nacional, repelir invasão estrangeira ou pôr termo a grave comprometimento da ordem pública.",
+    "Errada. O rol do art. 34 é mais amplo e inclui o descumprimento de ordem judicial (inciso VI) e a observância dos princípios sensíveis (inciso VII)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 34, VI e VII, e 36, II, III e §§1º e 3º.",
+  "dica": "Intervenção: VI (ordem judicial) e VII (princípios sensíveis) são provocadas, sem controle do Congresso, e o decreto pode só suspender o ato. Requisição: STF, STJ ou TSE."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C10",
+  "nivel": "médio",
+  "tema": "Iniciativa reservada e emenda parlamentar com aumento de despesa",
+  "enun": "O Presidente da República encaminhou ao Congresso Nacional projeto de lei que reestruturava as carreiras de uma autarquia federal e previa reajuste de 5% na remuneração dos servidores. Durante a tramitação, emenda parlamentar elevou o reajuste para 12% e estendeu o benefício aos servidores de outra autarquia, não contemplada no projeto original. O texto foi aprovado e, transcorridos quinze dias úteis do recebimento sem manifestação, foi promulgado. Posteriormente, a constitucionalidade da lei foi questionada no STF. Na justificativa da emenda, o deputado autor alegou que a defasagem salarial das duas autarquias era idêntica e que o impacto orçamentário seria absorvido por remanejamento de outras despesas. A Comissão de Constituição e Justiça aprovou a emenda por unanimidade. À luz da Constituição Federal e da jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A emenda parlamentar é inconstitucional, porque, em projeto de iniciativa privativa do Presidente da República, é vedado aumento da despesa prevista, e a sanção tácita não convalida o vício.",
+    "CORRETA. O art. 63, I, da CF veda o aumento de despesa em projetos de iniciativa exclusiva do Presidente, ressalvadas as emendas orçamentárias do art. 166, §§3º e 4º. A remuneração de servidores da administração autárquica é de iniciativa privativa (art. 61, §1º, II, a). O STF não aplica mais a antiga Súmula 5: a sanção, expressa ou tácita, não supre o vício de iniciativa."
+   ],
+   [
+    "A lei é constitucional, porque a sanção tácita, ocorrida após quinze dias úteis de silêncio, supre eventual vício de iniciativa, conforme a jurisprudência atual do STF.",
+    "Errada. O STF superou a Súmula 5 e entende que a sanção não convalida o vício de iniciativa, que é formal e insanável."
+   ],
+   [
+    "A emenda é válida, porque o poder de emenda parlamentar é ilimitado nos projetos de iniciativa reservada, desde que haja pertinência temática.",
+    "Errada. O poder de emenda nos projetos de iniciativa reservada exige pertinência temática e não pode aumentar a despesa (art. 63, I). São dois limites cumulativos."
+   ],
+   [
+    "A lei é inconstitucional porque o silêncio do Presidente, no prazo de quinze dias úteis, importa veto tácito, de modo que o projeto não poderia ter sido promulgado.",
+    "Errada. O silêncio importa sanção tácita (art. 66, §3º). O ordenamento brasileiro não prevê veto tácito."
+   ],
+   [
+    "A emenda é inconstitucional apenas na parte que estendeu o benefício a outra autarquia; a majoração do percentual é válida, pois apenas altera quantitativamente a proposta original.",
+    "Errada. A majoração do percentual também aumenta a despesa prevista no projeto de iniciativa exclusiva e esbarra no art. 63, I."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 61, §1º, II, a, 63, I, e 66, §3º.",
+  "dica": "Iniciativa reservada: o Parlamento pode emendar, desde que com pertinência temática e sem aumentar despesa. Sanção não cura vício de iniciativa."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A16",
+  "nivel": "médio",
+  "tema": "Estabilidade, reintegração e disponibilidade (CF, art. 41)",
+  "enun": "Helena, aprovada em concurso, tomou posse em cargo efetivo de analista de um Estado e, após três anos de exercício, foi aprovada em avaliação especial de desempenho. Dois anos depois, foi demitida em processo administrativo disciplinar que, segundo decisão judicial transitada em julgado, desrespeitou o contraditório. Durante o afastamento, Pedro, também estável, foi nomeado para o cargo que ela ocupava. Na mesma época, lei estadual extinguiu o cargo de técnico ocupado por Joana, servidora estável, sem que houvesse outro cargo equivalente vago. Helena ajuizou ação anulatória e obteve sentença favorável, mantida pelo Tribunal. Joana, por sua vez, requereu administrativamente sua exoneração com o pagamento de indenização, sob o argumento de que a extinção do cargo rompera seu vínculo com o Estado. Considerando o art. 41 da Constituição Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Helena será reintegrada; Pedro, se estável, será reconduzido ao cargo de origem, sem direito a indenização, aproveitado em outro cargo ou posto em disponibilidade com remuneração proporcional; e Joana ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até seu aproveitamento.",
+    "CORRETA. Art. 41, §2º: invalidada por sentença judicial a demissão do servidor estável, ele será reintegrado, e o eventual ocupante da vaga, se estável, reconduzido ao cargo de origem, sem direito a indenização, aproveitado em outro cargo ou posto em disponibilidade com remuneração proporcional ao tempo de serviço. Art. 41, §3º: extinto o cargo ou declarada sua desnecessidade, o servidor estável ficará em disponibilidade, com remuneração proporcional, até seu adequado aproveitamento."
+   ],
+   [
+    "Helena não pode ser reintegrada, porque seu cargo já está ocupado por Pedro, cabendo-lhe apenas indenização pelo período de afastamento.",
+    "Errada. A reintegração é a consequência constitucional da invalidação da demissão (art. 41, §2º); o ocupante da vaga é quem cede lugar."
+   ],
+   [
+    "Pedro tem direito a indenização por perdas e danos, pois foi desalojado do cargo sem culpa sua.",
+    "Errada. O art. 41, §2º, diz expressamente que o ocupante da vaga será reconduzido 'sem direito a indenização'."
+   ],
+   [
+    "Joana será exonerada, pois a extinção do cargo por lei afasta a estabilidade, que garante o servidor no cargo, e não no serviço público.",
+    "Errada. A estabilidade é no serviço público. Extinto o cargo, o servidor estável vai para a disponibilidade remunerada, e não para a exoneração (art. 41, §3º)."
+   ],
+   [
+    "Joana ficará em disponibilidade com remuneração integral, e Helena será reintegrada com remuneração proporcional ao tempo de serviço.",
+    "Errada. A disponibilidade se dá com remuneração proporcional ao tempo de serviço (art. 41, §3º). A reintegração restabelece integralmente a situação de Helena, com ressarcimento das vantagens."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 41, §§1º a 4º; Lei 8.112/1990, arts. 28, 29 e 30.",
+  "dica": "Reintegração: volta o demitido. Recondução: volta o ocupante ao cargo anterior. Disponibilidade: remuneração proporcional ao tempo de serviço."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A18",
+  "nivel": "difícil",
+  "tema": "Tribunais de contas: prazo para registro, sustação de contratos e execução de multas",
+  "enun": "Sobre o controle externo exercido pelos Tribunais de Contas, considerando a Constituição Federal e a jurisprudência do Supremo Tribunal Federal, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Em atenção à segurança jurídica e à confiança legítima, o Tribunal de Contas está sujeito ao prazo de cinco anos, contados da chegada do processo à Corte, para julgar a legalidade do ato de concessão inicial de aposentadoria; esgotado o prazo, o ato considera-se definitivamente registrado.\n( ) Constatada ilegalidade em contrato administrativo, o Tribunal de Contas da União pode sustá-lo diretamente, comunicando a decisão à Câmara dos Deputados e ao Senado Federal.\n( ) As decisões do Tribunal de Contas que imputem débito ou multa têm eficácia de título executivo, e o Município prejudicado é o legitimado para executar multa aplicada pelo Tribunal de Contas estadual a agente público municipal em razão de danos ao erário municipal.\nAs afirmativas são, na ordem apresentada, respectivamente,",
+  "alts": [
+   [
+    "V – V – V.",
+    "Errada. A segunda é falsa: a sustação de contrato cabe ao Congresso Nacional (art. 71, §1º)."
+   ],
+   [
+    "F – F – V.",
+    "Errada. A primeira é verdadeira (Tema 445 do STF)."
+   ],
+   [
+    "V – F – F.",
+    "Errada. A terceira é verdadeira (art. 71, §3º, da CF, e Tema 642 do STF)."
+   ],
+   [
+    "V – F – V.",
+    "CORRETA. (1) V: Tema 445 (RE 636.553). Após cinco anos da chegada do processo ao Tribunal, o ato se considera registrado. (2) F: no caso de contrato, a sustação é adotada diretamente pelo Congresso Nacional; o Tribunal só decide se, em 90 dias, o Congresso ou o Executivo não agirem (art. 71, §§1º e 2º). Para atos administrativos, o próprio Tribunal pode sustar (art. 71, X). (3) V: art. 71, §3º, e Tema 642 (ARE 1.003.433): a execução da multa cabe ao ente prejudicado, e não ao Tribunal de Contas nem ao Estado."
+   ],
+   [
+    "F – V – F.",
+    "Errada. Inverte as três assertivas."
+   ]
+  ],
+  "c": 3,
+  "base": "CF, art. 71, X e §§1º a 3º; SV 3; STF, Temas 445 e 642.",
+  "dica": "Ato o Tribunal de Contas susta; contrato, o Congresso (o Tribunal só depois de 90 dias). Aposentadoria: 5 anos da chegada ao Tribunal, depois disso fica registrada.",
+  "fixa": true
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A08",
+  "nivel": "médio",
+  "tema": "Modalidades de licitação na Lei 14.133/2021",
+  "enun": "O Município Gama planeja três contratações: (1) a elaboração do projeto arquitetônico de um novo centro cultural, com escolha do melhor trabalho artístico e pagamento de prêmio ao vencedor; (2) a construção de uma ponte de concreto sobre o rio que corta a cidade, obra de engenharia com especificações complexas; e (3) uma solução tecnológica inovadora de monitoramento de enchentes, cujas especificações técnicas a Administração não consegue definir com precisão suficiente, sendo necessário dialogar com o mercado para identificar alternativas. O Secretário de Administração propôs utilizar o pregão para as contratações (1) e (2) e criar, por decreto, uma modalidade híbrida entre concorrência e concurso para a contratação (3). Com base na Lei nº 14.133/2021, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A contratação (1) deve ser feita por concurso, a (2) por concorrência e a (3) pode ser feita por diálogo competitivo, sendo vedada a criação de outras modalidades ou a combinação das previstas em lei.",
+    "CORRETA. Concurso: escolha de trabalho técnico, científico ou artístico, com prêmio ao vencedor (art. 6º, XXXIX). O pregão não se aplica a obras nem a serviços técnicos especializados de natureza predominantemente intelectual (art. 29, parágrafo único), o que leva a ponte à concorrência. O diálogo competitivo serve a objetos com inovação tecnológica cuja especificação a Administração não consegue definir com precisão (art. 32, I). O art. 28, §2º, veda criar modalidades ou combinar as existentes."
+   ],
+   [
+    "O pregão é adequado para as três contratações, pois é a modalidade obrigatória para bens e serviços comuns, inclusive obras de engenharia.",
+    "Errada. O art. 29, parágrafo único, exclui do pregão as obras e os serviços técnicos especializados de natureza predominantemente intelectual, salvo os serviços comuns de engenharia."
+   ],
+   [
+    "A contratação (2) pode ser realizada por pregão, porque a Lei nº 14.133/2021 admite pregão para obras e serviços de engenharia de qualquer natureza.",
+    "Errada. O pregão é admitido apenas para serviços comuns de engenharia (art. 6º, XXI, a), e não para obras."
+   ],
+   [
+    "A contratação (3) pode ser realizada pela modalidade híbrida criada por decreto municipal, em razão da autonomia federativa do Município para legislar sobre licitações.",
+    "Errada. As normas gerais de licitação são da União (art. 22, XXVII, da CF), e o art. 28, §2º, da Lei 14.133/2021 veda a criação de outras modalidades ou a combinação das existentes."
+   ],
+   [
+    "A contratação (1) deve ser feita por leilão, modalidade destinada à seleção do melhor trabalho técnico ou artístico, e a (3) por tomada de preços.",
+    "Errada. O leilão se destina à alienação de bens (art. 6º, XL), e a tomada de preços não existe na Lei 14.133/2021. As modalidades são pregão, concorrência, concurso, leilão e diálogo competitivo (art. 28)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 14.133/2021, arts. 6º, XXI, XXXVIII a XLII, 28, 29 e 32; CF, art. 22, XXVII.",
+  "dica": "Modalidades da Lei 14.133: Pregão, Concorrência, Concurso, Leilão e Diálogo competitivo. Tomada de preços e convite acabaram. Pregão não serve para obra."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A09",
+  "nivel": "difícil",
+  "tema": "Atraso de pagamento pela Administração (Lei 14.133/2021, art. 137)",
+  "enun": "A Construtora Ípsilon Ltda. foi contratada pelo Estado Delta, sob a Lei nº 14.133/2021, para a reforma de hospitais regionais. Após cumprir regularmente as etapas iniciais, emitiu as notas fiscais das medições aprovadas, mas o Estado deixou de pagar as parcelas por 75 dias consecutivos, sem justificativa e sem qualquer situação de calamidade ou guerra. A construtora consulta sua assessoria jurídica sobre as providências cabíveis. O contrato não prevê cláusula compromissória, e a construtora mantém em canteiro equipes e equipamentos alugados, cujo custo mensal vem comprometendo seu capital de giro. A Secretaria de Saúde informou, por ofício, apenas que 'o pagamento será regularizado oportunamente'. A respeito do caso, à luz da Lei nº 14.133/2021, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A construtora tem direito à extinção do contrato, por atraso superior a dois meses contado da emissão da nota fiscal, e pode, alternativamente, optar pela suspensão do cumprimento de suas obrigações até a normalização da situação. A extinção, por decorrer de conduta da Administração, não pode ser determinada por ato unilateral desta e deverá ser consensual, arbitral ou judicial.",
+    "CORRETA. Art. 137, §2º, IV: atraso superior a 2 meses, contado da emissão da nota fiscal, gera direito à extinção. Art. 137, §3º, II: o contratado pode optar pela suspensão das obrigações até a normalização. Art. 138, I: a extinção unilateral pela Administração não cabe quando o descumprimento decorre de sua própria conduta, restando as vias consensual, arbitral ou judicial (incisos II e III). Se houver culpa exclusiva da Administração, cabe ressarcimento (art. 138, §2º)."
+   ],
+   [
+    "A construtora deve continuar executando o contrato até completar 90 dias de atraso, quando poderá suspender a execução, pois a Administração goza da prerrogativa de inoponibilidade da exceção do contrato não cumprido até esse limite.",
+    "Errada. O prazo de 90 dias era o da Lei 8.666/1993 (art. 78, XV). Na Lei 14.133/2021, o marco é de 2 meses (art. 137, §2º, IV), uma troca clássica de prova."
+   ],
+   [
+    "A construtora não pode suspender a execução nem pleitear a extinção, porque o princípio da continuidade do serviço público impede, em qualquer hipótese, a oposição da exceção do contrato não cumprido à Administração.",
+    "Errada. A Lei 14.133/2021 relativiza a inoponibilidade e confere ao contratado o direito de suspender ou extinguir o contrato em caso de atraso superior a dois meses (art. 137, §§2º e 3º)."
+   ],
+   [
+    "A construtora pode declarar unilateralmente extinto o contrato, por simples notificação à Administração, independentemente de acordo ou decisão judicial ou arbitral.",
+    "Errada. O particular não extingue o contrato administrativo por ato unilateral. As vias são a consensual, a arbitral e a judicial (art. 138, II e III)."
+   ],
+   [
+    "O direito à extinção só surge se o atraso decorrer de despesas com fornecimentos, não se aplicando a obras e serviços de engenharia.",
+    "Errada. O art. 137, §2º, IV, abrange expressamente despesas de obras, serviços ou fornecimentos."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 14.133/2021, arts. 137, §§2º, IV, e 3º, e 138; Lei 8.666/1993, art. 78, XV (revogada).",
+  "dica": "Lei 14.133: atraso de pagamento acima de 2 meses (na Lei 8.666 eram 90 dias) permite extinguir ou suspender, salvo calamidade, guerra ou culpa do contratado."
+ },
+ {
+  "disc": "Noções Gerais de Direito e Formação Humanística",
+  "item": "H1",
+  "nivel": "médio",
+  "tema": "Pluralismo jurídico (Boaventura de Sousa Santos)",
+  "enun": "Em pesquisa de campo realizada na década de 1970 em uma favela do Rio de Janeiro, à qual deu o nome fictício de 'Pasárgada', Boaventura de Sousa Santos observou que a associação de moradores resolvia conflitos sobre a posse e a transmissão de barracos, lavrava documentos e aplicava regras próprias, inspiradas no direito oficial, mas com linguagem e procedimentos adaptados à comunidade, em um contexto de ilegalidade das ocupações perante o Estado. O estudo foi realizado por meio de observação participante, com acompanhamento das sessões da associação e análise dos documentos por ela redigidos, e tornou-se referência para os debates sobre acesso à justiça e formas alternativas de resolução de conflitos. A respeito das conclusões desse estudo para a sociologia do direito, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O estudo ilustra o pluralismo jurídico, pois revela a coexistência, no mesmo espaço geopolítico, de ordens jurídicas não estatais ao lado do direito oficial, com retórica, mecanismos de resolução de conflitos e formas próprias de legitimação.",
+    "CORRETA. O 'Direito de Pasárgada' é o exemplo clássico do pluralismo jurídico: a convivência de mais de uma ordem jurídica no mesmo espaço. O direito comunitário era menos formal, mais retórico e baseado na mediação, e recebia legitimidade da própria comunidade, embora se apropriasse de formas do direito estatal."
+   ],
+   [
+    "O estudo confirma o monismo jurídico, pois as regras da associação só tinham validade porque reproduziam fielmente o direito estatal.",
+    "Errada. As regras eram adaptadas, e não reproduzidas: a pesquisa contesta justamente a tese monista de que só o Estado produz direito."
+   ],
+   [
+    "O estudo demonstra que, na ausência do Estado, as comunidades vivem em estado de anomia, sem regras de conduta reconhecidas.",
+    "Errada. A conclusão é a oposta: havia uma ordem normativa própria e eficaz, e não anomia."
+   ],
+   [
+    "O estudo aponta que o direito comunitário de Pasárgada era mais formal e técnico que o direito estatal, com predomínio da violência como mecanismo de solução de conflitos.",
+    "Errada. Boaventura destaca o baixo formalismo e o predomínio da retórica, da persuasão e da mediação, e não da violência."
+   ],
+   [
+    "O estudo é exemplo da teoria pura do direito, que considera direito apenas as normas extraídas de uma norma fundamental pressuposta, ainda que não estatais.",
+    "Errada. A teoria pura (Kelsen) é normativista e identifica direito e Estado; a pesquisa de Boaventura é sociológica e empírica."
+   ]
+  ],
+  "c": 0,
+  "base": "Boaventura de Sousa Santos, O direito dos oprimidos (Direito de Pasárgada); edital ENAM, sociologia do direito.",
+  "dica": "Pasárgada = pluralismo jurídico: mais de um direito no mesmo espaço, com retórica e mediação em vez de burocracia e violência."
+ },
+ {
+  "disc": "Noções Gerais de Direito e Formação Humanística",
+  "item": "H5",
+  "nivel": "médio",
+  "tema": "Hart: regras primárias e secundárias",
+  "enun": "Em O Conceito de Direito, H. L. A. Hart critica a concepção do direito como ordens coercitivas do soberano e propõe compreendê-lo como união de regras primárias e secundárias. Sobre essa teoria, analise as afirmativas a seguir.\nI. As regras primárias impõem deveres, exigindo que os indivíduos façam ou deixem de fazer certas ações, independentemente de sua vontade.\nII. A regra de reconhecimento é uma regra secundária que fornece os critérios de identificação das demais regras do sistema, e sua existência é uma questão de fato, revelada pela prática dos tribunais e autoridades.\nIII. As regras de alteração e de julgamento são regras primárias, pois atribuem diretamente obrigações aos cidadãos, sanando a incerteza do regime pré-jurídico.\nEstá correto o que se afirma em",
+  "alts": [
+   [
+    "I, apenas.",
+    "Errada. A II também está correta."
+   ],
+   [
+    "II, apenas.",
+    "Errada. A I também está correta."
+   ],
+   [
+    "III, apenas.",
+    "Errada. A III é a única falsa: regras de alteração e de julgamento são secundárias."
+   ],
+   [
+    "I e II, apenas.",
+    "CORRETA. I: as regras primárias impõem deveres. II: a regra de reconhecimento é secundária, fornece os critérios de validade e existe como fato social, aceito do ponto de vista interno pelas autoridades. III: falsa. As regras de alteração (que remediam o caráter estático) e de julgamento (que remediam a ineficiência) também são secundárias, porque conferem poderes, e não deveres. A regra de reconhecimento remedia a incerteza."
+   ],
+   [
+    "I, II e III.",
+    "Errada. A III é falsa."
+   ]
+  ],
+  "c": 3,
+  "base": "H. L. A. Hart, O Conceito de Direito, caps. V e VI.",
+  "dica": "Hart: primárias = deveres; secundárias = poderes (reconhecimento contra a incerteza, alteração contra o caráter estático, julgamento contra a ineficiência).",
+  "fixa": true
+ },
+ {
+  "disc": "Direitos Humanos",
+  "item": "DH3",
+  "nivel": "médio",
+  "tema": "Petição à Comissão Interamericana: admissibilidade e acesso à Corte",
+  "enun": "A família de Lúcio, morto em operação policial em 2017, ajuizou ação de indenização contra o Estado brasileiro, e o Ministério Público ofereceu denúncia contra os policiais. Passados oito anos, o processo penal ainda não teve sentença de primeira instância, sem justificativa plausível para a demora, e a ação civil está paralisada. Uma organização não governamental, sem procuração da família, pretende peticionar no sistema interamericano. A família relata que já procurou a Defensoria Pública, a Corregedoria do Tribunal e o Conselho Nacional de Justiça, sem resultado. A ONG atua na defesa de vítimas de violência policial e é legalmente constituída no Brasil desde 2010. Considerando a Convenção Americana sobre Direitos Humanos, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A ONG pode apresentar petição à Comissão Interamericana, e o requisito do esgotamento dos recursos internos pode ser excepcionado em razão do atraso injustificado na decisão; eventual submissão do caso à Corte Interamericana caberá à Comissão ou a um Estado-parte, e não à ONG ou à família.",
+    "CORRETA. O art. 44 da CADH admite petições de qualquer pessoa, grupo ou entidade não governamental legalmente reconhecida, sem exigir vínculo com a vítima. O art. 46.2, c, dispensa o esgotamento dos recursos internos e o prazo de seis meses quando houver demora injustificada. Pelo art. 61.1, só os Estados-partes e a Comissão podem submeter casos à Corte."
+   ],
+   [
+    "A petição é inadmissível, pois os recursos internos não foram esgotados, requisito que não admite exceções na Convenção Americana.",
+    "Errada. O art. 46.2 prevê exceções: ausência de devido processo legal na legislação interna, impedimento de acesso aos recursos e retardamento injustificado da decisão."
+   ],
+   [
+    "A ONG não tem legitimidade, porque a petição individual exige procuração da vítima ou de seus familiares.",
+    "Errada. O art. 44 legitima qualquer entidade não governamental legalmente reconhecida em um ou mais Estados-membros da OEA, sem exigir procuração."
+   ],
+   [
+    "A ONG pode ajuizar o caso diretamente perante a Corte Interamericana, dispensada a prévia passagem pela Comissão, por se tratar de grave violação ao direito à vida.",
+    "Errada. O indivíduo e as ONGs não têm acesso direto à Corte (art. 61.1); o caso precisa passar antes pelo procedimento na Comissão (art. 61.2)."
+   ],
+   [
+    "A petição deve ser apresentada no prazo de dois anos contados do fato, sob pena de inadmissibilidade, independentemente do andamento dos processos internos.",
+    "Errada. O prazo é de seis meses contados da notificação da decisão definitiva interna (art. 46.1, b), e ele também é afastado nas hipóteses do art. 46.2."
+   ]
+  ],
+  "c": 0,
+  "base": "CADH, arts. 44, 46 e 61.",
+  "dica": "Comissão IDH: qualquer pessoa ou ONG peticiona. Esgotar os recursos internos + 6 meses, salvo demora injustificada. Na Corte só entram a Comissão e os Estados."
+ }
+]

@@ -1,0 +1,514 @@
+[
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P06",
+  "nivel": "fácil",
+  "tema": "Contagem de prazos: dias úteis, Fazenda Pública e recesso",
+  "enun": "O Município Zeta foi citado, por meio eletrônico, em ação de procedimento comum ajuizada por um fornecedor, no início de dezembro. A procuradoria municipal entendeu que o prazo de contestação seria de quinze dias corridos e que o período entre 20 de dezembro e 20 de janeiro não teria qualquer efeito sobre o prazo. Em outra demanda, que tramita no Juizado Especial da Fazenda Pública, a procuradoria pretende recorrer contando o prazo em dobro. A procuradoria municipal recebeu a citação no sistema eletrônico do tribunal e registrou o prazo em sua agenda considerando dias corridos. Um assessor alertou que o prazo poderia ser diferente, por se tratar de ente público e por envolver o período de fim de ano. Considerando o Código de Processo Civil e a legislação aplicável, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "No procedimento comum, o Município dispõe de prazo em dobro, contado em dias úteis, e o curso do prazo fica suspenso entre 20 de dezembro e 20 de janeiro; no Juizado Especial da Fazenda Pública, não há prazo diferenciado para a Fazenda.",
+    "CORRETA. Art. 183 do CPC: a Fazenda tem prazo em dobro para todas as manifestações processuais, contado da intimação pessoal (que inclui a eletrônica, §1º). Art. 219: na contagem de prazo processual em dias, computam-se só os dias úteis. Art. 220: suspende-se o curso dos prazos entre 20 de dezembro e 20 de janeiro. Art. 183, §2º, e art. 7º da Lei 12.153/2009: não há prazo diferenciado quando a lei estabelece prazo próprio, como nos Juizados da Fazenda."
+   ],
+   [
+    "O prazo do Município é de quinze dias corridos, pois a contagem em dias úteis só se aplica aos particulares.",
+    "Errada. A contagem em dias úteis vale para todos os prazos processuais (art. 219), e a Fazenda tem prazo em dobro (art. 183)."
+   ],
+   [
+    "O prazo do Município é contado em quádruplo para contestar e em dobro para recorrer, como previa o Código de 1973.",
+    "Errada. O CPC/2015 unificou o benefício: prazo em dobro para todas as manifestações (art. 183). O prazo em quádruplo para contestar era do CPC/1973 (art. 188)."
+   ],
+   [
+    "O período entre 20 de dezembro e 20 de janeiro interrompe o prazo, que recomeça a correr integralmente a partir de 21 de janeiro.",
+    "Errada. O art. 220 prevê suspensão, e não interrupção: o prazo retoma o curso pelo saldo restante."
+   ],
+   [
+    "No Juizado Especial da Fazenda Pública, o Município também tem prazo em dobro para recorrer, pois a prerrogativa do art. 183 do CPC se aplica a todos os ritos.",
+    "Errada. O art. 7º da Lei 12.153/2009 afasta o prazo diferenciado para a Fazenda nos Juizados, aplicando-se o art. 183, §2º, do CPC."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 183, 219 e 220; Lei 12.153/2009, art. 7º.",
+  "dica": "CPC/2015: dias úteis, Fazenda em dobro para tudo (não há mais quádruplo), recesso de 20/12 a 20/1 suspende. Juizado da Fazenda: sem prazo em dobro."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P07",
+  "nivel": "médio",
+  "tema": "Improcedência liminar do pedido (art. 332 do CPC)",
+  "enun": "Marcelo ajuizou ação contra instituição financeira pedindo a restituição de tarifa bancária, mas sua tese contrariava frontalmente acórdão proferido pelo STJ em julgamento de recursos repetitivos. O juiz, sem citar o réu e sem necessidade de produção de provas, julgou liminarmente improcedente o pedido. Em outro processo, ajuizado por Simone, o juiz verificou de plano que a pretensão estava prescrita e também julgou improcedente o pedido antes da citação. Marcelo apelou, sustentando que o juiz não poderia julgar sem ouvir o réu e que a decisão, por ter sido proferida no início do processo, seria interlocutória. Simone não recorreu, e o banco réu, que não fora citado, só soube da ação depois. Considerando o Código de Processo Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "As duas sentenças são admissíveis; se o autor apelar, o juiz poderá retratar-se em cinco dias e, não havendo retratação, determinará a citação do réu para apresentar contrarrazões em quinze dias; se não houver apelação, o réu será intimado do trânsito em julgado.",
+    "CORRETA. Art. 332, II: nas causas que dispensem a fase instrutória, o juiz julga liminarmente improcedente o pedido que contrariar acórdão do STF ou do STJ em recursos repetitivos. §1º: também quando verificar desde logo a prescrição ou a decadência. §3º: interposta apelação, o juiz pode retratar-se em 5 dias. §4º: sem retratação, cita o réu para contrarrazões em 15 dias. §2º: sem apelação, o réu é intimado do trânsito em julgado (art. 241)."
+   ],
+   [
+    "As decisões têm natureza interlocutória e são impugnáveis por agravo de instrumento, pois proferidas antes da citação.",
+    "Errada. A improcedência liminar é sentença de mérito (art. 487, I e II) e se impugna por apelação."
+   ],
+   [
+    "A improcedência liminar exige a prévia citação do réu, sob pena de violação do contraditório.",
+    "Errada. O art. 332 dispensa a citação, pois a decisão favorece o réu. O contraditório do autor é observado, porque a decisão se apoia em precedente qualificado ou na prescrição, que o autor pode impugnar na apelação."
+   ],
+   [
+    "Interposta apelação, o juiz pode retratar-se no prazo de quinze dias, e, não havendo retratação, os autos sobem ao tribunal sem citação do réu.",
+    "Errada. O prazo de retratação é de 5 dias (§3º), e o réu deve ser citado para contrarrazões (§4º)."
+   ],
+   [
+    "A improcedência liminar também pode fundar-se em jurisprudência dominante de tribunal de justiça sobre lei federal, ainda que não sumulada.",
+    "Errada. As hipóteses do art. 332 são taxativas. Súmula de tribunal de justiça só autoriza a improcedência liminar quando versar sobre direito local (inciso IV)."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 241, 332 e 487.",
+  "dica": "Improcedência liminar: precedente qualificado (súmula STF/STJ, repetitivo, IRDR/IAC, súmula do TJ sobre direito local) ou prescrição/decadência. Apelação com retratação em 5 dias."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P09-11",
+  "nivel": "difícil",
+  "tema": "Remessa necessária: hipóteses e dispensas",
+  "enun": "Foram proferidas, na mesma semana, as seguintes sentenças, todas líquidas: (i) condenação da União a pagar 800 salários-mínimos a uma empresa; (ii) condenação do Município de Ilhéus (BA), que não é capital, a pagar 150 salários-mínimos a um servidor; (iii) condenação do Estado da Bahia a pagar 300 salários-mínimos, com fundamento em súmula do STJ; (iv) condenação de uma sociedade de economia mista estadual a pagar 2.000 salários-mínimos. Não houve apelação em nenhum dos casos. O cartório certificou o decurso do prazo recursal e encaminhou os autos ao juiz para decidir se deveriam ser remetidos ao tribunal. O servidor responsável sugeriu remeter todos os processos ao tribunal, 'por cautela'. Considerando o Código de Processo Civil e a jurisprudência do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Somente a sentença contra o Município de Ilhéus está sujeita à remessa necessária, e o tribunal, ao julgá-la, não pode agravar a condenação imposta ao ente público.",
+    "CORRETA. Art. 496, §3º: a remessa é dispensada quando a condenação for inferior a 1.000 salários-mínimos para a União (i), 500 para os Estados (iii) e 100 para os demais Municípios. Ilhéus foi condenado em 150, acima do limite, e está sujeito à remessa. Em (iii) há ainda a dispensa do §4º, I (sentença fundada em súmula de tribunal superior). Em (iv), a sociedade de economia mista não é Fazenda Pública para fins do art. 496, I. Súmula 45 do STJ: no reexame necessário, é defeso ao tribunal agravar a condenação imposta à Fazenda Pública."
+   ],
+   [
+    "Todas as sentenças estão sujeitas à remessa necessária, pois foram proferidas contra pessoas jurídicas integrantes da Administração Pública.",
+    "Errada. As empresas estatais (sociedades de economia mista e empresas públicas) não se submetem ao art. 496, que alcança a União, Estados, DF, Municípios e suas autarquias e fundações de direito público, e há dispensas por valor e por precedente."
+   ],
+   [
+    "Estão sujeitas à remessa necessária as sentenças contra a União e contra o Estado da Bahia, pois superam 100 salários-mínimos.",
+    "Errada. O limite da União é de 1.000 salários-mínimos e o dos Estados é de 500. Além disso, a sentença contra o Estado se funda em súmula do STJ (art. 496, §4º, I)."
+   ],
+   [
+    "Somente a sentença contra a sociedade de economia mista está sujeita à remessa necessária, pois supera o maior limite previsto no Código.",
+    "Errada. A sociedade de economia mista tem personalidade de direito privado e não goza da remessa necessária."
+   ],
+   [
+    "A sentença contra o Município de Ilhéus está sujeita à remessa necessária, e o tribunal, ao julgá-la, poderá majorar a condenação se constatar erro em favor do ente público.",
+    "Errada. A Súmula 45 do STJ veda a reformatio in pejus contra a Fazenda no reexame necessário."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, art. 496, I e §§3º e 4º; Súmula 45/STJ.",
+  "dica": "Remessa necessária: 1.000 salários-mínimos (União), 500 (Estados e capitais), 100 (demais Municípios). Não há remessa para estatal nem se a sentença seguir súmula ou repetitivo. Tribunal não piora a situação da Fazenda (Súm. 45)."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V19",
+  "nivel": "difícil",
+  "tema": "Sucessão do cônjuge na comunhão parcial e direito real de habitação",
+  "enun": "Henrique faleceu sem testamento, deixando a esposa Laura, com quem era casado sob o regime da comunhão parcial de bens, e dois filhos do primeiro casamento, Igor e Júlia. Seu patrimônio era composto por: (a) uma casa, adquirida onerosamente durante o casamento, onde o casal residia e que era o único imóvel residencial a inventariar; (b) um apartamento comercial que Henrique herdara de seus pais antes do casamento. Igor e Júlia ajuizaram o inventário e sustentaram que Laura seria apenas meeira, sem direito à herança, e que deveria desocupar a casa para que ela fosse vendida e o produto partilhado. Laura alega que tem direito a permanecer no imóvel e a concorrer em toda a herança. Considerando o Código Civil e a jurisprudência do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Laura tem direito à meação da casa, mas não concorre com os filhos na herança desse bem; concorre com Igor e Júlia apenas quanto ao apartamento, que é bem particular, recebendo quinhão igual ao de cada um deles, sem reserva de um quarto; e tem direito real de habitação sobre a casa.",
+    "CORRETA. Na comunhão parcial, o cônjuge concorre com os descendentes só se o autor da herança deixou bens particulares, e a concorrência incide apenas sobre eles (art. 1.829, I; STJ, REsp 1.368.123/SP, 2ª Seção). Sobre os bens comuns, Laura já é meeira. O quinhão é igual ao dos que sucedem por cabeça, e a reserva de 1/4 só se aplica se o cônjuge for ascendente dos herdeiros com quem concorre (art. 1.832), o que não ocorre. O direito real de habitação é assegurado qualquer que seja o regime (art. 1.831)."
+   ],
+   [
+    "Laura concorre com os filhos sobre a totalidade da herança, inclusive sobre a metade da casa que pertencia a Henrique, além de ser meeira.",
+    "Errada. Para o STJ, na comunhão parcial a concorrência se limita aos bens particulares. Sobre os comuns, o cônjuge é meeiro, e não herdeiro."
+   ],
+   [
+    "Laura concorre com os filhos quanto ao apartamento, tendo direito a, no mínimo, um quarto desse bem.",
+    "Errada. A quota mínima de 1/4 só existe quando o cônjuge é ascendente dos herdeiros com quem concorre (art. 1.832). Igor e Júlia são filhos apenas de Henrique."
+   ],
+   [
+    "Laura não tem direito real de habitação, porque esse direito só é conferido ao cônjuge casado sob o regime da comunhão universal de bens.",
+    "Errada. O art. 1.831 confere o direito real de habitação 'qualquer que seja o regime de bens'."
+   ],
+   [
+    "Laura não herda nada, pois, no regime da comunhão parcial, o cônjuge sobrevivente é apenas meeiro, e a herança cabe integralmente aos descendentes.",
+    "Errada. Havendo bens particulares, o cônjuge casado na comunhão parcial concorre com os descendentes quanto a eles (art. 1.829, I)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 1.829, I, 1.831 e 1.832; STJ, REsp 1.368.123/SP.",
+  "dica": "Comunhão parcial: onde há meação, o cônjuge não herda; onde não há (bens particulares), herda. Reserva de 1/4 só se for mãe ou pai dos herdeiros. Habitação em qualquer regime."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V08",
+  "nivel": "médio",
+  "tema": "Seguro de vida e suicídio (art. 798 do CC e Súmula 610/STJ)",
+  "enun": "Em março de 2025, Rui contratou seguro de vida, indicando a esposa, Célia, como beneficiária. Em dezembro de 2026, Rui cometeu suicídio. A seguradora negou o pagamento do capital segurado, invocando cláusula que excluía a cobertura de suicídio 'a qualquer tempo'. Célia alegou que o suicídio não foi premeditado, pois Rui foi acometido de depressão grave apenas meses depois da contratação, o que foi comprovado por laudo médico. O contrato foi celebrado com capital segurado de R$ 500 mil e prêmios mensais pagos regularmente até a morte. Não houve suspensão ou recondução do contrato, e a seguradora não exigiu exame médico prévio. Considerando o Código Civil e a jurisprudência do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Célia não tem direito ao capital segurado, porque o suicídio ocorreu nos dois primeiros anos de vigência do contrato, critério objetivo que dispensa a análise de premeditação; tem, porém, direito à devolução do montante da reserva técnica formada; e a cláusula que exclui a cobertura a qualquer tempo é nula.",
+    "CORRETA. O art. 798 do CC exclui o direito ao capital quando o segurado se suicida nos dois primeiros anos de vigência inicial do contrato. A Súmula 610 do STJ adota o critério objetivo e ressalva a devolução da reserva técnica. O parágrafo único do art. 798 declara nula, fora dessa hipótese, a cláusula que exclui o pagamento por suicídio."
+   ],
+   [
+    "Célia tem direito ao capital segurado, pois o suicídio não foi premeditado, e a seguradora só se exime se provar a premeditação.",
+    "Errada. O critério da premeditação (antigas Súmulas 105 do STF e 61 do STJ) foi superado: o STJ cancelou a Súmula 61 e editou a Súmula 610, com critério puramente temporal."
+   ],
+   [
+    "Célia não tem direito a nenhum valor, porque a cláusula que exclui o suicídio a qualquer tempo é válida, em respeito à autonomia privada.",
+    "Errada. Fora do prazo de dois anos, a cláusula de exclusão é nula (art. 798, parágrafo único), e, mesmo dentro dele, há direito à reserva técnica (Súmula 610)."
+   ],
+   [
+    "Célia tem direito ao capital segurado, pois o prazo de carência para suicídio é de um ano, já transcorrido.",
+    "Errada. O prazo legal é de dois anos de vigência inicial do contrato (art. 798)."
+   ],
+   [
+    "Célia tem direito à metade do capital segurado, por aplicação da teoria do adimplemento substancial, já que o contrato vigorou por mais da metade do período de carência.",
+    "Errada. Não há pagamento proporcional: dentro dos dois anos, só cabe a devolução da reserva técnica."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 797 e 798; Súmula 610/STJ.",
+  "dica": "Suicídio no seguro de vida: nos 2 primeiros anos, não há capital, só a reserva técnica; depois, paga sempre. Premeditação não importa."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V07",
+  "nivel": "médio",
+  "tema": "Resolução por onerosidade excessiva",
+  "enun": "A Indústria Têxtil Beta celebrou com a Fiação Gama contrato de fornecimento de fios de algodão por cinco anos, com preço fixo, sem cláusula de reajuste. No terceiro ano, uma praga sem precedentes, de alcance mundial, destruiu grande parte das lavouras de algodão, elevando o preço da matéria-prima em 400%, o que tornou o cumprimento ruinoso para a Fiação Gama, enquanto a Indústria Beta passou a obter vantagem extrema. A Fiação Gama ajuizou ação de resolução contratual. A praga foi reconhecida por organismos internacionais como fenômeno sem precedentes nos últimos cem anos. A Indústria Beta, em contestação, alegou que o contrato a preço fixo afastaria qualquer revisão e ofereceu, subsidiariamente, reajustar parcialmente o preço para manter o vínculo. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A Fiação Gama pode pedir a resolução do contrato, cujos efeitos retroagem à data da citação, e a Indústria Beta pode evitá-la oferecendo-se a modificar equitativamente as condições do contrato.",
+    "CORRETA. Art. 478 do CC: nos contratos de execução continuada ou diferida, se a prestação de uma das partes se tornar excessivamente onerosa, com extrema vantagem para a outra, em virtude de acontecimentos extraordinários e imprevisíveis, o devedor pode pedir a resolução, e os efeitos da sentença retroagem à data da citação. Art. 479: a resolução pode ser evitada se o réu se oferecer a modificar equitativamente as condições."
+   ],
+   [
+    "O contrato resolve-se automaticamente, desde a data da praga, independentemente de decisão judicial.",
+    "Errada. A resolução por onerosidade excessiva depende de pedido e de sentença, cujos efeitos retroagem à citação (art. 478), e não à data do fato."
+   ],
+   [
+    "Trata-se de lesão, vício do negócio jurídico que o torna anulável, pois houve desproporção entre as prestações.",
+    "Errada. A lesão (art. 157) supõe desproporção já no momento da celebração. Aqui a desproporção é superveniente, o que caracteriza onerosidade excessiva."
+   ],
+   [
+    "A Fiação Gama não pode pedir a resolução, pois o contrato a preço fixo afasta qualquer revisão ou resolução, por força do princípio do pacta sunt servanda.",
+    "Errada. A teoria da imprevisão (arts. 317 e 478 a 480) é aplicável mesmo aos contratos empresariais paritários, ainda que de forma excepcional e limitada (art. 421-A, III)."
+   ],
+   [
+    "A Fiação Gama só pode pedir a redução de sua prestação, mas nunca a resolução, pois os contratos bilaterais admitem apenas a revisão.",
+    "Errada. A redução da prestação é a solução do art. 480, aplicável quando as obrigações couberem a apenas uma das partes. Nos bilaterais, o art. 478 admite a resolução."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 157, 317, 421-A, 478, 479 e 480.",
+  "dica": "Onerosidade excessiva: fato superveniente extraordinário e imprevisível + extrema vantagem para a outra parte. Efeitos desde a citação, e o réu pode evitar oferecendo revisão. Lesão é vício na origem."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V02",
+  "nivel": "fácil",
+  "tema": "Direitos da personalidade: imagem e disposição do corpo",
+  "enun": "Uma rede de academias publicou, em sua campanha publicitária nas redes sociais, foto de Natália, atleta amadora, treinando em um parque, sem sua autorização. A imagem não era vexatória e Natália não demonstrou qualquer prejuízo material. Na mesma época, Natália decidiu doar um de seus rins ao irmão, que sofria de insuficiência renal, e um conhecido sugeriu que ela poderia cobrar uma compensação financeira da família. A academia alegou que a foto foi tirada em local público e que não houve qualquer exposição negativa da atleta. Os médicos confirmaram a compatibilidade entre os irmãos e a ausência de risco relevante à saúde de Natália. Considerando o Código Civil e a jurisprudência do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Natália tem direito à indenização pelo uso não autorizado de sua imagem com fins econômicos, independentemente de prova do prejuízo, e a doação do rim é admitida para fins de transplante, desde que gratuita.",
+    "CORRETA. Súmula 403 do STJ: independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais. O art. 13, parágrafo único, do CC admite o ato de disposição do próprio corpo para transplante, na forma da lei especial (Lei 9.434/1997), que exige gratuidade (CF, art. 199, §4º)."
+   ],
+   [
+    "Natália só terá direito à indenização se provar que a imagem lhe causou prejuízo ou foi utilizada de forma vexatória.",
+    "Errada. Pela Súmula 403 do STJ, o dano é presumido (in re ipsa) quando a imagem é usada com fins comerciais sem autorização."
+   ],
+   [
+    "A doação de órgão em vida é vedada pelo Código Civil, pois importa diminuição permanente da integridade física.",
+    "Errada. O art. 13 veda, salvo exigência médica, a disposição que importe diminuição permanente da integridade física, mas o parágrafo único ressalva expressamente o transplante."
+   ],
+   [
+    "Natália pode receber compensação financeira pela doação, pois os direitos da personalidade admitem limitação voluntária mediante contraprestação.",
+    "Errada. A comercialização de órgãos é vedada (CF, art. 199, §4º; Lei 9.434/1997, art. 1º), e os direitos da personalidade são, em regra, intransmissíveis e irrenunciáveis (art. 11)."
+   ],
+   [
+    "A indenização pelo uso da imagem só é devida se Natália for pessoa pública ou celebridade, cuja imagem tem valor comercial.",
+    "Errada. A proteção da imagem alcança qualquer pessoa (art. 20 do CC), e a Súmula 403 não distingue entre pessoas públicas e anônimas."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 199, §4º; CC, arts. 11, 13 e 20; Lei 9.434/1997; Súmula 403/STJ.",
+  "dica": "Imagem usada com fim comercial sem autorização: dano presumido (Súm. 403). Transplante entre vivos: permitido, sempre gratuito."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V10-11",
+  "nivel": "médio",
+  "tema": "Efeitos da posse: benfeitorias e direito de retenção",
+  "enun": "Ricardo comprou uma chácara de Antônio, que se apresentava como proprietário e exibia documentos aparentemente regulares. Durante quatro anos, ignorando qualquer vício, Ricardo reformou o telhado, que ameaçava desabar, construiu uma garagem coberta e instalou uma piscina com cascata ornamental. Também colheu e vendeu as frutas do pomar. Descobriu-se depois que Antônio falsificara a escritura e que a verdadeira proprietária era Eunice, que ajuizou ação reivindicatória. Eunice pediu a restituição imediata do imóvel, sem pagar qualquer indenização, além do valor das frutas vendidas por Ricardo. Ricardo, por sua vez, recusou-se a deixar a chácara antes de ser indenizado pelas obras realizadas. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Ricardo, possuidor de boa-fé, tem direito à indenização pelo telhado e pela garagem, podendo reter a chácara até ser indenizado; quanto à piscina, pode levantá-la, se não lhe for paga e se for possível sem detrimento da coisa; e os frutos percebidos enquanto durou a boa-fé lhe pertencem.",
+    "CORRETA. Art. 1.219: o possuidor de boa-fé tem direito à indenização das benfeitorias necessárias (telhado) e úteis (garagem), com direito de retenção, e, quanto às voluptuárias (piscina ornamental), se não lhe forem pagas, a levantá-las quando puder sem detrimento da coisa. Art. 1.214: o possuidor de boa-fé tem direito, enquanto ela durar, aos frutos percebidos."
+   ],
+   [
+    "Ricardo tem direito à indenização apenas pelo telhado, sem direito de retenção, pois só as benfeitorias necessárias são indenizáveis ao possuidor.",
+    "Errada. Esse é o regime do possuidor de má-fé (art. 1.220). Ao de boa-fé são indenizadas as necessárias e úteis, com retenção."
+   ],
+   [
+    "Ricardo deve restituir a Eunice o valor de todas as frutas colhidas e vendidas, pois os frutos pertencem ao proprietário.",
+    "Errada. Os frutos percebidos de boa-fé pertencem ao possuidor (art. 1.214). Só os pendentes ao tempo em que cessar a boa-fé devem ser restituídos, deduzidas as despesas."
+   ],
+   [
+    "Ricardo tem direito à indenização por todas as benfeitorias, inclusive a piscina, com direito de retenção sobre todas elas.",
+    "Errada. O direito de retenção abrange apenas as necessárias e as úteis. Para as voluptuárias, cabe só o direito de levantamento (art. 1.219)."
+   ],
+   [
+    "Ricardo não tem direito a indenização alguma, devendo voltar-se exclusivamente contra Antônio, que lhe vendeu coisa alheia.",
+    "Errada. Ricardo pode agir contra Antônio por evicção (arts. 447 e seguintes), mas isso não afasta seus direitos de possuidor de boa-fé perante Eunice."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 96, 1.214, 1.219, 1.220 e 1.222.",
+  "dica": "Possuidor de boa-fé: indenização de necessárias e úteis + retenção; voluptuárias só levanta; fica com os frutos colhidos. Possuidor de má-fé: só necessárias, sem retenção."
+ },
+ {
+  "disc": "Direito Empresarial",
+  "item": "E02",
+  "nivel": "fácil",
+  "tema": "Empresário: atividade intelectual, rural e incapaz",
+  "enun": "Considere as seguintes situações: (i) Paulo, médico, atende em consultório próprio, auxiliado por duas secretárias; (ii) Rosa explora atividade rural de produção de soja em larga escala e pretende registrar-se na Junta Comercial; (iii) Lucas, de 15 anos, herdou do pai uma loja de materiais de construção e pretende que o negócio continue funcionando; (iv) Marta e Sílvio, casados sob o regime da comunhão universal de bens, querem constituir uma sociedade limitada apenas entre eles. Todos procuraram o mesmo escritório de contabilidade para orientação sobre o registro na Junta Comercial e as consequências de serem ou não considerados empresários. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Rosa pode requerer inscrição no Registro Público de Empresas Mercantis, ficando, depois de inscrita, equiparada ao empresário sujeito a registro.",
+    "CORRETA. Art. 971 do CC: o empresário cuja atividade rural constitua sua principal profissão pode requerer inscrição no Registro Público de Empresas Mercantis da respectiva sede, caso em que, depois de inscrito, fica equiparado, para todos os efeitos, ao empresário sujeito a registro. O registro é facultativo e tem natureza constitutiva."
+   ],
+   [
+    "Paulo é empresário, pois exerce atividade econômica organizada, com auxílio de colaboradores.",
+    "Errada. Não se considera empresário quem exerce profissão intelectual, de natureza científica, literária ou artística, ainda que com auxílio de colaboradores, salvo se o exercício da profissão constituir elemento de empresa (art. 966, parágrafo único)."
+   ],
+   [
+    "Rosa é obrigada a registrar-se na Junta Comercial antes do início da atividade, como todo empresário.",
+    "Errada. Para o empresário rural, o registro é facultativo (arts. 970 e 971)."
+   ],
+   [
+    "Lucas não pode continuar a empresa, pois o incapaz é proibido de exercer atividade empresarial em qualquer hipótese.",
+    "Errada. O incapaz pode, por meio de representante ou devidamente assistido, continuar a empresa antes exercida pelo autor da herança, mediante autorização judicial (art. 974)."
+   ],
+   [
+    "Marta e Sílvio podem constituir a sociedade, pois o regime de bens não interfere na contratação de sociedade entre cônjuges.",
+    "Errada. O art. 977 veda a sociedade entre cônjuges casados no regime da comunhão universal de bens ou no da separação obrigatória."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 966, parágrafo único, 970, 971, 974 e 977.",
+  "dica": "Rural: registro facultativo, mas, se registrar, vira empresário. Profissional intelectual não é empresário, salvo elemento de empresa. Cônjuges na comunhão universal ou na separação obrigatória não podem ser sócios entre si."
+ },
+ {
+  "disc": "Direito Empresarial",
+  "item": "E10",
+  "nivel": "difícil",
+  "tema": "Recuperação judicial: stay period, prazo do plano e rejeição pela assembleia",
+  "enun": "A Indústria Metalúrgica Ômega S.A. teve deferido o processamento de seu pedido de recuperação judicial. Os credores questionaram três pontos: (i) a empresa pretendia obter sucessivas prorrogações do período de suspensão das execuções enquanto negociava com os credores; (ii) o plano foi apresentado 75 dias após a publicação da decisão que deferiu o processamento; (iii) caso o plano fosse rejeitado pela assembleia, a recuperanda pretendia pedir ao juiz que o aprovasse mesmo sem qualquer requisito, invocando a preservação da empresa. Considerando a Lei nº 11.101/2005, com as alterações da Lei nº 14.112/2020, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O período de suspensão é de 180 dias, prorrogável por igual período, uma única vez, em caráter excepcional, se o devedor não houver concorrido para a superação do prazo; o plano deve ser apresentado em 60 dias, improrrogáveis, sob pena de convolação em falência; e o juiz só pode conceder a recuperação contra a rejeição da assembleia se preenchidos os requisitos cumulativos do art. 58, §1º.",
+    "CORRETA. Art. 6º, §4º: 180 dias, prorrogáveis uma única vez, por igual período, em caráter excepcional, se o devedor não concorreu para a superação do prazo. Art. 53: plano em 60 dias improrrogáveis da publicação da decisão que deferir o processamento, sob pena de falência (art. 73, II). Art. 58, §1º: o cram down exige requisitos cumulativos de quórum. Rejeitado o plano, a assembleia pode votar a concessão de prazo para plano dos credores (art. 56, §4º)."
+   ],
+   [
+    "O período de suspensão de 180 dias é absolutamente improrrogável, conforme a redação atual da lei, e o plano pode ser apresentado em até 90 dias.",
+    "Errada. A Lei 14.112/2020 passou a admitir uma prorrogação excepcional (art. 6º, §4º), e o prazo do plano é de 60 dias (art. 53)."
+   ],
+   [
+    "O período de suspensão pode ser prorrogado quantas vezes forem necessárias, enquanto perdurarem as negociações, e o atraso na apresentação do plano gera apenas multa.",
+    "Errada. A prorrogação é única (art. 6º, §4º), e a não apresentação do plano no prazo gera a convolação em falência (arts. 53 e 73, II)."
+   ],
+   [
+    "Rejeitado o plano pela assembleia, o juiz pode concedê-la com base exclusivamente no princípio da preservação da empresa, independentemente de quóruns.",
+    "Errada. O cram down depende dos requisitos legais do art. 58, §1º, e da ausência de tratamento diferenciado na classe que rejeitou o plano (§2º)."
+   ],
+   [
+    "Rejeitado o plano pela assembleia, o juiz deve decretar imediatamente a falência, sem possibilidade de apresentação de plano alternativo pelos credores.",
+    "Errada. A Lei 14.112/2020 permitiu que a assembleia conceda prazo de 30 dias para os credores apresentarem plano próprio (art. 56, §§4º a 6º)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 11.101/2005, arts. 6º, §§4º e 4º-A, 53, 56, §§4º a 6º, 58 e 73.",
+  "dica": "Recuperação judicial: stay de 180 dias + uma prorrogação; plano em 60 dias (senão falência); cram down só com os quóruns do art. 58, §1º; rejeitado o plano, os credores podem apresentar o seu."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D01-03",
+  "nivel": "médio",
+  "tema": "Lei temporária, abolitio criminis e continuidade normativo-típica",
+  "enun": "Durante a vigência de lei temporária, editada para vigorar por 180 dias durante grave crise hídrica, que tipificava o desvio clandestino de água de reservatórios públicos, Moacir praticou a conduta. A lei perdeu a vigência antes da sentença. Em outro processo, Wagner foi condenado em 2008 por atentado violento ao pudor (art. 214 do CP), e a defesa sustenta que a revogação desse artigo pela Lei nº 12.015/2009 extinguiu sua punibilidade. No caso de Moacir, a defesa sustenta que a perda de vigência da lei teria o mesmo efeito de uma lei posterior que deixasse de considerar o fato como crime. No de Wagner, alega que a lei nova revogou expressamente o tipo pelo qual ele foi condenado. Considerando o Código Penal e a jurisprudência dos tribunais superiores, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Moacir continua punível, pois a lei temporária aplica-se ao fato praticado durante sua vigência, embora decorrido o período de sua duração; e não houve abolitio criminis no caso de Wagner, mas continuidade normativo-típica, pois a conduta passou a integrar o tipo de estupro.",
+    "CORRETA. Art. 3º do CP: a lei excepcional ou temporária, embora decorrido o período de sua duração, aplica-se ao fato praticado durante sua vigência (ultra-atividade). A Lei 12.015/2009 revogou o art. 214, mas deslocou a conduta para o art. 213, o que o STF e o STJ chamam de continuidade normativo-típica, sem abolitio criminis."
+   ],
+   [
+    "Moacir não pode ser punido, pois o fim da vigência da lei temporária equivale à abolitio criminis, que retroage em benefício do réu.",
+    "Errada. O art. 3º excepciona expressamente a lei temporária: ela tem ultra-atividade, sob pena de perder toda a eficácia intimidativa."
+   ],
+   [
+    "Houve abolitio criminis no caso de Wagner, pois o art. 214 do Código Penal foi expressamente revogado, o que extingue a punibilidade e todos os efeitos da condenação, inclusive os civis.",
+    "Errada. A revogação formal do tipo não basta: a conduta continuou típica no art. 213. Mesmo na abolitio, os efeitos civis permanecem (art. 2º do CP)."
+   ],
+   [
+    "A lei temporária só tem ultra-atividade se for mais benéfica ao réu do que a lei posterior.",
+    "Errada. A ultra-atividade da lei temporária independe de ser mais benéfica; decorre da própria natureza da norma (art. 3º)."
+   ],
+   [
+    "A unificação dos tipos pela Lei nº 12.015/2009 impede a aplicação da lei nova a fatos anteriores, ainda que mais benéfica, por se tratar de novatio legis incriminadora.",
+    "Errada. Se a lei nova for mais benéfica no caso concreto, por exemplo ao permitir o reconhecimento de crime único ou de continuidade, ela retroage (art. 5º, XL, da CF; art. 2º, parágrafo único, do CP)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, XL; CP, arts. 2º, 3º, 107, III, 213 e 214 (revogado).",
+  "dica": "Lei temporária ou excepcional: ultra-ativa (art. 3º). Artigo revogado com a conduta migrando para outro tipo = continuidade normativo-típica, e não abolitio."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D08-10",
+  "nivel": "fácil",
+  "tema": "Legítima defesa de terceiro e excesso",
+  "enun": "Márcio viu, na rua em frente à sua casa, Tiago avançando com uma faca em direção à vizinha Sueli, que gritava por socorro. Para salvá-la, Márcio golpeou Tiago com um pedaço de madeira, derrubando-o e fazendo a faca cair longe. Com Tiago já desacordado e desarmado no chão, Márcio, tomado de raiva, continuou a golpeá-lo, causando-lhe fraturas graves. Tiago foi socorrido e permaneceu internado por vários dias. Sueli declarou à polícia que, sem a intervenção do vizinho, teria sido esfaqueada. Márcio foi indiciado por lesão corporal grave, e sua defesa sustenta que toda a conduta estaria amparada pela legítima defesa. Considerando o Código Penal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O primeiro golpe foi praticado em legítima defesa de terceiro, mas Márcio responde pelo excesso doloso quanto às lesões causadas após Tiago estar desacordado e desarmado.",
+    "CORRETA. Art. 25: age em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem. Cessada a agressão, a continuidade dos golpes configura excesso. Pelo art. 23, parágrafo único, o agente responde pelo excesso doloso ou culposo; aqui ele agiu por raiva, com dolo."
+   ],
+   [
+    "Márcio não agiu em legítima defesa, porque o direito ameaçado pertencia a terceiro, e não a ele próprio.",
+    "Errada. O art. 25 admite expressamente a defesa de direito 'seu ou de outrem'."
+   ],
+   [
+    "Toda a conduta de Márcio está acobertada pela legítima defesa, pois a agressão inicial justifica a reação até que o agressor seja completamente neutralizado.",
+    "Errada. A legítima defesa exige agressão atual ou iminente. Com o agressor desacordado e desarmado, a agressão cessou, e os golpes posteriores são excesso."
+   ],
+   [
+    "Márcio agiu em estado de necessidade, e não em legítima defesa, pois agiu para salvar terceiro de perigo atual.",
+    "Errada. Havia agressão humana injusta, o que caracteriza legítima defesa. O estado de necessidade pressupõe perigo atual não provocado, como o que decorre de forças da natureza ou de animais."
+   ],
+   [
+    "Márcio responde por todas as lesões, inclusive pelo primeiro golpe, pois a legítima defesa só é admitida quando não houver possibilidade de fuga.",
+    "Errada. O ordenamento brasileiro não exige a fuga (commodus discessus) para a legítima defesa, ainda mais na defesa de terceiro."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 23, 24 e 25.",
+  "dica": "Legítima defesa: agressão injusta, atual ou iminente, a direito próprio ou alheio. Agressão cessada = excesso, punido a título de dolo ou culpa."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21a",
+  "nivel": "médio",
+  "tema": "Crimes contra a honra: exceção da verdade, redes sociais e injúria racial",
+  "enun": "Ana publicou em sua rede social que o Prefeito Bruno 'desviou o dinheiro da merenda escolar no mês passado', acusação que sabia ser falsa. Nos comentários, ao ser contestada por um vizinho negro, chamou-o de 'macaco' em razão de sua cor. Bruno procurou o Ministério Público, e o vizinho registrou ocorrência. A publicação foi compartilhada milhares de vezes. Depois de notificada, Ana apagou a publicação. A defesa sustenta que o Prefeito não poderia ser beneficiado pela atuação do Ministério Público. Considerando o Código Penal, a Lei nº 7.716/1989 e a jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Ana praticou calúnia contra o Prefeito, com pena aumentada de um terço por ser funcionário público em razão das funções e aplicada em triplo por ter sido cometida em rede social, sendo admitida a exceção da verdade; e praticou injúria racial, crime de ação penal pública incondicionada.",
+    "CORRETA. Imputar falsamente fato definido como crime (peculato) é calúnia (art. 138). Incide o art. 141, II (funcionário público em razão das funções), e o §2º (pena em triplo se cometido ou divulgado em redes sociais). A exceção da verdade é admitida (art. 138, §3º), pois o Prefeito não está entre as pessoas do art. 141, I. A injúria racial passou para a Lei 7.716/1989 (art. 2º-A, Lei 14.532/2023), com ação penal pública incondicionada."
+   ],
+   [
+    "Ana praticou difamação contra o Prefeito, pois a imputação envolve fato ofensivo à reputação, e injúria simples contra o vizinho, que depende de queixa-crime.",
+    "Errada. O fato imputado é definido como crime, o que caracteriza calúnia. A ofensa racial é injúria racial (art. 2º-A da Lei 7.716/1989), de ação pública incondicionada."
+   ],
+   [
+    "A exceção da verdade não é admitida, pois a calúnia foi praticada contra Prefeito, autoridade equiparada ao Presidente da República.",
+    "Errada. A vedação do art. 138, §3º, II, alcança apenas o Presidente da República e o chefe de governo estrangeiro (art. 141, I)."
+   ],
+   [
+    "A retratação cabal antes da sentença isenta Ana de pena tanto pela calúnia quanto pela injúria racial.",
+    "Errada. A retratação do art. 143 alcança só a calúnia e a difamação, e não a injúria. A injúria racial, além disso, é crime de ação pública."
+   ],
+   [
+    "A ação penal pela calúnia contra o Prefeito é privativa do ofendido, mediante queixa, sendo vedada a atuação do Ministério Público.",
+    "Errada. Súmula 714 do STF: é concorrente a legitimidade do ofendido, mediante queixa, e do MP, condicionada à representação, para a ação penal por crime contra a honra de servidor público em razão do exercício de suas funções."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 138, 141, 143 e 145; Lei 7.716/1989, art. 2º-A (Lei 14.532/2023); Súmula 714/STF.",
+  "dica": "Calúnia = fato criminoso falso; difamação = fato desonroso; injúria = qualidade negativa. Redes sociais: pena em triplo. Injúria racial: Lei 7.716, ação pública incondicionada."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D12",
+  "nivel": "difícil",
+  "tema": "Crime continuado comum e específico",
+  "enun": "Durante dois meses, Valter praticou cinco roubos contra vítimas diferentes, sempre em pontos de ônibus do mesmo bairro, no início da manhã, com o mesmo modo de execução: abordava a vítima com uma faca e exigia celular e carteira. Condenado, o juiz reconheceu a continuidade delitiva e, considerando a culpabilidade intensa e os maus antecedentes, aplicou a pena de um dos roubos aumentada no dobro. A defesa sustenta que o aumento máximo seria de dois terços e que a continuidade não se aplica a crimes com violência. As cinco vítimas reconheceram Valter, que foi preso em flagrante na última abordagem, ainda com a faca. Ele não tinha condenações anteriores por roubo, mas registrava condenação definitiva por furto. Considerando o Código Penal e a jurisprudência do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "É possível a continuidade delitiva em crimes dolosos com violência ou grave ameaça contra vítimas diferentes, hipótese em que o juiz pode aumentar a pena até o triplo, considerando a culpabilidade, os antecedentes, a conduta social, a personalidade, os motivos e as circunstâncias, observados os limites do concurso material.",
+    "CORRETA. O art. 71, parágrafo único, do CP prevê o crime continuado específico: nos crimes dolosos contra vítimas diferentes, cometidos com violência ou grave ameaça, o juiz pode aumentar a pena até o triplo, considerando os vetores indicados, desde que a pena não supere a que resultaria do concurso material (art. 70, parágrafo único). A Súmula 605 do STF, que vedava a continuidade nos crimes contra a vida, ficou superada pela reforma de 1984."
+   ],
+   [
+    "Não é possível a continuidade delitiva em crimes praticados com violência ou grave ameaça, devendo ser aplicado o concurso material.",
+    "Errada. O parágrafo único do art. 71 admite expressamente a continuidade nesses crimes (continuidade específica)."
+   ],
+   [
+    "Reconhecida a continuidade, o aumento é sempre de um sexto a dois terços, qualquer que seja a natureza dos crimes.",
+    "Errada. Esse é o aumento do crime continuado comum (art. 71, caput). No específico, o aumento vai até o triplo."
+   ],
+   [
+    "No crime continuado comum, o STJ entende que a fração de aumento deve ser escolhida pelo juiz de acordo com a gravidade abstrata dos delitos, e não pelo número de infrações.",
+    "Errada. No crime continuado comum, o STJ adota como critério o número de infrações: 1/6 para duas, 1/5 para três, 1/4 para quatro, 1/3 para cinco, 1/2 para seis e 2/3 para sete ou mais."
+   ],
+   [
+    "A continuidade delitiva exige unidade de vítima, de modo que roubos contra vítimas diferentes configuram necessariamente concurso material.",
+    "Errada. A pluralidade de vítimas não impede a continuidade: é justamente o pressuposto da modalidade específica do parágrafo único do art. 71."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 69, 70, parágrafo único, e 71, caput e parágrafo único; STJ, jurisprudência sobre a fração pelo número de infrações.",
+  "dica": "Continuado comum: de 1/6 a 2/3, conforme o número de crimes. Específico (violência ou grave ameaça + vítimas diferentes + dolo): até o triplo, limitado ao concurso material."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D13-16",
+  "nivel": "médio",
+  "tema": "Reabilitação e efeitos da condenação",
+  "enun": "Gustavo, servidor público estadual, foi condenado a 2 anos de reclusão por peculato, pena substituída por restritivas de direitos; a sentença não declarou motivadamente a perda do cargo. Cumprida a pena, ele pretende requerer a reabilitação. Em outro caso, Heloísa, condenada a 5 anos por estelionato praticado fora de suas funções públicas, perdeu o cargo de professora municipal por decisão expressa e fundamentada na sentença. Gustavo ressarciu integralmente o dano e mantém domicílio no país desde a condenação. Heloísa cumpriu a pena e também pretende requerer a reabilitação, com o objetivo de voltar a lecionar na rede municipal. Considerando o Código Penal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Gustavo não perdeu o cargo, pois a perda não é efeito automático da condenação e deve ser motivadamente declarada na sentença; a reabilitação pode ser requerida decorridos dois anos da extinção da pena; e, ainda que reabilitada, Heloísa não poderá ser reintegrada ao cargo.",
+    "CORRETA. Art. 92, I, a e b, e parágrafo único: a perda do cargo cabe na pena igual ou superior a 1 ano por crime funcional ou superior a 4 anos nos demais casos, mas não é automática e deve ser motivadamente declarada na sentença. Art. 94: a reabilitação pode ser requerida após 2 anos da extinção da pena, com domicílio no país, bom comportamento e ressarcimento do dano. Art. 93, parágrafo único: a reabilitação pode atingir os efeitos do art. 92, vedada a reintegração na situação anterior nos casos dos incisos I e II."
+   ],
+   [
+    "Gustavo perdeu automaticamente o cargo, pois a condenação por crime contra a Administração Pública acarreta a perda do cargo independentemente de declaração na sentença.",
+    "Errada. Os efeitos do art. 92 não são automáticos e devem ser motivadamente declarados na sentença (parágrafo único)."
+   ],
+   [
+    "A reabilitação pode ser requerida decorridos quatro anos da extinção da pena, desde que o condenado não seja reincidente.",
+    "Errada. O prazo é de 2 anos (art. 94), e a reincidência não é requisito negativo da reabilitação."
+   ],
+   [
+    "Heloísa não poderia perder o cargo, pois o estelionato não foi praticado com abuso de poder ou violação de dever funcional.",
+    "Errada. Para pena superior a 4 anos, a perda do cargo é possível em qualquer crime (art. 92, I, b), desde que motivadamente declarada."
+   ],
+   [
+    "Uma vez reabilitada, Heloísa terá direito a ser reintegrada no cargo de professora, pois a reabilitação apaga todos os efeitos da condenação.",
+    "Errada. O art. 93, parágrafo único, veda a reintegração na situação anterior quanto à perda do cargo (art. 92, I)."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 92, 93 e 94.",
+  "dica": "Perda do cargo: 1 ano ou mais em crime funcional, mais de 4 anos nos demais, nunca automática. Reabilitação: 2 anos após extinta a pena; não devolve o cargo."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D18",
+  "nivel": "difícil",
+  "tema": "Responsabilidade penal da pessoa jurídica por crime ambiental",
+  "enun": "A Mineradora Pi Ltda. foi denunciada por crime de poluição (art. 54 da Lei nº 9.605/1998), em razão do rompimento de uma barragem de rejeitos. O Ministério Público também denunciou o diretor de operações, mas, no curso da ação, o processo foi trancado em relação a ele por habeas corpus, ante a ausência de individualização de sua conduta. A defesa da empresa sustentou que, sem a responsabilização simultânea de uma pessoa física, a ação contra a pessoa jurídica não poderia prosseguir. O rompimento contaminou o rio que abastece três municípios, e a empresa sustentou ainda que, sendo ente fictício, não poderia ser autora de crime e que, no máximo, caberiam sanções administrativas. Considerando a Constituição, a Lei nº 9.605/1998 e a jurisprudência do STF e do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A ação penal contra a pessoa jurídica pode prosseguir, pois a Constituição não condiciona sua responsabilização penal à identificação e à persecução simultânea da pessoa física responsável, superada a teoria da dupla imputação necessária.",
+    "CORRETA. O art. 225, §3º, da CF prevê sanções penais às pessoas jurídicas por condutas lesivas ao meio ambiente. O STF (RE 548.181) afirmou que esse dispositivo não condiciona a responsabilização da pessoa jurídica à simultânea persecução da pessoa física, e o STJ passou a seguir esse entendimento, abandonando a dupla imputação necessária. A Lei 9.605/1998 exige que a infração seja cometida por decisão de representante legal ou contratual, ou do órgão colegiado, no interesse ou benefício da entidade (art. 3º)."
+   ],
+   [
+    "A ação penal deve ser trancada, pois, segundo a jurisprudência atual do STF e do STJ, a responsabilização da pessoa jurídica exige a dupla imputação, com a denúncia simultânea da pessoa física.",
+    "Errada. A dupla imputação necessária foi superada pelo STF (RE 548.181) e, depois, pelo STJ."
+   ],
+   [
+    "A pessoa jurídica não pode ser responsabilizada penalmente, pois não tem capacidade de ação nem culpabilidade, e a Constituição admite apenas sanções administrativas e civis.",
+    "Errada. O art. 225, §3º, da CF e o art. 3º da Lei 9.605/1998 preveem expressamente a responsabilidade penal da pessoa jurídica por crimes ambientais."
+   ],
+   [
+    "A responsabilização da pessoa jurídica exclui a das pessoas físicas, autoras, coautoras ou partícipes do mesmo fato, que só podem responder administrativamente.",
+    "Errada. O art. 3º, parágrafo único, da Lei 9.605/1998 dispõe que a responsabilidade da pessoa jurídica não exclui a das pessoas físicas."
+   ],
+   [
+    "A pessoa jurídica pode ser responsabilizada, mas a única pena aplicável é a de multa, vedadas as restritivas de direitos e a prestação de serviços à comunidade.",
+    "Errada. O art. 21 da Lei 9.605/1998 prevê multa, penas restritivas de direitos e prestação de serviços à comunidade, e o art. 24 permite até a liquidação forçada."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 225, §3º; Lei 9.605/1998, arts. 3º, 21 e 24; STF, RE 548.181.",
+  "dica": "Pessoa jurídica responde por crime ambiental mesmo sem pessoa física no processo (dupla imputação superada). Penas: multa, restritivas e prestação de serviços."
+ }
+]

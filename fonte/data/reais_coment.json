@@ -323,5 +323,330 @@
   ],
   "base": "CP, arts. 13 e 14, I.",
   "dica": "Material: o resultado é necessário. Formal: o resultado é possível, mas dispensável. Mera conduta: não há resultado naturalístico. Na questão 79 do simulado, a definição correta era a de crime formal."
+ },
+ "e3-10": {
+  "nivel": "médio",
+  "tema": "IR retido na fonte pelos Municípios (Tema 1.130/STF)",
+  "coms": [
+   "CORRETA. O art. 158, I, da CF atribui aos Municípios o produto da arrecadação do IR incidente na fonte sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e fundações. No Tema 1.130, o STF fixou que isso abrange os pagamentos a pessoas físicas ou jurídicas contratadas para fornecer bens ou prestar serviços. Logo, os valores retidos de Sigma e de X pertencem a Alfa, e a União não tem o que cobrar.",
+   "Errada. A titularidade da competência tributária (União) não se confunde com a titularidade do produto da arrecadação, que a própria CF destina ao Município (art. 158, I). Não se trata de transferência voluntária, mas de repartição constitucional obrigatória.",
+   "Errada. O FPM (art. 159, I, b) é formado por percentual do IR e do IPI arrecadados pela União. O IR retido pelo próprio Município não entra nesse fundo: pertence diretamente ao ente pagador.",
+   "Errada. A retenção é devida e o Município é o destinatário do produto. A competência para instituir o imposto continua da União, mas isso não torna indevida a retenção nem gera direito à restituição para Sigma e X.",
+   "Errada. O STF não distinguiu entre pessoa física e jurídica, nem entre contratação com ou sem licitação: o art. 158, I, fala em rendimentos pagos 'a qualquer título'."
+  ],
+  "base": "CF, arts. 157, I, 158, I, e 159, I; STF, Tema 1.130 (RE 1.293.453).",
+  "dica": "IR retido na fonte por Estado ou Município fica com o ente que pagou, seja servidor, seja fornecedor (Tema 1.130). Quem paga, retém e fica."
+ },
+ "e1-16": {
+  "nivel": "difícil",
+  "tema": "Interpretação conforme e decisões manipulativas",
+  "coms": [
+   "Errada. Primeira assertiva falsa (o STF admite técnicas que vão além do papel de legislador negativo, como as sentenças aditivas), segunda falsa e terceira falsa.",
+   "Errada. A primeira assertiva é falsa: dizer que o Tribunal atua 'sempre' como legislador negativo ignora as decisões manipulativas aditivas e substitutivas que o STF já adotou (ex.: MI 670/708/712, greve de servidores).",
+   "Errada. A primeira e a terceira assertivas são falsas. O STF aplica interpretação conforme também em matéria penal e processual penal (ex.: ADPF 54, anencefalia; ADI 4.424, ação penal na Lei Maria da Penha).",
+   "CORRETA. F–F–F. (1) A interpretação conforme realmente preserva o texto, mas a justificativa 'sempre legislador negativo' é falsa, pois o STF admite sentenças aditivas. (2) As decisões manipulativas aditivas não alteram o texto: acrescentam sentido normativo, e o STF não as restringe ao controle da omissão. (3) A interpretação conforme é usada em matéria penal e processual penal, desde que não crie tipo penal (legalidade estrita).",
+   "Errada. A segunda assertiva é falsa: as decisões aditivas não alteram o texto e não são exclusivas do controle por omissão; também aparecem em ADI e ADPF."
+  ],
+  "base": "Lei 9.868/1999, art. 28, parágrafo único; STF, MI 670/708/712, ADPF 54 e ADI 4.424.",
+  "dica": "Interpretação conforme: texto fica, sentido muda. Desconfie de 'sempre', 'exclusivamente' e 'nunca' em assertivas de controle de constitucionalidade."
+ },
+ "e5-26": {
+  "nivel": "médio",
+  "tema": "Delegação do poder de polícia a estatal (Tema 532/STF)",
+  "coms": [
+   "Errada. O STF admite a delegação a pessoas jurídicas de direito privado da Administração Indireta, desde que preenchidos os requisitos do Tema 532. A vedação absoluta não é a orientação vigente.",
+   "Errada. A antiga lição do STJ (REsp 817.534), que separava consentimento e fiscalização (delegáveis) de ordem e sanção (indelegáveis), foi superada pelo STF no Tema 532, que admite inclusive a fase de sanção.",
+   "Errada. A delegação exige lei (no caso existe a lei autorizativa). Sem previsão legal não há poder de polícia a ser exercido pela estatal, ao contrário do que afirma a alternativa.",
+   "Errada. Os 'três requisitos' indicados não correspondem à tese do STF, que não restringe a delegação à fiscalização. Além disso, a medida coercitiva pode ser exercida pela estatal que preenche os requisitos.",
+   "CORRETA. Tese do Tema 532 (RE 633.782): é constitucional a delegação do poder de polícia, por meio de lei, a pessoas jurídicas de direito privado integrantes da Administração Pública indireta de capital social majoritariamente público que prestem exclusivamente serviço público de atuação própria do Estado e em regime não concorrencial. É o caso da Águas Municipais S.A."
+  ],
+  "base": "CF, art. 37, XIX; STF, Tema 532 (RE 633.782).",
+  "dica": "Tema 532: estatal + capital majoritariamente público + serviço público exclusivo + regime não concorrencial + lei = pode até multar."
+ },
+ "e1-20": {
+  "nivel": "difícil",
+  "tema": "Lei das Agências Reguladoras (Lei 13.848/2019)",
+  "coms": [
+   "Errada. A terceira assertiva é verdadeira: reproduz o art. 3º da Lei 13.848/2019 sobre a natureza especial das agências.",
+   "Errada. A primeira é verdadeira e a segunda é falsa: o controle externo é exercido pelo Congresso Nacional, com auxílio do TCU (art. 14), e não pelo TCU com auxílio da CGU.",
+   "Errada. A primeira assertiva é verdadeira: a audiência pública prévia para ANTT e ANTAQ consta do art. 68 da Lei 10.233/2001, com a redação dada pela Lei 13.848/2019.",
+   "CORRETA. V–F–V. (1) Verdadeira: art. 68 da Lei 10.233/2001 (redação da Lei 13.848/2019). (2) Falsa: o controle externo é do Congresso Nacional com auxílio do TCU (art. 14 da Lei 13.848/2019; CF, art. 70). (3) Verdadeira: art. 3º da Lei 13.848/2019.",
+   "Errada. Inverte as duas primeiras assertivas e nega a terceira, que reproduz a lei."
+  ],
+  "base": "Lei 13.848/2019, arts. 3º e 14; Lei 10.233/2001, art. 68; CF, arts. 70 e 71.",
+  "dica": "Controle externo é sempre do Legislativo; o Tribunal de Contas auxilia. Agência: sem tutela, sem hierarquia e com mandato fixo."
+ },
+ "e5-29": {
+  "nivel": "médio",
+  "tema": "Política de Gestão da Inovação no Judiciário (Res. CNJ 395/2021)",
+  "coms": [
+   "Errada. A afirmativa I é falsa: o foco no usuário é princípio da Resolução, e a participação dos usuários na construção das soluções é central, não secundária.",
+   "CORRETA. Só a II está certa. O art. 3º da Res. CNJ 395/2021 lista a participação, com visão multidisciplinar e envolvimento de atores internos e externos. A I erra ao rebaixar o usuário, e a III erra porque a desburocratização está expressamente listada entre os princípios.",
+   "Errada. A III é falsa: a desburocratização é princípio expresso do art. 3º da Resolução, e não implícito.",
+   "Errada. A I é falsa (o usuário é o centro da política).",
+   "Errada. A III é falsa, porque a desburocratização é princípio expresso."
+  ],
+  "base": "Resolução CNJ 395/2021, art. 3º.",
+  "dica": "Princípios da inovação no CNJ: cultura da inovação, foco no usuário, participação, colaboração, desenvolvimento humano, acessibilidade, sustentabilidade, desburocratização e transparência."
+ },
+ "e1-38": {
+  "nivel": "médio",
+  "tema": "Audiência de custódia e jurisprudência do STF em DH",
+  "coms": [
+   "Errada. O STF (ADI 6.138) declarou constitucional o art. 12-C da Lei Maria da Penha, que permite ao delegado, e ao policial onde não houver delegado, afastar o agressor do lar nos municípios que não forem sede de comarca, com comunicação ao juiz em 24 horas.",
+   "Errada. No Tema 365 (RE 580.252), o STF reconheceu o dever de indenizar o preso submetido a condições degradantes, mas com base no art. 37, §6º, da CF, o que exige nexo causal. A alternativa erra ao dispensá-lo.",
+   "Errada. Nas ADPFs 395 e 444, o STF declarou incompatível com a CF a condução coercitiva de investigados ou réus para interrogatório (art. 260 do CPP).",
+   "Errada. Pela Súmula Vinculante 25, é ilícita a prisão civil do depositário infiel, qualquer que seja a modalidade do depósito. Os tratados têm status supralegal e paralisam a legislação que regulava essa prisão (RE 466.343).",
+   "CORRETA. O STF (Rcl 29.303) afirmou que a audiência de custódia é direito subjetivo fundamental, previsto no art. 7.5 da CADH e no art. 9.3 do PIDCP, e deve ser realizada em todas as modalidades de prisão, inclusive temporária, preventiva e definitiva."
+  ],
+  "base": "CADH, art. 7.5; PIDCP, art. 9.3; CPP, art. 310; SV 25; STF, Rcl 29.303, ADPFs 395 e 444, ADI 6.138, Tema 365.",
+  "dica": "Audiência de custódia: toda prisão, em até 24 horas. Condução coercitiva para interrogatório: proibida."
+ },
+ "e1-43": {
+  "nivel": "fácil",
+  "tema": "Preliminares da contestação e saneamento",
+  "coms": [
+   "CORRETA. O art. 337, VI, VII e VIII, do CPC manda o réu alegar, antes de discutir o mérito, a litispendência, a coisa julgada e a conexão.",
+   "Errada. A reconvenção é ato do réu, e o art. 343, §4º, permite que ele a proponha em litisconsórcio com terceiro (o §3º também admite reconvenção contra o autor e terceiro).",
+   "Errada. A revelia não produz o efeito material quando o litígio versar sobre direitos indisponíveis (art. 345, II), e não disponíveis.",
+   "Errada. O julgamento antecipado parcial ocorre quando um ou mais pedidos se mostrarem incontroversos ou estiverem em condições de imediato julgamento (art. 356), e não controversos.",
+   "Errada. O prazo do art. 357, §1º, é comum, de 5 dias, e não sucessivo."
+  ],
+  "base": "CPC, arts. 337, 343, 345, 356 e 357.",
+  "dica": "Pedido incontroverso = julgamento parcial do mérito (art. 356). Esclarecimentos do saneamento: 5 dias, prazo comum."
+ },
+ "e4-50": {
+  "nivel": "difícil",
+  "tema": "Coisa julgada sobre questão prejudicial (art. 503, §§1º e 2º, do CPC)",
+  "coms": [
+   "Errada. Nenhum dos processos preenche os requisitos do art. 503: no MS há restrição probatória (§2º) e no segundo houve revelia (§1º, II).",
+   "CORRETA. A coisa julgada só alcança a prejudicial se houver contraditório prévio e efetivo, que não existe em caso de revelia (art. 503, §1º, II), e se não houver restrições probatórias ou limitações à cognição (art. 503, §2º). O MS só admite prova pré-constituída. Nos dois processos, a coisa julgada fica restrita à questão principal.",
+   "Errada. A revelia afasta a extensão da coisa julgada à prejudicial no segundo processo (art. 503, §1º, II).",
+   "Errada. A restrição probatória do mandado de segurança impede a extensão no primeiro processo (art. 503, §2º).",
+   "Errada. A denegação da segurança com exame do mérito faz coisa julgada material sobre a questão principal (Lei 12.016/2009, art. 6º, §6º, e Súmula 304/STF, a contrario sensu)."
+  ],
+  "base": "CPC, art. 503, §§1º e 2º; Lei 12.016/2009.",
+  "dica": "Prejudicial faz coisa julgada se: decidida expressamente + necessária + contraditório efetivo (sem revelia) + juiz competente + cognição plena."
+ },
+ "e3-57": {
+  "nivel": "fácil",
+  "tema": "Obrigação divisível sem solidariedade",
+  "coms": [
+   "CORRETA. A solidariedade não se presume: resulta da lei ou da vontade das partes (art. 265 do CC). Sendo a prestação pecuniária divisível, ela se divide em tantas obrigações iguais e distintas quantos forem os devedores (art. 257). Brígida responde só pela metade, e o inadimplemento autoriza Aderbal a resolver o contrato (art. 475).",
+   "Errada. Não houve convenção de solidariedade, e ela não se presume (art. 265).",
+   "Errada. A obrigação é de pagar dinheiro, que é divisível. A indivisibilidade do objeto locado não torna indivisível a prestação pecuniária.",
+   "Errada. O contrato é um só, celebrado com as duas locatárias pelo preço total. Brígida não pode reduzi-lo unilateralmente, e o inadimplemento permite a resolução.",
+   "Errada. Não há prazo mínimo de três meses de atraso para cobrar ou resolver uma locação de vaga de garagem, regida pelo Código Civil."
+  ],
+  "base": "CC, arts. 257, 265 e 475.",
+  "dica": "Solidariedade não se presume (art. 265). Dívida em dinheiro com dois devedores, sem cláusula, divide-se pela metade."
+ },
+ "e4-58": {
+  "nivel": "médio",
+  "tema": "Simulação, lesão e emancipação pelo casamento",
+  "coms": [
+   "CORRETA. (1) Simulação por interposta pessoa: negócio nulo (art. 167, §1º, I, do CC). (2) Flávio vendeu por preço muito abaixo do mercado por premente necessidade: lesão (art. 157), negócio anulável (art. 171, II). (3) Clara cessou a incapacidade com o casamento (art. 5º, parágrafo único, II): negócio válido.",
+   "Errada. A simulação gera nulidade, e não anulabilidade, desde o CC/2002 (art. 167). A lesão gera anulabilidade, e o casamento emancipou Clara.",
+   "Errada. A lesão é vício de consentimento que torna o negócio anulável (art. 171, II), e Clara é plenamente capaz.",
+   "Errada. A simulação é causa de nulidade (art. 167).",
+   "Errada. Inverte as consequências: simulação = nulo, lesão = anulável, e Clara, emancipada, celebra negócio válido."
+  ],
+  "base": "CC, arts. 5º, parágrafo único, II, 157, 167 e 171, II.",
+  "dica": "Simulação = nulo (única exceção entre os defeitos). Lesão = necessidade/inexperiência + desproporção. Casamento emancipa."
+ },
+ "e4-63": {
+  "nivel": "médio",
+  "tema": "Factoring: ausência de regresso contra a faturizada",
+  "coms": [
+   "Errada. Para o STJ, a faturizada não responde pela solvência do devedor dos créditos cedidos; o risco é inerente à atividade do faturizador.",
+   "Errada. A distinção entre maturity e conventional factoring não muda a regra: em nenhuma modalidade a faturizada garante a solvência.",
+   "CORRETA. Segundo o STJ (REsp 1.711.412/MG, 3ª Turma), a faturizada responde apenas pela existência do crédito (art. 295 do CC), não pela solvência do devedor. É nula a cláusula de regresso e são nulos os títulos emitidos para garantir essa obrigação, como notas promissórias vinculadas ao contrato.",
+   "Errada. Também aqui a alternativa admite regresso por solvência, o que o STJ rejeita no factoring.",
+   "Errada. A nulidade alcança também os títulos emitidos para garantir a cláusula nula, vinculados ao contrato de factoring. O princípio da abstração não os salva entre as partes originárias."
+  ],
+  "base": "CC, arts. 295 e 296; STJ, REsp 1.711.412/MG.",
+  "dica": "Factoring: o risco do não pagamento é do faturizador. A faturizada só garante que o crédito existe."
+ },
+ "e3-75": {
+  "nivel": "médio",
+  "tema": "Extinção da punibilidade do crime pressuposto (art. 108 do CP)",
+  "coms": [
+   "Errada. Pela 2ª parte do art. 108, nos crimes conexos a extinção da punibilidade de um deles não impede, quanto aos outros, a agravação da pena resultante da conexão. A regra é a incomunicabilidade.",
+   "Errada. O estelionato não é elemento da receptação, e sim seu pressuposto (a coisa deve ser produto de crime). De qualquer forma, a regra do art. 108 é a incomunicabilidade.",
+   "Errada. A lei diz o contrário: a extinção da punibilidade do crime pressuposto não se estende ao crime que dele depende (art. 108).",
+   "Errada. A afirmação de incomunicabilidade está certa, mas o estelionato funciona como pressuposto da receptação, e não como elemento.",
+   "CORRETA. Art. 108 do CP: a extinção da punibilidade de crime que é pressuposto, elemento constitutivo ou circunstância agravante de outro não se estende a este. Reforça o art. 180, §4º: a receptação é punível ainda que desconhecido ou isento de pena o autor do crime de que proveio a coisa."
+  ],
+  "base": "CP, arts. 108 e 180, §4º; CP, art. 171, §5º.",
+  "dica": "Receptação é crime autônomo: vive mesmo que o crime anterior morra (decadência, prescrição, isenção de pena)."
+ },
+ "e1-73": {
+  "nivel": "difícil",
+  "tema": "Exploração de prestígio x tráfico de influência",
+  "coms": [
+   "Errada. A exploração de prestígio (art. 357 do CP) é crime formal: consuma-se com a simples solicitação, mesmo que o cliente não aceite.",
+   "Errada. O pagamento é mero exaurimento. 'Solicitar' é um dos núcleos do tipo, e Jacó já consumou o crime.",
+   "Errada. Mateus não ofereceu vantagem a funcionário: solicitou dinheiro a pretexto de influir no juiz. Isso é exploração de prestígio, e não corrupção ativa (art. 333).",
+   "CORRETA. Solicitar dinheiro a pretexto de influir em juiz configura exploração de prestígio (art. 357). O parágrafo único aumenta a pena em um terço se o agente alega ou insinua que o dinheiro também se destina ao juiz, como no caso.",
+   "Errada. O tráfico de influência (art. 332) se refere a ato de funcionário público em geral. Quando a influência alegada recai sobre juiz, jurado, membro do MP, perito, tradutor, intérprete ou testemunha, aplica-se o tipo especial do art. 357. A causa de aumento também não decorre da 'consumação formal do acordo'."
+  ],
+  "base": "CP, arts. 332, 333 e 357.",
+  "dica": "Pretexto de influir em funcionário = tráfico de influência (332). Em juiz, MP, jurado, perito ou testemunha = exploração de prestígio (357). Insinuou que o dinheiro vai para eles = aumento."
+ },
+ "e4-15": {
+  "nivel": "difícil",
+  "tema": "Postergação do recolhimento do ICMS e repartição com Municípios",
+  "coms": [
+   "Errada. A iniciativa de leis em matéria tributária é concorrente; não há reserva de iniciativa do Chefe do Executivo (STF, Tema 682, ARE 743.480).",
+   "CORRETA. A lei de iniciativa parlamentar é válida, porque a matéria tributária não é de iniciativa reservada (Tema 682). A simples postergação do momento de recolhimento não reduz nem dispensa o tributo; por isso a banca, seguindo o STF, não a trata como benefício fiscal que exija deliberação do CONFAZ (art. 155, §2º, XII, g). Não há ofensa ao art. 158, IV: a cota municipal de 25% incide sobre o que for efetivamente arrecadado e será repassada quando o pagamento ocorrer. É diferente do Tema 42, em que o Estado reteve parcela já arrecadada.",
+   "Errada. A deliberação dos Estados (LC 24/1975) é exigida para isenções, incentivos e benefícios que reduzam a carga do ICMS. O mero diferimento do prazo de recolhimento não se enquadra nessa categoria.",
+   "Errada. Não se exige que a hipótese esteja em rol de lei complementar nacional; a fixação do prazo de recolhimento é matéria da lei estadual.",
+   "Errada. O repasse aos Municípios acompanha a arrecadação efetiva (art. 158, IV, e LC 63/1990). Não há dever de antecipar parcela de tributo ainda não recolhido."
+  ],
+  "base": "CF, arts. 61, 155, §2º, XII, g, e 158, IV; LC 24/1975; LC 63/1990; STF, Temas 42 e 682.",
+  "dica": "Matéria tributária: iniciativa concorrente. Mudar o prazo de pagamento não é benefício fiscal (lembre também a SV 50: não se sujeita à anterioridade)."
+ },
+ "e1-6": {
+  "nivel": "médio",
+  "tema": "Constitucionalidade da Lei da ADPF (ADI 2.231)",
+  "coms": [
+   "Errada. O STF julgou improcedente a ADI 2.231 (2023) e validou a ADPF incidental do art. 1º, parágrafo único, I, da Lei 9.882/1999.",
+   "CORRETA. Na ADI 2.231, o STF confirmou a validade da Lei 9.882/1999, inclusive da arguição incidental, entendida como instrumento de solução isonômica e uniforme de relevantes controvérsias constitucionais, sempre observada a subsidiariedade (art. 4º, §1º).",
+   "Errada. O art. 102, §1º, da CF remete expressamente à lei a disciplina da ADPF; o legislador podia, portanto, definir seu objeto e procedimento.",
+   "Errada. A ADPF não se restringe a normas municipais ou pré-constitucionais: abrange qualquer ato do Poder Público que lesione preceito fundamental, desde que não haja outro meio eficaz.",
+   "Errada. A subsidiariedade é requisito expresso (art. 4º, §1º, da Lei 9.882/1999): não cabe ADPF se houver outro meio eficaz de sanar a lesividade."
+  ],
+  "base": "CF, art. 102, §1º; Lei 9.882/1999, arts. 1º, 4º, §1º, 5º, 10 e 11; STF, ADI 2.231.",
+  "dica": "ADPF: subsidiária, cabe contra norma municipal, pré-constitucional ou ato não normativo, e a lei foi validada pelo STF em 2023."
+ },
+ "e1-17": {
+  "nivel": "médio",
+  "tema": "Estatais: licitação e Lei 13.303/2016",
+  "coms": [
+   "CORRETA. O art. 28, §3º, I, da Lei 13.303/2016 dispensa a observância do regime licitatório na comercialização, prestação ou execução, de forma direta, de produtos, serviços ou obras especificamente relacionados com os objetos sociais da estatal.",
+   "Errada. Aplicar disponibilidades de caixa no mercado financeiro é gestão ordinária de recursos, e não exploração de nova atividade econômica que dependa da autorização legislativa do art. 173 da CF.",
+   "Errada. A Lei 13.303/2016 se aplica a toda empresa pública e sociedade de economia mista, inclusive às que exploram atividade em regime de monopólio da União (art. 1º).",
+   "Errada. A estatal se sujeita ao regime das empresas privadas (art. 173, §1º, II), mas continua vinculada aos princípios do art. 37 da CF, como impessoalidade, concurso público e licitação.",
+   "Errada. O art. 28, §3º, II, também afasta a licitação na escolha de parceiro com características particulares, vinculada a oportunidades de negócio definidas e específicas, justificada a inviabilidade de procedimento competitivo."
+  ],
+  "base": "CF, arts. 37 e 173; Lei 13.303/2016, arts. 1º e 28, §3º.",
+  "dica": "Estatal não licita a atividade-fim nem a escolha de parceiro estratégico (art. 28, §3º, I e II)."
+ },
+ "e3-26": {
+  "nivel": "fácil",
+  "tema": "Responsabilidade civil na LGPD",
+  "coms": [
+   "Errada. A afirmativa III também é correta (art. 42, §4º).",
+   "Errada. A II é falsa: o operador responde solidariamente, e não de forma subsidiária (art. 42, §1º, I).",
+   "Errada. A I também é correta (art. 42, §2º).",
+   "CORRETA. I: art. 42, §2º (inversão do ônus da prova). III: art. 42, §4º (regresso na medida da participação). A II é falsa porque, quando descumpre a lei ou as instruções lícitas do controlador, o operador responde solidariamente (art. 42, §1º, I).",
+   "Errada. A II é falsa: a responsabilidade do operador é solidária."
+  ],
+  "base": "Lei 13.709/2018 (LGPD), arts. 42 a 45.",
+  "dica": "LGPD: operador que descumpre a lei ou as instruções responde solidariamente, e o juiz pode inverter o ônus a favor do titular."
+ },
+ "e1-31": {
+  "nivel": "médio",
+  "tema": "Paridade de gênero na promoção (Res. CNJ 525/2023)",
+  "coms": [
+   "Errada. A ação afirmativa é temporária e vale até que se alcance a proporção de 40% a 60% por gênero no tribunal.",
+   "CORRETA. A Res. CNJ 525/2023 alterou a Res. 106/2010 para determinar que, nas promoções por merecimento, os tribunais alternem listas exclusivas de mulheres com listas mistas, até atingir a paridade.",
+   "Errada. Não é essa a providência central da Resolução, que trata da alternância de listas no merecimento. A alternativa descreve um dever que não consta da norma nesses termos.",
+   "Errada. A antiguidade não foi alterada: a política incide apenas sobre o critério de merecimento.",
+   "Errada. A Resolução não se aplica à Justiça Eleitoral, que não tem carreira própria e cuja composição segue regras constitucionais específicas."
+  ],
+  "base": "Resolução CNJ 106/2010, com a redação da Resolução CNJ 525/2023; CF, art. 93, II.",
+  "dica": "Res. 525/2023: só no merecimento, listas alternadas (exclusiva de mulheres x mista), até 40%–60%."
+ },
+ "e5-35": {
+  "nivel": "médio",
+  "tema": "Pessoas com deficiência na jurisprudência do STF",
+  "coms": [
+   "Errada. No Tema 1.097 (RE 1.237.867), o STF estendeu aos servidores estaduais e municipais o horário especial dos pais de pessoa com deficiência, aplicando por analogia o art. 98, §§2º e 3º, da Lei 8.112/1990, independentemente de lei local.",
+   "CORRETA. Na ADI 5.357, o STF validou os arts. 28, §1º, e 30 do Estatuto da Pessoa com Deficiência: as escolas privadas devem promover a inclusão no ensino regular e as adaptações necessárias sem cobrar valores adicionais nas mensalidades, anuidades e matrículas.",
+   "Errada. Na ADI 6.476, o STF afirmou que candidatos com deficiência têm direito a adaptação razoável das provas físicas, de acordo com sua condição.",
+   "Errada. O STF (ADI 5.583) permitiu que a pessoa com deficiência seja dependente para fins de IRPF independentemente da idade, desde que sua remuneração não exceda as deduções autorizadas por lei, e não que não tenha renda alguma.",
+   "Errada. O STF considerou constitucional a exigência de que as locadoras mantenham veículos adaptados em suas frotas (art. 52 do Estatuto, ADI 5.452)."
+  ],
+  "base": "Lei 13.146/2015, arts. 28, 30 e 52; Lei 8.112/1990, art. 98; STF, ADIs 5.357, 5.452, 5.583 e 6.476 e Tema 1.097.",
+  "dica": "PcD no STF: a proteção sempre vence. Escola particular sem custo extra, prova física adaptada, horário especial para todos os servidores."
+ },
+ "e5-49": {
+  "nivel": "fácil",
+  "tema": "Tutela de evidência documental (art. 311, IV, do CPC)",
+  "coms": [
+   "Errada. A tutela de evidência pode ser concedida liminarmente nos incisos II e III do art. 311 (parágrafo único).",
+   "Errada. A tese firmada em casos repetitivos ou súmula vinculante é só uma das hipóteses (inciso II). Há outras, como a do inciso IV.",
+   "Errada. A natureza sancionatória existe apenas no inciso I (abuso do direito de defesa ou propósito protelatório). As demais hipóteses decorrem da evidência do direito.",
+   "Errada. A tutela de evidência dispensa a demonstração de perigo de dano ou risco ao resultado útil do processo (art. 311, caput). Esse é o traço que a separa da tutela de urgência (art. 300).",
+   "CORRETA. O art. 311, IV, prevê a tutela de evidência quando a inicial for instruída com prova documental suficiente dos fatos constitutivos do direito do autor, a que o réu não oponha prova capaz de gerar dúvida razoável. É o caso da contestação genérica da Transportes Delta."
+  ],
+  "base": "CPC, arts. 300 e 311.",
+  "dica": "Evidência = sem perigo. Liminar só nos incisos II (tese firmada + documento) e III (depósito)."
+ },
+ "e1-47": {
+  "nivel": "difícil",
+  "tema": "Arrolamento comum e ITCMD",
+  "coms": [
+   "Errada. O art. 665 do CPC admite o arrolamento mesmo com interessado incapaz, desde que concordem todas as partes e o Ministério Público.",
+   "CORRETA. Art. 662, §2º, do CPC: o imposto de transmissão será objeto de lançamento administrativo, conforme a legislação tributária, e a Fazenda não fica adstrita aos valores dos bens do espólio atribuídos pelos herdeiros.",
+   "Errada. No arrolamento comum, provada a quitação dos tributos relativos aos bens do espólio e às suas rendas, o juiz julga a partilha (art. 664, §5º). O ITCMD é lançado administrativamente e não é discutido no arrolamento (art. 662), e o STJ (Tema 1.074) dispensa a prévia quitação do ITCMD para homologar a partilha no arrolamento sumário.",
+   "Errada. O arrolamento comum é cabível quando o valor dos bens for igual ou inferior a 1.000 salários-mínimos (art. 664), e não 2.000.",
+   "Errada. No arrolamento não se conhecem questões relativas ao lançamento, ao pagamento ou à quitação de taxas judiciárias e de tributos incidentes sobre a transmissão (art. 662, caput)."
+  ],
+  "base": "CPC, arts. 659, 662, 664 e 665; STJ, Tema 1.074.",
+  "dica": "Arrolamento comum: até 1.000 salários-mínimos, cabe com incapaz se todos e o MP concordarem, e o ITCMD fica fora do processo."
+ },
+ "e4-62": {
+  "nivel": "médio",
+  "tema": "Assédio sexual no transporte coletivo: fortuito externo",
+  "coms": [
+   "Errada. A transportadora responde objetivamente (art. 37, §6º, da CF; arts. 734 do CC e 14 do CDC). A improcedência decorre do rompimento do nexo causal, e não da falta de prova de culpa.",
+   "Errada. O CDC se aplica aos serviços públicos prestados mediante remuneração (arts. 3º, §2º, e 22 do CDC).",
+   "Errada. A responsabilidade é objetiva, mas o ato libidinoso de outro passageiro é fato de terceiro estranho ao transporte e rompe o nexo causal.",
+   "Errada. A responsabilidade do transportador não é integral: admite excludentes como o fortuito externo e o fato exclusivo de terceiro.",
+   "CORRETA. A 2ª Seção do STJ (REsp 1.833.722/SP) fixou que o ato libidinoso praticado por passageiro contra passageira no interior do coletivo é fato de terceiro sem conexão com a atividade de transporte, ou seja, fortuito externo, o que exclui a responsabilidade da transportadora."
+  ],
+  "base": "CF, art. 37, §6º; CC, arts. 734 e 735; CDC, arts. 14, §3º, II, e 22; STJ, REsp 1.833.722/SP.",
+  "dica": "Fortuito interno (risco da atividade, ex.: fraude bancária) = responde. Fortuito externo (assédio, assalto em ônibus) = não responde."
+ },
+ "e1-61": {
+  "nivel": "médio",
+  "tema": "Conversão do negócio jurídico nulo (art. 170 do CC)",
+  "coms": [
+   "Errada. Apesar de nula como título de crédito, a cártula pode valer como confissão de dívida por conversão (art. 170 do CC); não é inútil.",
+   "CORRETA. A conversão substancial (art. 170) aproveita o negócio nulo quando ele contiver os requisitos de outro e quando o fim visado pelas partes permitir supor que o teriam querido se previssem a nulidade. A promissória sem requisitos formais pode valer como confissão de dívida.",
+   "Errada. A conversão é instituto próprio dos negócios nulos, e não dos anuláveis (estes se convalidam por confirmação, art. 172).",
+   "Errada. I e III são falsas, como explicado.",
+   "Errada. A III é falsa: a conversão se aplica justamente às nulidades absolutas."
+  ],
+  "base": "CC, arts. 170 e 172; LUG, art. 75.",
+  "dica": "Nulo não se confirma, mas pode se converter (art. 170). Anulável se confirma (art. 172)."
+ },
+ "e4-80": {
+  "nivel": "médio",
+  "tema": "Tempo do crime: teoria da atividade (art. 4º do CP)",
+  "coms": [
+   "CORRETA. O art. 4º do CP adota a teoria da atividade: considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado. A conduta de João ocorreu antes da lei mais grave, que não pode retroagir (CF, art. 5º, XL).",
+   "Errada. A consumação (art. 14, I) não define o tempo do crime. A teoria do resultado não foi adotada pelo art. 4º.",
+   "Errada. A lei penal mais grave nunca retroage (art. 5º, XL, da CF; art. 2º do CP). A Súmula 711/STF só se aplica a crime continuado ou permanente, e o estelionato é instantâneo.",
+   "Errada. A lei mais benéfica retroage, mas aqui a lei nova é mais grave; aplica-se a lei vigente ao tempo da conduta.",
+   "Errada. O recebimento da denúncia é irrelevante para definir a lei aplicável."
+  ],
+  "base": "CF, art. 5º, XL; CP, arts. 2º e 4º; Súmula 711/STF.",
+  "dica": "Tempo do crime: aTividade (art. 4º). Lugar do crime: Ubiquidade (art. 6º). Macete LUTA."
+ },
+ "e4-72": {
+  "nivel": "fácil",
+  "tema": "Latrocínio consumado sem subtração (Súmula 610/STF)",
+  "coms": [
+   "Errada. Houve morte dolosa causada pela violência empregada para subtrair, o que caracteriza latrocínio (art. 157, §3º, II).",
+   "Errada. Pela Súmula 610 do STF, o que define a consumação do latrocínio é a morte, e não a subtração.",
+   "CORRETA. Súmula 610/STF: há crime de latrocínio quando o homicídio se consuma, ainda que não realize o agente a subtração de bens da vítima. A violência foi empregada no contexto do roubo, e João morreu.",
+   "Errada. O dolo era de subtrair, e a morte decorreu da violência do roubo. Trata-se de crime complexo (latrocínio), e não de homicídio autônomo.",
+   "Errada. O latrocínio é crime único e complexo, o que afasta o concurso entre homicídio e tentativa de roubo."
+  ],
+  "base": "CP, art. 157, §3º, II; Súmula 610/STF; Súmula 603/STF (competência do juiz singular).",
+  "dica": "Latrocínio segue a morte: morte consumada = latrocínio consumado, com ou sem subtração."
  }
 }
