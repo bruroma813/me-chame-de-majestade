@@ -168,7 +168,26 @@ const cur=d=>CUR[d]||d, L="ABCDE", KEY="enam-karina-v2", NIV={"fácil":"f","méd
 const BQ=Object.fromEntries(D.banco.map(q=>[q.id,q]));
 let MEM=null;
 function load(){try{const s=localStorage.getItem(KEY);return s?JSON.parse(s):null}catch(e){return MEM}}
-function save(){MEM=ST;try{localStorage.setItem(KEY,JSON.stringify(ST))}catch(e){}}
+function save(){agendaSync();MEM=ST;try{localStorage.setItem(KEY,JSON.stringify(ST))}catch(e){}}
+/* ---------- envio do progresso para a planilha (Google Apps Script) ---------- */
+const SYNC_URL="";  // endereço do app da Web do Google Apps Script; vazio = envio desligado
+const SKEY="enam-karina-sync";
+let SYNC_T=null;
+function agendaSync(){if(!SYNC_URL)return;clearTimeout(SYNC_T);SYNC_T=setTimeout(enviaSync,3000)}
+function syncEstado(){try{return JSON.parse(localStorage.getItem(SKEY))||{}}catch(e){return {}}}
+function syncGrava(o){try{localStorage.setItem(SKEY,JSON.stringify(o))}catch(e){}}
+function eventosPendentes(){const st=syncEstado(),env=st.env||{},ev=[];
+ (ST.rounds||[]).forEach(r=>r.qids.forEach((id,i)=>{const a=r.a[i+1];if(a===undefined)return;
+  if(!(r.fim||r.modo==="estudo"))return; const k=r.id+"|"+id; if(env[k])return; const q=BQ[id]; if(!q)return;
+  ev.push({chave:k,quando:r.fimEm||new Date().toISOString(),round:r.num,modo:r.modo,cod:q.cod,qid:id,disc:cur(q.disc),item:q.item,nivel:q.nivel,origem:q.origem,tema:q.tema,marcou:L[a],gabarito:L[q.c],acertou:a===q.c?1:0})}));
+ return ev}
+let SYNC_ON=false;
+function enviaSync(){if(!SYNC_URL||SYNC_ON||!navigator.onLine)return;const ev=eventosPendentes().slice(0,200);if(!ev.length)return;
+ const st=syncEstado();st.disp=st.disp||Math.random().toString(36).slice(2,10);syncGrava(st);SYNC_ON=true;
+ fetch(SYNC_URL,{method:"POST",mode:"no-cors",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify({app:"majestade",disp:st.disp,eventos:ev})})
+  .then(()=>{const s2=syncEstado();s2.env=s2.env||{};ev.forEach(e=>s2.env[e.chave]=1);s2.ult=new Date().toISOString();syncGrava(s2);SYNC_ON=false;if(eventosPendentes().length)setTimeout(enviaSync,1500)})
+  .catch(()=>{SYNC_ON=false})}
+addEventListener("online",enviaSync);setTimeout(enviaSync,2000);
 let ST=load()||{rounds:[],sims:{},rev:{},cfg:{n:20,discs:[],orig:"todas",modo:"estudo"}};
 if(!ST.cfg.discs||ST.cfg.discs.length===DISCS.length)ST.cfg.discs=[];
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
