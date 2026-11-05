@@ -1,0 +1,482 @@
+[
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P04-05",
+  "nivel": "médio",
+  "tema": "Denunciação da lide x chamamento ao processo",
+  "enun": "Rafael comprou de Teresa um terreno que ela havia adquirido de Ulisses. Meses depois, Vânia ajuizou ação reivindicatória contra Rafael, alegando ser a verdadeira proprietária do imóvel. Em outro processo, o Banco Sigma cobrou de Rafael uma dívida decorrente de contrato de mútuo celebrado por Xavier, do qual Rafael e Yago eram fiadores solidários. Rafael procurou seu advogado para saber como trazer ao processo, na ação reivindicatória, a vendedora Teresa e, se possível, também Ulisses, e, na ação de cobrança, o devedor Xavier e o outro fiador, Yago. Considerando o Código de Processo Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Na reivindicatória, Rafael pode denunciar a lide a Teresa, que poderá promover uma única denunciação sucessiva a Ulisses; na cobrança, pode chamar ao processo Xavier e Yago.",
+    "CORRETA. A denunciação da lide ao alienante imediato garante os direitos decorrentes da evicção (art. 125, I), e o CPC/2015 admite uma única denunciação sucessiva, promovida pelo denunciado contra seu antecessor imediato (art. 125, §2º). O fiador réu pode chamar ao processo o afiançado e os demais fiadores (art. 130, I e II)."
+   ],
+   [
+    "Na reivindicatória, Rafael pode denunciar a lide diretamente a Ulisses, por meio da denunciação per saltum, e, na cobrança, deve denunciar a lide a Xavier, garantidor da dívida.",
+    "Errada. O CPC/2015 restringiu a denunciação ao alienante imediato e revogou o art. 456 do CC, que fundamentava a denunciação per saltum. Na cobrança contra o fiador, o instituto é o chamamento ao processo, e não a denunciação."
+   ],
+   [
+    "A denunciação da lide é obrigatória na reivindicatória, sob pena de Rafael perder o direito de regresso contra Teresa.",
+    "Errada. A denunciação é facultativa: se for indeferida, deixar de ser promovida ou não for permitida, o direito regressivo será exercido em ação autônoma (art. 125, §1º)."
+   ],
+   [
+    "Na cobrança, Rafael pode chamar ao processo Yago, mas não Xavier, porque o devedor principal só pode ser acionado em ação regressiva autônoma.",
+    "Errada. O art. 130, I, admite expressamente o chamamento do afiançado na ação em que o fiador for réu."
+   ],
+   [
+    "O chamamento ao processo e a denunciação da lide podem ser requeridos por qualquer das partes, inclusive pelo autor na petição inicial.",
+    "Errada. A denunciação pode ser promovida por qualquer das partes (art. 125, caput, e art. 126), mas o chamamento ao processo é requerido apenas pelo réu (art. 130, caput), na contestação (art. 131)."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 125, 126, 130 e 131; revogação do art. 456 do CC (art. 1.072, II, do CPC).",
+  "dica": "Denunciação = regresso (evicção ou garantia), qualquer parte, uma só sucessiva. Chamamento = coobrigados (fiador, afiançado, solidários), só o réu."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P08",
+  "nivel": "difícil",
+  "tema": "Distribuição dinâmica do ônus da prova e prova emprestada",
+  "enun": "Laura ajuizou ação contra o Hospital Vida alegando que contraiu infecção hospitalar após cirurgia ortopédica e pediu indenização. Na decisão de saneamento, o juiz, de ofício, atribuiu ao hospital o ônus de provar a observância dos protocolos de controle de infecção, por entender que só ele detinha os registros internos de esterilização, e fundamentou a decisão. O hospital recorreu, alegando que a redistribuição seria vedada por ter sido feita de ofício e no saneamento. Laura requereu ainda o aproveitamento de laudo pericial produzido em outra ação, movida por paciente diverso contra o mesmo hospital, sobre o surto de bactéria multirresistente no centro cirúrgico na mesma época. O hospital impugnou o laudo por ter sido produzido em processo do qual Laura não participou. Considerando o Código de Processo Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A redistribuição do ônus da prova pode ser feita pelo juiz, inclusive de ofício, por decisão fundamentada que dê à parte a oportunidade de se desincumbir do ônus, e a prova emprestada pode ser admitida, observado o contraditório no processo em que for utilizada.",
+    "CORRETA. O art. 373, §1º, permite ao juiz atribuir o ônus de modo diverso, por decisão fundamentada, diante da impossibilidade ou excessiva dificuldade de cumprir o encargo ou da maior facilidade de obtenção da prova pela parte contrária, dando-lhe oportunidade de se desincumbir. O momento adequado é o saneamento (art. 357, III), e a decisão é agravável (art. 1.015, XI). O art. 372 admite a prova emprestada com valoração e contraditório no processo de destino, e o STJ dispensa a identidade de partes, desde que assegurado o contraditório."
+   ],
+   [
+    "A redistribuição é nula porque o juiz só pode alterar o ônus da prova a requerimento da parte e na sentença, como regra de julgamento.",
+    "Errada. O CPC não exige requerimento, e a redistribuição deve ocorrer antes da sentença, preferencialmente no saneamento, para que a parte possa produzir a prova (arts. 357, III, e 373, §1º). Inverter o ônus na sentença geraria decisão surpresa."
+   ],
+   [
+    "A prova emprestada é inadmissível, pois só pode ser utilizada se as partes dos dois processos forem idênticas.",
+    "Errada. O STJ admite a prova emprestada mesmo entre partes diversas, desde que se assegure o contraditório no processo em que será utilizada (EREsp 617.428). O art. 372 não exige identidade de partes."
+   ],
+   [
+    "A redistribuição é válida, mas a decisão que a determina é irrecorrível, só podendo ser impugnada na apelação.",
+    "Errada. O art. 1.015, XI, prevê agravo de instrumento contra a decisão que versa sobre redistribuição do ônus da prova nos termos do art. 373, §1º."
+   ],
+   [
+    "A redistribuição é sempre admitida, ainda que gere situação em que o desencargo do ônus pela parte contrária seja impossível ou excessivamente difícil.",
+    "Errada. O art. 373, §2º, veda a redistribuição que gere a chamada prova diabólica reversa: situação em que o desencargo seja impossível ou excessivamente difícil para a outra parte."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 357, III, 372, 373, §§1º e 2º, e 1.015, XI; STJ, EREsp 617.428.",
+  "dica": "Ônus dinâmico: juiz pode de ofício, com fundamentação, ANTES da sentença, sem criar prova diabólica reversa. Cabe agravo. Prova emprestada: basta o contraditório no processo de destino."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P16-19",
+  "nivel": "médio",
+  "tema": "Impenhorabilidades do art. 833 do CPC e suas exceções",
+  "enun": "Em execução de alimentos movida por seu filho, Otávio, médico, teve penhorados parte do salário que recebe de um hospital e R$ 25.000,00 depositados em caderneta de poupança. Em outra execução, movida por uma revendedora de veículos com base em nota promissória vencida, foram penhorados o aparelho de ultrassom que Otávio usa em seu consultório, adquirido a prazo da própria exequente e ainda não quitado, e um televisor de 85 polegadas e um piano de cauda de elevado valor que guarnecem sua residência. Otávio impugnou todas as penhoras, alegando impenhorabilidade. Considerando o Código de Processo Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Todas as penhoras são válidas: a impenhorabilidade do salário e da poupança não se aplica à execução de alimentos; o equipamento profissional responde pela dívida contraída para sua aquisição; e os bens da residência de elevado valor podem ser penhorados.",
+    "CORRETA. A impenhorabilidade dos salários e da poupança até 40 salários mínimos não se aplica à penhora para pagamento de prestação alimentícia (art. 833, §2º). A impenhorabilidade não é oponível à execução de dívida relativa ao próprio bem, inclusive a contraída para sua aquisição (§1º). Os móveis que guarnecem a residência são impenhoráveis, salvo os de elevado valor ou que ultrapassem as necessidades comuns de um médio padrão de vida (inciso II)."
+   ],
+   [
+    "A poupança é impenhorável até 40 salários mínimos em qualquer execução, inclusive na de alimentos, razão pela qual a penhora de R$ 25.000,00 é inválida.",
+    "Errada. O §2º do art. 833 afasta a impenhorabilidade dos incisos IV (salários) e X (poupança) quando a execução é de prestação alimentícia, independentemente de sua origem."
+   ],
+   [
+    "O aparelho de ultrassom é impenhorável, por ser instrumento necessário ao exercício da profissão do executado, qualquer que seja o credor.",
+    "Errada. Instrumentos de trabalho são impenhoráveis (art. 833, V), mas a proteção não vale contra a execução de dívida relativa ao próprio bem, inclusive a contraída para sua aquisição (§1º)."
+   ],
+   [
+    "O televisor e o piano são impenhoráveis, porque todos os bens que guarnecem a residência do executado estão protegidos pela Lei 8.009/1990.",
+    "Errada. A Lei 8.009/1990 exclui da impenhorabilidade as obras de arte e os adornos suntuosos (art. 2º), e o CPC ressalva os móveis de elevado valor ou que ultrapassem as necessidades comuns (art. 833, II)."
+   ],
+   [
+    "O salário de Otávio só pode ser penhorado na parcela que exceder 50 salários mínimos mensais, mesmo em execução de alimentos.",
+    "Errada. O limite de 50 salários mínimos se refere às dívidas não alimentares. Na execução de alimentos, o salário pode ser penhorado independentemente desse valor, observado o limite de comprometimento de até 50% dos ganhos líquidos (art. 529, §3º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 529, §3º, e 833, II, IV, V, X e §§1º e 2º; Lei 8.009/1990, art. 2º.",
+  "dica": "Impenhorabilidade cai: (1) alimentos, para salário e poupança; (2) dívida do próprio bem; (3) bens da casa de elevado valor; (4) salário acima de 50 salários mínimos."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V19",
+  "nivel": "médio",
+  "tema": "Deserdação x indignidade",
+  "enun": "Gustavo, viúvo, tinha dois filhos, Henrique e Irene. Em 2022, após ter sido agredido fisicamente por Henrique durante uma discussão, Gustavo lavrou testamento público deserdando-o e indicando expressamente a agressão como causa. Gustavo faleceu em 2025. Irene ajuizou ação para provar a causa da deserdação dezoito meses após a abertura da sucessão. No curso do inventário, descobriu-se também que Irene havia ocultado o testamento posterior de Gustavo, que beneficiava uma instituição de caridade, o que poderia configurar a hipótese de exclusão de herdeiro por indignidade de quem obsta, por meio fraudulento, a livre disposição dos bens por ato de última vontade. Henrique sustentou que a deserdação era ineficaz e que seus filhos não teriam direito algum na herança. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A deserdação exige testamento com expressa declaração da causa e a prova de sua veracidade pelo herdeiro instituído ou interessado, no prazo de quatro anos da abertura do testamento; a exclusão por indignidade é declarada por sentença; e, em ambos os casos, os descendentes do excluído o sucedem como se ele morto fosse.",
+    "CORRETA. A deserdação só pode ser ordenada em testamento, com expressa declaração da causa (art. 1.964), e cabe ao herdeiro instituído ou a quem aproveite provar sua veracidade, em quatro anos contados da abertura do testamento (art. 1.965). A ofensa física é causa de deserdação do descendente (art. 1.962, I). A indignidade é declarada por sentença (art. 1.815), e são pessoais os efeitos da exclusão: os descendentes do excluído sucedem como se ele fosse morto antes da abertura da sucessão (art. 1.816). A doutrina majoritária e a jurisprudência aplicam essa regra também à deserdação."
+   ],
+   [
+    "A deserdação é ineficaz, porque a ofensa física não está entre as causas legais, que se limitam às hipóteses de indignidade do art. 1.814.",
+    "Errada. Além das causas do art. 1.814, o art. 1.962 autoriza a deserdação dos descendentes por ofensa física, injúria grave, relações ilícitas com a madrasta ou o padrasto e desamparo do ascendente em alienação mental ou grave enfermidade."
+   ],
+   [
+    "A ação de Irene é intempestiva, pois o prazo para provar a causa da deserdação é de um ano, contado da abertura da sucessão.",
+    "Errada. O prazo é de quatro anos, contado da data da abertura do testamento (art. 1.965, parágrafo único). A ação proposta 18 meses depois é tempestiva."
+   ],
+   [
+    "A exclusão de Irene por indignidade opera de pleno direito, independentemente de ação judicial, bastando a prova da ocultação do testamento no inventário.",
+    "Errada. A exclusão por indignidade depende de sentença (art. 1.815), em ação proposta no prazo de quatro anos da abertura da sucessão (art. 1.815, §1º). A exceção, criada pela Lei 14.661/2023, é a exclusão imediata quando a hipótese de indignidade for objeto de sentença penal condenatória transitada em julgado (art. 1.815-A), o que não é o caso da ocultação do testamento narrada."
+   ],
+   [
+    "Excluído Henrique, sua quota acresce à de Irene, pois os efeitos da deserdação se estendem aos descendentes do deserdado.",
+    "Errada. Os efeitos da exclusão são pessoais: os descendentes do excluído herdam por representação, como se ele fosse pré-morto (art. 1.816)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 1.814, 1.815, 1.815-A, 1.816, 1.961, 1.962, 1.964 e 1.965.",
+  "dica": "Indignidade: lei, sentença, 4 anos da ABERTURA DA SUCESSÃO. Deserdação: testamento com causa, prova em 4 anos da ABERTURA DO TESTAMENTO. Efeitos pessoais: os filhos do excluído herdam."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V12-14",
+  "nivel": "médio",
+  "tema": "Condomínio edilício: condômino antissocial, multas e quóruns",
+  "enun": "No Condomínio Edifício Aurora, o condômino Jonas promove festas semanais até a madrugada, com som alto e ameaças aos vizinhos que reclamam, conduta reiterada e documentada há mais de um ano. Na assembleia, convocada regularmente, propôs-se: (1) aplicar a Jonas multa equivalente a dez vezes o valor da contribuição condominial; (2) proibir seu acesso às áreas comuns do prédio, inclusive à garagem e ao elevador; (3) alterar a destinação de uma das unidades do térreo para uso comercial, a pedido de seu proprietário; e (4) excluí-lo do condomínio, com a alienação compulsória de sua unidade. Jonas compareceu, mas não foi ouvido. Considerando o Código Civil e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A multa de até dez vezes a contribuição é cabível ao condômino antissocial, mas, segundo o STJ, depende de prévia oportunidade de defesa; a proibição de acesso às áreas comuns e a exclusão do condômino não são admitidas; e a alteração da destinação da unidade depende de dois terços dos votos dos condôminos.",
+    "CORRETA. O art. 1.337, parágrafo único, prevê multa de até o décuplo da contribuição para o condômino de comportamento antissocial reiterado, e o STJ exige prévia notificação e oportunidade de defesa (REsp 1.365.279). O STJ também considera ilícita a restrição de acesso às áreas comuns como sanção, por ofender o direito de propriedade e a dignidade (REsp 1.699.022). O CC não prevê a exclusão do condômino. A mudança de destinação da unidade exige dois terços dos votos dos condôminos (art. 1.351, redação da Lei 14.405/2022)."
+   ],
+   [
+    "A multa é válida independentemente de defesa prévia, porque o comportamento antissocial foi documentado e a assembleia é soberana.",
+    "Errada. O STJ, aplicando a eficácia horizontal dos direitos fundamentais, exige o contraditório e a ampla defesa antes da aplicação da multa ao condômino antissocial (REsp 1.365.279)."
+   ],
+   [
+    "A exclusão de Jonas, com a alienação compulsória da unidade, é admitida pelo Código Civil, desde que aprovada por três quartos dos condôminos.",
+    "Errada. O CC não prevê a exclusão do condômino antissocial. O quórum de três quartos refere-se à multa de até cinco vezes a contribuição para o condômino que descumpre reiteradamente seus deveres (art. 1.337, caput)."
+   ],
+   [
+    "A alteração da destinação da unidade depende da aprovação unânime dos condôminos, por modificar a convenção.",
+    "Errada. Desde a Lei 14.405/2022, a alteração da convenção e a mudança da destinação do edifício ou da unidade dependem de dois terços dos votos dos condôminos (art. 1.351), e não de unanimidade."
+   ],
+   [
+    "A proibição de acesso às áreas comuns é a sanção mais adequada, por ser menos gravosa que a multa e proteger diretamente os demais condôminos.",
+    "Errada. O STJ considera ilícita a vedação de uso de áreas comuns, inclusive por inadimplência, porque o condomínio dispõe de meios próprios de cobrança e sanção, e a medida fere a propriedade e a dignidade do condômino."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 1.335, 1.337 e 1.351 (Lei 14.405/2022); STJ, REsp 1.365.279 e REsp 1.699.022.",
+  "dica": "Art. 1.337: descumpre reiteradamente = até 5x (3/4 dos condôminos); antissocial = até 10x, com direito de defesa. Exclusão do condômino: não existe no CC. Mudar a destinação: 2/3."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V09",
+  "nivel": "fácil",
+  "tema": "Dano moral: súmulas do STJ (pessoa jurídica, dano estético e negativação)",
+  "enun": "Três ações tramitam na mesma vara cível. Na primeira, a sociedade Alfa Ltda. pede indenização por danos morais contra concorrente que divulgou falsamente, em redes sociais, que seus produtos eram contaminados. Na segunda, Bianca, que teve o rosto queimado em acidente causado por defeito de um secador de cabelo, pede indenização por danos morais e estéticos, cumulativamente. Na terceira, Carlos pede indenização por danos morais porque seu nome foi indevidamente inscrito em cadastro de inadimplentes por um banco, mas, na data da inscrição, já havia outras três anotações legítimas em seu nome, feitas por outros credores. Considerando a jurisprudência sumulada do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Alfa pode sofrer dano moral; Bianca pode cumular danos morais e estéticos; e Carlos não tem direito à indenização por dano moral, embora possa pedir o cancelamento da inscrição indevida.",
+    "CORRETA. A pessoa jurídica pode sofrer dano moral (Súmula 227/STJ e art. 52 do CC), em sua honra objetiva. É lícita a cumulação das indenizações de dano estético e dano moral (Súmula 387/STJ). Da anotação irregular em cadastro de proteção ao crédito não cabe indenização por dano moral quando preexistente legítima inscrição, ressalvado o direito ao cancelamento (Súmula 385/STJ)."
+   ],
+   [
+    "Alfa não pode sofrer dano moral, pois este pressupõe sofrimento psíquico, exclusivo da pessoa natural.",
+    "Errada. A Súmula 227/STJ admite o dano moral da pessoa jurídica, que tem honra objetiva (reputação). O art. 52 do CC estende às pessoas jurídicas, no que couber, a proteção dos direitos da personalidade."
+   ],
+   [
+    "Bianca não pode cumular danos morais e estéticos, porque o dano estético é espécie de dano moral e a cumulação configuraria bis in idem.",
+    "Errada. A Súmula 387/STJ admite a cumulação, porque o dano estético (alteração morfológica permanente) tem autonomia em relação ao dano moral."
+   ],
+   [
+    "Carlos tem direito a dano moral presumido, porque a inscrição indevida gera dano in re ipsa, independentemente de anotações anteriores.",
+    "Errada. A inscrição indevida gera, em regra, dano moral in re ipsa, mas a Súmula 385/STJ afasta a indenização quando há inscrição legítima preexistente."
+   ],
+   [
+    "Carlos tem direito à indenização, mas reduzida pela metade, em razão da existência de anotações anteriores.",
+    "Errada. Não há regra de redução proporcional: preexistindo inscrição legítima, não cabe indenização por dano moral (Súmula 385/STJ), ressalvado o direito ao cancelamento."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, art. 52; Súmulas 227, 385 e 387/STJ.",
+  "dica": "Súmula 227: PJ sofre dano moral. Súmula 387: moral + estético. Súmula 385: devedor contumaz não ganha dano moral por nova negativação."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V08",
+  "nivel": "difícil",
+  "tema": "Empreitada: responsabilidade pela solidez e segurança (CC, art. 618)",
+  "enun": "Em 2019, a Construtora Ômega, contratada por Fernanda em regime de empreitada de lavor e materiais, concluiu e entregou uma casa de dois pavimentos. Em março de 2023, surgiram rachaduras estruturais nas vigas, que um laudo atribuiu à má qualidade do concreto e à fundação inadequada ao tipo de solo. Fernanda notificou a construtora em abril de 2023, mas só ajuizou ação em novembro de 2023, pedindo a reparação dos vícios e indenização. A construtora alegou decadência e, subsidiariamente, que o contrato previa garantia de apenas dois anos pela solidez da obra, cláusula livremente pactuada. Considerando o Código Civil e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O prazo de garantia de cinco anos é irredutível e não pode ser reduzido pelo contrato, mas decaiu o direito de Fernanda à ação do art. 618, por não a ter proposto em 180 dias do aparecimento do vício, sem prejuízo de pretensão indenizatória por inadimplemento contratual, sujeita ao prazo prescricional.",
+    "CORRETA. O art. 618 estabelece a responsabilidade do empreiteiro pela solidez e segurança durante o prazo irredutível de cinco anos, em razão dos materiais e do solo, e o parágrafo único fixa o prazo decadencial de 180 dias, contados do aparecimento do vício, para a ação. O STJ admite que, superado esse prazo, o dono da obra busque indenização pelo inadimplemento contratual, sujeita ao prazo prescricional geral (art. 205; por exemplo, REsp 1.721.694)."
+   ],
+   [
+    "A cláusula que reduziu a garantia para dois anos é válida, por se tratar de contrato paritário entre particulares, e afasta a responsabilidade da construtora.",
+    "Errada. O prazo de cinco anos é irredutível por expressa disposição do art. 618. Trata-se de norma de ordem pública, ligada à segurança das construções."
+   ],
+   [
+    "Fernanda não decaiu de seu direito, porque o prazo de 180 dias foi interrompido pela notificação extrajudicial feita em abril de 2023.",
+    "Errada. Salvo disposição legal em contrário, os prazos decadenciais não se suspendem nem se interrompem (art. 207). A notificação não impede a decadência."
+   ],
+   [
+    "O prazo de cinco anos é de prescrição para o ajuizamento da ação, contado da entrega da obra, e por isso a pretensão de Fernanda ainda era exigível em novembro de 2023.",
+    "Errada. Os cinco anos são prazo de garantia, durante o qual o vício deve aparecer. Surgido o vício, o dono tem 180 dias, de natureza decadencial, para propor a ação do art. 618."
+   ],
+   [
+    "Fernanda tem direito à reparação com base no art. 618, porque os 180 dias se contam do fim do prazo de garantia de cinco anos, e não do aparecimento do vício.",
+    "Errada. O parágrafo único do art. 618 conta os 180 dias do aparecimento do vício ou defeito."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 205, 207 e 618; STJ, REsp 1.721.694.",
+  "dica": "Empreitada (618): 5 anos IRREDUTÍVEIS para o vício aparecer; 180 dias do aparecimento para a ação (decadência). Depois disso, ainda resta a indenização contratual (10 anos)."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V04",
+  "nivel": "médio",
+  "tema": "Bem de família: fiador de locação comercial e imóvel único locado (Tema 1.127/STF e Súmula 486/STJ)",
+  "enun": "Paulo foi fiador em contrato de locação de imóvel comercial celebrado por seu amigo, para a instalação de uma loja. Com o inadimplemento dos aluguéis, o locador ajuizou execução e requereu a penhora do único imóvel de Paulo, um apartamento que ele aluga a terceiros e cuja renda utiliza para pagar o aluguel da casa onde mora com a família. Em outra execução, movida por um banco por dívida de cartão de crédito, pretende-se penhorar a vaga de garagem de Paulo no mesmo edifício, que tem matrícula própria. Paulo alegou que o apartamento é bem de família e que a penhora do imóvel do fiador de locação comercial seria inconstitucional, por violar o direito à moradia. Considerando a Lei 8.009/1990 e a jurisprudência do STF e do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O imóvel locado a terceiros é, em tese, bem de família, porque a renda reverte para a moradia da família, mas é penhorável na execução do fiador de locação, inclusive comercial; e a vaga de garagem com matrícula própria pode ser penhorada.",
+    "CORRETA. É impenhorável o único imóvel residencial do devedor locado a terceiros, desde que a renda seja revertida para a subsistência ou a moradia da família (Súmula 486/STJ). Contudo, a Lei 8.009/1990 excepciona a obrigação decorrente de fiança em contrato de locação (art. 3º, VII), e o STF fixou ser constitucional a penhora do bem de família do fiador de locação, seja residencial, seja comercial (Tema 1.127, RE 1.307.334). A vaga de garagem com matrícula própria não constitui bem de família para efeito de penhora (Súmula 449/STJ)."
+   ],
+   [
+    "A penhora é inválida, porque o STF declarou inconstitucional a penhora do bem de família do fiador nas locações comerciais, por violação ao direito à moradia.",
+    "Errada. No Tema 1.127, o STF afirmou a constitucionalidade da penhora do bem de família do fiador também na locação comercial, por força da autonomia da vontade e da livre iniciativa."
+   ],
+   [
+    "O apartamento não é bem de família, porque Paulo não reside nele, de modo que poderia ser penhorado em qualquer execução.",
+    "Errada. A Súmula 486/STJ protege o único imóvel residencial locado a terceiros quando a renda é revertida para a subsistência ou a moradia da família. A penhorabilidade decorre, no caso, da exceção da fiança locatícia."
+   ],
+   [
+    "A vaga de garagem é impenhorável, por constituir acessório do bem de família.",
+    "Errada. A Súmula 449/STJ afirma que a vaga de garagem com matrícula própria no registro de imóveis não constitui bem de família para efeito de penhora."
+   ],
+   [
+    "A penhora só seria possível se o contrato de fiança tivesse sido registrado no cartório de imóveis, como garantia real.",
+    "Errada. A fiança é garantia pessoal, e a exceção do art. 3º, VII, da Lei 8.009/1990 independe de qualquer registro imobiliário."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 8.009/1990, arts. 1º e 3º, VII; STF, Tema 1.127 (RE 1.307.334); Súmulas 449, 486 e 549/STJ.",
+  "dica": "Fiador de locação perde o bem de família, seja a locação residencial ou comercial (Tema 1.127). Único imóvel alugado com renda para a família = protegido (Súmula 486). Garagem com matrícula = penhorável (Súmula 449)."
+ },
+ {
+  "disc": "Direito Empresarial",
+  "item": "E07",
+  "nivel": "médio",
+  "tema": "Trespasse: eficácia, sucessão em dívidas e não concorrência (CC, arts. 1.144 a 1.148)",
+  "enun": "Lúcia vendeu a Marcos o estabelecimento empresarial em que explorava uma padaria, com equipamentos, ponto, marca e clientela. O contrato foi averbado na Junta Comercial e publicado na imprensa oficial em 10 de março de 2025. Lúcia continuou proprietária de outros bens suficientes para solver seu passivo. Em junho de 2025, um fornecedor cobrou de Marcos uma dívida de farinha vendida a Lúcia em 2024, regularmente contabilizada. Em outubro de 2025, Lúcia abriu nova padaria a duas quadras de distância. O contrato nada dispunha sobre concorrência. Marcos pretende ainda manter o contrato de fornecimento de energia de alta tensão e o contrato de locação do imóvel, que tinha sido firmado com Lúcia. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Marcos responde pela dívida contabilizada, e Lúcia continua solidariamente obrigada pelo prazo de um ano; Lúcia não pode fazer concorrência a Marcos pelos cinco anos seguintes à transferência; e Marcos se sub-roga nos contratos de exploração do estabelecimento que não tenham caráter pessoal.",
+    "CORRETA. O adquirente responde pelos débitos anteriores à transferência regularmente contabilizados, e o alienante continua solidariamente obrigado por um ano, contado, quanto aos créditos vencidos, da publicação e, quanto aos outros, do vencimento (art. 1.146). Sem autorização expressa, o alienante não pode fazer concorrência ao adquirente nos cinco anos subsequentes (art. 1.147). Salvo disposição em contrário, o adquirente se sub-roga nos contratos de exploração sem caráter pessoal, e os terceiros podem rescindi-los em 90 dias, se houver justa causa (art. 1.148)."
+   ],
+   [
+    "Marcos não responde pela dívida, porque as obrigações do estabelecimento permanecem exclusivamente com o alienante, salvo cláusula expressa de assunção.",
+    "Errada. O art. 1.146 impõe ao adquirente a responsabilidade pelos débitos anteriores regularmente contabilizados, independentemente de cláusula contratual."
+   ],
+   [
+    "Lúcia pode abrir nova padaria livremente, porque a cláusula de não concorrência só existe se expressamente pactuada no contrato de trespasse.",
+    "Errada. A vedação de concorrência é implícita e legal: decorre do art. 1.147 e dura cinco anos, salvo autorização expressa do adquirente."
+   ],
+   [
+    "O trespasse é ineficaz perante os credores, porque não houve pagamento de todos eles nem consentimento expresso ou tácito no prazo de trinta dias.",
+    "Errada. A exigência de pagamento ou consentimento dos credores só se aplica quando ao alienante não restarem bens suficientes para solver o passivo (art. 1.145). Lúcia manteve bens suficientes."
+   ],
+   [
+    "A responsabilidade solidária de Lúcia perdura por cinco anos, mesmo prazo da proibição de concorrência.",
+    "Errada. A solidariedade do alienante dura um ano (art. 1.146). Os cinco anos são o prazo da não concorrência (art. 1.147). Banca adora trocar os dois."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 1.142, 1.144, 1.145, 1.146, 1.147 e 1.148; CTN, art. 133.",
+  "dica": "Trespasse: adquirente paga dívidas CONTABILIZADAS; alienante solidário por 1 ANO; não concorrência por 5 ANOS; terceiros rescindem contratos em 90 DIAS com justa causa."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D01-03",
+  "nivel": "médio",
+  "tema": "Retroatividade benéfica e vedação da combinação de leis (Súmula 501/STJ e Súmula 611/STF)",
+  "enun": "Ronaldo foi condenado definitivamente por crime cuja pena, à época dos fatos, era de reclusão de 3 a 8 anos, sem previsão de causa de diminuição. Durante a execução da pena, entrou em vigor lei nova que elevou a pena para 5 a 15 anos, mas criou causa de diminuição de um sexto a dois terços para o agente primário, de bons antecedentes, que não integre organização criminosa, requisitos que Ronaldo preenche. A defesa requereu ao juízo da execução a aplicação da pena-base da lei antiga com a causa de diminuição da lei nova. O Ministério Público sustentou que, transitada em julgado a condenação, nenhuma lei posterior poderia alcançá-la, e que, de todo modo, competiria ao Tribunal, em revisão criminal, examinar o pedido. Considerando o Código Penal e a jurisprudência dos tribunais superiores, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Compete ao juízo da execução aplicar a lei mais benigna, ainda que após o trânsito em julgado, devendo ser aplicada integralmente a lei que, no caso concreto, for mais favorável ao réu, vedada a combinação de leis.",
+    "CORRETA. A lei posterior que de qualquer modo favorecer o agente aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado (art. 2º, parágrafo único, do CP). Compete ao juízo das execuções aplicar a lei mais benigna (Súmula 611/STF e art. 66, I, da LEP). A Súmula 501/STJ, editada para a Lei de Drogas, expressa a orientação geral de que é vedada a combinação de leis: aplica-se integralmente a lei mais favorável, apurada no caso concreto."
+   ],
+   [
+    "A lei nova não pode retroagir, porque a coisa julgada é garantia constitucional que impede a alteração da pena após o trânsito em julgado.",
+    "Errada. A retroatividade da lei penal benéfica é garantia constitucional (art. 5º, XL) e alcança fatos já julgados definitivamente (art. 2º, parágrafo único, do CP). A coisa julgada protege o indivíduo, não o Estado."
+   ],
+   [
+    "Deve ser deferida a combinação da pena-base da lei antiga com a causa de diminuição da lei nova, porque o juiz deve extrair de cada lei a parte mais favorável ao réu.",
+    "Errada. Prevalece nos tribunais superiores a vedação da combinação de leis (lex tertia), porque o juiz estaria criando uma terceira lei, o que ofende a separação de Poderes (Súmula 501/STJ; STF, RE 600.817)."
+   ],
+   [
+    "A aplicação da lei mais benéfica após o trânsito em julgado depende de revisão criminal, de competência do Tribunal.",
+    "Errada. A Súmula 611/STF atribui ao juízo das execuções a aplicação da lei mais benigna após o trânsito em julgado. A revisão criminal não é o meio necessário."
+   ],
+   [
+    "A lei nova, por elevar a pena mínima e máxima, é integralmente mais gravosa e não pode ser aplicada em nenhuma hipótese.",
+    "Errada. A lei mais favorável deve ser apurada no caso concreto. Com a diminuição de até dois terços, a lei nova pode resultar em pena menor (5 anos reduzidos de 2/3 dá 1 ano e 8 meses), e então deve ser aplicada integralmente."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, XL; CP, art. 2º, parágrafo único; LEP, art. 66, I; Súmula 611/STF; Súmula 501/STJ; STF, RE 600.817.",
+  "dica": "Lei benéfica retroage até depois do trânsito, e quem aplica é o juiz da EXECUÇÃO (Súmula 611). Combinar o melhor de duas leis: NÃO (Súmula 501). Compara-se no caso concreto."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D04-06",
+  "nivel": "fácil",
+  "tema": "Dolo eventual x culpa consciente",
+  "enun": "Em uma madrugada, Thiago dirigia em alta velocidade por avenida movimentada da cidade, disputando corrida não autorizada com outro motorista. Ao avançar um sinal vermelho a cerca de 150 km/h, atingiu um pedestre, que morreu no local. Ouvidas, testemunhas relataram que, minutos antes, um amigo de Thiago o alertara de que alguém poderia morrer, e ele respondeu: \"se morrer, morreu, eu não vou perder essa corrida\". Na mesma noite, Ulisses, motorista experiente, fez uma ultrapassagem arriscada em rodovia confiando em sua habilidade para concluí-la a tempo, mas calculou mal a distância e colidiu com um veículo que vinha em sentido contrário, matando o condutor. Considerando a teoria do crime, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Thiago agiu com dolo eventual, pois previu o resultado e assumiu o risco de produzi-lo, e Ulisses agiu com culpa consciente, pois previu o resultado, mas acreditou sinceramente que poderia evitá-lo.",
+    "CORRETA. O art. 18, I, do CP adota a teoria da vontade (dolo direto) e a do assentimento (dolo eventual: o agente assume o risco). A frase de Thiago revela indiferença ao resultado previsto. Na culpa consciente, o agente prevê o resultado, mas confia, levianamente, que não ocorrerá. Ulisses confiou em sua habilidade, e responde por homicídio culposo na direção de veículo (art. 302 do CTB)."
+   ],
+   [
+    "Ambos agiram com culpa consciente, pois nenhum deles quis diretamente a morte das vítimas.",
+    "Errada. Não querer diretamente o resultado afasta apenas o dolo direto. Thiago assumiu o risco (\"se morrer, morreu\"), o que caracteriza dolo eventual (art. 18, I, segunda parte)."
+   ],
+   [
+    "Ambos agiram com dolo eventual, pois a previsão do resultado é suficiente para caracterizar o dolo.",
+    "Errada. A previsão está presente tanto no dolo eventual quanto na culpa consciente. O que os distingue é a atitude interna: assentir no resultado ou confiar sinceramente que ele não ocorrerá."
+   ],
+   [
+    "Thiago agiu com culpa inconsciente, pois estava concentrado na disputa e não previu o resultado.",
+    "Errada. Thiago foi alertado e previu o resultado, como mostra sua própria resposta. A culpa inconsciente é a falta de previsão do resultado previsível."
+   ],
+   [
+    "Ulisses agiu com dolo eventual, pois realizou manobra proibida em rodovia, e toda violação de regra de trânsito implica assunção do risco.",
+    "Errada. Violar regra de trânsito, por si só, não configura dolo eventual. É preciso demonstrar que o agente aceitou o resultado, o que não ocorreu: Ulisses confiou que evitaria a colisão."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, art. 18, I e II; CTB, arts. 302 e 308.",
+  "dica": "Dolo eventual: \"dane-se, se acontecer, aconteceu\". Culpa consciente: \"vai dar certo, eu consigo evitar\". Os dois PREVEEM o resultado."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21d",
+  "nivel": "médio",
+  "tema": "Desacato, resistência e desobediência (ADPF 496 e Tema 1.060/STJ)",
+  "enun": "Durante uma blitz, policiais militares deram ordem de parada a Valter, que conduzia seu veículo regularmente. Ele ignorou a ordem e seguiu viagem, sendo alcançado alguns quilômetros depois. Ao ser abordado, xingou os policiais com palavras de baixo calão, em razão da função que exerciam. Quando os policiais tentaram conduzi-lo à delegacia, Valter desferiu socos em um deles, causando-lhe lesões leves, mas, ainda assim, foi contido e levado à delegacia. A defesa sustentou que o desacato não foi recepcionado pela Constituição, por violar a liberdade de expressão e a Convenção Americana, e que fugir da blitz seria mero exercício do direito de não produzir prova contra si. Considerando o Código Penal e a jurisprudência dos tribunais superiores, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Valter responde por desobediência, desacato e resistência simples, esta em concurso com a lesão corporal decorrente da violência.",
+    "CORRETA. O STJ firmou que o descumprimento de ordem legal de parada emanada de agente público em policiamento ostensivo configura desobediência (Tema 1.060). O STF declarou recepcionado o crime de desacato (ADPF 496). A resistência é simples porque o ato (a condução) foi executado: a forma qualificada exige que o ato não se execute em razão da resistência (art. 329, §1º). E as penas da resistência aplicam-se sem prejuízo das correspondentes à violência (art. 329, §2º)."
+   ],
+   [
+    "Valter não responde por desacato, porque o STF declarou o tipo não recepcionado, por incompatibilidade com o art. 13 da Convenção Americana sobre Direitos Humanos.",
+    "Errada. Na ADPF 496, o STF afirmou a recepção do desacato pela CF/1988 e sua compatibilidade com a liberdade de expressão. O STJ também mantém a tipicidade da conduta."
+   ],
+   [
+    "Valter responde por resistência qualificada, porque empregou violência física contra o policial.",
+    "Errada. A violência é elementar da resistência simples (art. 329, caput). A qualificadora do §1º exige que o ato, em razão da resistência, não se execute, e a condução foi efetivada."
+   ],
+   [
+    "A fuga da blitz é atípica, porque o condutor não é obrigado a se submeter à fiscalização, em razão do direito à não autoincriminação.",
+    "Errada. A não autoincriminação não autoriza o descumprimento de ordem legal de parada. O STJ, no Tema 1.060, considerou a conduta típica (art. 330 do CP)."
+   ],
+   [
+    "A lesão corporal é absorvida pela resistência, por ser meio de execução desta, aplicando-se o princípio da consunção.",
+    "Errada. O art. 329, §2º, determina expressamente a aplicação das penas da resistência sem prejuízo das correspondentes à violência. Há concurso de crimes."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 129, 329, 330 e 331; STF, ADPF 496; STJ, Tema 1.060 (REsp 1.859.933).",
+  "dica": "Resistência: violência ou ameaça; qualificada só se o ato NÃO se executa; responde também pela violência. Desacato: recepcionado (ADPF 496). Fugir de blitz: desobediência."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D12",
+  "nivel": "difícil",
+  "tema": "Concurso formal próprio x impróprio e cúmulo material benéfico (CP, art. 70)",
+  "enun": "Em três episódios distintos: (1) Armando, dirigindo com imprudência, perdeu o controle do veículo e atropelou três pessoas em um ponto de ônibus, causando-lhes lesões corporais culposas; (2) Bento, querendo matar seus dois sócios, que estavam lado a lado, disparou um único tiro de fuzil com munição capaz de transfixar os corpos, matando ambos; (3) Celso, ao atirar dolosamente para matar Dino, atingiu também, por erro na execução, Ester, que estava próxima e sofreu lesões leves, além de matar Dino. Considerando o Código Penal e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Armando responde em concurso formal próprio, com exasperação de uma das penas, em fração proporcional ao número de crimes; Bento, em concurso formal impróprio, com soma das penas; e Celso, em concurso formal próprio, pela regra do art. 73, segunda parte, do CP.",
+    "CORRETA. No concurso formal próprio (art. 70, primeira parte), aplica-se a pena mais grave, ou uma delas se iguais, aumentada de um sexto até metade, e o STJ gradua a fração pelo número de infrações (três crimes, um quinto). Quando a ação é dolosa e os crimes resultam de desígnios autônomos, as penas são somadas (concurso formal impróprio, art. 70, segunda parte). No erro na execução com resultado duplo, aplica-se a regra do concurso formal (art. 73, parte final), e o STJ entende ser próprio quando o segundo resultado não foi querido."
+   ],
+   [
+    "Bento responde em concurso formal próprio, porque praticou uma só ação, independentemente da intenção de atingir as duas vítimas.",
+    "Errada. Uma só ação com desígnios autônomos, isto é, a vontade de produzir cada um dos resultados, leva ao concurso formal impróprio e à soma das penas (art. 70, segunda parte)."
+   ],
+   [
+    "Armando responde em concurso material, porque produziu três resultados distintos, devendo as penas ser somadas.",
+    "Errada. Há uma só conduta (ação) com pluralidade de resultados, o que caracteriza o concurso formal (art. 70), e não o material, que exige mais de uma ação ou omissão (art. 69)."
+   ],
+   [
+    "No concurso formal próprio, a pena exasperada pode superar a que resultaria da soma das penas, porque a regra da exasperação é obrigatória.",
+    "Errada. O parágrafo único do art. 70 prevê o cúmulo material benéfico: a pena não pode exceder a que seria cabível pela regra do concurso material (art. 69)."
+   ],
+   [
+    "Celso responde apenas pelo homicídio de Dino, porque o resultado em Ester, não querido, é absorvido pelo crime principal.",
+    "Errada. No erro na execução com duplo resultado, o agente responde pelos dois crimes, aplicando-se a regra do concurso formal (art. 73, parte final, c/c art. 70)."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 69, 70 e 73; jurisprudência do STJ sobre a fração de aumento (2 crimes: 1/6; 3: 1/5; 4: 1/4; 5: 1/3; 6 ou mais: 1/2).",
+  "dica": "Concurso formal: uma ação, vários resultados. Sem desígnios autônomos = exaspera (1/6 a 1/2). Com desígnios autônomos = soma. E a exasperação nunca pode superar a soma."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D17",
+  "nivel": "difícil",
+  "tema": "Prescrição da pretensão executória e reincidência (Súmula 220/STJ e Tema 788/STF)",
+  "enun": "Fábio, reincidente, foi condenado à pena de 2 anos de reclusão por furto simples praticado em 2021, quando tinha 30 anos. A sentença transitou em julgado para a acusação em março de 2022 e para a defesa em agosto de 2022. Fábio nunca foi preso para cumprir a pena. Em 2026, a defesa requereu o reconhecimento da prescrição, sustentando que o prazo prescricional da pena aplicada seria de quatro anos, contado do trânsito em julgado para a acusação, e que a reincidência não poderia influir no cálculo. O Ministério Público respondeu que a reincidência aumenta o prazo e que o termo inicial é o trânsito em julgado para ambas as partes. Considerando o Código Penal e a jurisprudência do STF e do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O prazo da prescrição da pretensão executória é aumentado de um terço em razão da reincidência, e, conforme o STF, o termo inicial é o trânsito em julgado para ambas as partes, razão pela qual a prescrição ainda não ocorreu.",
+    "CORRETA. A pena de 2 anos prescreve em 4 anos (art. 109, V), prazo aumentado de um terço se o condenado é reincidente (art. 110, caput), o que dá 5 anos e 4 meses. A reincidência só não influi na prescrição da pretensão punitiva (Súmula 220/STJ). No Tema 788 (ARE 848.107), o STF fixou que o prazo da prescrição executória começa do trânsito em julgado para ambas as partes, com modulação para os casos em que o trânsito para a acusação ocorreu após 12/11/2020, como este. Contado de agosto de 2022, o prazo termina em dezembro de 2027."
+   ],
+   [
+    "A prescrição ocorreu, porque a reincidência não influi em nenhuma espécie de prescrição, nos termos da Súmula 220 do STJ.",
+    "Errada. A Súmula 220/STJ diz que a reincidência não influi no prazo da prescrição da pretensão PUNITIVA. Na executória, o art. 110 manda aumentar o prazo em um terço."
+   ],
+   [
+    "A prescrição ocorreu, porque o termo inicial da prescrição executória é sempre o trânsito em julgado para a acusação, na literalidade do art. 112, I, do Código Penal.",
+    "Errada. O STF, no Tema 788, interpretou o art. 112, I, conforme a Constituição: o Estado só pode executar a pena após o trânsito para ambas as partes, e é a partir daí que flui a prescrição executória (com modulação temporal)."
+   ],
+   [
+    "O prazo prescricional deve ser reduzido pela metade, por ser Fábio reincidente, e a prescrição já ocorreu.",
+    "Errada. A reincidência aumenta o prazo em um terço. A redução pela metade decorre da idade (menor de 21 anos na data do fato ou maior de 70 na sentença, art. 115), o que não é o caso."
+   ],
+   [
+    "A prescrição executória regula-se pela pena máxima cominada ao crime, e não pela pena aplicada, razão pela qual o prazo é de oito anos.",
+    "Errada. Depois do trânsito em julgado da condenação, a prescrição regula-se pela pena aplicada (art. 110, caput). A pena máxima em abstrato rege a prescrição da pretensão punitiva antes da sentença (art. 109)."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 109, V, 110, 112, I, e 115; Súmula 220/STJ; STF, Tema 788 (ARE 848.107).",
+  "dica": "Reincidência: +1/3 só na prescrição EXECUTÓRIA (Súmula 220). Executória começa do trânsito para AMBAS as partes (Tema 788)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D08-10",
+  "nivel": "médio",
+  "tema": "Estado de necessidade, coação moral irresistível e obediência hierárquica",
+  "enun": "Três casos foram julgados na mesma semana. No primeiro, durante um incêndio em uma boate, Gilberto empurrou outro frequentador, que caiu e sofreu lesões graves, para alcançar a única saída disponível antes que o fogo se espalhasse. No segundo, Hélio, gerente de banco, entregou valores do cofre a criminosos porque estes mantinham sua esposa e filhos reféns, sob ameaça de morte. No terceiro, Ivo, bombeiro militar em serviço, recusou-se a entrar em um prédio em chamas para resgatar uma criança, alegando risco à própria vida, embora estivesse equipado e o risco fosse inerente à sua função; a criança sofreu queimaduras. Considerando o Código Penal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Gilberto agiu em estado de necessidade; Hélio é isento de pena por coação moral irresistível, respondendo apenas os coatores; e Ivo não pode alegar estado de necessidade, porque tinha o dever legal de enfrentar o perigo.",
+    "CORRETA. Age em estado de necessidade quem pratica o fato para salvar de perigo atual, que não provocou por sua vontade nem podia de outro modo evitar, direito próprio ou alheio cujo sacrifício não era razoável exigir (art. 24). Se o fato é cometido sob coação irresistível, só é punível o autor da coação (art. 22): é causa de exclusão da culpabilidade por inexigibilidade de conduta diversa. Não pode alegar estado de necessidade quem tinha o dever legal de enfrentar o perigo (art. 24, §1º)."
+   ],
+   [
+    "Gilberto agiu em legítima defesa, porque defendeu sua vida contra o perigo representado pelo incêndio.",
+    "Errada. A legítima defesa pressupõe agressão injusta, atual ou iminente, de ser humano (art. 25). Perigo decorrente de incêndio, que atinge bens igualmente legítimos, configura estado de necessidade."
+   ],
+   [
+    "Hélio agiu em estado de necessidade, que exclui a ilicitude do fato, e por isso os coatores também não respondem pela subtração.",
+    "Errada. A coação moral irresistível exclui a culpabilidade do coagido, e não a ilicitude, e o art. 22 determina expressamente a punição do coator. Os criminosos respondem pelo crime patrimonial, como autores mediatos."
+   ],
+   [
+    "Ivo agiu em estado de necessidade exculpante, pois ninguém é obrigado a arriscar a própria vida, de modo que deve ser absolvido.",
+    "Errada. O art. 24, §1º, impede que quem tem o dever legal de enfrentar o perigo invoque o estado de necessidade. O dever não exige atos de heroísmo impossíveis, mas o risco inerente e controlado da função não o afasta."
+   ],
+   [
+    "Hélio responde pelo crime com pena reduzida de um a dois terços, porque a coação moral, mesmo irresistível, apenas atenua a responsabilidade.",
+    "Errada. A coação moral irresistível isenta o coagido de pena (art. 22). A coação resistível é que gera apenas atenuante (art. 65, III, c)."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 22, 24, 25 e 65, III, c.",
+  "dica": "Estado de necessidade: perigo (incêndio, naufrágio). Legítima defesa: agressão humana injusta. Coação moral IRRESISTÍVEL = só o coator responde; resistível = atenuante. Bombeiro e policial não alegam estado de necessidade frente ao risco da função."
+ }
+]

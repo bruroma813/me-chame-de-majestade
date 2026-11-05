@@ -1,0 +1,514 @@
+[
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P23",
+  "nivel": "difícil",
+  "tema": "Legitimidade de associações e da Defensoria para ações coletivas (Temas 82, 499 e 607/STF)",
+  "enun": "A Associação Consumidores Unidos, constituída há oito meses e cujo estatuto prevê a defesa do consumidor, ajuizou ação civil pública contra uma operadora de telefonia, pedindo a declaração de nulidade de cláusula de fidelização imposta a milhões de usuários em todo o país e a restituição dos valores cobrados. A ré alegou ilegitimidade ativa por falta de um ano de constituição e por ausência de autorização expressa dos associados, além de sustentar que eventual sentença só beneficiaria os filiados residentes na comarca. Em outro processo, a Defensoria Pública ajuizou ação civil pública para obrigar o Estado a fornecer transporte escolar adaptado a alunos com deficiência da rede pública, e o Estado alegou que a Defensoria só pode atuar em favor de pessoas individualmente comprovadas como necessitadas. Considerando a legislação e a jurisprudência do STF e do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O requisito de pré-constituição há pelo menos um ano pode ser dispensado pelo juiz quando houver manifesto interesse social; na ação civil pública, a associação atua como substituta processual, sem necessidade de autorização expressa dos associados; e a Defensoria Pública tem legitimidade para a ação civil pública em defesa de interesses difusos que alcancem pessoas necessitadas.",
+    "CORRETA. A pré-constituição há um ano pode ser dispensada pelo juiz quando houver manifesto interesse social evidenciado pela dimensão ou característica do dano, ou pela relevância do bem jurídico (art. 5º, §4º, da Lei 7.347/1985, e art. 82, §1º, do CDC). Na ACP, a associação age como substituta processual, e não se aplicam as exigências dos Temas 82 e 499 do STF, próprias das ações coletivas de rito ordinário por representação (art. 5º, XXI, da CF), como reconhece o STJ. O STF reconheceu a legitimidade da Defensoria para propor ACP em defesa de interesses difusos de pessoas necessitadas (ADI 3.943 e Tema 607)."
+   ],
+   [
+    "A associação é parte ilegítima, porque a exigência de constituição há pelo menos um ano é requisito inafastável para a propositura de ação civil pública.",
+    "Errada. O requisito pode ser dispensado pelo juiz quando houver manifesto interesse social evidenciado pela dimensão ou característica do dano (art. 5º, §4º, da Lei 7.347/1985), como em lesão a milhões de consumidores."
+   ],
+   [
+    "A associação só pode agir com autorização expressa de cada associado, por assembleia ou individualmente, e a sentença beneficiará apenas os filiados que constem da relação juntada à inicial.",
+    "Errada. Essas exigências (Temas 82 e 499/STF) aplicam-se à ação coletiva de rito ordinário em que a associação atua como representante (art. 5º, XXI, da CF). Na ACP, há substituição processual, e a tutela beneficia todos os consumidores lesados (art. 103 do CDC)."
+   ],
+   [
+    "A Defensoria Pública só tem legitimidade para tutelar direitos individuais homogêneos, e não difusos, porque estes não permitem identificar os necessitados beneficiados.",
+    "Errada. O STF afastou essa restrição: a Defensoria pode propor ACP em defesa de direitos difusos, coletivos ou individuais homogêneos quando o resultado puder beneficiar grupo de pessoas necessitadas (Tema 607), sem exigir comprovação prévia individual."
+   ],
+   [
+    "A legitimidade da Defensoria para a ação civil pública depende de prévia anuência do Ministério Público, que atua como titular preferencial das ações coletivas.",
+    "Errada. A legitimidade dos colegitimados do art. 5º da Lei 7.347/1985 é concorrente e disjuntiva: cada um pode agir sozinho, sem anuência dos demais. O MP atua como fiscal da ordem jurídica se não for autor (§1º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 5º, XXI, e 134; Lei 7.347/1985, art. 5º, II, V e §4º; CDC, arts. 82, §1º, e 103; STF, ADI 3.943 e Temas 82, 499 e 607.",
+  "dica": "ACP: associação é SUBSTITUTA (sem autorização individual; um ano dispensável). Ação ordinária coletiva: REPRESENTANTE (autorização e lista de filiados). Defensoria: ACP até para difusos."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P01",
+  "nivel": "fácil",
+  "tema": "Normas fundamentais: vedação à decisão surpresa e contraditório prévio (CPC, arts. 9º e 10)",
+  "enun": "Em ação de cobrança proposta por Joana contra Lúcio, o juiz, ao sentenciar, reconheceu de ofício a prescrição da pretensão, matéria que nenhuma das partes havia suscitado e sobre a qual não foram ouvidas. Joana apelou, alegando nulidade da sentença. Em outro processo, o juiz deferiu tutela provisória de urgência para impedir o corte de energia elétrica do autor sem ouvir previamente a concessionária. Num terceiro processo, o juiz deferiu a expedição de mandado de pagamento em ação monitória antes da manifestação do réu. A concessionária e o réu da monitória também alegaram violação ao contraditório. Considerando as normas fundamentais do Código de Processo Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A sentença que reconheceu a prescrição sem prévia oitiva das partes viola a vedação à decisão surpresa, ainda que se trate de matéria cognoscível de ofício; já a tutela de urgência e o mandado monitório podem ser deferidos sem a oitiva prévia do réu.",
+    "CORRETA. O juiz não pode decidir com base em fundamento sobre o qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício (art. 10). A prescrição, aliás, só é reconhecida liminarmente ou após a oitiva das partes (art. 487, parágrafo único). O art. 9º, parágrafo único, excepciona do contraditório prévio a tutela de urgência, as hipóteses de tutela de evidência dos incisos II e III do art. 311 e a decisão do art. 701 (monitória)."
+   ],
+   [
+    "A sentença é válida, porque a prescrição é matéria de ordem pública e pode ser reconhecida de ofício a qualquer tempo, sem necessidade de ouvir as partes.",
+    "Errada. Poder conhecer de ofício não significa decidir sem ouvir as partes. O art. 10 é expresso ao abranger as matérias cognoscíveis de ofício, e o art. 487, parágrafo único, exige a oitiva para reconhecer a prescrição fora da hipótese de improcedência liminar."
+   ],
+   [
+    "A tutela de urgência concedida sem a oitiva da concessionária é nula, porque o contraditório prévio é absoluto no CPC/2015.",
+    "Errada. O art. 9º, parágrafo único, I, admite a tutela provisória de urgência sem prévia oitiva da parte contrária. O contraditório é diferido, e não suprimido."
+   ],
+   [
+    "O mandado monitório só pode ser expedido após a resposta do réu, porque toda decisão contra a parte exige sua oitiva prévia.",
+    "Errada. O art. 9º, parágrafo único, III, exclui do contraditório prévio a decisão prevista no art. 701, que defere a expedição do mandado de pagamento na ação monitória."
+   ],
+   [
+    "A vedação à decisão surpresa aplica-se apenas às questões de fato, e não às questões de direito, que o juiz conhece por força do princípio iura novit curia.",
+    "Errada. O art. 10 alcança qualquer fundamento, de fato ou de direito. O juiz conhece o direito, mas deve dar às partes oportunidade de debater o enquadramento jurídico novo."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 9º, 10, 311, II e III, 487, parágrafo único, e 701.",
+  "dica": "Art. 10: nem matéria de ofício o juiz decide sem ouvir as partes. Exceções ao contraditório prévio (art. 9º): urgência, evidência II e III, monitória."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P24",
+  "nivel": "difícil",
+  "tema": "Honorários: Fazenda Pública, equidade (Tema 1.076/STJ) e sucumbência recíproca",
+  "enun": "A sociedade Delta S.A. ajuizou ação anulatória de débito fiscal contra a União, no valor de R$ 40 milhões. O pedido foi julgado procedente, e o juiz, por considerar excessivo o valor que resultaria da aplicação dos percentuais legais, fixou os honorários por apreciação equitativa em R$ 100 mil. Em outro processo, entre particulares, o autor pediu R$ 200 mil de indenização e obteve R$ 100 mil, e o juiz fixou honorários de 10% para cada advogado, determinando sua compensação. Por fim, em ação de valor da causa de R$ 1 mil, sem condenação, o juiz fixou os honorários em R$ 100,00, equivalentes a 10% do valor da causa. Considerando o Código de Processo Civil e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Na ação contra a União, os honorários devem observar os percentuais escalonados do art. 85, §3º, do CPC, sendo vedada a equidade em razão do valor elevado; a compensação dos honorários na sucumbência parcial é vedada; e, na causa de valor muito baixo, é cabível a fixação por apreciação equitativa.",
+    "CORRETA. No Tema 1.076, o STJ fixou que a fixação por equidade não é permitida quando os valores da condenação, da causa ou do proveito econômico forem elevados, sendo obrigatória a aplicação dos percentuais dos §§2º ou 3º do art. 85. A equidade só cabe quando o proveito for inestimável ou irrisório ou o valor da causa for muito baixo (§8º). Os honorários são direito do advogado, com natureza alimentar, vedada a compensação em caso de sucumbência parcial (§14)."
+   ],
+   [
+    "A fixação por equidade na ação contra a União é válida, porque o juiz deve evitar o enriquecimento sem causa do advogado e a oneração excessiva do erário.",
+    "Errada. O STJ, no Tema 1.076, rejeitou a equidade para reduzir honorários elevados. A lei já protege o erário com percentuais decrescentes por faixa de valor (art. 85, §3º)."
+   ],
+   [
+    "A compensação dos honorários na sucumbência recíproca é válida, nos termos da Súmula 306 do STJ, porque cada parte é credora e devedora da outra.",
+    "Errada. A Súmula 306/STJ foi superada pelo CPC/2015, que vedou expressamente a compensação (art. 85, §14). Os honorários pertencem aos advogados, e não às partes."
+   ],
+   [
+    "Na causa de R$ 1 mil, o juiz deve aplicar obrigatoriamente o percentual de 10% a 20%, ainda que o resultado seja irrisório, porque a equidade foi abolida pelo CPC/2015.",
+    "Errada. O §8º do art. 85 mantém a equidade nas causas de proveito inestimável ou irrisório ou de valor muito baixo. O §8º-A (Lei 14.365/2022) manda observar, nesses casos, os valores recomendados pela OAB ou o limite mínimo de 10%, o que for maior."
+   ],
+   [
+    "Os honorários contra a Fazenda Pública devem ser fixados sempre entre 1% e 3% do valor da causa, independentemente do valor envolvido.",
+    "Errada. Os percentuais do §3º variam por faixa: de 10% a 20% até 200 salários mínimos, decrescendo até 1% a 3% acima de 100.000 salários mínimos, e são aplicados de forma escalonada (§5º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, art. 85, §§2º, 3º, 5º, 8º, 8º-A e 14; STJ, Tema 1.076; Súmula 306/STJ (superada).",
+  "dica": "Equidade: só para valor IRRISÓRIO, inestimável ou muito baixo, nunca para reduzir honorário alto (Tema 1.076). Compensação de honorários: proibida (§14)."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V03",
+  "nivel": "médio",
+  "tema": "Associações e fundações: exclusão de associado, fiscalização e extinção",
+  "enun": "A Associação Amigos do Parque excluiu o associado Pedro por decisão da diretoria, sem lhe dar oportunidade de defesa, sob o argumento de que ele teria criticado publicamente a gestão. O estatuto prevê recurso à assembleia geral, que não foi oportunizado. Na mesma cidade, a Fundação Saber, instituída por escritura pública para promover a educação de jovens carentes, pretende alterar seu estatuto para também atuar em pesquisa científica, proposta aprovada por dois terços dos responsáveis pela gestão. Uma terceira fundação, sediada em outro Estado, tornou-se inútil para o fim a que se destinava, e seu estatuto nada dispõe sobre o destino do patrimônio. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A exclusão de Pedro é inválida, porque só é admissível havendo justa causa, reconhecida em procedimento que assegure o direito de defesa e de recurso; a alteração do estatuto da Fundação Saber depende também de não contrariar ou desvirtuar sua finalidade e de aprovação pelo Ministério Público; e o patrimônio da fundação extinta deve ser incorporado a outra fundação de fim igual ou semelhante.",
+    "CORRETA. A exclusão do associado só é admissível havendo justa causa, assim reconhecida em procedimento que assegure o direito de defesa e de recurso, nos termos do estatuto (art. 57). A alteração do estatuto da fundação exige deliberação de dois terços dos competentes para geri-la, que não contrarie ou desvirtue seu fim e aprovação pelo Ministério Público, em 45 dias (art. 67). Tornando-se ilícita, impossível ou inútil a finalidade, o patrimônio, salvo disposição diversa, é incorporado a outra fundação de fim igual ou semelhante, designada pelo juiz (art. 69)."
+   ],
+   [
+    "A exclusão de Pedro é válida, porque a associação é entidade privada e tem plena autonomia para excluir associados por decisão de seus órgãos de administração.",
+    "Errada. A autonomia associativa sofre a eficácia horizontal dos direitos fundamentais: o art. 57 do CC exige justa causa e procedimento com defesa e recurso (STF, RE 201.819)."
+   ],
+   [
+    "A alteração do estatuto da Fundação Saber é válida com a aprovação de dois terços dos gestores, independentemente de manifestação do Ministério Público.",
+    "Errada. A alteração estatutária da fundação deve ser submetida ao Ministério Público, que se manifesta em 45 dias; se denegar, o juiz pode supri-la a requerimento do interessado (art. 67, III)."
+   ],
+   [
+    "O patrimônio da fundação extinta deve ser destinado aos herdeiros do instituidor ou, na falta deles, ao Estado onde estiver sediada.",
+    "Errada. Salvo disposição em contrário no ato constitutivo ou no estatuto, o patrimônio vai para outra fundação de fim igual ou semelhante (art. 69). Não retorna ao instituidor nem é arrecadado pelo Estado."
+   ],
+   [
+    "A fiscalização das fundações cabe ao Ministério Público Federal, qualquer que seja o local de sua sede.",
+    "Errada. Velará pelas fundações o Ministério Público do Estado onde situadas (art. 66). No Distrito Federal ou em Território, cabe ao Ministério Público do Distrito Federal e Territórios (art. 66, §1º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 57, 62, 66, 67 e 69; STF, RE 201.819.",
+  "dica": "Associação: exclusão com JUSTA CAUSA, defesa e recurso. Fundação: estatuto muda com 2/3 dos gestores + MP (45 dias), sem desvirtuar o fim; extinta, o patrimônio vai para fundação semelhante."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V18",
+  "nivel": "médio",
+  "tema": "Marco Civil da Internet: guarda e fornecimento de registros",
+  "enun": "Mariana descobriu que um perfil anônimo em uma rede social vinha publicando ofensas contra ela e pretende identificar o responsável para ajuizar ação de indenização. Seu advogado enviou notificação extrajudicial à rede social e ao provedor de conexão, pedindo os registros de acesso e de conexão do usuário. A rede social respondeu que só forneceria os dados mediante ordem judicial e que mantém os registros de acesso a aplicações apenas por seis meses. O provedor de conexão informou que guarda os registros de conexão por um ano e que, por política própria, também armazena os registros de acesso a aplicações de seus clientes. Considerando a Lei 12.965/2014 (Marco Civil da Internet), assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Os registros de conexão devem ser mantidos por um ano e os de acesso a aplicações por seis meses; o fornecimento depende de ordem judicial; e o provedor de conexão é proibido de guardar os registros de acesso a aplicações de internet.",
+    "CORRETA. O provedor de conexão deve manter os registros de conexão pelo prazo de um ano (art. 13), e o provedor de aplicações constituído como pessoa jurídica, os registros de acesso pelo prazo de seis meses (art. 15). A disponibilização dos registros depende de ordem judicial (arts. 10, §1º, e 22). Na provisão de conexão, é vedado guardar os registros de acesso a aplicações de internet (art. 14)."
+   ],
+   [
+    "A rede social deve fornecer os registros mediante simples notificação extrajudicial da vítima, porque a proteção da honra prevalece sobre a privacidade do usuário.",
+    "Errada. O fornecimento de registros de conexão e de acesso a aplicações exige ordem judicial (art. 10, §1º). A parte pode requerer ao juiz, com fundados indícios do ilícito, justificativa da utilidade dos registros e indicação do período (art. 22)."
+   ],
+   [
+    "Os registros de conexão e de acesso a aplicações devem ser mantidos pelo prazo de cinco anos, igual ao prazo prescricional das ações de reparação.",
+    "Errada. Os prazos legais são de um ano (conexão) e seis meses (aplicações). A autoridade policial, administrativa ou o MP podem requerer cautelarmente a guarda por prazo superior (arts. 13, §2º, e 15, §2º)."
+   ],
+   [
+    "O provedor de conexão pode guardar os registros de acesso a aplicações, desde que haja consentimento genérico do usuário no contrato de adesão.",
+    "Errada. A vedação do art. 14 é expressa: na provisão de conexão, onerosa ou gratuita, é vedado guardar os registros de acesso a aplicações de internet."
+   ],
+   [
+    "Os dados cadastrais do usuário, como nome e endereço, também só podem ser obtidos mediante ordem judicial, por qualquer autoridade.",
+    "Errada. O art. 10, §3º, permite o acesso aos dados cadastrais (qualificação pessoal, filiação e endereço) pelas autoridades administrativas que detenham competência legal para requisitá-los, sem ordem judicial."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 12.965/2014, arts. 10, §§1º e 3º, 13, 14, 15 e 22.",
+  "dica": "Marco Civil: conexão = 1 ANO (provedor de acesso); aplicações = 6 MESES (redes, sites). Entregar registros: só com ordem judicial. Provedor de conexão não guarda acesso a aplicações."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V20",
+  "nivel": "médio",
+  "tema": "Vício do produto: prazo de 30 dias para sanar e decadência (CDC, arts. 18 e 26)",
+  "enun": "Cláudia comprou uma geladeira em uma loja de eletrodomésticos. Quarenta dias depois da entrega, o aparelho deixou de resfriar. Ela levou a reclamação à loja no mesmo dia, por escrito, e o produto foi encaminhado à assistência técnica autorizada do fabricante, que só o devolveu, ainda com defeito, após 45 dias. Cláudia exigiu a substituição do produto. A loja recusou, alegando que a responsabilidade pelo vício seria exclusiva do fabricante e que o prazo para reclamar de vícios aparentes de bens duráveis teria se esgotado, por ser de trinta dias. Considerando o Código de Defesa do Consumidor, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Não sanado o vício no prazo máximo de trinta dias, Cláudia pode exigir, à sua escolha, a substituição do produto, a restituição da quantia paga ou o abatimento do preço, e a loja responde solidariamente com o fabricante; o prazo para reclamar é de noventa dias e foi obstado pela reclamação.",
+    "CORRETA. Os fornecedores de produtos de consumo duráveis respondem solidariamente pelos vícios de qualidade (art. 18, caput). Não sanado o vício em 30 dias, o consumidor pode exigir, alternativamente e à sua escolha, a substituição, a restituição imediata da quantia paga ou o abatimento proporcional do preço (art. 18, §1º). O prazo para reclamar de vícios em bens duráveis é de 90 dias (art. 26, II), e a reclamação comprovadamente formulada obsta a decadência até a resposta negativa inequívoca (art. 26, §2º, I)."
+   ],
+   [
+    "A loja não responde pelo vício do produto, porque o comerciante só tem responsabilidade quando o fabricante não puder ser identificado.",
+    "Errada. Essa responsabilidade subsidiária do comerciante é a do fato do produto (acidente de consumo, art. 13). No vício do produto, todos os fornecedores da cadeia respondem solidariamente (art. 18)."
+   ],
+   [
+    "O direito de reclamar caducou, porque o prazo para vícios aparentes é de trinta dias, contados da entrega do produto.",
+    "Errada. Trinta dias é o prazo para produtos não duráveis (art. 26, I). Para os duráveis, como a geladeira, o prazo é de 90 dias (art. 26, II), e a reclamação obstou a decadência."
+   ],
+   [
+    "Cláudia deve aguardar novo prazo de trinta dias para que o fornecedor tente sanar o vício, já que a substituição do produto é medida excepcional.",
+    "Errada. O prazo de 30 dias já foi superado (o produto ficou 45 dias na assistência e voltou com defeito). A partir daí, a escolha entre as alternativas do art. 18, §1º, é do consumidor."
+   ],
+   [
+    "Cláudia só poderia exigir a substituição se o vício tivesse causado danos à sua saúde ou segurança, hipótese de fato do produto, sujeita ao prazo prescricional de cinco anos.",
+    "Errada. O vício de qualidade que torna o produto impróprio ao uso já autoriza a substituição (art. 18). O fato do produto (art. 12) e a prescrição de cinco anos (art. 27) referem-se a acidentes de consumo."
+   ]
+  ],
+  "c": 0,
+  "base": "CDC, arts. 12, 13, 18, caput e §1º, 26, I, II e §2º, I, e 27.",
+  "dica": "VÍCIO: todos solidários, 30 dias para consertar e depois o consumidor escolhe; reclamar em 30 (não durável) ou 90 dias (durável). FATO (acidente): comerciante é subsidiário; 5 anos de prescrição."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V05",
+  "nivel": "médio",
+  "tema": "Erro, dolo acidental e dolo de terceiro (CC, arts. 138 a 150)",
+  "enun": "Roberto comprou de Sílvio um quadro, acreditando ser obra original de um pintor famoso, como afirmava o certificado falso entregue por Túlio, um marchand que intermediou o negócio sem que Sílvio soubesse da fraude. Em outro negócio, Ursula comprou um apartamento de Vera, que, para convencê-la, mentiu sobre o valor do condomínio, informando quantia menor que a real; Ursula afirmou que teria comprado o imóvel de qualquer forma, mas teria negociado um preço menor. Num terceiro caso, Xavier vendeu a Yara um carro com defeito oculto que ele conhecia, e Yara pagou com cheque sem fundos, também conscientemente, e ambos alegaram dolo um do outro. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Roberto não pode anular o negócio por dolo de terceiro, porque Sílvio não sabia nem devia saber da fraude, mas Túlio responde por perdas e danos; Ursula, vítima de dolo acidental, só pode pedir perdas e danos; e, no dolo recíproco, nenhuma das partes pode alegá-lo para anular o negócio.",
+    "CORRETA. O dolo de terceiro só anula o negócio se a parte a quem aproveite dele tivesse ou devesse ter conhecimento; caso contrário, o negócio subsiste, e o terceiro responde por perdas e danos (art. 148). O dolo acidental, sem o qual o negócio seria realizado, embora de outro modo, só obriga à satisfação das perdas e danos (art. 146). Se ambas as partes procederem com dolo, nenhuma pode alegá-lo para anular o negócio ou reclamar indenização (art. 150)."
+   ],
+   [
+    "Roberto pode anular o negócio por dolo, porque o dolo sempre vicia a vontade, independentemente de quem o tenha praticado.",
+    "Errada. No dolo de terceiro, a anulação depende de a parte beneficiada ter tido ou dever ter conhecimento da fraude (art. 148). Roberto ainda poderia, em tese, alegar erro substancial sobre a qualidade essencial do objeto (art. 139, I), mas não dolo contra Sílvio."
+   ],
+   [
+    "Ursula pode anular a compra, porque qualquer omissão ou mentira sobre aspecto relevante do negócio configura dolo essencial.",
+    "Errada. Ursula declarou que compraria o imóvel de qualquer forma, apenas em outras condições: é o dolo acidental, que não anula o negócio e só gera perdas e danos (art. 146)."
+   ],
+   [
+    "No caso de Xavier e Yara, o juiz deve anular o negócio, porque o dolo de ambos torna o objeto ilícito e o contrato nulo.",
+    "Errada. O dolo recíproco não gera nulidade: o art. 150 impede que qualquer das partes o alegue para anular o negócio ou pedir indenização (ninguém pode se beneficiar da própria torpeza)."
+   ],
+   [
+    "O prazo para pleitear a anulação do negócio jurídico por dolo é de dois anos, contado da data da conclusão do ato.",
+    "Errada. O prazo decadencial para anular o negócio por erro, dolo, fraude contra credores, estado de perigo ou lesão é de quatro anos, contado do dia em que se realizou o negócio (art. 178, II). Os dois anos são o prazo supletivo do art. 179."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 138, 139, 145, 146, 148, 150, 178, II, e 179.",
+  "dica": "Dolo ACIDENTAL = só perdas e danos. Dolo de TERCEIRO = anula só se a parte sabia ou devia saber. Dolo RECÍPROCO = ninguém alega. Prazo: 4 anos."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V07",
+  "nivel": "fácil",
+  "tema": "Formação do contrato: proposta, aceitação e contratos entre ausentes",
+  "enun": "Em 2 de maio, a Distribuidora Alfa enviou por correio a Bruno, comerciante em outra cidade, proposta escrita de venda de 500 caixas de azeite, fixando prazo de dez dias para resposta. No dia 3, arrependida, enviou por e-mail a retratação, que Bruno recebeu no dia 4, antes de receber a proposta, que só chegou no dia 6. No mesmo período, Alfa fez proposta verbal, sem prazo, a Carla, que estava presente em sua loja, e ela respondeu que pensaria e daria uma resposta na semana seguinte. Por fim, Alfa recebeu de Diego, em resposta a proposta anterior, aceitação dentro do prazo, mas com o pedido de desconto de 10% no preço. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A proposta feita a Bruno deixou de ser obrigatória, porque a retratação chegou antes da proposta; a proposta feita a Carla deixou de obrigar, por não ter sido imediatamente aceita; e a resposta de Diego, com modificação, importa nova proposta.",
+    "CORRETA. A proposta deixa de ser obrigatória se, antes dela ou simultaneamente, chegar ao conhecimento da outra parte a retratação do proponente (art. 428, IV). Feita sem prazo a pessoa presente, deixa de obrigar se não foi imediatamente aceita (art. 428, I). A aceitação fora do prazo, com adições, restrições ou modificações, importará nova proposta (art. 431)."
+   ],
+   [
+    "A proposta feita a Bruno continua obrigatória, porque fixou prazo de dez dias, durante o qual o proponente não pode se retratar em nenhuma hipótese.",
+    "Errada. Mesmo com prazo, a proposta deixa de ser obrigatória se a retratação chegar ao destinatário antes dela ou simultaneamente (art. 428, IV)."
+   ],
+   [
+    "A proposta feita a Carla continua obrigatória por prazo razoável, porque a lei protege a confiança de quem recebe a oferta.",
+    "Errada. O prazo razoável (tempo suficiente para a resposta) aplica-se à proposta sem prazo feita a pessoa ausente (art. 428, II). Para a pessoa presente, a aceitação deve ser imediata (art. 428, I)."
+   ],
+   [
+    "O contrato com Diego está formado, porque a aceitação chegou no prazo, e o pedido de desconto é mera sugestão que não altera o negócio.",
+    "Errada. A aceitação com modificação do preço não é aceitação pura e simples: importa nova proposta (art. 431), e o contrato só se forma se Alfa a aceitar."
+   ],
+   [
+    "Os contratos entre ausentes reputam-se concluídos no momento em que o proponente toma conhecimento da aceitação, segundo a teoria da cognição adotada pelo Código Civil.",
+    "Errada. O CC adota, como regra, a teoria da expedição: os contratos entre ausentes tornam-se perfeitos desde que a aceitação é expedida (art. 434), salvo as exceções do próprio artigo."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 427, 428, 431, 433 e 434.",
+  "dica": "Proposta presente sem prazo: aceita NA HORA. Retratação que chega antes ou junto: desobriga. Aceitação com mudanças: NOVA PROPOSTA. Entre ausentes: vale a EXPEDIÇÃO."
+ },
+ {
+  "disc": "Direito Empresarial",
+  "item": "E09",
+  "nivel": "médio",
+  "tema": "Contratos bancários: juros, capitalização e revisão (súmulas do STJ)",
+  "enun": "Paula celebrou com o Banco Sigma, em 2023, contrato de crédito pessoal com juros remuneratórios de 4% ao mês, taxa próxima à média de mercado divulgada pelo Banco Central para a operação. O contrato prevê taxa mensal de 4% e taxa anual de 60,1%, sem cláusula específica que mencione a palavra \"capitalização\". Inadimplente, Paula ajuizou ação revisional, alegando que os juros acima de 12% ao ano seriam abusivos, que a capitalização mensal seria vedada e que o juiz deveria, de ofício, examinar todas as demais cláusulas do contrato. O banco defendeu a validade do contrato. Considerando a jurisprudência sumulada do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A estipulação de juros superiores a 12% ao ano, por si só, não indica abusividade; a previsão de taxa anual superior ao duodécuplo da mensal é suficiente para permitir a capitalização; e o juiz não pode conhecer de ofício da abusividade das cláusulas dos contratos bancários.",
+    "CORRETA. A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade (Súmula 382/STJ). É permitida a capitalização com periodicidade inferior à anual em contratos celebrados após 31/3/2000, desde que expressamente pactuada (Súmula 539), e a previsão no contrato de taxa anual superior ao duodécuplo da mensal basta para isso (Súmula 541): 4% x 12 = 48%, inferior a 60,1%. Nos contratos bancários, é vedado ao julgador conhecer, de ofício, da abusividade das cláusulas (Súmula 381)."
+   ],
+   [
+    "Os juros superiores a 12% ao ano são abusivos, por força da Lei de Usura, aplicável a todas as instituições financeiras.",
+    "Errada. As instituições do Sistema Financeiro Nacional não se sujeitam à limitação da Lei de Usura (Súmula 596/STF), e a Súmula 382/STJ afasta a presunção de abusividade."
+   ],
+   [
+    "A capitalização mensal é vedada, porque não há cláusula que mencione expressamente a palavra \"capitalização\".",
+    "Errada. A Súmula 541/STJ considera suficiente, para demonstrar a pactuação da capitalização, a previsão de taxa anual superior ao duodécuplo da mensal, sem exigência de fórmula sacramental."
+   ],
+   [
+    "O Código de Defesa do Consumidor não se aplica ao contrato, porque as instituições financeiras são reguladas exclusivamente pelas normas do Conselho Monetário Nacional.",
+    "Errada. O CDC é aplicável às instituições financeiras (Súmula 297/STJ; STF, ADI 2.591). A revisão é possível, mas a abusividade dos juros depende de demonstração, por exemplo, de discrepância relevante em relação à taxa média de mercado."
+   ],
+   [
+    "O juiz deve examinar de ofício todas as cláusulas do contrato, porque as normas do CDC são de ordem pública e interesse social.",
+    "Errada. A Súmula 381/STJ veda que o julgador conheça de ofício da abusividade das cláusulas nos contratos bancários. O juiz se limita às cláusulas impugnadas."
+   ]
+  ],
+  "c": 0,
+  "base": "Súmula 596/STF; Súmulas 297, 381, 382, 539 e 541/STJ; STF, ADI 2.591.",
+  "dica": "Bancos: juro acima de 12% ao ano não é abusivo por si só (382); taxa anual > 12x a mensal = capitalização pactuada (541); juiz não revê cláusula de ofício (381)."
+ },
+ {
+  "disc": "Direito Empresarial",
+  "item": "E11",
+  "nivel": "médio",
+  "tema": "Propriedade industrial: prazos de patentes, desenho industrial e proteção de marcas",
+  "enun": "A Inova Tecnologia Ltda. depositou no INPI, em 2014, pedido de patente de invenção de um novo processo de purificação de água, concedida apenas em 2022 em razão da demora do órgão. A empresa também registrou o desenho industrial de um filtro doméstico e a marca \"AquaPura\" para purificadores de água. Uma concorrente estrangeira, titular da marca \"Clarix\", amplamente conhecida no seu ramo de atividade em diversos países, mas não registrada no Brasil, descobriu que um empresário brasileiro registrou \"Clarix\" para filtros. A Inova pretende saber até quando terá proteção sobre a patente, e a concorrente estrangeira quer impedir o uso da marca. Considerando a Lei 9.279/1996 e a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A patente de invenção vigora por vinte anos contados do depósito, sem prorrogação pela demora do INPI; o registro de marca vigora por dez anos, prorrogáveis por períodos iguais e sucessivos; e a marca notoriamente conhecida em seu ramo de atividade goza de proteção especial, independentemente de registro no Brasil.",
+    "CORRETA. A patente de invenção vigora pelo prazo de 20 anos contados da data de depósito (art. 40). O STF declarou inconstitucional o parágrafo único do art. 40, que garantia prazo mínimo de 10 anos a partir da concessão (ADI 5.529). O registro de marca vigora por 10 anos, contados da concessão, prorrogável por períodos iguais e sucessivos (art. 133). A marca notoriamente conhecida em seu ramo de atividade, nos termos do art. 6º bis da Convenção da União de Paris, goza de proteção especial, independentemente de estar registrada no Brasil (art. 126)."
+   ],
+   [
+    "A patente da Inova vigora por, no mínimo, dez anos contados da concessão, em razão da demora do INPI na análise do pedido.",
+    "Errada. Era a regra do parágrafo único do art. 40, declarado inconstitucional pelo STF na ADI 5.529 (2021), por gerar prazos indeterminados e ofender a temporariedade da proteção (art. 5º, XXIX, da CF)."
+   ],
+   [
+    "A marca notoriamente conhecida e a marca de alto renome são sinônimas e gozam de proteção em todos os ramos de atividade, desde que registradas no Brasil.",
+    "Errada. A marca de alto renome, registrada no Brasil, tem proteção especial em todos os ramos de atividade (art. 125). A marca notoriamente conhecida é protegida apenas em seu ramo de atividade, independentemente de registro no Brasil (art. 126)."
+   ],
+   [
+    "O registro do desenho industrial vigora por vinte anos contados do depósito, como a patente de invenção.",
+    "Errada. O registro de desenho industrial vigora por 10 anos contados do depósito, prorrogável por três períodos sucessivos de cinco anos cada (art. 108)."
+   ],
+   [
+    "O registro de marca é perpétuo, desde que a marca seja efetivamente utilizada, não havendo necessidade de prorrogação.",
+    "Errada. O registro vigora por dez anos, e a prorrogação deve ser requerida durante o último ano de vigência ou, mediante retribuição adicional, nos seis meses seguintes (art. 133, §§1º e 2º). O desuso pode levar à caducidade (art. 143)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, XXIX; Lei 9.279/1996, arts. 40, 108, 125, 126, 133 e 143; STF, ADI 5.529; CUP, art. 6º bis.",
+  "dica": "Patente: invenção 20 anos e modelo de utilidade 15, contados do DEPÓSITO. Desenho industrial: 10 + 3x5. Marca: 10 anos renováveis. Alto renome = todos os ramos (com registro); notória = seu ramo (sem registro no Brasil)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D13-16",
+  "nivel": "médio",
+  "tema": "Medida de segurança: espécies, prazos e semi-imputabilidade (Súmula 527/STJ)",
+  "enun": "Wesley, portador de esquizofrenia que lhe retirava inteiramente a capacidade de entender o caráter ilícito do fato, praticou furto simples, punido com reclusão de 1 a 4 anos. Comprovada a inimputabilidade por perícia, o juiz o absolveu e aplicou medida de segurança de tratamento ambulatorial, por entender que não havia periculosidade que justificasse a internação. O Ministério Público recorreu, sustentando que a internação seria obrigatória por ser o crime punido com reclusão e que a medida deveria durar por tempo indeterminado, até a cessação da periculosidade. Em outro processo, Xisto, com desenvolvimento mental incompleto que reduzia parcialmente sua capacidade de autodeterminação, foi condenado por estelionato. Considerando o Código Penal e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A sentença de Wesley é de absolvição imprópria, e o STJ admite o tratamento ambulatorial mesmo para crime punido com reclusão, conforme a periculosidade do agente; a medida não pode ultrapassar o limite máximo da pena abstratamente cominada; e Xisto, semi-imputável, pode ter a pena reduzida de um a dois terços ou substituída por medida de segurança.",
+    "CORRETA. Absolvido o inimputável, o juiz aplica medida de segurança (absolvição imprópria, art. 386, parágrafo único, III, do CPP). Embora o art. 97 preveja a internação para crimes punidos com reclusão, o STJ permite o tratamento ambulatorial conforme a periculosidade e a recomendação médica (EREsp 998.128). O tempo de duração da medida de segurança não deve ultrapassar o limite máximo da pena abstratamente cominada ao delito (Súmula 527/STJ). Ao semi-imputável, aplica-se a redução de um a dois terços (art. 26, parágrafo único), ou a substituição da pena por medida de segurança, se necessitar de especial tratamento curativo (art. 98)."
+   ],
+   [
+    "A internação é obrigatória, porque o crime é punido com reclusão, e a medida de segurança deve durar por tempo indeterminado, até a cessação da periculosidade.",
+    "Errada. O STJ flexibilizou a regra do art. 97 conforme a periculosidade, e o prazo indeterminado é limitado pela vedação às penas perpétuas: pelo STJ, ao máximo da pena em abstrato (Súmula 527); pelo STF, ao limite máximo de cumprimento de pena do art. 75 do CP."
+   ],
+   [
+    "A medida de segurança de Wesley deve durar, no máximo, o tempo da pena mínima cominada ao crime, que é de um ano.",
+    "Errada. Um ano é o prazo mínimo para a realização da perícia de cessação da periculosidade (art. 97, §1º, que prevê mínimo de 1 a 3 anos). O limite máximo, para o STJ, é a pena máxima abstrata (Súmula 527)."
+   ],
+   [
+    "Xisto deve ser absolvido e submetido a medida de segurança, porque o desenvolvimento mental incompleto exclui a culpabilidade.",
+    "Errada. Só a incapacidade inteira de entender o caráter ilícito ou de determinar-se exclui a culpabilidade (art. 26, caput). A redução parcial gera semi-imputabilidade: condenação com pena reduzida ou substituição por medida de segurança (arts. 26, parágrafo único, e 98)."
+   ],
+   [
+    "O semi-imputável pode receber, cumulativamente, pena privativa de liberdade reduzida e medida de segurança, pelo sistema do duplo binário.",
+    "Errada. Desde a reforma de 1984, o CP adota o sistema vicariante: ou pena reduzida, ou medida de segurança, nunca as duas cumulativamente."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 26, 75, 96, 97 e 98; CPP, art. 386, parágrafo único, III; Súmula 527/STJ; STJ, EREsp 998.128.",
+  "dica": "Inimputável = absolvição imprópria + medida de segurança. Semi-imputável = pena reduzida (1/3 a 2/3) OU medida de segurança (sistema vicariante). Máximo da medida: pena máxima em abstrato (Súmula 527)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D01-03",
+  "nivel": "difícil",
+  "tema": "Norma penal em branco: espécies e alteração do complemento",
+  "enun": "Zélia foi denunciada por tráfico de drogas por manter em depósito, para venda, frascos de determinada substância que, na data dos fatos, constava da lista de substâncias proscritas editada pela Agência Nacional de Vigilância Sanitária. Meses depois, nova resolução da agência retirou a substância da lista, por entender que não causava dependência. Em outro caso, Alcides foi denunciado por crime contra a economia popular por vender mercadoria acima do preço fixado em tabela oficial editada para período de desabastecimento; durante o processo, a tabela foi revogada com o fim da crise. As defesas pediram, em ambos os casos, o reconhecimento da abolitio criminis. Considerando o Código Penal e a doutrina e a jurisprudência majoritárias, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "No caso de Zélia, a exclusão da substância da lista retroage como abolitio criminis, porque altera a própria valoração da conduta; no caso de Alcides, a revogação da tabela não retroage, porque o complemento tinha caráter temporário ou excepcional.",
+    "CORRETA. A Lei 11.343/2006 é norma penal em branco heterogênea, complementada por ato da Anvisa (art. 1º, parágrafo único, e art. 66). Quando a alteração do complemento reflete mudança na valoração jurídica da conduta, como a exclusão de substância por não causar dependência, retroage em benefício do réu (art. 5º, XL, da CF e art. 2º do CP; STF, HC 94.397, caso do cloreto de etila). Quando o complemento é excepcional ou temporário, como a tabela de preços em período de crise, aplica-se a lógica do art. 3º do CP: o fato praticado durante sua vigência continua punível."
+   ],
+   [
+    "Em nenhum dos casos há abolitio criminis, porque o tipo penal incriminador, previsto em lei, permaneceu inalterado.",
+    "Errada. Na norma penal em branco, o complemento integra o tipo. A supressão do complemento que reflete nova valoração da conduta produz abolitio criminis, ainda que a lei incriminadora não tenha mudado."
+   ],
+   [
+    "Em ambos os casos há abolitio criminis, porque qualquer alteração favorável do complemento da norma penal em branco retroage obrigatoriamente.",
+    "Errada. A doutrina e a jurisprudência distinguem: o complemento ligado a situações temporárias ou excepcionais (como tabelas de preços) não retroage, por aplicação da ultratividade do art. 3º do CP."
+   ],
+   [
+    "A norma penal em branco heterogênea é inconstitucional, por violar a reserva legal, já que o tipo é complementado por ato do Poder Executivo.",
+    "Errada. O STF admite a norma penal em branco heterogênea, desde que a lei defina o núcleo da conduta proibida e o ato infralegal apenas complemente aspectos técnicos, como a lista de drogas."
+   ],
+   [
+    "A Lei de Drogas é norma penal em branco homogênea, pois é complementada por outra norma de mesma hierarquia, editada pelo Poder Legislativo.",
+    "Errada. É heterogênea (em sentido estrito), porque o complemento provém de fonte diversa, ato administrativo da Anvisa (Portaria SVS/MS 344/1998 e suas atualizações). Homogênea é a complementada por lei, como o art. 237 do CP, completado pelo Código Civil."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, XXXIX e XL; CP, arts. 2º e 3º; Lei 11.343/2006, arts. 1º, parágrafo único, e 66; STF, HC 94.397.",
+  "dica": "Branco HETEROGÊNEO = complemento por ato do Executivo (lista da Anvisa). Complemento alterado por mudança de valoração RETROAGE; complemento temporário (tabela de preços) NÃO retroage (art. 3º)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21a",
+  "nivel": "médio",
+  "tema": "Lesão corporal grave, gravíssima e seguida de morte (CP, art. 129, §§1º a 3º)",
+  "enun": "Após uma briga de trânsito, Vítor agrediu três pessoas com socos e chutes. A primeira vítima, Alice, ficou 45 dias afastada de suas atividades habituais, recuperando-se integralmente. A segunda, Bernardo, perdeu a visão de um dos olhos, mantendo a do outro. A terceira, Célia, grávida de quatro meses, fato que Vítor percebeu antes da agressão, sofreu aborto em decorrência das lesões. Nenhuma das vítimas morreu, e Vítor não quis o aborto nem assumiu o risco de produzi-lo. Considerando o Código Penal e a doutrina majoritária, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Vítor responde por lesão corporal grave em relação a Alice e Bernardo e por lesão corporal gravíssima em relação a Célia.",
+    "CORRETA. A incapacidade para as ocupações habituais por mais de 30 dias qualifica a lesão como grave (art. 129, §1º, I). A perda da visão de um olho, mantida a do outro, é debilidade permanente do sentido da visão, e não perda (§1º, III), já que os órgãos duplos formam um único sentido. O aborto, resultado preterdoloso, qualifica a lesão como gravíssima (§2º, V), sendo necessário que o agressor conhecesse a gravidez para que o resultado lhe seja imputado."
+   ],
+   [
+    "Vítor responde por lesão corporal gravíssima em relação a Bernardo, porque a perda de um olho configura perda de sentido.",
+    "Errada. Para a doutrina e a jurisprudência majoritárias, nos órgãos duplos, a perda de um deles gera debilidade permanente do sentido (lesão grave, §1º, III). A perda total do sentido exigiria a cegueira de ambos os olhos (§2º, III)."
+   ],
+   [
+    "Vítor responde por aborto provocado sem o consentimento da gestante em relação a Célia, em concurso com lesão corporal leve.",
+    "Errada. O crime de aborto (art. 125) exige dolo quanto à interrupção da gravidez. Se o agente não quis nem assumiu o risco do aborto, mas o resultado era previsível, há lesão corporal gravíssima pelo resultado aborto (art. 129, §2º, V), figura preterdolosa."
+   ],
+   [
+    "A lesão de Alice é leve, porque a incapacidade para as ocupações habituais só qualifica a lesão quando é permanente.",
+    "Errada. A incapacidade permanente para o trabalho qualifica a lesão como gravíssima (§2º, I). A incapacidade temporária para as ocupações habituais por mais de 30 dias já a qualifica como grave (§1º, I)."
+   ],
+   [
+    "A lesão de Célia é gravíssima ainda que Vítor desconhecesse a gravidez, porque a responsabilidade pelo resultado agravador é objetiva.",
+    "Errada. Pelos resultados que agravam especialmente a pena, só responde o agente que os houver causado ao menos culposamente (art. 19 do CP). Se o agressor não sabia nem podia saber da gravidez, o aborto não lhe é imputado."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 19, 125 e 129, §§1º, 2º e 3º.",
+  "dica": "Grave (§1º): mais de 30 dias de afastamento, perigo de vida, DEBILIDADE, aceleração de parto. Gravíssima (§2º): incapacidade permanente, enfermidade incurável, PERDA, deformidade, ABORTO."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D04-06",
+  "nivel": "difícil",
+  "tema": "Relação de causalidade e concausas (CP, art. 13, §1º)",
+  "enun": "Em quatro casos, o agente atirou contra a vítima com intenção de matá-la, causando ferimentos graves. No caso 1, a vítima foi socorrida, mas a ambulância que a transportava colidiu com um caminhão e ela morreu em razão de traumatismo craniano provocado pelo acidente. No caso 2, a vítima foi internada e morreu em decorrência de infecção hospitalar contraída durante o tratamento dos ferimentos. No caso 3, a vítima era hemofílica, condição que o agente desconhecia, e morreu por hemorragia que não mataria uma pessoa sem a doença. No caso 4, antes do disparo, a vítima já havia ingerido veneno ministrado por terceiro, sem relação com o agente, e morreu exclusivamente em razão do envenenamento. Considerando o Código Penal e a doutrina majoritária, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O agente responde por tentativa de homicídio nos casos 1 e 4 e por homicídio consumado nos casos 2 e 3.",
+    "CORRETA. No caso 1, o acidente é causa superveniente relativamente independente que, por si só, produziu o resultado, excluindo a imputação (art. 13, §1º): responde pela tentativa. No caso 2, a infecção hospitalar está na linha de desdobramento natural do ferimento e não produz o resultado por si só: homicídio consumado. No caso 3, a concausa preexistente relativamente independente não exclui o nexo, e a doutrina majoritária imputa o resultado (se o agente queria matar, o desconhecimento da doença não muda o dolo). No caso 4, a causa é absolutamente independente e preexistente: responde pela tentativa."
+   ],
+   [
+    "O agente responde por homicídio consumado em todos os casos, porque, pela teoria da equivalência dos antecedentes, sem o disparo a morte não teria ocorrido como ocorreu.",
+    "Errada. A equivalência dos antecedentes (art. 13, caput) é limitada pelo §1º, que exclui a imputação nas causas supervenientes relativamente independentes que por si só produzem o resultado, e pelas causas absolutamente independentes, que rompem o nexo."
+   ],
+   [
+    "O agente responde por tentativa em todos os casos, porque a morte decorreu de fatores alheios à sua conduta.",
+    "Errada. Nos casos 2 e 3, a morte decorreu do ferimento combinado com circunstâncias que não rompem o nexo causal (infecção como desdobramento natural; condição preexistente da vítima)."
+   ],
+   [
+    "O agente responde por homicídio consumado no caso 1, porque o acidente da ambulância só ocorreu porque a vítima foi ferida, e por tentativa no caso 2, porque a infecção é fato imprevisível.",
+    "Errada. Inverte a solução. O acidente da ambulância é evento que, por si só, produz o resultado (§1º). A infecção hospitalar, segundo a doutrina e a jurisprudência majoritárias (inclusive do STJ), não exclui o nexo."
+   ],
+   [
+    "O agente responde por homicídio consumado no caso 4, porque as causas preexistentes nunca excluem o nexo de causalidade.",
+    "Errada. A causa absolutamente independente, preexistente, concomitante ou superveniente, rompe o nexo causal: o resultado ocorreria de qualquer modo, sem relação com a conduta. O agente só responde pelos atos praticados (tentativa)."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 13, caput e §1º, 14, II, e 18, I.",
+  "dica": "Concausa ABSOLUTAMENTE independente: tentativa. RELATIVAMENTE independente: preexistente e concomitante = consumado; superveniente = só exclui se \"por si só\" produziu o resultado (ambulância batida sim; infecção hospitalar não)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21e",
+  "nivel": "médio",
+  "tema": "Racismo e injúria racial na Lei 7.716/1989 (Lei 14.532/2023)",
+  "enun": "Durante uma partida de futebol, Eduardo, torcedor, dirigiu a um jogador negro do time adversário ofensas com referência à sua cor de pele, comparando-o a um animal. No mesmo dia, publicou em rede social texto afirmando que pessoas negras seriam intelectualmente inferiores e não deveriam ocupar cargos de chefia. Os fatos ocorreram em 2024. Denunciado em 2026 pelos dois fatos, sem que o jogador tivesse oferecido representação, Eduardo alegou, por sua defesa, que a ofensa ao jogador configuraria injúria qualificada do art. 140, §3º, do Código Penal, crime prescritível e que dependeria de representação, e que a publicação estaria protegida pela liberdade de expressão. Considerando a Constituição Federal, a Lei 7.716/1989, com as alterações da Lei 14.532/2023, e a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A ofensa ao jogador configura injúria racial, prevista na Lei 7.716/1989, crime imprescritível e de ação penal pública incondicionada; e a publicação configura o crime de praticar, induzir ou incitar a discriminação ou o preconceito de raça ou cor, cometido por meio de rede social, não amparado pela liberdade de expressão.",
+    "CORRETA. A Lei 14.532/2023 transferiu a injúria racial para a Lei 7.716/1989 (art. 2º-A), retirando-a do art. 140, §3º, do CP, que hoje trata de religião, idade e deficiência. O STF já havia afirmado que a injúria racial é espécie de racismo e, portanto, imprescritível (HC 154.248; art. 5º, XLII, da CF). A ação penal é pública incondicionada, de modo que a falta de representação é irrelevante para fatos posteriores à Lei 14.532/2023. A publicação se enquadra no art. 20 da Lei 7.716/1989, com a forma agravada de cometimento por meios de comunicação social ou publicação em redes sociais (§2º), e o discurso de ódio não é protegido pela liberdade de expressão (STF, HC 82.424, caso Ellwanger)."
+   ],
+   [
+    "A ofensa ao jogador configura injúria do art. 140, §3º, do Código Penal, que depende de representação e está sujeita às regras gerais de prescrição.",
+    "Errada. Desde a Lei 14.532/2023, a injúria racial é tipificada no art. 2º-A da Lei 7.716/1989, e o art. 140, §3º, do CP já não menciona raça ou cor. O crime é de ação pública incondicionada e imprescritível."
+   ],
+   [
+    "A imprescritibilidade constitucional alcança apenas o crime de racismo praticado contra a coletividade, e não as ofensas dirigidas a pessoa determinada, que seguem as regras gerais de prescrição.",
+    "Errada. O STF (HC 154.248) e a Lei 14.532/2023 equipararam a injúria racial ao racismo, inclusive quanto à imprescritibilidade prevista no art. 5º, XLII, da CF."
+   ],
+   [
+    "A publicação é atípica, porque a manifestação de opinião em rede social está protegida pela liberdade de expressão, que só pode ser restringida em caso de incitação direta à violência.",
+    "Errada. O STF, no caso Ellwanger (HC 82.424), afirmou que a liberdade de expressão não protege manifestações de conteúdo racista e discriminatório. Não se exige incitação à violência para a tipicidade do art. 20 da Lei 7.716/1989."
+   ],
+   [
+    "Os crimes de racismo são inafiançáveis e imprescritíveis, mas sujeitos à pena de detenção, por expressa previsão constitucional.",
+    "Errada. O art. 5º, XLII, da CF determina que a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de RECLUSÃO, nos termos da lei."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, XLII; Lei 7.716/1989, arts. 2º-A e 20, §2º (Lei 14.532/2023); CP, art. 140, §3º; STF, HC 154.248 e HC 82.424.",
+  "dica": "Injúria racial: hoje na Lei 7.716 (art. 2º-A), pública incondicionada, imprescritível. CP 140, §3º: só religião, idade e deficiência. Racismo: inafiançável, imprescritível, RECLUSÃO."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D18",
+  "nivel": "médio",
+  "tema": "Crimes contra a ordem tributária: SV 24, pagamento e ICMS declarado e não pago",
+  "enun": "Fernando, sócio-administrador de uma indústria, omitiu receitas nas declarações da empresa, reduzindo o IRPJ devido. O Ministério Público ofereceu denúncia por crime contra a ordem tributária enquanto ainda pendia recurso administrativo contra o lançamento. Em outro caso, Gilda, administradora de um supermercado, declarou regularmente o ICMS próprio devido ao Estado por mais de dois anos, mas deixou de recolhê-lo de forma reiterada, usando os valores para expandir o negócio, embora a empresa tivesse capacidade de pagamento. Por fim, Hugo, denunciado por sonegação de tributo federal, pagou integralmente o débito após o recebimento da denúncia. Considerando a legislação e a jurisprudência do STF e do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A denúncia contra Fernando é prematura, porque o crime material contra a ordem tributária não se tipifica antes do lançamento definitivo; Gilda pode responder pelo crime de apropriação indébita tributária, em razão da contumácia e do dolo de apropriação; e o pagamento integral feito por Hugo extingue a punibilidade.",
+    "CORRETA. Não se tipifica crime material contra a ordem tributária, previsto no art. 1º, I a IV, da Lei 8.137/1990, antes do lançamento definitivo do tributo (SV 24). O STF fixou que o contribuinte que, de forma contumaz e com dolo de apropriação, deixa de recolher o ICMS cobrado do adquirente da mercadoria ou serviço incide no tipo do art. 2º, II, da Lei 8.137/1990 (RHC 163.334). O pagamento integral do débito, inclusive acessórios, extingue a punibilidade (art. 9º, §2º, da Lei 10.684/2003), mesmo após o recebimento da denúncia."
+   ],
+   [
+    "A denúncia contra Fernando é válida, porque a esfera penal é independente da administrativa e o crime se consuma com a simples omissão de receitas na declaração.",
+    "Errada. A SV 24 vincula a tipicidade do crime material ao lançamento definitivo, que constitui o crédito e demonstra a supressão ou redução do tributo, que é o resultado do crime."
+   ],
+   [
+    "Gilda não pratica crime, porque o mero inadimplemento de tributo regularmente declarado constitui ilícito apenas administrativo, e a prisão por dívida é vedada pela Constituição.",
+    "Errada. O STF distinguiu o inadimplente eventual, que não comete crime, do devedor contumaz que se apropria do ICMS com dolo, cuja conduta é típica (RHC 163.334). Não se trata de prisão civil por dívida, mas de crime."
+   ],
+   [
+    "O pagamento feito por Hugo não extingue a punibilidade, porque só tem esse efeito quando realizado antes do recebimento da denúncia.",
+    "Errada. O limite temporal do recebimento da denúncia vale para a suspensão da pretensão punitiva pelo parcelamento (art. 83, §2º, da Lei 9.430/1996, com a redação da Lei 12.382/2011). O pagamento integral extingue a punibilidade mesmo depois disso (art. 9º, §2º, da Lei 10.684/2003)."
+   ],
+   [
+    "O parcelamento do débito, a qualquer tempo, extingue imediatamente a punibilidade dos crimes contra a ordem tributária.",
+    "Errada. O parcelamento formalizado antes do recebimento da denúncia apenas suspende a pretensão punitiva e a prescrição. A extinção da punibilidade só ocorre com o pagamento integral."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 8.137/1990, arts. 1º e 2º, II; Lei 10.684/2003, art. 9º; Lei 9.430/1996, art. 83, §§2º e 4º; SV 24; STF, RHC 163.334.",
+  "dica": "SV 24: sem lançamento definitivo, não há crime material tributário. ICMS declarado e não pago com CONTUMÁCIA e dolo = crime. Pagou tudo = extingue. Parcelou antes da denúncia = suspende."
+ }
+]

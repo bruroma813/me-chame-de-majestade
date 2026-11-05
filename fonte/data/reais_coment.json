@@ -648,5 +648,330 @@
   ],
   "base": "CP, art. 157, §3º, II; Súmula 610/STF; Súmula 603/STF (competência do juiz singular).",
   "dica": "Latrocínio segue a morte: morte consumada = latrocínio consumado, com ou sem subtração."
+ },
+ "e4-9": {
+  "nivel": "médio",
+  "tema": "Imunidade de cemitério religioso: IPTU, taxa e IR dos ministros",
+  "coms": [
+   "Errada. A imunidade do art. 150, VI, b, da CF alcança apenas impostos. A taxa de coleta domiciliar de lixo é tributo vinculado (SV 19) e continua devida pela entidade religiosa.",
+   "Errada. Inverte a solução: o IPTU é que não pode ser cobrado, porque o cemitério que é extensão da entidade religiosa e não tem fim lucrativo está abrangido pela imunidade dos templos (STF, RE 578.562). A taxa, sim, é cabível.",
+   "CORRETA. A imunidade é subjetiva quanto à entidade e ao seu patrimônio, renda e serviços ligados às finalidades essenciais (art. 150, §4º). Ela não se estende às pessoas físicas que recebem salários ou côngruas: empregados e ministros religiosos são contribuintes do IRPF sobre o que auferem.",
+   "Errada. Cobrar valores semelhantes aos do cemitério público não descaracteriza a imunidade. O que importa é a aplicação integral das receitas nas finalidades essenciais da entidade (art. 150, §4º, e RE 578.562).",
+   "Errada. Pagar salários e a remuneração eclesiástica com a receita do cemitério é aplicar recursos na própria atividade da entidade, o que não afasta a imunidade do IPTU. A taxa é devida por outro motivo: a imunidade não alcança taxas."
+  ],
+  "base": "CF, art. 150, VI, b, e §4º (redação da EC 132/2023); SV 19; STF, RE 578.562.",
+  "dica": "Imunidade = só IMPOSTOS e só da ENTIDADE. Taxa continua; o IR de quem recebe salário da entidade também."
+ },
+ "e1-2": {
+  "nivel": "difícil",
+  "tema": "Norma de reprodução obrigatória como parâmetro no TJ (Tema 484/STF)",
+  "coms": [
+   "Errada. O STF admite que o TJ use como parâmetro norma da Constituição Federal de reprodução obrigatória, ainda que não repetida na Constituição Estadual. Não há usurpação da competência do STF, porque a decisão desafia recurso extraordinário (Tema 484, RE 650.898).",
+   "Errada. O parâmetro do controle concentrado estadual é a Constituição Estadual (art. 125, §2º). O TJ não coteja \"sempre\" a lei com a Constituição Federal; só o faz, excepcionalmente, com normas de reprodução obrigatória.",
+   "CORRETA. As regras básicas do processo legislativo federal, como a sanção e a promulgação pelo Chefe do Executivo (arts. 65 e 66 da CF), são de observância obrigatória pelos entes federados. Mesmo sem repetição na Constituição Estadual, o TJ pode usá-las como parâmetro (Tema 484/STF).",
+   "Errada. A omissão da Constituição Estadual não impede o controle: as normas de reprodução obrigatória integram implicitamente o ordenamento estadual e servem de parâmetro.",
+   "Errada. A emenda regimental que cria hipótese de promulgação de lei sem sanção é ato normativo primário, autônomo e abstrato, e pode ser objeto de controle concentrado. O nome \"regimento\" não a torna infralegal."
+  ],
+  "base": "CF, arts. 25, 66 e 125, §2º; STF, Tema 484 (RE 650.898) e Rcl 383.",
+  "dica": "TJ julga ADI estadual com base na CE, mas pode usar norma da CF de reprodução obrigatória. Da decisão cabe RE ao STF."
+ },
+ "e5-17": {
+  "nivel": "fácil",
+  "tema": "Vedação de inexigibilidade para publicidade (Lei 14.133/2021, art. 74, III)",
+  "coms": [
+   "CORRETA. O art. 74, III, da Lei 14.133/2021 permite a inexigibilidade para serviços técnicos especializados de natureza predominantemente intelectual com notória especialização, mas veda expressamente a inexigibilidade para serviços de publicidade e divulgação.",
+   "Errada. Não há valor-limite que obrigue o concurso. O concurso é a modalidade para escolha de trabalho técnico, científico ou artístico com prêmio (art. 6º, XXXIX), não para contratar serviço contínuo de publicidade. Publicidade, aliás, tem lei própria (Lei 12.232/2010).",
+   "Errada. A discricionariedade não autoriza a contratação direta quando a competição é viável. A licitação é a regra (art. 37, XXI, da CF), e as exceções são taxativas.",
+   "Errada. O fomento ao turismo não é hipótese de dispensa do art. 75 da Lei 14.133/2021. O valor do contrato também supera o limite de dispensa por valor para serviços comuns.",
+   "Errada. É exatamente o contrário: a lei proíbe a inexigibilidade para publicidade e divulgação, mesmo com notória especialização."
+  ],
+  "base": "CF, art. 37, XXI; Lei 14.133/2021, arts. 6º, XXXIX, 74, III, e 75; Lei 12.232/2010.",
+  "dica": "Inexigibilidade por notória especialização: SIM para pareceres, projetos, defesa de causas; NUNCA para publicidade e divulgação."
+ },
+ "e1-25": {
+  "nivel": "médio",
+  "tema": "Acumulação de cargos de professor e teto (Temas 377 e 384/STF)",
+  "coms": [
+   "Errada. A CF permite a acumulação remunerada de dois cargos de professor, havendo compatibilidade de horários (art. 37, XVI, a).",
+   "Errada. A estabilidade é adquirida após três anos de efetivo exercício (art. 41 da CF, redação da EC 19/1998), e não cinco.",
+   "Errada. O servidor estável também pode perder o cargo por processo administrativo com ampla defesa e por avaliação periódica de desempenho (art. 41, §1º, II e III).",
+   "CORRETA. Nos Temas 377 e 384, o STF fixou que, nos casos autorizados de acumulação de cargos, o teto remuneratório do art. 37, XI, incide sobre cada vínculo isoladamente, e não sobre o somatório.",
+   "Errada. A redução de cinco anos na idade é exclusiva do professor que comprove tempo de efetivo exercício nas funções de magistério na educação infantil e no ensino fundamental e médio (art. 40, §5º). O professor universitário não tem esse benefício."
+  ],
+  "base": "CF, arts. 37, XI e XVI, 40, §5º, e 41; STF, Temas 377 e 384.",
+  "dica": "Acumulação lícita: teto por vínculo. Estabilidade: 3 anos. Aposentadoria especial de professor: só educação básica."
+ },
+ "e4-31": {
+  "nivel": "fácil",
+  "tema": "Mediação comunitária e Sociologia do Direito",
+  "coms": [
+   "Errada. A Lei 13.140/2015 reconhece a mediação como meio legítimo de solução de controvérsias, e o acordo pode até constituir título executivo extrajudicial (art. 20, parágrafo único). Não é verdade que só a sentença pacifica.",
+   "Errada. A mediação não é prova de ineficácia do Judiciário nem atua sem respaldo normativo: é política pública (Res. CNJ 125/2010) e tem lei própria (Lei 13.140/2015).",
+   "Errada. A Sociologia do Direito estuda justamente os mecanismos não estatais e comunitários de resolução de conflitos como parte do fenômeno jurídico (pluralismo jurídico).",
+   "CORRETA. A mediação integra o sistema multiportas (art. 3º, §§2º e 3º, do CPC): permite soluções construídas pelas partes, adequadas às peculiaridades do conflito e que preservam relações continuadas, como as de vizinhança.",
+   "Errada. O Direito não busca apenas eliminar as disputas, e a própria ordem jurídica reconhece a mediação como instrumento legítimo de pacificação social."
+  ],
+  "base": "CPC, art. 3º, §§2º e 3º, e art. 165, §3º; Lei 13.140/2015; Res. CNJ 125/2010.",
+  "dica": "Relação continuada (vizinhos, família) = mediação. Na Humanística, a alternativa que valoriza o diálogo e a solução adequada costuma ser a certa."
+ },
+ "e5-37": {
+  "nivel": "médio",
+  "tema": "Convenção 169 da OIT: direito de escolher as próprias prioridades",
+  "coms": [
+   "Errada. O art. 7.3 da Convenção 169 determina que os estudos sejam feitos \"sempre que for possível\", e não obrigatoriamente em qualquer caso.",
+   "CORRETA. Reproduz o art. 7.1 da Convenção 169: os povos interessados têm o direito de escolher suas próprias prioridades no processo de desenvolvimento, na medida em que ele afete suas vidas, crenças, instituições, bem-estar espiritual e as terras que ocupam ou utilizam.",
+   "Errada. Pelo art. 7.2, a melhoria das condições de vida, trabalho, saúde e educação deve ser \"prioritária\" nos planos de desenvolvimento das regiões onde vivem. A banca trocou por \"sempre que possível\".",
+   "Errada. O art. 7.1 assegura a participação dos povos na formulação, na aplicação e na avaliação dos planos e programas, e não apenas na fase de avaliação.",
+   "Errada. A Convenção não segmenta o direito ao trabalho dos demais direitos. Ela trata da proteção do trabalho de forma integrada (art. 20) e repele a assimilação, com base no respeito à identidade cultural."
+  ],
+  "base": "Convenção 169 da OIT, arts. 6º, 7º e 20 (Decreto 10.088/2019).",
+  "dica": "C169: consulta prévia, livre e informada + participação em TODAS as fases + os povos escolhem suas prioridades."
+ },
+ "e1-45": {
+  "nivel": "médio",
+  "tema": "Recurso adesivo, desistência, admissibilidade da apelação e rescisória",
+  "coms": [
+   "CORRETA. Só a afirmativa I está correta. O recurso adesivo fica subordinado ao principal e não é conhecido se este não o for (art. 997, §2º, III). A II erra porque o recorrente pode desistir a qualquer tempo, sem anuência dos litisconsortes (art. 998). A III erra porque o juiz de primeiro grau não faz juízo de admissibilidade da apelação; os autos sobem ao tribunal (art. 1.010, §3º). A IV erra porque o prazo da rescisória é de dois anos (art. 975).",
+   "Errada. A afirmativa II é falsa: a desistência do recurso independe da anuência do recorrido ou dos litisconsortes (art. 998 do CPC).",
+   "Errada. A II e a IV são falsas. O prazo decadencial da rescisória é de dois anos contados do trânsito em julgado da última decisão (art. 975), e não três.",
+   "Errada. A III é falsa: no CPC/2015 não há juízo de admissibilidade da apelação em primeiro grau (art. 1.010, §3º). Os efeitos decorrem da lei (art. 1.012).",
+   "Errada. A III e a IV são falsas, pelas razões indicadas: a admissibilidade da apelação é feita no tribunal e o prazo da rescisória é de dois anos."
+  ],
+  "base": "CPC, arts. 975, 997, §2º, III, 998, 1.010, §3º, e 1.012.",
+  "dica": "Adesivo segue o principal. Desistência: sozinho e a qualquer tempo. Apelação: juiz de 1º grau não admite nem inadmite. Rescisória: 2 anos."
+ },
+ "e1-49": {
+  "nivel": "difícil",
+  "tema": "Intervenção da União e competência (Súmulas 150, 224 e 254/STJ)",
+  "coms": [
+   "Errada. O juiz estadual não pode deferir o ingresso da União. Cabe à Justiça Federal decidir sobre a existência de interesse jurídico da União (Súmula 150/STJ e art. 45 do CPC).",
+   "Errada. A primeira parte está certa (o juiz estadual remete os autos), mas o juiz federal que exclui a União não suscita conflito: devolve os autos à Justiça estadual (Súmula 224/STJ).",
+   "Errada. A União não é litisconsorte necessária: a ação busca reparação por danos causados pela ré, e não há relação jurídica incindível com o ente público. Seu interesse é, no máximo, de assistente.",
+   "Errada. Sociedade de economia mista federal não atrai a competência da Justiça Federal (art. 109, I, da CF, e Súmulas 517 e 556/STF). A ação foi corretamente proposta na Justiça estadual.",
+   "CORRETA. Compete à Justiça Federal decidir sobre o interesse da União (Súmula 150/STJ). Se o juiz federal o rejeitar, restitui os autos ao juízo estadual sem suscitar conflito (Súmula 224/STJ), e essa decisão não pode ser reexaminada pela Justiça estadual (Súmula 254/STJ)."
+  ],
+  "base": "CF, art. 109, I; CPC, art. 45; Súmulas 150, 224 e 254/STJ; Súmulas 517 e 556/STF.",
+  "dica": "Quem diz se a União tem interesse é o juiz FEDERAL. Excluiu? Devolve ao estadual, sem conflito."
+ },
+ "e3-62": {
+  "nivel": "médio",
+  "tema": "Alimentos ao idoso: solidariedade e escolha do devedor (Estatuto da Pessoa Idosa, art. 12)",
+  "coms": [
+   "CORRETA. O art. 12 do Estatuto da Pessoa Idosa (Lei 10.741/2003) torna a obrigação alimentar solidária em favor do idoso, que pode optar entre os prestadores. João pode demandar apenas Ana; ela, se quiser, busca depois o rateio com os irmãos.",
+   "Errada. A obrigação em favor do idoso não é indivisível nem impõe litisconsórcio necessário. A solidariedade legal permite cobrar de um só devedor.",
+   "Errada. Não se exige prova de incapacidade para o trabalho. Bastam a necessidade do alimentando e a possibilidade do alimentante (art. 1.694, §1º, do CC), e o idoso de 81 anos com renda mínima e saúde agravada demonstra necessidade.",
+   "Errada. A solidariedade permite exatamente o contrário: não é obrigatório incluir todos no polo passivo. A situação de Daniel só importaria se ele fosse demandado.",
+   "Errada. Residir no exterior não impede ser réu em ação de alimentos no Brasil. A competência é do domicílio do alimentando (art. 53, II, do CPC), e há cooperação internacional para citação e execução."
+  ],
+  "base": "Lei 10.741/2003, art. 12; CC, arts. 1.694 e 1.698; CPC, art. 53, II.",
+  "dica": "Regra do CC: alimentos divisíveis e proporcionais (art. 1.698). Idoso: SOLIDÁRIOS, e ele escolhe de quem cobrar."
+ },
+ "e1-53": {
+  "nivel": "médio",
+  "tema": "Fraude contra credores e negócios ordinários do estabelecimento (CC, art. 164)",
+  "coms": [
+   "CORRETA. Presumem-se de boa-fé e valem os negócios ordinários indispensáveis à manutenção do estabelecimento mercantil (art. 164 do CC). Trocar um forno velho por um novo, sem desfalque patrimonial, não configura fraude contra credores, e a ação pauliana não teria êxito.",
+   "Errada. O crédito é exigível, pois houve vencimento antecipado. A defesa não está na inexistência da dívida, mas na regularidade da venda.",
+   "Errada. Não há negócio a convalidar, e a consignação em pagamento (art. 335 do CC) não serve para isso. A venda é válida.",
+   "Errada. A fraude contra credores gera anulabilidade (art. 171, II, do CC), e não nulidade. De todo modo, o negócio aqui é regular.",
+   "Errada. Embora a fraude contra credores gere anulação (arts. 158 e 171, II), o art. 164 afasta a fraude nos negócios ordinários indispensáveis ao estabelecimento. Não há dever de entregar o valor."
+  ],
+  "base": "CC, arts. 158, 164 e 171, II.",
+  "dica": "Fraude contra credores = ANULÁVEL (pauliana em 4 anos). Negócio do dia a dia que mantém o estabelecimento é presumido de boa-fé."
+ },
+ "e1-64": {
+  "nivel": "difícil",
+  "tema": "Encerramento da liquidação extrajudicial de instituição financeira (Lei 6.024/1974)",
+  "coms": [
+   "Errada. A exaustão do ativo encerra a liquidação ainda que não ocorra o pagamento integral dos credores. A lei não exige percentual mínimo de pagamento dos quirografários.",
+   "Errada. A lei não fixa a ata da assembleia que aprova a convolação como marco de recontagem da prescrição. O efeito prescricional previsto na lei é a interrupção da prescrição com a decretação da liquidação (art. 18, e), e os efeitos do encerramento decorrem da decisão do Banco Central.",
+   "Errada para a banca. Com o pagamento integral dos quirografários, a instituição volta à normalidade e seus órgãos societários reassumem a administração. A providência descrita na alternativa não é a que a lei vincula a essa hipótese, e o ponto a guardar é a alternativa correta (destino do acervo na iliquidez).",
+   "Errada. A hipótese legal é a mudança do objeto social para atividade NÃO integrante do Sistema Financeiro Nacional, e a alternativa ainda inventa uma assembleia de credores e atribui a proposta ao \"acionista controlador do Banco Central\".",
+   "CORRETA. A Lei 6.024/1974, com as alterações da Lei 13.506/2017, prevê o encerramento da liquidação por iliquidez ou difícil realização do ativo remanescente reconhecida pelo Banco Central. Nesse caso, o acervo é restituído ao último controlador ou a sócio do grupo de controle e, se não for possível identificá-lo ou localizá-lo, ao maior acionista ou cotista."
+  ],
+  "base": "Lei 6.024/1974, arts. 18 e 19 (redação da Lei 13.506/2017).",
+  "dica": "Tema raro: guarde as hipóteses de encerramento (pagamento integral, mudança de objeto para fora do SFN, transferência do controle, convolação, exaustão do ativo, iliquidez) e o destino do acervo na iliquidez."
+ },
+ "e4-77": {
+  "nivel": "difícil",
+  "tema": "Reincidência, período depurador e confissão qualificada",
+  "coms": [
+   "Errada. Só a condenação por furto gera reincidência. A receptação teve a pena extinta há mais de cinco anos antes do novo fato (art. 64, I, do CP) e a contravenção anterior não gera reincidência em relação a crime (art. 63 do CP e art. 7º da LCP).",
+   "Errada. A confissão qualificada, em que o réu admite o fato mas alega excludente, também atenua a pena, sobretudo quando usada para formar o convencimento (Súmula 545/STJ e jurisprudência atual do STJ).",
+   "Errada. João não é multirreincidente, porque só uma condenação anterior serve para a reincidência. Por isso não se aplica a preponderância da reincidência específica da multirreincidência (Tema 585/STJ).",
+   "CORRETA. Só o furto (extinto em 2020, dentro de cinco anos do fato de 2024) gera reincidência. A receptação pode valer como maus antecedentes, e a contravenção não serve à reincidência. Para a banca, por ser qualificada, a confissão admite compensação apenas parcial com a agravante.",
+   "Errada. Superado o período depurador, a condenação não gera reincidência, mas pode ser valorada como maus antecedentes (STF, Tema 150, RE 593.818). Não se aplica o direito ao esquecimento nesse ponto."
+  ],
+  "base": "CP, arts. 61, I, 63, 64, I, e 65, III, d; LCP, art. 7º; Súmula 545/STJ; STF, Tema 150; STJ, Tema 585.",
+  "dica": "Período depurador de 5 anos: tira a reincidência, mas NÃO os maus antecedentes. Contravenção antes de crime: não reincide."
+ },
+ "e1-76": {
+  "nivel": "médio",
+  "tema": "Desistência voluntária, arrependimento eficaz e arrependimento posterior",
+  "coms": [
+   "Errada. A afirmativa I é falsa: o esgotamento da atividade executória é próprio do arrependimento eficaz. Na desistência voluntária, o agente interrompe a execução antes de esgotá-la, e basta a voluntariedade, sem exigir espontaneidade.",
+   "CORRETA. Só a II está correta: no arrependimento eficaz (art. 15, segunda parte, do CP), o agente esgota os atos executórios e, voluntariamente, impede o resultado. A III erra porque o arrependimento posterior (art. 16) só reduz a pena de um a dois terços, conforme a celeridade e a voluntariedade da reparação; não exclui a punibilidade.",
+   "Errada. A afirmativa III é falsa: o arrependimento posterior é causa de diminuição de pena, e não de exclusão da punibilidade.",
+   "Errada. A afirmativa I é falsa, pelas razões indicadas: o esgotamento não é requisito da desistência voluntária.",
+   "Errada. A afirmativa III é falsa: não há exclusão da punibilidade no art. 16 do CP."
+  ],
+  "base": "CP, arts. 15 e 16.",
+  "dica": "Desistência: PARA no meio. Arrependimento eficaz: TERMINA e desfaz. Ambos: responde só pelos atos já praticados. Arrependimento posterior: só reduz 1/3 a 2/3."
+ },
+ "e1-4": {
+  "nivel": "difícil",
+  "tema": "Imunidade recíproca e sucessão pela União (Tema 224/STF)",
+  "coms": [
+   "Errada. Estatal que explora atividade econômica em regime concorrencial sujeita-se ao regime tributário das empresas privadas (art. 173, §§1º, II, e 2º, da CF) e não tem imunidade nem sobre a atividade nem sobre o patrimônio.",
+   "CORRETA. No Tema 224 (RE 599.176, caso da RFFSA), o STF fixou que a imunidade recíproca não exonera o sucessor das obrigações tributárias decorrentes de fatos geradores ocorridos antes da sucessão. A União responde pelos impostos devidos pela estatal extinta (art. 132 do CTN).",
+   "Errada. A imunidade recíproca alcança autarquias e fundações públicas (art. 150, §2º) e, por construção do STF, estatais prestadoras de serviço público em regime não concorrencial. Não se estende a estatal que explora atividade econômica em sentido estrito.",
+   "Errada. Não existe \"imunidade superveniente\" que apague o crédito já constituído: os fatos geradores ocorreram quando o sujeito passivo não era imune, e a União, como sucessora, assume a responsabilidade (Tema 224/STF).",
+   "Errada. A extinção da entidade descentralizada não transforma retroativamente em imune o patrimônio que gerou obrigações tributárias. A imunidade só protege fatos posteriores à incorporação ao patrimônio da União."
+  ],
+  "base": "CF, arts. 150, VI, a, e §§2º e 3º, e 173, §§1º e 2º; CTN, art. 132; STF, Tema 224 (RE 599.176).",
+  "dica": "Imunidade não tem efeito retroativo: a União que sucede a estatal paga os tributos de antes da sucessão."
+ },
+ "e5-16": {
+  "nivel": "médio",
+  "tema": "ADPF contra omissão, controvérsia na ADC e prazo na ADO",
+  "coms": [
+   "Errada. A afirmativa I é falsa: o STF admite ADPF contra omissões do poder público, como no estado de coisas inconstitucional do sistema prisional (ADPF 347) e em políticas públicas ambientais e de saúde.",
+   "Errada. A afirmativa I é falsa, pelas razões indicadas. A II está correta.",
+   "Errada. A afirmativa I é falsa, embora a III esteja correta.",
+   "CORRETA. A II reproduz o art. 14, III, da Lei 9.868/1999 (controvérsia judicial relevante como requisito da inicial da ADC). A III reproduz o art. 12-H, §1º: omissão de órgão administrativo, providências em 30 dias ou em prazo razoável fixado excepcionalmente pelo tribunal. A I é falsa porque a ADPF pode ter por objeto omissões.",
+   "Errada. A afirmativa I é falsa: há fungibilidade entre ADPF e ADO, e o STF admite a ADPF contra omissões lesivas a preceito fundamental."
+  ],
+  "base": "CF, art. 103, §2º; Lei 9.868/1999, arts. 12-H, §1º, e 14, III; Lei 9.882/1999; STF, ADPF 347.",
+  "dica": "ADO: Poder omisso = só ciência; órgão administrativo = 30 dias. ADC: precisa de controvérsia judicial relevante."
+ },
+ "e4-21": {
+  "nivel": "difícil",
+  "tema": "Vedação de recontratação na dispensa emergencial (ADI 6.890)",
+  "coms": [
+   "Errada. O STF não declarou a norma constitucional em sua literalidade. Deu interpretação conforme à Constituição para restringir o alcance da vedação (ADI 6.890).",
+   "Errada. Acerta a primeira parte da interpretação conforme, mas erra ao dizer que a empresa não pode ser contratada diretamente por outro fundamento legal ou em outra emergência. O STF admitiu essa contratação, ressalvado o controle de abusos.",
+   "Errada. O STF não declarou a norma inconstitucional por ofensa à isonomia. A vedação foi mantida, com alcance restrito à recontratação fundada na mesma emergência ou calamidade.",
+   "Errada. A vedação não foi tratada como sanção antecipada nem declarada inconstitucional por ofensa à presunção de inocência. Ela visa evitar emergências fabricadas e a perpetuação da contratação direta.",
+   "CORRETA. Na ADI 6.890, o STF deu interpretação conforme ao art. 75, VIII, da Lei 14.133/2021: a vedação atinge a recontratação baseada na mesma situação emergencial que extrapole um ano. A empresa pode participar de licitação substitutiva e ser contratada diretamente por outro fundamento, inclusive outra emergência, sem prejuízo do controle de abusos."
+  ],
+  "base": "Lei 14.133/2021, art. 75, VIII; STF, ADI 6.890 (2024).",
+  "dica": "Emergência: contrato de até 1 ano, sem prorrogação. A vedação de recontratar vale só para a MESMA emergência."
+ },
+ "e5-21": {
+  "nivel": "médio",
+  "tema": "Improbidade por liberação irregular de recursos de parcerias e remessa necessária",
+  "coms": [
+   "Errada. Após a Lei 14.230/2021, a conduta é enquadrada em um único tipo, sem concurso entre os arts. 10 e 11 (art. 17, §10-D), e não há remessa necessária nas sentenças da LIA (art. 17-C, §3º).",
+   "Errada. Não há enriquecimento ilícito do agente narrado no caso, e a sentença não se sujeita a reexame obrigatório (art. 17-C, §3º).",
+   "Errada. Com perda patrimonial efetiva, o enquadramento é o art. 10 (dano ao erário), e não o art. 11, que é residual. Também não há remessa necessária.",
+   "Errada. O enriquecimento ilícito (art. 9º) exige vantagem patrimonial indevida auferida pelo agente, o que não foi narrado.",
+   "CORRETA. Liberar recursos de parcerias com entidades privadas sem a estrita observância das normas pertinentes é ato que causa prejuízo ao erário (art. 10, XX, da Lei 8.429/1992), exigindo dolo e perda patrimonial efetiva. E não haverá remessa necessária nas sentenças da LIA (art. 17-C, §3º)."
+  ],
+  "base": "Lei 8.429/1992 (redação da Lei 14.230/2021), arts. 1º, §§1º e 2º, 10, XX, 17, §10-D, e 17-C, §3º.",
+  "dica": "Nova LIA: só dolo, um ato = um tipo, e nunca remessa necessária."
+ },
+ "e5-30": {
+  "nivel": "médio",
+  "tema": "Promoção e antiguidade na magistratura (CF, art. 93, II)",
+  "coms": [
+   "Errada. A afirmativa II é falsa: o tribunal pode recusar o juiz mais antigo pelo voto fundamentado de dois terços de seus membros, assegurada a ampla defesa (art. 93, II, d).",
+   "Errada. A afirmativa II é falsa, pelas razões indicadas, embora a I esteja correta.",
+   "CORRETA. A I reproduz o art. 93, II, b, da CF (dois anos na entrância e primeira quinta parte da lista de antiguidade, salvo se não houver quem aceite). A III está de acordo com a jurisprudência do STF, que afasta normas estaduais com critérios próprios de desempate e, por se tratar de matéria do Estatuto da Magistratura, mede a antiguidade pelo tempo na carreira e, na mesma data de posse, pela classificação no concurso. A II é falsa porque a recusa do mais antigo é possível por dois terços.",
+   "Errada. A afirmativa II é falsa: não há vedação absoluta à recusa do juiz mais antigo.",
+   "Errada. A afirmativa II é falsa: a CF admite a recusa do mais antigo por dois terços dos membros do tribunal."
+  ],
+  "base": "CF, art. 93, II, b e d; LOMAN (LC 35/1979).",
+  "dica": "Antiguidade: o mais antigo só é recusado por 2/3, com voto fundamentado. Merecimento: 2 anos na entrância e 1º quinto da lista; 3 vezes seguidas ou 5 alternadas = promoção obrigatória."
+ },
+ "e1-36": {
+  "nivel": "fácil",
+  "tema": "Agenda 2030 da ONU e o Poder Judiciário",
+  "coms": [
+   "Errada. A Agenda 2030 não se limita à proteção ambiental. Seus 17 ODS abrangem as dimensões social, econômica e ambiental (pobreza, fome, saúde, educação, igualdade de gênero, paz e instituições eficazes).",
+   "Errada. Cada Estado define suas metas nacionais conforme suas prioridades e realidades, a partir das metas globais. Não há subordinação rígida a prioridades internacionais.",
+   "Errada. Mudança climática (ODS 13), energia limpa (ODS 7) e saúde (ODS 3) estão expressamente na Agenda 2030.",
+   "Errada. As parcerias e a cooperação são parte central da Agenda (ODS 17, \"Parcerias e meios de implementação\").",
+   "CORRETA. A Agenda 2030 é uma resolução da Assembleia Geral da ONU (A/RES/70/1), sem força vinculante própria de tratado, ou seja, soft law. Ela articula direitos humanos e desenvolvimento sustentável, e o CNJ a incorporou ao Judiciário (Meta 9 e o ODS 16)."
+  ],
+  "base": "Resolução A/RES/70/1 da Assembleia Geral da ONU; Provimento CNJ 85/2019 e Meta 9 do CNJ.",
+  "dica": "Agenda 2030 = 17 ODS, soft law, tripé social-econômico-ambiental. ODS 16 = paz, justiça e instituições eficazes."
+ },
+ "e5-45": {
+  "nivel": "difícil",
+  "tema": "Rescisória em ação popular: prescrição x improcedência por falta de provas",
+  "coms": [
+   "Errada. A rejeição por insuficiência de provas, em ação popular, não faz coisa julgada material (art. 18 da Lei 4.717/1965): qualquer cidadão pode propor nova ação com nova prova. Por isso, falta interesse para a rescisória quanto ao segundo pedido.",
+   "Errada. Inverte a solução: é o segundo pedido (falta de provas) que não forma coisa julgada material e dispensa a rescisória.",
+   "CORRETA. A prescrição é decisão de mérito (art. 487, II, do CPC) e forma coisa julgada material, rescindível em tese (art. 966). Já a improcedência por deficiência de prova na ação popular tem coisa julgada secundum eventum probationis (art. 18 da Lei 4.717/1965), o que permite nova ação e torna a rescisória desnecessária.",
+   "Errada. Não há vedação à rescisória nas ações coletivas. Aplica-se subsidiariamente o CPC (art. 22 da Lei 4.717/1965).",
+   "Errada. O acórdão que julga a remessa necessária substitui a sentença (art. 1.008 do CPC) e é decisão de mérito transitada em julgado, que pode ser objeto de rescisória."
+  ],
+  "base": "Lei 4.717/1965, arts. 18, 19 e 22; CPC, arts. 487, II, 966 e 1.008.",
+  "dica": "Ação popular e ACP: improcedência POR FALTA DE PROVA não faz coisa julgada material (secundum eventum probationis)."
+ },
+ "e3-42": {
+  "nivel": "difícil",
+  "tema": "Coisa julgada do MS denegado no mérito e alegação após a contestação",
+  "coms": [
+   "Errada. Não há revelia: a Fazenda Pública tem prazo em dobro (30 dias úteis para contestar, arts. 183 e 335), e a contestação veio 25 dias após a juntada do mandado.",
+   "Errada. Não há revelia, e o pedido não pode ser acolhido: a nova ação repete o MS julgado no mérito, o que impõe extinção sem resolução de mérito.",
+   "Errada. A coisa julgada é matéria de ordem pública, cognoscível de ofício e a qualquer tempo nas instâncias ordinárias (arts. 337, §5º, 342, II, e 485, V e §3º, do CPC). Não há preclusão consumativa.",
+   "Errada. A alegação deve ser acolhida: a sentença do MS examinou o mérito (afirmou inexistir violação ao direito), formando coisa julgada material. A Súmula 304/STF só ressalva a via ordinária quando a denegação não aprecia o mérito.",
+   "CORRETA. Mesmas partes, mesma causa de pedir e mesmo pedido (anular a pena) configuram coisa julgada (art. 337, §§1º a 4º). O MS denegado no mérito faz coisa julgada material, e a matéria, de ordem pública, pode ser alegada depois da contestação (art. 342, II). O processo deve ser extinto sem resolução do mérito (art. 485, V)."
+  ],
+  "base": "CPC, arts. 183, 335, 337, §§1º a 5º, 342, II, e 485, V e §3º; Lei 12.016/2009, arts. 6º, §6º, e 19; Súmula 304/STF.",
+  "dica": "MS denegado no MÉRITO = coisa julgada. Denegado sem exame do mérito = pode usar a via ordinária (Súmula 304/STF)."
+ },
+ "e3-51": {
+  "nivel": "fácil",
+  "tema": "Ruína de edifício por falta de reparos (CC, art. 937)",
+  "coms": [
+   "CORRETA. O dono do edifício responde pelos danos resultantes de sua ruína, se esta provier de falta de reparos cuja necessidade fosse manifesta (art. 937 do CC). A responsabilidade é objetiva (Enunciado 556 da Jornada de Direito Civil) e recai sobre o proprietário, Barnabé, que fora avisado da necessidade da reforma.",
+   "Errada. A responsabilidade do art. 937 é do dono do edifício, e não do locatário ou do ocupante. Cleonice e Diná, aliás, alertaram o proprietário.",
+   "Errada. Não há solidariedade da locatária: o dever de reparar a fachada, defeito estrutural, é do locador (art. 22, I e IV, da Lei 8.245/1991), e o art. 937 imputa a responsabilidade ao dono.",
+   "Errada. A responsabilidade não é subjetiva nem há responsabilidade subsidiária de Diná, mera ocupante.",
+   "Errada. A responsabilidade é de Barnabé, mas é objetiva: basta a ruína decorrente de falta de reparos manifestamente necessários, sem prova de culpa."
+  ],
+  "base": "CC, arts. 937 e 938; Lei 8.245/1991, art. 22; Enunciado 556 da Jornada de Direito Civil.",
+  "dica": "Ruína do prédio (937): dono, objetiva. Coisa caída ou lançada (938): quem habita o prédio, objetiva."
+ },
+ "e4-54": {
+  "nivel": "fácil",
+  "tema": "Direito de representação na sucessão legítima",
+  "coms": [
+   "Errada. Os filhos da filha pré-morta herdam por representação (arts. 1.851 e 1.852 do CC). A herança não fica só com os filhos vivos.",
+   "CORRETA. A herança divide-se por estirpes: um terço para Marcílio, um terço para Neide e um terço para a estirpe de Odara, repartido entre Paulo e Rodrigo (um sexto para cada), conforme os arts. 1.835 e 1.855 do CC. Sílvia não herda, porque sua mãe, Neide, está viva e é herdeira.",
+   "Errada. Os netos que herdam por representação recebem o quinhão do representado, e não uma cota igual à dos filhos.",
+   "Errada. Sílvia não herda: o grau mais próximo exclui o mais remoto (art. 1.833), e não há representação de pessoa viva.",
+   "Errada. A partilha não é por cabeça entre todos os descendentes. Os filhos herdam por cabeça e os netos por estirpe (art. 1.835)."
+  ],
+  "base": "CC, arts. 1.833, 1.835, 1.851, 1.852 e 1.855.",
+  "dica": "Representação: o neto ocupa o lugar do pai pré-morto e divide o quinhão dele. Pai vivo afasta o neto."
+ },
+ "e3-79": {
+  "nivel": "médio",
+  "tema": "Latrocínio consumado sem subtração e coautoria (Súmula 610/STF)",
+  "coms": [
+   "Errada. O latrocínio se consuma com a morte da vítima, ainda que não se realize a subtração (Súmula 610/STF). Não há tentativa.",
+   "CORRETA. Há latrocínio consumado quando o homicídio se consuma, ainda que não se realize a subtração (Súmula 610/STF). Juliano conhecia a arma e aderiu ao roubo com emprego de violência, assumindo o risco do resultado morte: responde também pelo latrocínio (art. 157, §3º, II, do CP; STJ).",
+   "Errada. Não há concurso entre roubo tentado e homicídio: a morte ocorrida no contexto do roubo forma o crime complexo de latrocínio.",
+   "Errada. Não há tentativa (Súmula 610/STF), e o coautor que sabia da arma responde pelo resultado previsível. Não se aplica a cooperação dolosamente distinta.",
+   "Errada. Juliano também responde por latrocínio consumado. Quem adere a roubo sabendo que o comparsa está armado assume o risco da morte, e o resultado é previsível (art. 29, caput, e não o §2º)."
+  ],
+  "base": "CP, arts. 29 e 157, §3º, II; Súmula 610/STF.",
+  "dica": "Latrocínio: o que conta é a MORTE. Morte consumada = latrocínio consumado, com ou sem subtração."
+ },
+ "e1-77": {
+  "nivel": "fácil",
+  "tema": "Desistência voluntária: a Inconfidência Mineira",
+  "coms": [
+   "Errada. A tentativa exige que a consumação não ocorra por circunstâncias alheias à vontade do agente (art. 14, II, do CP). No caso, os próprios agentes abandonaram o plano.",
+   "Errada. O arrependimento eficaz pressupõe que os atos executórios tenham sido esgotados e que o agente impeça o resultado. O movimento foi abortado logo no início da execução.",
+   "CORRETA. A defesa sustentou que os agentes, voluntariamente, interromperam a execução já iniciada: é a desistência voluntária (art. 15, primeira parte, do CP), em que o agente só responde pelos atos já praticados.",
+   "Errada. A tese não foi de atos preparatórios, mas de interrupção de execução já iniciada (\"abortada após iniciada\").",
+   "Errada. O crime impossível exige ineficácia absoluta do meio ou impropriedade absoluta do objeto (art. 17), o que não foi alegado."
+  ],
+  "base": "CP, arts. 14, II, 15 e 17.",
+  "dica": "\"Posso, mas não quero\" = desistência voluntária. \"Quero, mas não posso\" = tentativa (Fórmula de Frank)."
  }
 }

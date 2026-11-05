@@ -1,0 +1,388 @@
+[
+ {
+  "disc": "Direito Constitucional",
+  "item": "C07",
+  "nivel": "fácil",
+  "tema": "Cabimento do habeas corpus (Súmulas 693, 694 e 695/STF)",
+  "enun": "A Defensoria Pública impetrou quatro habeas corpus no Tribunal de Justiça. No primeiro, em favor de Antônio, condenado definitivamente apenas à pena de multa por crime contra as relações de consumo, pede-se a anulação da condenação. No segundo, em favor de Bárbara, servidora condenada por peculato à pena privativa de liberdade, que já cumpriu integralmente, e que também teve decretada a perda do cargo, pede-se a anulação da perda da função pública. No terceiro, em favor de Cláudio, investigado em inquérito policial por crime punido com reclusão, alega-se ausência de justa causa para a investigação e pede-se o seu trancamento. No quarto, em favor de todas as presas gestantes de um presídio estadual, pede-se a substituição da prisão preventiva por domiciliar. Considerando a Constituição Federal e a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Não cabe habeas corpus nos casos de Antônio e de Bárbara, mas é cabível nos casos de Cláudio e das presas gestantes.",
+    "CORRETA. Não cabe HC contra decisão condenatória à pena de multa (Súmula 693/STF), nem contra a perda de função pública (Súmula 694/STF), nem quando já extinta a pena privativa de liberdade (Súmula 695/STF), porque nesses casos não há risco à liberdade de locomoção. Cabe HC para trancar inquérito por crime punido com pena privativa de liberdade quando manifesta a ausência de justa causa, e o STF admite o HC coletivo (HC 143.641, gestantes e mães)."
+   ],
+   [
+    "Cabe habeas corpus em todos os casos, porque a ação protege qualquer direito líquido e certo violado por ato ilegal de autoridade.",
+    "Errada. O HC protege a liberdade de locomoção (art. 5º, LXVIII). Direito líquido e certo não amparado por HC ou habeas data é objeto do mandado de segurança (art. 5º, LXIX)."
+   ],
+   [
+    "Cabe habeas corpus no caso de Bárbara, porque a perda do cargo é efeito da condenação criminal e, por isso, pode ser discutida pela mesma via.",
+    "Errada. A Súmula 694/STF afasta o HC contra a imposição da pena de perda de função pública, e a pena privativa já foi cumprida (Súmula 695/STF). O meio adequado é a revisão criminal ou o mandado de segurança, conforme o caso."
+   ],
+   [
+    "Não cabe habeas corpus coletivo, porque o writ exige a individualização dos pacientes, sendo a ação civil pública o meio adequado para tutelar a coletividade das presas.",
+    "Errada. No HC 143.641, o STF admitiu o habeas corpus coletivo, com base no art. 654, §2º, do CPP, na Lei 13.300/2016 (por analogia) e no acesso à justiça, e concedeu a ordem para gestantes e mães de crianças."
+   ],
+   [
+    "Não cabe habeas corpus para trancar inquérito policial, porque a investigação, por si só, não restringe a liberdade de locomoção.",
+    "Errada. A jurisprudência admite o HC para trancar inquérito ou ação penal, em caráter excepcional, quando evidentes a atipicidade, a extinção da punibilidade ou a ausência de indícios de autoria, desde que o crime seja punido com pena privativa de liberdade."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, LXVIII e LXIX; CPP, arts. 647 e 654, §2º; Súmulas 693, 694 e 695/STF; STF, HC 143.641.",
+  "dica": "Sem risco à liberdade, não há HC: multa (693), perda de cargo (694), pena já extinta (695). HC coletivo: admitido."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C08t",
+  "nivel": "médio",
+  "tema": "Direitos dos trabalhadores domésticos (CF, art. 7º, parágrafo único, e EC 72/2013)",
+  "enun": "Marlene trabalha há seis anos como empregada doméstica na residência da família Torres, cumprindo jornada das 7h às 19h, de segunda a sexta-feira, com uma hora de intervalo. Às vezes, quando os patrões viajam, ela pernoita na casa para cuidar dos animais, permanecendo à disposição após as 22h. Também manuseia produtos de limpeza de uso doméstico comum. Dispensada sem justa causa, ajuizou reclamação trabalhista pedindo horas extras com adicional de 50%, adicional noturno, FGTS, seguro-desemprego, adicional de insalubridade em razão dos produtos de limpeza e participação nos lucros da família, que tem uma empresa. Considerando o parágrafo único do art. 7º da Constituição Federal, com a redação da EC 72/2013, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "São assegurados aos domésticos a jornada de oito horas diárias e 44 semanais com remuneração do serviço extraordinário com adicional de pelo menos 50%, o adicional noturno, o FGTS e o seguro-desemprego, estes últimos nas condições da lei, mas não o adicional de insalubridade nem a participação nos lucros.",
+    "CORRETA. O parágrafo único do art. 7º assegura aos domésticos, entre outros, os incisos XIII (jornada) e XVI (horas extras com adicional mínimo de 50%) e, atendidas as condições estabelecidas em lei, os incisos II (seguro-desemprego), III (FGTS) e IX (adicional noturno), regulamentados pela LC 150/2015. Não foram estendidos o inciso XXIII (adicionais de penosidade, insalubridade e periculosidade) nem o XI (participação nos lucros)."
+   ],
+   [
+    "Os domésticos têm todos os direitos dos trabalhadores urbanos e rurais desde a EC 72/2013, que revogou a diferenciação da categoria.",
+    "Errada. A EC 72/2013 ampliou bastante os direitos, mas o parágrafo único do art. 7º continua a enumerar os incisos aplicáveis. Ficaram de fora, por exemplo, os incisos V, XI, XIV, XX, XXIII, XXVII e XXXII."
+   ],
+   [
+    "Os domésticos não têm direito à limitação de jornada nem a horas extras, porque o trabalho no âmbito residencial não permite controle de horário.",
+    "Errada. Desde a EC 72/2013, a jornada de 8 horas diárias e 44 semanais e o adicional de horas extras (incisos XIII e XVI) são assegurados aos domésticos. A LC 150/2015 impõe o registro de horário."
+   ],
+   [
+    "O FGTS dos domésticos continua facultativo, a critério do empregador, por depender de lei que nunca foi editada.",
+    "Errada. O FGTS (inciso III) foi estendido aos domésticos atendidas as condições da lei, e a LC 150/2015 o tornou obrigatório (art. 21), com recolhimento pelo Simples Doméstico."
+   ],
+   [
+    "O adicional de insalubridade é devido aos domésticos, porque a redução dos riscos inerentes ao trabalho é direito assegurado à categoria.",
+    "Errada. A redução dos riscos por normas de saúde, higiene e segurança (inciso XXII) foi estendida aos domésticos, mas o adicional de remuneração por atividade insalubre (inciso XXIII), não. Banca troca os dois incisos."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 7º, parágrafo único (EC 72/2013); LC 150/2015.",
+  "dica": "Doméstico tem jornada, hora extra, FGTS, seguro-desemprego e adicional noturno. NÃO tem insalubridade/periculosidade nem participação nos lucros."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C11",
+  "nivel": "médio",
+  "tema": "Criação de cargos em comissão (Tema 1.010/STF e art. 37, V, da CF)",
+  "enun": "A Lei 2.500/2025 do Município Ômega criou 120 cargos em comissão para a Secretaria de Obras, que conta com 40 servidores efetivos. Entre os cargos criados estão os de \"assessor técnico de engenharia\", \"motorista\", \"agente administrativo\" e \"chefe de divisão\". A lei não descreve as atribuições dos cargos, limitando-se a remeter a decreto do Prefeito. Também previu que as funções de confiança da Secretaria poderiam ser exercidas por pessoas sem vínculo com a Administração. O Procurador-Geral de Justiça ajuizou ação direta de inconstitucionalidade no Tribunal de Justiça. Considerando a Constituição Federal e a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A lei é inconstitucional, porque os cargos em comissão só se destinam a atribuições de direção, chefia e assessoramento, que pressupõem relação de confiança, devem guardar proporcionalidade com o número de efetivos e ter suas atribuições descritas de forma clara e objetiva na própria lei, e as funções de confiança são exclusivas de servidores efetivos.",
+    "CORRETA. No Tema 1.010 (RE 1.041.210), o STF fixou que a criação de cargos em comissão só se justifica para direção, chefia e assessoramento, não para funções burocráticas, técnicas ou operacionais; pressupõe confiança; o número deve ser proporcional à necessidade e ao número de efetivos; e as atribuições devem estar descritas na própria lei. O art. 37, V, reserva as funções de confiança exclusivamente aos servidores ocupantes de cargo efetivo."
+   ],
+   [
+    "A lei é constitucional, porque a criação de cargos em comissão é matéria de organização administrativa, sujeita à discricionariedade do legislador local.",
+    "Errada. A discricionariedade é limitada pelo art. 37, II e V, e pelos parâmetros do Tema 1.010. Cargos de motorista e agente administrativo são funções técnicas ou burocráticas, que exigem concurso público."
+   ],
+   [
+    "A lei é inconstitucional apenas quanto à desproporção numérica, já que a descrição das atribuições pode ser feita por decreto do Chefe do Executivo.",
+    "Errada. O STF exige que as atribuições dos cargos em comissão estejam descritas de forma clara e objetiva na própria lei que os instituir (Tema 1.010), e não em regulamento."
+   ],
+   [
+    "As funções de confiança podem ser exercidas por pessoas sem vínculo, desde que observados os percentuais mínimos fixados em lei para servidores de carreira.",
+    "Errada. A CF trata de forma diversa os institutos: funções de confiança, exclusivamente por servidores efetivos; cargos em comissão, por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei (art. 37, V). A banca mistura as duas regras."
+   ],
+   [
+    "O TJ não pode julgar a ação, porque o parâmetro de controle invocado é a Constituição Federal, cuja guarda compete exclusivamente ao STF.",
+    "Errada. As regras do art. 37 da CF são de reprodução obrigatória e normalmente estão repetidas nas Constituições Estaduais, de modo que o TJ pode julgar a ação (Tema 484/STF)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 37, II e V; STF, Tema 1.010 (RE 1.041.210) e Tema 484.",
+  "dica": "Cargo em comissão: só direção, chefia e assessoramento; confiança; número proporcional aos efetivos; atribuições NA LEI. Função de confiança: só para efetivo."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C12",
+  "nivel": "fácil",
+  "tema": "Garantias e vedações da magistratura (CF, art. 95)",
+  "enun": "Em curso de formação para juízes recém-empossados, foram discutidas quatro situações. Rodrigo, juiz substituto com um ano de exercício, quer saber como poderia perder o cargo. Sofia, que leciona em uma faculdade, foi convidada para exercer também, sem deixar a magistratura, o cargo de assessora especial do Governador do Estado. Tiago pergunta se pode filiar-se a partido político, sem disputar eleições, apenas para participar de debates internos. Úrsula, que pretende exonerar-se para advogar, quer saber se poderá atuar perante a vara da qual era titular. Considerando a Constituição Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Rodrigo, ainda não vitalício, pode perder o cargo por deliberação do tribunal a que está vinculado; Sofia pode manter a docência, mas não pode exercer o cargo no Executivo; Tiago não pode filiar-se a partido político; e Úrsula não pode advogar no juízo do qual se afastou antes de três anos.",
+    "CORRETA. A vitaliciedade, no primeiro grau, só é adquirida após dois anos de exercício, e nesse período a perda do cargo depende de deliberação do tribunal (art. 95, I). É vedado ao juiz exercer, ainda que em disponibilidade, outro cargo ou função, salvo uma de magistério (parágrafo único, I), e dedicar-se à atividade político-partidária (III). A quarentena impede o exercício da advocacia no juízo ou tribunal do qual se afastou antes de três anos (V)."
+   ],
+   [
+    "Rodrigo só pode perder o cargo por sentença judicial transitada em julgado, garantia que todo juiz adquire com a posse.",
+    "Errada. A perda por sentença transitada em julgado é a regra para o juiz vitalício. Antes de dois anos de exercício, basta a deliberação do tribunal (art. 95, I)."
+   ],
+   [
+    "Sofia pode exercer o cargo de assessora do Governador, desde que haja compatibilidade de horários com o expediente forense e com a docência.",
+    "Errada. A única ressalva constitucional é o magistério. O juiz não pode exercer outro cargo ou função pública, ainda que em disponibilidade e com compatibilidade de horários (art. 95, parágrafo único, I)."
+   ],
+   [
+    "Tiago pode filiar-se a partido político, desde que não exerça cargo de direção partidária nem se candidate.",
+    "Errada. A vedação de dedicação à atividade político-partidária (art. 95, parágrafo único, III) impede a filiação, e o magistrado que quiser concorrer deve afastar-se definitivamente do cargo."
+   ],
+   [
+    "Úrsula pode advogar perante o juízo do qual se afastou após um ano da exoneração, prazo da quarentena constitucional.",
+    "Errada. A quarentena é de três anos, contados do afastamento por aposentadoria ou exoneração (art. 95, parágrafo único, V)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 93, VIII, e 95.",
+  "dica": "Vitaliciedade: 2 anos no 1º grau. Vedações: outro cargo ou função (salvo magistério), custas, política partidária, auxílios, advogar no juízo de onde saiu por 3 anos."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C03",
+  "nivel": "médio",
+  "tema": "Recepção, repristinação e direito pré-constitucional",
+  "enun": "Em sessão de estudos, um grupo de candidatos discutiu a relação entre a Constituição de 1988 e as normas anteriores a ela. Lia afirmou que o Código Tributário Nacional, editado como lei ordinária em 1966, foi recepcionado com status de lei complementar, por tratar de matéria que a nova Constituição reservou a essa espécie normativa. Mauro sustentou que lei anterior a 1988 incompatível com a nova Constituição é inconstitucional superveniente e deve ser impugnada por ação direta de inconstitucionalidade. Nara defendeu que lei revogada por norma posterior volta a vigorar automaticamente quando a norma revogadora é declarada não recepcionada. Olavo afirmou que é cabível a arguição de descumprimento de preceito fundamental para discutir a compatibilidade de lei municipal de 1985 com a Constituição atual. Considerando a doutrina e a jurisprudência do Supremo Tribunal Federal, assinale a opção que indica os candidatos que fizeram afirmações corretas.",
+  "alts": [
+   [
+    "Lia e Mauro.",
+    "Errada. Mauro erra: o STF não admite a inconstitucionalidade superveniente. Norma pré-constitucional incompatível é simplesmente não recepcionada (revogada), e a ADI não é cabível contra direito anterior à Constituição (ADI 2)."
+   ],
+   [
+    "Mauro e Nara.",
+    "Errada. Ambos erram. Não há inconstitucionalidade superveniente (ADI 2), e a repristinação não é automática: a lei revogada só se restaura quando houver previsão expressa (art. 2º, §3º, da LINDB)."
+   ],
+   [
+    "Lia e Olavo.",
+    "CORRETA. Lia: a recepção considera o conteúdo, e não a forma; a lei ordinária que trata de matéria hoje reservada à lei complementar é recepcionada com status de lei complementar, como o CTN (art. 146 da CF). Olavo: a ADPF é cabível para controvérsia constitucional sobre lei ou ato normativo, inclusive municipal e anterior à Constituição (art. 1º, parágrafo único, I, da Lei 9.882/1999)."
+   ],
+   [
+    "Nara e Olavo.",
+    "Errada. Nara erra: o ordenamento brasileiro não admite a repristinação tácita (art. 2º, §3º, da LINDB). Não se confunde com o efeito repristinatório da declaração de inconstitucionalidade com efeitos ex tunc em controle concentrado."
+   ],
+   [
+    "Lia, Mauro e Olavo.",
+    "Errada. Mauro erra: o juízo sobre norma anterior à Constituição é de recepção ou revogação, e não de inconstitucionalidade superveniente, e não cabe ADI contra norma pré-constitucional."
+   ]
+  ],
+  "c": 2,
+  "fixa": true,
+  "base": "CF, art. 146; LINDB, art. 2º, §3º; Lei 9.882/1999, art. 1º, parágrafo único, I; STF, ADI 2.",
+  "dica": "Direito pré-constitucional: recepciona ou revoga (não há inconstitucionalidade superveniente). Recepção olha o CONTEÚDO (CTN virou LC). Via adequada: ADPF. Repristinação só se for expressa."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A10-11",
+  "nivel": "médio",
+  "tema": "Requisição, servidão, tombamento e limitação administrativa",
+  "enun": "Durante enchente que atingiu o Município Lambda, o Prefeito determinou o uso imediato de galpão de uma empresa privada para abrigar famílias desalojadas, sem prévia indenização. Meses depois, a concessionária de energia, com base em decreto de utilidade pública, instalou torres de transmissão em parte de uma fazenda, que continuou sendo explorada pelo proprietário. O Estado tombou, individualmente, um casarão do século XIX pertencente a Fernando, impondo restrições à sua reforma. Por fim, nova lei municipal de zoneamento passou a limitar a altura das edificações em todo o bairro do centro histórico. Considerando a Constituição Federal e a doutrina majoritária, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O uso do galpão é requisição administrativa, com indenização ulterior se houver dano; as torres configuram servidão administrativa, indenizável na medida do prejuízo efetivo; o tombamento individual pode gerar indenização se esvaziar o conteúdo econômico do bem; e a limitação de altura, geral e abstrata, em regra não gera indenização.",
+    "CORRETA. No caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano (art. 5º, XXV). A servidão administrativa é direito real que onera o bem em favor de serviço público e indeniza o prejuízo efetivamente sofrido. O tombamento, em regra, não é indenizável, salvo se esvaziar o valor econômico do bem. A limitação administrativa é geral e gratuita."
+   ],
+   [
+    "O uso do galpão é ilícito, porque toda intervenção na propriedade exige indenização prévia, justa e em dinheiro.",
+    "Errada. A indenização prévia, justa e em dinheiro é exigência da desapropriação (art. 5º, XXIV). Na requisição, a indenização é ulterior e só se houver dano (art. 5º, XXV)."
+   ],
+   [
+    "A instalação das torres configura desapropriação indireta, pois houve apossamento sem processo expropriatório, e o proprietário pode exigir a aquisição de toda a fazenda.",
+    "Errada. Não houve perda da propriedade nem esvaziamento econômico do imóvel, que continua explorado. Trata-se de servidão administrativa, que convive com a propriedade do particular."
+   ],
+   [
+    "O tombamento sempre gera direito à indenização, por impor restrições específicas a um único proprietário.",
+    "Errada. O tombamento, em regra, não gera indenização, porque o proprietário mantém a propriedade e a possibilidade de uso. A indenização é excepcional, quando houver prejuízo econômico desproporcional ou esvaziamento do bem."
+   ],
+   [
+    "A limitação de altura das edificações é servidão administrativa, por restringir o direito de construir, e gera indenização a todos os proprietários do bairro.",
+    "Errada. A restrição geral e abstrata, imposta a proprietários indeterminados, é limitação administrativa, que decorre do poder de polícia e não gera indenização em regra. A servidão incide sobre bens determinados."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, XXIV e XXV; Decreto-Lei 25/1937; Decreto-Lei 3.365/1941, art. 40.",
+  "dica": "Requisição: perigo iminente, indenização depois e SÓ se houver dano. Servidão: direito real sobre bem determinado. Limitação: geral e gratuita. Tombamento: em regra sem indenização."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A12-13",
+  "nivel": "difícil",
+  "tema": "Parcerias público-privadas (Lei 11.079/2004)",
+  "enun": "O Estado Sigma pretende contratar, mediante parceria público-privada, a construção e a operação de um hospital regional, sem cobrança de tarifa dos usuários, com remuneração integralmente paga pelo Estado. O valor estimado é de R$ 300 milhões e o prazo, de 30 anos. Na mesma época, estuda uma PPP para rodovia estadual, em que os usuários pagarão pedágio e o Estado complementará 80% da remuneração do parceiro privado. Há ainda proposta de PPP de R$ 8 milhões, pelo prazo de quatro anos, para o fornecimento de mão de obra terceirizada às escolas estaduais. Considerando a Lei 11.079/2004, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O hospital pode ser objeto de concessão administrativa; a PPP da rodovia é concessão patrocinada que, por ter mais de 70% da remuneração paga pela Administração, depende de autorização legislativa específica; e a contratação de mão de obra para as escolas não pode ser objeto de PPP.",
+    "CORRETA. Concessão administrativa é o contrato de prestação de serviços de que a Administração seja usuária direta ou indireta (art. 2º, §2º), como no hospital sem tarifa. Concessão patrocinada envolve tarifa dos usuários e contraprestação pública (art. 2º, §1º), e as concessões patrocinadas em que mais de 70% da remuneração for paga pela Administração dependem de autorização legislativa específica (art. 10, §3º). É vedada PPP de valor inferior a R$ 10 milhões, com prazo inferior a 5 anos ou que tenha como objeto único o fornecimento de mão de obra (art. 2º, §4º)."
+   ],
+   [
+    "O hospital não pode ser objeto de PPP, porque toda parceria público-privada pressupõe a cobrança de tarifa dos usuários.",
+    "Errada. A concessão administrativa dispensa tarifa: a remuneração é integralmente paga pela Administração, usuária direta ou indireta do serviço (art. 2º, §2º)."
+   ],
+   [
+    "A PPP da rodovia é válida independentemente de autorização legislativa, porque a contraprestação pública é limitada a 70% da remuneração por expressa vedação legal.",
+    "Errada. A lei não proíbe a contraprestação acima de 70%. Ela exige, nesse caso, autorização legislativa específica (art. 10, §3º)."
+   ],
+   [
+    "A PPP de mão de obra para as escolas é válida, porque o valor mínimo dos contratos de PPP é de R$ 5 milhões e o prazo mínimo é de três anos.",
+    "Errada. Desde a Lei 13.529/2017, o valor mínimo é de R$ 10 milhões, e o prazo mínimo sempre foi de 5 anos (art. 2º, §4º, I e II). Além disso, o objeto único de fornecimento de mão de obra é vedado (inciso III)."
+   ],
+   [
+    "O prazo de 30 anos do contrato do hospital é inválido, porque as PPPs têm prazo máximo de 20 anos, incluída eventual prorrogação.",
+    "Errada. O prazo de vigência das PPPs deve ser compatível com a amortização dos investimentos, não inferior a 5 nem superior a 35 anos, incluindo eventual prorrogação (art. 5º, I)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 11.079/2004, arts. 2º, §§1º, 2º e 4º (Lei 13.529/2017), 5º, I, 9º e 10, §3º.",
+  "dica": "PPP: mínimo de R$ 10 milhões; prazo de 5 a 35 anos; nunca só mão de obra, só equipamento ou só obra. Patrocinada com mais de 70% pago pelo Estado = autorização legislativa."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A17",
+  "nivel": "fácil",
+  "tema": "Bens públicos: classificação, usucapião e alienação",
+  "enun": "O Município Kappa é proprietário de três imóveis: um prédio onde funciona a Secretaria de Educação, uma praça pública e um terreno vazio, sem qualquer destinação, há anos ocupado por Joaquim, que nele construiu sua casa e mora com a família há mais de quinze anos, de forma mansa e pacífica. Joaquim ajuizou ação de usucapião do terreno. Paralelamente, o Prefeito pretende vender o prédio da Secretaria, que será transferida para novo edifício, e um credor do Município requereu a penhora da praça em execução de título judicial. Considerando a Constituição Federal, o Código Civil e a jurisprudência, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O terreno é bem dominical e não pode ser usucapido; o prédio da Secretaria, de uso especial, só pode ser alienado depois de desafetado e observadas as exigências legais; e a praça, bem de uso comum do povo, é impenhorável.",
+    "CORRETA. Os imóveis públicos não serão adquiridos por usucapião (arts. 183, §3º, e 191, parágrafo único, da CF; art. 102 do CC; Súmula 340/STF), inclusive os dominicais. Os bens de uso comum e de uso especial são inalienáveis enquanto conservarem essa qualificação (art. 100 do CC), e os dominicais podem ser alienados observadas as exigências da lei (art. 101). Os bens públicos são impenhoráveis, e os débitos judiciais são pagos por precatório (art. 100 da CF)."
+   ],
+   [
+    "O terreno pode ser usucapido, porque, por ser dominical e não afetado a nenhuma finalidade pública, sujeita-se ao regime do direito privado.",
+    "Errada. A CF e o CC vedam a usucapião de qualquer imóvel público, inclusive dominical (Súmula 340/STF e art. 102 do CC). O particular ocupante tem mera detenção (Súmula 619/STJ)."
+   ],
+   [
+    "O prédio da Secretaria pode ser vendido livremente pelo Prefeito, por se tratar de bem do patrimônio disponível do Município.",
+    "Errada. Enquanto afetado ao serviço público, o bem de uso especial é inalienável (art. 100 do CC). Depois da desafetação, a alienação de imóvel exige interesse público justificado, autorização legislativa, avaliação prévia e licitação na modalidade leilão (art. 76, I, da Lei 14.133/2021)."
+   ],
+   [
+    "A praça pode ser penhorada, porque a impenhorabilidade atinge apenas os bens de uso especial, necessários à continuidade do serviço público.",
+    "Errada. Todos os bens públicos são impenhoráveis, qualquer que seja a categoria, e as execuções contra a Fazenda seguem o regime de precatórios (art. 100 da CF e art. 910 do CPC)."
+   ],
+   [
+    "O terreno ocupado por Joaquim deixou de ser bem público pela ocupação prolongada, que configura desafetação tácita.",
+    "Errada. A ocupação irregular por particular não desafeta o bem nem transfere sua titularidade. Bem dominical já não tem afetação, e a ocupação não o retira do patrimônio público."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 100, 183, §3º, e 191, parágrafo único; CC, arts. 99 a 102; Lei 14.133/2021, art. 76, I; Súmula 340/STF; Súmula 619/STJ.",
+  "dica": "Bem público (qualquer um): imprescritível, impenhorável e com alienação condicionada. Uso comum e especial: inalienáveis enquanto afetados. Dominical: alienável com lei, avaliação e leilão."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A01",
+  "nivel": "médio",
+  "tema": "Motivação e teoria dos motivos determinantes",
+  "enun": "O Prefeito de Teta exonerou Regina do cargo em comissão de assessora jurídica, publicando no ato que a exoneração se dava \"em razão da necessidade de contenção de despesas e extinção do cargo\". Duas semanas depois, nomeou outra pessoa para o mesmo cargo, que não foi extinto. Na mesma época, o Secretário de Saúde removeu de ofício a servidora efetiva Sônia de uma unidade central para um posto distante, sem indicar qualquer motivo, logo após ela ter denunciado irregularidades à Ouvidoria. As duas servidoras ingressaram em juízo. Considerando os princípios da Administração Pública e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A exoneração de Regina é inválida, porque, embora o ato fosse de livre exoneração, os motivos declarados vinculam a Administração e se mostraram falsos; e a remoção de Sônia é inválida, por falta de motivação e por indicar desvio de finalidade.",
+    "CORRETA. Pela teoria dos motivos determinantes, quando a Administração declara os motivos de um ato, mesmo discricionário e que dispensaria motivação, fica vinculada a eles, e o ato é inválido se forem falsos ou inexistentes. A remoção de ofício exige motivação (art. 50 da Lei 9.784/1999, aplicável aos atos que afetem interesses), e a remoção como represália configura desvio de finalidade (art. 2º, parágrafo único, e, da Lei 4.717/1965)."
+   ],
+   [
+    "A exoneração de Regina é válida, porque o cargo em comissão é de livre nomeação e exoneração, e o motivo declarado é irrelevante.",
+    "Errada. A exoneração ad nutum dispensa motivação, mas, se o administrador a motivar, a validade do ato passa a depender da veracidade dos motivos declarados."
+   ],
+   [
+    "A remoção de Sônia é válida, por se tratar de ato discricionário que atende à conveniência do serviço e dispensa motivação.",
+    "Errada. A remoção de ofício, ainda que discricionária, deve ser motivada, e o STJ anula a remoção usada como punição disfarçada, por desvio de finalidade."
+   ],
+   [
+    "O Poder Judiciário não pode examinar os atos, porque o controle judicial não alcança o mérito administrativo.",
+    "Errada. O Judiciário não substitui o juízo de conveniência, mas controla a legalidade dos atos discricionários, incluindo a existência e a veracidade dos motivos e a finalidade."
+   ],
+   [
+    "Ambos os atos são válidos, porque gozam de presunção absoluta de legitimidade, que só pode ser afastada pela própria Administração.",
+    "Errada. A presunção de legitimidade é relativa (juris tantum) e pode ser afastada por prova em contrário, inclusive em juízo."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 37, caput; Lei 9.784/1999, arts. 2º e 50; Lei 4.717/1965, art. 2º, parágrafo único, d e e.",
+  "dica": "Motivos determinantes: motivou, vinculou. Motivo falso = ato nulo, mesmo em exoneração ad nutum."
+ },
+ {
+  "disc": "Noções Gerais de Direito e Formação Humanística",
+  "item": "H4",
+  "nivel": "médio",
+  "tema": "Fórmula de Radbruch e os guardas do Muro de Berlim",
+  "enun": "Após a reunificação alemã, guardas de fronteira da antiga Alemanha Oriental foram processados pelos disparos que mataram pessoas que tentavam atravessar o Muro de Berlim. A defesa sustentou que os guardas agiram de acordo com a lei vigente na época, que autorizava o uso de armas de fogo para impedir a travessia ilegal da fronteira, e que puni-los violaria a legalidade. Os tribunais alemães afastaram a justificação, afirmando que uma norma que autoriza matar pessoas desarmadas apenas para impedir que deixem o país é tão extremamente injusta que não pode ser considerada direito válido. Considerando a filosofia do direito, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A fundamentação dos tribunais remete à fórmula de Radbruch, segundo a qual o direito positivo, em regra, prevalece mesmo quando injusto, mas perde o caráter de direito quando sua injustiça atinge medida insuportável.",
+    "CORRETA. Gustav Radbruch, no pós-guerra, formulou que o conflito entre justiça e segurança jurídica deve, em regra, ser resolvido em favor do direito positivo, salvo quando a contradição com a justiça atinge grau tão insuportável que a lei, como direito injusto, deve ceder à justiça. Robert Alexy retomou a fórmula no argumento da injustiça (\"a injustiça extrema não é direito\"), e ela foi aplicada nos casos dos guardas do Muro."
+   ],
+   [
+    "A decisão é típica do positivismo jurídico kelseniano, para o qual a validade da norma depende da sua conformidade com valores morais universais.",
+    "Errada. Para Kelsen, a validade decorre da produção conforme a norma superior, independentemente do conteúdo moral. A decisão nega validade à lei pelo conteúdo, o que é incompatível com o positivismo exclusivo."
+   ],
+   [
+    "A fórmula aplicada sustenta que qualquer injustiça, por menor que seja, retira a validade da norma jurídica, devendo o juiz decidir sempre conforme sua consciência.",
+    "Errada. A fórmula de Radbruch é restrita à injustiça extrema e insuportável. Em regra, prevalece a segurança jurídica do direito positivo, mesmo quando a lei é injusta ou inconveniente."
+   ],
+   [
+    "A decisão adota o realismo jurídico norte-americano, segundo o qual o direito é aquilo que os tribunais efetivamente decidem, sem referência a critérios de justiça.",
+    "Errada. O realismo descreve o direito como previsão das decisões judiciais. A fundamentação do caso apela a um critério material de justiça como limite à validade, o que não é a tese realista."
+   ],
+   [
+    "Para Radbruch, a segurança jurídica nunca pode ser sacrificada, razão pela qual sua teoria justificaria a absolvição dos guardas.",
+    "Errada. Radbruch admite o sacrifício da segurança jurídica nos casos de injustiça extrema, e é exatamente esse o fundamento da condenação."
+   ]
+  ],
+  "c": 0,
+  "base": "Gustav Radbruch, Cinco minutos de filosofia do direito (1945) e Injustiça legal e direito supralegal (1946); Robert Alexy, Conceito e validade do direito.",
+  "dica": "Radbruch: lei injusta vale; lei EXTREMAMENTE injusta não é direito. Alexy: argumento da injustiça. Exemplo clássico: guardas do Muro de Berlim."
+ },
+ {
+  "disc": "Noções Gerais de Direito e Formação Humanística",
+  "item": "H1",
+  "nivel": "fácil",
+  "tema": "Max Weber: tipos de dominação legítima",
+  "enun": "Em uma pequena cidade, três figuras exercem autoridade sobre a população. O líder religioso local é obedecido porque os fiéis acreditam em seus dons excepcionais e em sua capacidade de revelar verdades. O patriarca de uma família tradicional é respeitado porque \"sempre foi assim\", e suas decisões seguem costumes herdados de gerações. O juiz da comarca é obedecido porque foi investido no cargo por concurso público, de acordo com regras impessoais, e decide com base em leis gerais e abstratas. Considerando a sociologia de Max Weber, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Os três exemplos correspondem, respectivamente, à dominação carismática, à dominação tradicional e à dominação racional-legal, cujo tipo mais puro é a burocracia.",
+    "CORRETA. Weber distingue três tipos puros de dominação legítima: a carismática, fundada na devoção ao caráter extraordinário de uma pessoa; a tradicional, fundada na crença na santidade das tradições; e a racional-legal, fundada na crença na legalidade de regras estatuídas e no direito de mando dos nomeados por essas regras. A burocracia é o tipo mais puro da dominação legal."
+   ],
+   [
+    "Os três exemplos correspondem a formas de poder ilegítimo, porque Weber considera legítima apenas a dominação fundada no consentimento expresso dos governados.",
+    "Errada. Para Weber, a legitimidade é a crença dos dominados na validade da ordem, e não depende de consentimento expresso. Os três tipos são formas de dominação legítima."
+   ],
+   [
+    "O juiz exerce dominação carismática, porque sua autoridade decorre de qualidades pessoais demonstradas no concurso público.",
+    "Errada. A autoridade do juiz decorre do cargo e de regras impessoais, e não de qualidades pessoais extraordinárias. É dominação racional-legal."
+   ],
+   [
+    "O patriarca exerce dominação racional-legal, porque os costumes familiares funcionam como regras gerais e abstratas.",
+    "Errada. A obediência baseada no que \"sempre foi assim\" é a dominação tradicional, que se apoia na santidade das tradições, e não em regras estatuídas racionalmente."
+   ],
+   [
+    "Weber sustenta que a dominação carismática é a mais estável, porque não depende de regras nem de rotinas administrativas.",
+    "Errada. Weber vê o carisma como instável e extraordinário: com o tempo, ele tende a se rotinizar, transformando-se em dominação tradicional ou legal."
+   ]
+  ],
+  "c": 0,
+  "base": "Max Weber, Economia e Sociedade (os três tipos puros de dominação legítima).",
+  "dica": "Weber: CARISMA (dons pessoais), TRADIÇÃO (sempre foi assim), LEGAL (regras impessoais, burocracia). O carisma é instável e se rotiniza."
+ },
+ {
+  "disc": "Direitos Humanos",
+  "item": "DH3",
+  "nivel": "médio",
+  "tema": "Casos brasileiros na Corte Interamericana de Direitos Humanos",
+  "enun": "Em aula sobre o sistema interamericano, o professor apresentou casos em que o Brasil foi condenado pela Corte Interamericana de Direitos Humanos. Um aluno associou cada caso ao tema central: (1) Ximenes Lopes: primeira condenação do Brasil, pela morte de pessoa com deficiência mental em clínica psiquiátrica conveniada ao SUS; (2) Gomes Lund (Guerrilha do Araguaia): incompatibilidade da interpretação da Lei de Anistia que impede a investigação e a punição de graves violações de direitos humanos; (3) Trabalhadores da Fazenda Brasil Verde: trabalho escravo e discriminação estrutural histórica em razão da posição econômica; (4) Favela Nova Brasília: violência policial, execuções e violência sexual em incursões policiais. Considerando a jurisprudência da Corte Interamericana, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "As quatro associações estão corretas.",
+    "CORRETA. Ximenes Lopes (2006) foi a primeira condenação do Brasil, envolvendo saúde mental. Gomes Lund (2010) declarou que as disposições da Lei de Anistia que impedem a investigação e a sanção de graves violações carecem de efeitos jurídicos. Fazenda Brasil Verde (2016) foi o primeiro caso da Corte sobre escravidão contemporânea e reconheceu a discriminação estrutural histórica. Favela Nova Brasília (2017) tratou de execuções e violência sexual em operações policiais no Rio de Janeiro."
+   ],
+   [
+    "Apenas as associações 1 e 2 estão corretas, porque o caso Fazenda Brasil Verde tratou de conflitos agrários e o caso Favela Nova Brasília, de remoções forçadas.",
+    "Errada. Fazenda Brasil Verde é o caso paradigmático sobre trabalho escravo, e Favela Nova Brasília trata de violência policial, e não de remoções."
+   ],
+   [
+    "Apenas a associação 2 está incorreta, porque a Corte Interamericana declarou a Lei de Anistia brasileira compatível com a Convenção Americana, em consonância com a ADPF 153.",
+    "Errada. No caso Gomes Lund, a Corte decidiu em sentido contrário ao STF na ADPF 153, afirmando a incompatibilidade da anistia a graves violações de direitos humanos com a Convenção Americana. Reafirmou o entendimento no caso Herzog (2018)."
+   ],
+   [
+    "Apenas a associação 1 está incorreta, porque a primeira condenação do Brasil na Corte foi o caso Herzog.",
+    "Errada. A primeira condenação foi Ximenes Lopes, em 2006. O caso Herzog é de 2018 e tratou da imprescritibilidade dos crimes contra a humanidade cometidos na ditadura."
+   ],
+   [
+    "Nenhuma associação está correta, porque o Brasil não reconhece a competência contenciosa da Corte Interamericana.",
+    "Errada. O Brasil reconheceu a competência contenciosa da Corte em 1998 (Decreto Legislativo 89/1998 e Decreto 4.463/2002), para fatos posteriores ao reconhecimento."
+   ]
+  ],
+  "c": 0,
+  "fixa": false,
+  "base": "Convenção Americana sobre Direitos Humanos, arts. 62 e 63; Decreto 4.463/2002; Corte IDH: Ximenes Lopes (2006), Gomes Lund (2010), Fazenda Brasil Verde (2016), Favela Nova Brasília (2017) e Herzog (2018).",
+  "dica": "Brasil na Corte IDH: Ximenes Lopes (1º, saúde mental), Gomes Lund (anistia), Brasil Verde (escravidão), Nova Brasília (polícia), Herzog (ditadura, imprescritível)."
+ }
+]
