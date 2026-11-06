@@ -1,0 +1,547 @@
+[
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P12-15",
+  "nivel": "médio",
+  "tema": "Embargos de declaração: interrupção do prazo, multa e prequestionamento ficto (CPC, arts. 1.022 a 1.026)",
+  "enun": "Em ação de cobrança ajuizada por Bruno contra Ana, o juiz julgou parcialmente procedente o pedido. No quarto dia útil após a intimação da sentença, Ana opôs embargos de declaração, alegando omissão quanto à prescrição de parte das parcelas, que havia sido arguida na contestação. No mesmo dia, Bruno interpôs apelação para obter a procedência integral. O juiz rejeitou os embargos, entendendo que a sentença havia enfrentado a prescrição de forma expressa e que o recurso tinha propósito meramente protelatório, e condenou Ana ao pagamento de multa de 2% sobre o valor atualizado da causa. Inconformada, Ana consulta seu advogado sobre o prazo que lhe resta para apelar, sobre a necessidade de Bruno ratificar a apelação já interposta e sobre a disciplina da multa e do prequestionamento em eventuais embargos futuros. Considerando o Código de Processo Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O prazo de Ana para apelar foi interrompido e recomeça por inteiro após a decisão dos embargos, e a apelação de Bruno será processada sem ratificação.",
+    "CORRETA. Os embargos de declaração não têm efeito suspensivo e interrompem o prazo para a interposição de recurso (art. 1.026, caput), de modo que o prazo recomeça integralmente. Rejeitados os embargos, o recurso interposto pela outra parte antes do seu julgamento é processado independentemente de ratificação (art. 1.024, §5º; Súmula 579/STJ)."
+   ],
+   [
+    "O prazo de Ana para apelar foi apenas suspenso, de modo que, intimada da decisão dos embargos, ela disporá somente dos dias que restavam do prazo original.",
+    "Errada. O CPC adota a interrupção, e não a suspensão, do prazo recursal (art. 1.026, caput), regra estendida inclusive aos Juizados Especiais. Interrompido, o prazo é devolvido por inteiro."
+   ],
+   [
+    "A apelação de Bruno deverá ser ratificada após o julgamento dos embargos, sob pena de não conhecimento, por ter sido interposta antes do esgotamento da instância.",
+    "Errada. A exigência de ratificação (antiga Súmula 418/STJ, cancelada) foi afastada pelo art. 1.024, §5º: se os embargos forem rejeitados ou não alterarem a conclusão, o recurso já interposto segue independentemente de ratificação."
+   ],
+   [
+    "A multa por embargos manifestamente protelatórios pode ser fixada em até dez por cento do valor atualizado da causa já nos primeiros embargos, conforme a gravidade da conduta.",
+    "Errada. Nos primeiros embargos protelatórios, a multa não pode exceder 2% do valor atualizado da causa (art. 1.026, §2º). O patamar de até 10%, com depósito prévio para recorrer, é reservado à reiteração (§3º)."
+   ],
+   [
+    "Se, mais adiante, o tribunal rejeitar embargos opostos para prequestionar a prescrição, a matéria não será considerada prequestionada, ainda que o tribunal superior reconheça a omissão.",
+    "Errada. O CPC acolheu o prequestionamento ficto: consideram-se incluídos no acórdão os elementos suscitados pelo embargante, ainda que os embargos sejam inadmitidos ou rejeitados, se o tribunal superior considerar existente o vício (art. 1.025)."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 1.022 a 1.026, especialmente arts. 1.024, §5º, 1.025 e 1.026, caput e §§2º a 4º; Súmula 579/STJ.",
+  "dica": "ED: 5 dias, interrompem o prazo, sem efeito suspensivo. Protelatórios: até 2%; reiteração: até 10% + depósito; 2 protelatórios = não cabem novos. Prequestionamento ficto (art. 1.025). Recurso da outra parte não precisa de ratificação."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P09-11",
+  "nivel": "fácil",
+  "tema": "Fundamentação da sentença: hipóteses de decisão não fundamentada (CPC, art. 489, §1º)",
+  "enun": "Em ação indenizatória ajuizada por Cecília contra uma operadora de telefonia, o juiz Davi proferiu sentença de improcedência com a seguinte fundamentação: \"Nos termos do art. 186 do Código Civil, aquele que, por ação ou omissão voluntária, violar direito e causar dano a outrem comete ato ilícito. Aplica-se ao caso a Súmula 385/STJ. Ausentes os requisitos legais, julgo improcedente o pedido\". A sentença não indicou quais fatos dos autos afastariam o ato ilícito, não demonstrou que havia negativações anteriores legítimas em nome da autora, e não examinou o argumento, documentado na inicial, de que as inscrições preexistentes estavam sendo questionadas judicialmente, circunstância que, em tese, poderia afastar a incidência do enunciado. Cecília interpôs apelação alegando nulidade da sentença por ausência de fundamentação. Considerando o Código de Processo Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A sentença não se considera fundamentada, pois reproduziu a lei sem relacioná-la à causa, invocou súmula sem demonstrar o ajuste ao caso e ignorou argumento relevante.",
+    "CORRETA. O art. 489, §1º, considera não fundamentada a decisão que se limita a reproduzir ato normativo sem explicar sua relação com a causa (I), que não enfrenta todos os argumentos capazes de, em tese, infirmar a conclusão adotada (IV) e que invoca precedente ou enunciado de súmula sem identificar seus fundamentos determinantes nem demonstrar que o caso a eles se ajusta (V)."
+   ],
+   [
+    "A sentença é válida, pois o juiz não está obrigado a examinar os argumentos das partes, bastando que encontre um motivo suficiente para fundamentar a decisão.",
+    "Errada. O juiz não precisa rebater todo e qualquer argumento, mas deve enfrentar os que forem capazes de, em tese, infirmar a conclusão adotada (art. 489, §1º, IV), como o questionamento judicial das inscrições anteriores."
+   ],
+   [
+    "O dever de fundamentação analítica do art. 489, §1º, aplica-se apenas às sentenças de mérito, não alcançando as decisões interlocutórias nem os acórdãos.",
+    "Errada. O §1º do art. 489 refere-se expressamente a qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, em concretização do art. 93, IX, da CF."
+   ],
+   [
+    "A simples invocação de enunciado de súmula do STJ basta para fundamentar a decisão, porque as súmulas dos tribunais superiores dispensam a demonstração de pertinência com o caso.",
+    "Errada. Ainda que o juiz deva observar os enunciados de súmula (art. 927, IV), precisa identificar seus fundamentos determinantes e demonstrar que o caso sob julgamento se ajusta a eles (art. 489, §1º, V)."
+   ],
+   [
+    "O vício de fundamentação só pode ser alegado por meio de ação rescisória, depois do trânsito em julgado, não sendo possível invocá-lo na própria apelação.",
+    "Errada. A falta de fundamentação gera nulidade (art. 93, IX, da CF) que pode ser alegada na apelação, e o tribunal, se o processo estiver em condições de imediato julgamento, decide desde logo o mérito (art. 1.013, §3º, IV)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 93, IX; CPC, arts. 489, §1º, 927 e 1.013, §3º, IV.",
+  "dica": "Art. 489, §1º: copiar a lei, conceito vago sem explicar, motivo genérico, não enfrentar argumento relevante, citar súmula sem ajuste, ignorar precedente sem distinção ou superação = decisão NÃO fundamentada."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P20-21",
+  "nivel": "médio",
+  "tema": "Ação monitória: cabimento, embargos, Fazenda Pública e cheque prescrito (CPC, arts. 700 a 702; Súmulas 339, 503 e 531/STJ)",
+  "enun": "A sociedade Delta Materiais Ltda. é credora de Eduardo por um cheque de R$ 30 mil, emitido em março de 2020 e devolvido por insuficiência de fundos, que perdeu a força executiva. Em fevereiro de 2025, Delta ajuizou ação monitória instruída apenas com a cártula, sem descrever o negócio que deu origem ao título. Na mesma época, ajuizou outra monitória contra o Município Ípsilon, com base em notas de empenho e em notas fiscais atestadas por servidor municipal, referentes a materiais entregues e não pagos. Eduardo opôs embargos monitórios sem garantir o juízo, alegando prescrição e excesso de cobrança, mas sem indicar o valor que entende devido nem apresentar demonstrativo do débito. O Município foi citado e permaneceu inerte. Considerando o Código de Processo Civil e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A monitória contra Eduardo é tempestiva e dispensa menção ao negócio subjacente; os embargos dispensam garantia do juízo, mas o excesso alegado não será examinado.",
+    "CORRETA. A monitória contra o emitente de cheque sem força executiva prescreve em cinco anos, contados do dia seguinte à data de emissão (Súmula 503/STJ), e dispensa a menção ao negócio jurídico subjacente (Súmula 531/STJ). Os embargos independem de segurança do juízo (art. 702, caput), e, não indicado o valor correto nem apresentado o demonstrativo, havendo outro fundamento, o juiz deixará de examinar o excesso (art. 702, §§2º e 3º)."
+   ],
+   [
+    "Os embargos de Eduardo dependem de prévia garantia do juízo e não suspendem a eficácia do mandado de pagamento até o julgamento em primeiro grau.",
+    "Errada. Os embargos são opostos nos próprios autos, independentemente de prévia segurança do juízo (art. 702, caput), e suspendem a eficácia da decisão que deferiu o mandado até o julgamento em primeiro grau (art. 702, §4º)."
+   ],
+   [
+    "A monitória contra o Município é incabível, porque a cobrança de dívida da Fazenda Pública exige título judicial formado em processo de conhecimento pelo procedimento comum.",
+    "Errada. É cabível a ação monitória contra a Fazenda Pública (Súmula 339/STJ; art. 700, §6º, do CPC), desde que fundada em prova escrita sem eficácia de título executivo, como notas de empenho e notas fiscais atestadas."
+   ],
+   [
+    "A pretensão contra Eduardo está prescrita, porque a monitória fundada em cheque deve ser ajuizada em três anos contados da apresentação, com demonstração da causa da dívida.",
+    "Errada. O prazo é quinquenal, contado do dia seguinte à data de emissão estampada na cártula (Súmula 503/STJ), e é desnecessária a menção à origem da dívida (Súmula 531/STJ). Emitido o cheque em março de 2020, a ação de fevereiro de 2025 é tempestiva."
+   ],
+   [
+    "Diante da inércia do Município, o mandado converte-se de pleno direito em título executivo, que pode ser cumprido de imediato, sem reexame pelo tribunal.",
+    "Errada. Sendo ré a Fazenda Pública e não apresentados os embargos, aplica-se o regime da remessa necessária do art. 496, observando-se, em seguida, o cumprimento de sentença contra a Fazenda (art. 701, §4º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 700, §6º, 701, §4º, e 702, caput e §§2º a 4º; Súmulas 299, 339, 503 e 531/STJ.",
+  "dica": "Monitória: prova escrita sem força de título. Cabe contra a Fazenda (Súm. 339), com remessa necessária se não houver embargos. Cheque prescrito: 5 anos do dia seguinte à emissão (503), sem dizer a causa (531). Embargos: sem garantia, com efeito suspensivo; excesso exige valor + demonstrativo."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P06",
+  "nivel": "difícil",
+  "tema": "Nulidades processuais: prejuízo, instrumentalidade e intimação em nome do advogado indicado (CPC, arts. 272, 276 a 283)",
+  "enun": "Júlia, menor representada por sua mãe, ajuizou ação de indenização contra Fábio. Na contestação, Fábio, representado pelos advogados Gabriela e Hugo, requereu expressamente que todas as intimações fossem feitas exclusivamente em nome de Gabriela. O processo tramitou sem a intimação do Ministério Público, e o juiz proferiu sentença de procedência, condenando Fábio. A intimação da sentença foi publicada no Diário da Justiça apenas em nome de Hugo, que havia deixado de acompanhar o caso, e o prazo da apelação transcorreu sem manifestação. Ao tomar conhecimento da certidão de trânsito em julgado, Gabriela, no mesmo dia, interpôs apelação em que alegou, em preliminar, a nulidade da intimação e, ainda, a nulidade de todo o processo pela falta de intervenção do Ministério Público, requerendo a anulação de todos os atos desde a citação. Considerando o Código de Processo Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A intimação é nula pelo desatendimento do pedido expresso, e Fábio pode arguir o vício em preliminar da apelação, tida por tempestiva se a nulidade for reconhecida.",
+    "CORRETA. Constando dos autos pedido expresso para que as comunicações sejam feitas em nome dos advogados indicados, o seu desatendimento implica nulidade (art. 272, §5º). A parte argui a nulidade da intimação em capítulo preliminar do próprio ato que lhe caiba praticar, o qual será tido por tempestivo se o vício for reconhecido (art. 272, §8º)."
+   ],
+   [
+    "A intimação é válida, porque basta que da publicação conste o nome de qualquer dos advogados constituídos nos autos, ainda que haja pedido de intimação exclusiva.",
+    "Errada. A regra geral admite a intimação de qualquer dos advogados constituídos, mas, havendo pedido expresso de intimação em nome de advogado indicado, o desatendimento gera nulidade (art. 272, §5º)."
+   ],
+   [
+    "A falta de intervenção do Ministério Público acarreta nulidade absoluta de todo o processo, que deve ser decretada ainda que a sentença tenha sido favorável à incapaz.",
+    "Errada. A nulidade só pode ser decretada após a intimação do MP, que se manifestará sobre a existência ou não de prejuízo (art. 279, §2º), e o juiz não a pronuncia quando puder decidir o mérito a favor da parte a quem aproveita a decretação (art. 282, §2º). Fábio, ademais, não é o destinatário da proteção."
+   ],
+   [
+    "Reconhecida a nulidade da intimação, devem ser anulados todos os atos do processo desde a citação, inclusive a própria sentença, que deverá ser novamente proferida.",
+    "Errada. Anulado o ato, reputam-se sem efeito apenas os atos subsequentes que dele dependam (art. 281), e o erro de forma só anula os atos que não possam ser aproveitados (art. 283). A sentença subsiste; o que se reabre é o prazo recursal."
+   ],
+   [
+    "A nulidade da intimação pode ser alegada a qualquer tempo e grau de jurisdição, sem sujeição à preclusão, por atingir diretamente o contraditório e a ampla defesa.",
+    "Errada. A nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão (art. 278), ressalvadas as que o juiz deva decretar de ofício ou o legítimo impedimento (parágrafo único)."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 272, §§2º, 5º e 8º, 276, 277, 278, 279, §2º, 281, 282, §§1º e 2º, e 283.",
+  "dica": "Pediu intimação em nome de advogado específico e não foi atendido = nulidade (art. 272, §5º), arguida na preliminar do próprio ato. Sem prejuízo não há nulidade (pas de nullité sans grief): arts. 279, §2º, e 282, §2º."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V08",
+  "nivel": "fácil",
+  "tema": "Comodato: prazo, mora do comodatário e aluguel-pena (CC, arts. 579 a 585)",
+  "enun": "Lúcia emprestou gratuitamente a seu sobrinho Marcos um apartamento de sua propriedade, para que ele morasse enquanto cursasse a faculdade de Medicina em outra cidade, sem fixar prazo no contrato. Durante o curso, Marcos pagou as taxas de condomínio e mandou pintar o imóvel. Concluída a graduação, Lúcia notificou Marcos para que devolvesse o apartamento em trinta dias. Marcos não o restituiu, alegando que pretendia permanecer na cidade para a residência médica, e que, por ter arcado com as despesas do imóvel, teria direito a ser reembolsado antes de devolvê-lo. Seis meses depois da notificação, Lúcia ajuizou ação de reintegração de posse cumulada com cobrança de aluguel pelo período posterior ao fim do prazo concedido, no valor que arbitrou na notificação, compatível com o de mercado. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Em mora, Marcos responde pelos danos e deve pagar o aluguel arbitrado por Lúcia até a restituição, sem direito a reaver as despesas de uso e gozo do imóvel.",
+    "CORRETA. O comodatário constituído em mora, além de por ela responder, pagará, até restituir a coisa, o aluguel arbitrado pelo comodante (art. 582), que tem natureza de pena e se sujeita apenas ao controle judicial de abusividade. O comodatário não pode recobrar do comodante as despesas feitas com o uso e gozo da coisa emprestada (art. 584)."
+   ],
+   [
+    "Por não haver prazo convencional, Lúcia podia exigir a restituição a qualquer tempo, mediante simples notificação, mesmo durante o curso de Medicina.",
+    "Errada. Sem prazo convencional, presume-se o necessário para o uso concedido, e o comodante não pode suspender o uso antes de findo esse prazo, salvo necessidade imprevista e urgente reconhecida pelo juiz (art. 581)."
+   ],
+   [
+    "O aluguel devido durante a mora deve ser fixado pelo juiz segundo perícia, sendo vedado ao comodante arbitrá-lo unilateralmente na notificação.",
+    "Errada. A lei atribui ao comodante o arbitramento do aluguel durante a mora (art. 582). O juiz pode reduzi-lo se manifestamente excessivo, mas não há vedação ao arbitramento pelo comodante."
+   ],
+   [
+    "Marcos pode reter o imóvel até ser reembolsado das taxas de condomínio e da pintura, porque são benfeitorias necessárias realizadas de boa-fé.",
+    "Errada. Taxas de condomínio e pintura são despesas ordinárias decorrentes do uso e gozo da coisa, que o comodatário não pode recobrar do comodante (art. 584), e, portanto, não autorizam retenção."
+   ],
+   [
+    "Como o comodato é contrato gratuito, Marcos só responderia por danos causados ao imóvel durante o uso se tivesse agido com dolo.",
+    "Errada. O comodatário deve conservar a coisa como se sua própria fora, sob pena de perdas e danos (art. 582), e, nos contratos benéficos, responde por simples culpa o contratante a quem o contrato aproveite (art. 392)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 392 e 579 a 585.",
+  "dica": "Comodato: empréstimo gratuito de infungível; sem prazo = o necessário ao uso. Mora do comodatário = aluguel arbitrado pelo COMODANTE. Despesas de uso: não se recobram. Comodatários simultâneos: solidários."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V05",
+  "nivel": "médio",
+  "tema": "Prazos decadenciais para anular negócio jurídico e decadência convencional x legal (CC, arts. 178, 179, 207 a 211)",
+  "enun": "Nelson vendeu uma fazenda a Otávio em janeiro de 2021, sob grave ameaça de morte feita por este. A coação somente cessou em março de 2022, quando Otávio foi preso por outros crimes, e Nelson ajuizou ação anulatória em fevereiro de 2025. Em outro caso, Paulo vendeu, em maio de 2023, um imóvel a seu filho Rui, sem o consentimento dos outros descendentes e de sua esposa. Os demais filhos só tomaram conhecimento da venda em 2025 e ajuizaram ação anulatória em agosto daquele ano. Por fim, em contrato de compra e venda de maquinário, as partes estipularam que o comprador teria trinta dias para reclamar defeitos, sob pena de perda do direito. O comprador ajuizou ação depois desse prazo, e o vendedor, na contestação, não invocou a cláusula. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O prazo de Nelson é de quatro anos contados da cessação da coação, e o dos filhos de Paulo, de dois anos contados da conclusão do ato, já esgotado na data da ação.",
+    "CORRETA. No caso de coação, o prazo decadencial de quatro anos conta-se do dia em que ela cessar (art. 178, I), de modo que a ação de Nelson é tempestiva. A venda de ascendente a descendente sem consentimento é anulável (art. 496) sem prazo específico, aplicando-se o prazo de dois anos a contar da conclusão do ato (art. 179), esgotado em maio de 2025."
+   ],
+   [
+    "O prazo de Nelson é de quatro anos contados da celebração do negócio, como ocorre em todos os defeitos do negócio jurídico, razão pela qual sua pretensão decaiu.",
+    "Errada. O termo inicial da data do negócio vale para erro, dolo, fraude contra credores, estado de perigo e lesão (art. 178, II). Na coação, conta-se do dia em que ela cessar (art. 178, I)."
+   ],
+   [
+    "A venda de Paulo a Rui pode ser anulada no prazo de vinte anos, contado da data do ato, conforme o entendimento sumulado do Supremo Tribunal Federal.",
+    "Errada. A Súmula 494/STF, que fixava prazo vintenário, está superada pelo Código Civil de 2002: aplica-se o prazo de dois anos do art. 179, contado da conclusão do ato, e não da ciência dos interessados."
+   ],
+   [
+    "O juiz deve reconhecer de ofício a decadência convencional pactuada no contrato de maquinário, assim como faz com a decadência fixada em lei.",
+    "Errada. O juiz deve conhecer de ofício a decadência legal (art. 210), mas, se a decadência for convencional, a parte a quem aproveita pode alegá-la em qualquer grau de jurisdição, e o juiz não pode suprir a alegação (art. 211)."
+   ],
+   [
+    "Os prazos decadenciais legais sujeitam-se às mesmas causas de impedimento, suspensão e interrupção da prescrição, salvo se as partes as afastarem.",
+    "Errada. Salvo disposição legal em contrário, não se aplicam à decadência as normas que impedem, suspendem ou interrompem a prescrição (art. 207), com a ressalva do absolutamente incapaz (art. 208). A renúncia à decadência legal é nula (art. 209)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 178, 179, 207 a 211 e 496; Súmula 494/STF (superada).",
+  "dica": "Anulação: 4 anos (coação: da cessação; erro, dolo, lesão, estado de perigo, fraude: do negócio; incapaz: de cessar a incapacidade). Sem prazo na lei: 2 anos da conclusão. Decadência legal: de ofício e irrenunciável; convencional: só se alegada."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V09",
+  "nivel": "médio",
+  "tema": "Responsabilidade do empregador por ato do empregado e direito de regresso (CC, arts. 932, III, 933 e 934)",
+  "enun": "Rafael é motorista da transportadora Sigma Ltda. Durante uma entrega, enquanto digitava mensagens no celular, avançou o sinal vermelho e colidiu com o automóvel de Sara, que sofreu lesões e teve o veículo destruído. Sara ajuizou ação indenizatória somente contra Sigma. Na contestação, a empresa alegou que selecionou Rafael com rigor, que ele tinha quinze anos de habilitação sem infrações e que havia norma interna proibindo o uso do celular ao volante, de modo que não teria havido culpa na escolha nem na vigilância do empregado. Sustentou, ainda, que eventual responsabilidade seria apenas subsidiária, devendo Sara buscar primeiro o patrimônio do motorista, e que, se condenada, não poderia descontar de Rafael o valor pago, por assumir o risco de sua atividade. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Sigma responde independentemente de culpa própria pelo ato culposo de Rafael, de forma solidária com ele, e pode depois reaver do empregado o que tiver pago à vítima.",
+    "CORRETA. O empregador responde pelos atos dos empregados no exercício do trabalho ou em razão dele (art. 932, III), ainda que não haja culpa de sua parte (art. 933), desde que demonstrado o ato ilícito do empregado. A responsabilidade é solidária (art. 942, parágrafo único), e quem ressarce o dano causado por outrem pode reaver dele o que pagou (art. 934)."
+   ],
+   [
+    "Sigma só responde se houver culpa na escolha ou na vigilância de Rafael, que é presumida, mas foi afastada pelas provas de seleção rigorosa e de proibição do uso do celular.",
+    "Errada. A presunção de culpa in eligendo ou in vigilando (Súmula 341/STF) foi superada pelo art. 933 do CC, que estabelece responsabilidade independentemente de culpa do empregador. A prova de diligência na escolha não o exime."
+   ],
+   [
+    "Sigma responde mesmo que Rafael não tenha agido com culpa, bastando à vítima provar o nexo entre o dano e a utilização de veículo da empresa durante a entrega.",
+    "Errada. A responsabilidade do empregador é objetiva quanto à sua conduta, mas pressupõe ato ilícito do empregado. Se Rafael não tivesse agido com culpa, não haveria responsabilidade por fato de outrem nos termos do art. 932, III."
+   ],
+   [
+    "A responsabilidade de Sigma é subsidiária, de modo que Sara deve primeiro executar o patrimônio de Rafael e só depois, se insuficiente, o da empregadora.",
+    "Errada. São solidariamente responsáveis com os autores as pessoas designadas no art. 932 (art. 942, parágrafo único). A vítima pode demandar apenas a empregadora, como fez Sara."
+   ],
+   [
+    "Sigma, ao indenizar Sara, não terá direito de regresso contra Rafael, porque o empregador assume integralmente o risco da atividade de seus empregados.",
+    "Errada. Aquele que ressarcir o dano causado por outrem pode reaver o que houver pago daquele por quem pagou (art. 934). A única ressalva legal é o causador do dano descendente incapaz."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 932, III, 933, 934 e 942, parágrafo único; Súmula 341/STF (superada pelo CC/2002).",
+  "dica": "Empregador: responde SEM culpa própria (art. 933), mas exige culpa do empregado; solidário com ele (art. 942, p. ún.); tem regresso (art. 934), salvo contra descendente incapaz."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V18",
+  "nivel": "difícil",
+  "tema": "LGPD entre particulares: consentimento, legítimo interesse e dados de crianças (Lei 13.709/2018, arts. 7º, 8º, 10, 11 e 14)",
+  "enun": "O Colégio Aprender, escola particular de ensino fundamental, lançou um aplicativo para alunos de 6 a 11 anos e seus pais. No contrato de matrícula, uma cláusula sem destaque autoriza \"o tratamento de quaisquer dados pessoais para todas as finalidades da escola\". O aplicativo exige que a criança informe endereço, nome dos pais e foto para participar de um jogo educativo que não depende desses dados. O colégio implantou leitura facial dos alunos para controle de frequência, com fundamento no seu legítimo interesse, e passou a enviar aos pais ofertas de produtos de parceiros comerciais. Em uma excursão, um professor anotou o telefone informado por um aluno perdido para contatar os pais, e descartou o registro após a ligação. A mãe de uma aluna revogou o consentimento, mas a escola condicionou a revogação à demonstração de prejuízo. Considerando a Lei Geral de Proteção de Dados, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "É lícita a coleta, sem consentimento, de dado da criança para contatar os pais, usado uma só vez e sem armazenamento, mas o jogo não pode exigir dados desnecessários.",
+    "CORRETA. Podem ser coletados dados de crianças sem o consentimento dos pais quando necessária para contatá-los, utilizados uma única vez e sem armazenamento, ou para a proteção da criança (art. 14, §3º). Os controladores não devem condicionar a participação em jogos e aplicações ao fornecimento de informações além das estritamente necessárias à atividade (art. 14, §4º)."
+   ],
+   [
+    "A cláusula do contrato de matrícula supre o consentimento exigido para os dados das crianças, pois foi firmada pelos pais, que são os representantes legais dos alunos.",
+    "Errada. O consentimento para dados de crianças deve ser específico e em destaque, dado por pelo menos um dos pais ou responsável (art. 14, §1º), e as autorizações genéricas são nulas (art. 8º, §4º)."
+   ],
+   [
+    "O legítimo interesse do colégio fundamenta a leitura facial dos alunos para controle de frequência, por se tratar de finalidade legítima ligada à atividade educacional.",
+    "Errada. O dado biométrico é dado pessoal sensível (art. 5º, II), e as hipóteses de tratamento de dados sensíveis (art. 11) não incluem o legítimo interesse do controlador, que só é base legal para dados não sensíveis (art. 7º, IX, e art. 10)."
+   ],
+   [
+    "A revogação do consentimento pode ser condicionada à demonstração de prejuízo, porque o tratamento já iniciado com base legal válida gera direito adquirido ao controlador.",
+    "Errada. O consentimento pode ser revogado a qualquer momento, mediante manifestação expressa do titular, por procedimento gratuito e facilitado (art. 8º, §5º), ratificados os tratamentos anteriores enquanto não houver requerimento de eliminação."
+   ],
+   [
+    "Em eventual litígio, cabe à mãe provar que o consentimento não foi obtido em conformidade com a lei, por se tratar de fato constitutivo do direito que alega.",
+    "Errada. Cabe ao controlador o ônus da prova de que o consentimento foi obtido em conformidade com a LGPD (art. 8º, §2º)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 13.709/2018, arts. 5º, II, 7º, I e IX, 8º, §§2º, 4º e 5º, 10, 11 e 14, §§1º, 3º e 4º.",
+  "dica": "Criança: consentimento ESPECÍFICO e EM DESTAQUE de um dos pais; sem consentimento só para contatar os pais (uma vez, sem guardar) ou protegê-la; nada de exigir dado extra para jogo. Dado sensível (biometria) não admite legítimo interesse."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V20",
+  "nivel": "médio",
+  "tema": "Superendividamento: conceito, repactuação e plano compulsório (CDC, arts. 54-A a 54-G e 104-A a 104-C)",
+  "enun": "Teresa, professora aposentada de 68 anos, acumulou dívidas com cartão de crédito, empréstimo pessoal, crédito consignado e cheque especial, além de um financiamento imobiliário de sua casa própria. As parcelas comprometem quase toda a sua aposentadoria, e ela não consegue pagar as contas de água e luz. Assistida pela Defensoria Pública, requereu ao juízo a instauração de processo de repactuação de dívidas, apresentando plano de pagamento. Designada a audiência conciliatória, o banco credor do empréstimo pessoal, cujo valor era certo e conhecido pela consumidora, não compareceu nem justificou a ausência. Os demais credores compareceram, mas não houve acordo com a administradora do cartão. Um dos credores sustentou, ainda, que o pedido de Teresa equivaleria à declaração de sua insolvência civil. Considerando o Código de Defesa do Consumidor, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O financiamento imobiliário fica fora da repactuação, e o banco ausente sujeita-se compulsoriamente ao plano, com suspensão da exigibilidade e dos encargos da mora.",
+    "CORRETA. Excluem-se do processo de repactuação as dívidas de contratos de crédito com garantia real, de financiamentos imobiliários e de crédito rural (art. 104-A, §1º). O não comparecimento injustificado do credor acarreta a suspensão da exigibilidade do débito, a interrupção dos encargos da mora e a sujeição compulsória ao plano, se o montante for certo e conhecido (art. 104-A, §2º)."
+   ],
+   [
+    "O plano de pagamento apresentado por Teresa pode ter prazo de até dez anos, desde que sejam preservados o mínimo existencial e as garantias originalmente pactuadas.",
+    "Errada. O plano de pagamento apresentado pelo consumidor tem prazo máximo de cinco anos, preservados o mínimo existencial e as garantias e formas de pagamento originalmente pactuadas (art. 104-A, caput)."
+   ],
+   [
+    "O pedido de repactuação importa declaração de insolvência civil de Teresa e só poderá ser renovado depois de cinco anos contados da homologação do plano.",
+    "Errada. O pedido não importa declaração de insolvência civil e pode ser repetido somente após dois anos, contados da liquidação das obrigações previstas no plano homologado (art. 104-A, §5º)."
+   ],
+   [
+    "Frustrada a conciliação com a administradora do cartão, o juiz pode impor plano judicial compulsório que reduza o principal da dívida, desde que quitada em até cinco anos.",
+    "Errada. O plano judicial compulsório (art. 104-B, §4º) deve assegurar aos credores, no mínimo, o valor do principal devido, corrigido monetariamente, com liquidação em no máximo cinco anos e primeira parcela em até 180 dias da homologação."
+   ],
+   [
+    "Integram o processo de repactuação quaisquer dívidas de consumo, inclusive as contraídas dolosamente sem o propósito de pagar e as de aquisição de produtos de luxo.",
+    "Errada. O regime do superendividamento não se aplica às dívidas contraídas mediante fraude ou má-fé, oriundas de contratos celebrados dolosamente sem o propósito de pagamento ou de aquisição de produtos e serviços de luxo de alto valor (art. 54-A, §3º; art. 104-A, §1º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CDC, arts. 54-A, §§1º e 3º, 104-A, caput e §§1º, 2º e 5º, 104-B e 104-C (Lei 14.181/2021).",
+  "dica": "Superendividamento: pessoa natural de boa-fé. Plano do consumidor: até 5 anos. Fora: garantia real, imobiliário, rural, dolo e luxo. Credor faltoso: suspensão, sem encargos e plano compulsório. Plano judicial: no mínimo o principal corrigido, em até 5 anos. Pode repetir 2 anos após quitar."
+ },
+ {
+  "disc": "Direito Empresarial",
+  "item": "E02",
+  "nivel": "médio",
+  "tema": "Nome empresarial: firma x denominação, veracidade e novidade (CC, arts. 1.155 a 1.168)",
+  "enun": "A sociedade Silva & Souza Comércio de Tecidos Ltda. teve a retirada do sócio Mário Souza, e os sócios remanescentes decidiram manter o nome empresarial, por ser conhecido no mercado. Em alguns contratos de fornecimento, o administrador assinou apenas \"Silva & Souza Comércio de Tecidos\", sem a palavra final do tipo societário. Os sócios pretendem, ainda, vender o estabelecimento da filial a Nilton, que deseja usar o nome da sociedade como se fosse seu, sem qualquer acréscimo. Em paralelo, os mesmos empresários constituíram uma sociedade anônima e querem que ela opere sob firma composta pelo nome do acionista fundador, e firmaram com terceiros uma sociedade em conta de participação, para a qual desejam registrar nome próprio. Por fim, querem saber se o registro na Junta Comercial do seu Estado protege o nome em todo o país. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O nome de Mário Souza não pode ser conservado na firma, e o administrador que omitiu a palavra limitada responde solidária e ilimitadamente por essas obrigações.",
+    "CORRETA. O nome de sócio que se retirar não pode ser conservado na firma social (art. 1.165), em atenção ao princípio da veracidade. A omissão da palavra limitada determina a responsabilidade solidária e ilimitada dos administradores que assim empregarem a firma ou a denominação (art. 1.158, §3º)."
+   ],
+   [
+    "Nilton pode adquirir o nome empresarial com o estabelecimento e usá-lo isoladamente, porque o nome integra o fundo de comércio e acompanha a sua alienação.",
+    "Errada. O nome empresarial não pode ser objeto de alienação (art. 1.164). O adquirente do estabelecimento, se o contrato permitir, pode usar o nome do alienante precedido do seu próprio, com a qualificação de sucessor (parágrafo único)."
+   ],
+   [
+    "A sociedade anônima pode operar sob firma composta pelo nome do acionista fundador, desde que acrescida das expressões sociedade anônima ou companhia.",
+    "Errada. A sociedade anônima opera sob denominação, integrada pelas expressões sociedade anônima ou companhia (art. 1.160). O nome do fundador pode constar da denominação (parágrafo único), mas não há firma na S.A."
+   ],
+   [
+    "A sociedade em conta de participação pode adotar firma ou denominação próprias, desde que seu contrato social seja previamente arquivado na Junta Comercial.",
+    "Errada. A sociedade em conta de participação não pode ter firma ou denominação (art. 1.162), e o registro do seu contrato não lhe confere personalidade jurídica (art. 993)."
+   ],
+   [
+    "A inscrição na Junta Comercial assegura o uso exclusivo do nome em todo o território nacional, independentemente de qualquer outro registro.",
+    "Errada. A inscrição assegura o uso exclusivo do nome nos limites do respectivo Estado; a extensão a todo o território nacional depende de registro na forma da lei especial (art. 1.166 e parágrafo único)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 993, 1.155, 1.157, 1.158, §3º, 1.160, 1.162, 1.164, 1.165 e 1.166.",
+  "dica": "Firma = nome civil (assinatura); denominação = nome fantasia/objeto. S.A.: só denominação. Limitada: firma ou denominação + \"limitada\" (sem ela, administrador responde ilimitadamente). Nome não se vende; sócio que sai, sai do nome. Proteção: no Estado."
+ },
+ {
+  "disc": "Direito Empresarial",
+  "item": "E10",
+  "nivel": "difícil",
+  "tema": "Recuperação judicial: requisitos do devedor e produtor rural (Lei 11.101/2005, art. 48; Tema 1.145/STJ)",
+  "enun": "Vicente explora atividade agrícola de forma empresarial há doze anos, com dezenas de empregados e produção voltada à exportação, mas só se inscreveu no Registro Público de Empresas Mercantis dois meses antes de ajuizar pedido de recuperação judicial. Os credores impugnaram o pedido, sustentando que o devedor deveria ter mais de dois anos de registro. No mesmo juízo tramitam outros dois pedidos: o da sociedade Beta Ltda., que obteve a concessão de recuperação judicial há quatro anos e cumpriu integralmente o plano; e o da sociedade Gama Ltda., cujo sócio controlador, que não exerce a administração, foi condenado definitivamente por crime previsto na Lei de Falências. Considerando a Lei 11.101/2005 e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Vicente pode requerer a recuperação judicial, pois basta a inscrição na Junta Comercial na data do pedido, computando-se a atividade anterior ao registro.",
+    "CORRETA. O STJ (Tema 1.145) fixou que ao produtor rural que exerça sua atividade de forma empresarial há mais de dois anos é facultado requerer a recuperação judicial, desde que esteja inscrito na Junta Comercial no momento do pedido, independentemente do tempo de seu registro. O registro do produtor rural é declaratório (CC, art. 971)."
+   ],
+   [
+    "Vicente não pode requerer a recuperação judicial, pois o prazo de dois anos de exercício regular da atividade é contado exclusivamente a partir da inscrição na Junta Comercial.",
+    "Errada. Para o produtor rural, o registro tem natureza declaratória, e o exercício regular por mais de dois anos (art. 48, caput) pode ser comprovado pelo período anterior à inscrição (Tema 1.145/STJ)."
+   ],
+   [
+    "Vicente poderia requerer a recuperação judicial mesmo sem qualquer inscrição na Junta Comercial, porque a atividade rural empresarial é comprovada por documentos fiscais.",
+    "Errada. A tese do STJ exige que o produtor rural esteja inscrito na Junta Comercial no momento em que formaliza o pedido. Sem o registro, ele não se submete ao regime empresarial (CC, art. 971)."
+   ],
+   [
+    "A sociedade Beta pode requerer nova recuperação judicial, porque o impedimento legal alcança apenas o devedor que obteve a concessão há menos de três anos.",
+    "Errada. Não pode requerer recuperação judicial o devedor que, há menos de cinco anos, tenha obtido concessão de recuperação judicial (art. 48, II), prazo também aplicável ao plano especial (art. 48, III)."
+   ],
+   [
+    "A sociedade Gama pode requerer a recuperação judicial, porque a condenação por crime falimentar só impede o pedido quando a pessoa condenada exerce a administração da sociedade.",
+    "Errada. O art. 48, IV, impede o pedido do devedor que tenha como administrador OU sócio controlador pessoa condenada por crime previsto na Lei 11.101/2005."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 11.101/2005, art. 48, caput e I a IV; CC, arts. 970 e 971; STJ, Tema 1.145 (REsp 1.905.573).",
+  "dica": "RJ (art. 48): mais de 2 anos de atividade regular; não falido (ou extintas as obrigações); sem RJ concedida há menos de 5 anos (comum ou especial); sem condenação por crime falimentar do devedor, administrador ou controlador. Produtor rural: basta registro na data do pedido."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21b",
+  "nivel": "médio",
+  "tema": "Furto qualificado e privilegiado-qualificado (CP, art. 155, §§1º, 2º e 4º; Súmulas 442 e 511/STJ)",
+  "enun": "Wagner e Xavier, de comum acordo, entraram às duas horas da madrugada na garagem aberta de um edifício residencial, romperam com um alicate o cadeado que prendia uma bicicleta e a levaram, sendo presos horas depois. A bicicleta foi avaliada em valor inferior a um salário mínimo e restituída à vítima. Wagner é primário e tem bons antecedentes; Xavier é reincidente em crime de roubo. Na sentença, o juiz reconheceu o furto qualificado pelo rompimento de obstáculo e pelo concurso de pessoas. A defesa de Wagner pediu o reconhecimento do privilégio, e a de Xavier, a extensão do benefício ao seu cliente. O Ministério Público pediu a incidência da majorante do repouso noturno e a defesa de ambos, subsidiariamente, a aplicação, no lugar da qualificadora do concurso de agentes, da causa de aumento prevista para o roubo, por ser mais branda. Considerando o Código Penal e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Wagner faz jus ao privilégio, por ser primário, de pequeno valor a coisa e objetivas as qualificadoras, mas não incide no furto qualificado a majorante do repouso noturno.",
+    "CORRETA. É possível o privilégio no furto qualificado se presentes a primariedade, o pequeno valor da coisa e a qualificadora de ordem objetiva (Súmula 511/STJ), como o rompimento de obstáculo e o concurso de pessoas. O STJ, em recurso repetitivo, firmou que a causa de aumento do repouso noturno (art. 155, §1º) não incide na forma qualificada (§4º)."
+   ],
+   [
+    "O privilégio é incompatível com o furto qualificado, pois as qualificadoras revelam maior reprovabilidade e o §2º só se aplica à figura simples do caput.",
+    "Errada. A Súmula 511/STJ admite o furto privilegiado-qualificado, desde que a qualificadora seja objetiva. Seria incompatível, por exemplo, com o abuso de confiança, de natureza subjetiva."
+   ],
+   [
+    "Deve ser aplicada, no lugar da qualificadora do concurso de pessoas, a majorante prevista para o roubo praticado em concurso, por ser mais benéfica aos réus.",
+    "Errada. É inadmissível aplicar, no furto qualificado pelo concurso de agentes, a majorante do roubo (Súmula 442/STJ), sob pena de o juiz criar pena não prevista pelo legislador."
+   ],
+   [
+    "Xavier também faz jus ao privilégio, porque as circunstâncias favoráveis reconhecidas a um dos coautores comunicam-se aos demais participantes do crime.",
+    "Errada. A primariedade é condição de caráter pessoal, que não se comunica ao coautor (CP, art. 30). Sendo reincidente, Xavier não preenche o requisito do art. 155, §2º."
+   ],
+   [
+    "Incide a majorante do repouso noturno sobre a pena do furto qualificado, pois a subtração ocorreu de madrugada, em garagem de edifício residencial.",
+    "Errada. Segundo tese firmada pelo STJ em recurso repetitivo, a causa de aumento do §1º do art. 155 não se aplica ao furto qualificado, em razão de sua posição topográfica e da maior pena já cominada no §4º."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 30 e 155, §§1º, 2º e 4º, I e IV; Súmulas 442 e 511/STJ; STJ, recurso repetitivo sobre repouso noturno e furto qualificado.",
+  "dica": "Privilégio + qualificadora: só se a qualificadora for OBJETIVA (Súm. 511). Concurso no furto: não se usa a majorante do roubo (Súm. 442). Repouso noturno: só no furto simples. Primariedade não se comunica."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D07",
+  "nivel": "fácil",
+  "tema": "Crime impossível e vigilância eletrônica (CP, art. 17; Súmula 567/STJ)",
+  "enun": "Yara entrou em um supermercado que possui câmeras de vigilância em todos os corredores e seguranças à paisana. Desde a sua entrada, foi monitorada pela central de câmeras, porque já havia sido vista no local em outras ocasiões. Em um corredor, escondeu na bolsa três peças de picanha e dois frascos de perfume. Quando se dirigia à saída, sem passar pelo caixa, foi abordada por um segurança ainda no interior da loja, e os produtos foram recuperados intactos. Denunciada por tentativa de furto, Yara sustentou, em sua defesa, que o fato seria atípico, porque o monitoramento ininterrupto e a presença dos seguranças tornavam impossível a consumação do delito, de modo que não poderia ser punida. Considerando o Código Penal e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Yara responde por tentativa de furto, pois a vigilância apenas dificulta a consumação, sem tornar o meio empregado absolutamente ineficaz.",
+    "CORRETA. O sistema de vigilância realizado por monitoramento eletrônico ou pela existência de segurança no interior de estabelecimento comercial, por si só, não torna impossível a configuração do crime de furto (Súmula 567/STJ). A ineficácia do meio é apenas relativa, o que caracteriza tentativa punível (art. 14, II)."
+   ],
+   [
+    "Há crime impossível, porque o monitoramento contínuo desde a entrada tornou absolutamente ineficaz o meio empregado para a subtração.",
+    "Errada. O crime impossível exige ineficácia absoluta do meio ou impropriedade absoluta do objeto (art. 17). A vigilância não impede, em qualquer hipótese, a subtração, pois pode falhar (Súmula 567/STJ)."
+   ],
+   [
+    "O fato é atípico, porque o Código Penal adotou a teoria subjetiva da tentativa, que considera apenas o perigo concreto ao bem jurídico.",
+    "Errada. O CP adotou a teoria objetiva temperada quanto ao crime impossível: só é impunível a tentativa quando a ineficácia ou a impropriedade forem absolutas. A teoria subjetiva, ao contrário, puniria até a tentativa absolutamente inidônea."
+   ],
+   [
+    "A ineficácia relativa do meio também caracteriza crime impossível, desde que o agente tenha sido observado durante toda a execução.",
+    "Errada. A ineficácia relativa do meio leva à punição por tentativa. Somente a ineficácia absoluta afasta a punibilidade da tentativa (art. 17)."
+   ],
+   [
+    "O crime impossível é punido como a tentativa, com redução da pena de um a dois terços, por haver início de execução do crime.",
+    "Errada. No crime impossível, não se pune a tentativa (art. 17). A redução de um a dois terços é própria da tentativa punível (art. 14, parágrafo único)."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 14, II e parágrafo único, e 17; Súmula 567/STJ.",
+  "dica": "Câmera e segurança não tornam o furto impossível (Súm. 567): é tentativa. Crime impossível só com ineficácia ABSOLUTA do meio ou impropriedade ABSOLUTA do objeto (teoria objetiva temperada)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D13-16",
+  "nivel": "médio",
+  "tema": "Ação penal privada: decadência, renúncia, perdão e perempção (CP, arts. 103 a 107; CPP, arts. 38, 49, 51, 58 e 60)",
+  "enun": "Bianca, empresária, foi difamada em vídeo publicado nas redes sociais por Caio e Dênis em 10 de janeiro de 2026, e soube da autoria no mesmo dia. Antes de qualquer providência, Caio pagou a Bianca indenização pelos danos materiais causados pelo vídeo. Em junho de 2026, Bianca ofereceu queixa-crime contra ambos. No curso do processo, ela declarou nos autos que perdoava Caio. Intimados para dizer, em três dias, se aceitavam o perdão, Caio o aceitou expressamente, e Dênis declarou que o recusava, pois pretendia provar sua inocência. Mais adiante, o advogado de Bianca apresentou alegações finais em que narrou os fatos, mas não formulou pedido de condenação de Dênis. A defesa de Dênis sustentou que o pagamento feito por Caio importaria renúncia ao direito de queixa. Considerando o Código Penal e o Código de Processo Penal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O perdão dado a Caio estende-se a Dênis, mas não produz efeito quanto a este, que o recusou; e a falta de pedido de condenação nas alegações finais gera perempção.",
+    "CORRETA. O perdão concedido a qualquer dos querelados a todos aproveita, mas não produz efeito em relação ao que o recusar (CP, art. 106, I e III; CPP, art. 51). Considera-se perempta a ação penal quando o querelante deixa de formular pedido de condenação nas alegações finais (CPP, art. 60, III), causa de extinção da punibilidade (CP, art. 107, IV)."
+   ],
+   [
+    "O perdão concedido a Caio não aproveita a Dênis, pois o perdão é ato personalíssimo do ofendido, que deve dirigi-lo individualmente a cada querelado.",
+    "Errada. Pelo princípio da indivisibilidade, o perdão concedido a qualquer dos querelados a todos aproveita (CP, art. 106, I), embora só produza efeito para os que o aceitarem."
+   ],
+   [
+    "O pagamento da indenização por Caio, antes da queixa, importou renúncia tácita ao direito de queixa, que se estende a Dênis e extingue a punibilidade de ambos.",
+    "Errada. Não implica renúncia tácita o fato de receber o ofendido a indenização do dano causado pelo crime (CP, art. 104, parágrafo único). Só haveria extensão a todos se houvesse renúncia (CPP, art. 49)."
+   ],
+   [
+    "O prazo decadencial de seis meses conta-se da data do fato e se interrompe com o requerimento de instauração de inquérito policial pela ofendida.",
+    "Errada. O prazo de seis meses conta-se do dia em que o ofendido veio a saber quem é o autor do crime (CP, art. 103; CPP, art. 38), e, sendo decadencial, não se suspende nem se interrompe. A queixa de junho foi tempestiva."
+   ],
+   [
+    "O silêncio de Dênis, se não tivesse respondido no prazo de três dias, importaria recusa do perdão, mantendo-se o processo em relação a ele.",
+    "Errada. O querelado é intimado a dizer, em três dias, se aceita o perdão, cientificado de que o seu silêncio importará aceitação (CPP, art. 58)."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 103, 104, parágrafo único, 105, 106 e 107, IV e V; CPP, arts. 38, 49, 51, 58 e 60.",
+  "dica": "Renúncia: unilateral, antes da queixa, estende-se a todos; receber indenização NÃO é renúncia. Perdão: bilateral, depois da queixa, aproveita a todos, mas só vale para quem aceita (silêncio = aceitação). Perempção: 30 dias parado, 60 dias sem sucessor, ausência ou sem pedido de condenação."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D17",
+  "nivel": "difícil",
+  "tema": "Marcos interruptivos da prescrição (CP, art. 117; STF, HC 176.473; Súmula 191/STJ)",
+  "enun": "A respeito das causas interruptivas da prescrição da pretensão punitiva previstas no art. 117 do Código Penal, analise as afirmativas a seguir.\n\nI. O acórdão que confirma a sentença condenatória interrompe a prescrição, ainda que mantenha ou reduza a pena imposta em primeiro grau.\n\nII. A pronúncia é causa interruptiva da prescrição, ainda que o Tribunal do Júri venha a desclassificar o crime.\n\nIII. O recebimento da denúncia por juiz absolutamente incompetente interrompe a prescrição, e esse marco subsiste mesmo depois da remessa dos autos ao juízo competente, que não precisa ratificá-lo.\n\nConsiderando o Código Penal e a jurisprudência dos tribunais superiores, está correto o que se afirma em",
+  "alts": [
+   [
+    "I, apenas.",
+    "Errada. A afirmativa II também está correta: a pronúncia é causa interruptiva da prescrição, ainda que o Tribunal do Júri venha a desclassificar o crime (Súmula 191/STJ)."
+   ],
+   [
+    "II, apenas.",
+    "Errada. A afirmativa I também está correta: o STF, no HC 176.473, fixou que o acórdão condenatório sempre interrompe a prescrição (art. 117, IV), inclusive quando confirmatório da sentença, seja mantendo, reduzindo ou aumentando a pena."
+   ],
+   [
+    "I e III, apenas.",
+    "Errada. A afirmativa III está incorreta: o recebimento da denúncia por juiz absolutamente incompetente é ato nulo e não interrompe a prescrição, que só será interrompida pelo recebimento válido pelo juízo competente."
+   ],
+   [
+    "I e II, apenas.",
+    "CORRETA. I: no HC 176.473, o Plenário do STF assentou que, nos termos do art. 117, IV, o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de primeiro grau, mantendo, reduzindo ou aumentando a pena. II: a pronúncia interrompe a prescrição (art. 117, II) ainda que o Júri desclassifique o crime (Súmula 191/STJ). III está errada, porque o ato nulo de juiz absolutamente incompetente não produz o efeito interruptivo."
+   ],
+   [
+    "I, II e III.",
+    "Errada. A afirmativa III está incorreta, porque o recebimento da denúncia por juiz absolutamente incompetente não interrompe a prescrição; o marco interruptivo é o recebimento pelo juízo competente."
+   ]
+  ],
+  "c": 3,
+  "base": "CP, art. 117, I, II, III e IV, e §§1º e 2º; STF, HC 176.473 (Plenário); Súmula 191/STJ.",
+  "dica": "Art. 117: recebimento da denúncia (válido), pronúncia, acórdão que confirma a pronúncia, sentença OU ACÓRDÃO condenatório recorrível (inclusive o que só confirma: HC 176.473), início do cumprimento e reincidência. Pronúncia interrompe mesmo com desclassificação no Júri.",
+  "fixa": true
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D18",
+  "nivel": "médio",
+  "tema": "Descaminho x contrabando: insignificância e desnecessidade de constituição definitiva do crédito (CP, arts. 334 e 334-A)",
+  "enun": "Em operação da Receita Federal na fronteira com o Paraguai, foram flagrados três viajantes. Fernando, sem qualquer registro criminal ou procedimento fiscal anterior, trazia eletrônicos de importação permitida, sem declaração, e os tributos federais iludidos foram calculados em R$ 15 mil. Gilson trazia mercadorias de importação permitida com tributos iludidos de R$ 8 mil, mas responde a outros cinco procedimentos fiscais e a duas ações penais pela mesma conduta nos últimos três anos. Heitor transportava, escondidos no assoalho do carro, cinco mil maços de cigarros estrangeiros sem registro no órgão sanitário. A defesa de Gilson sustentou a falta de justa causa, porque não houve o encerramento do processo administrativo fiscal, e a de Heitor alegou que os cigarros são mercadoria de importação permitida, sujeita apenas a tributos. Considerando o Código Penal e a jurisprudência dos tribunais superiores, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "É aplicável a insignificância a Fernando, mas não a Heitor, pois o contrabando de grande quantidade de cigarros atinge também a saúde pública, e não apenas o erário.",
+    "CORRETA. No descaminho, o STJ e o STF aplicam a insignificância quando os tributos iludidos não ultrapassam R$ 20 mil, valor fixado pelas Portarias 75 e 130/2012 do Ministério da Fazenda, desde que ausente a reiteração. No contrabando, o bem jurídico abrange a saúde, a segurança e a moralidade públicas, e a insignificância, em regra, não se aplica, admitindo o STJ exceção apenas para quantidade pequena de cigarros."
+   ],
+   [
+    "A ação penal contra Gilson depende da constituição definitiva do crédito tributário, aplicando-se ao descaminho o mesmo regime da Súmula Vinculante 24.",
+    "Errada. O descaminho é crime formal, que se consuma com a ilusão do tributo na entrada da mercadoria, e a jurisprudência do STF e do STJ dispensa a constituição definitiva do crédito tributário, sendo inaplicável a Súmula Vinculante 24."
+   ],
+   [
+    "A Gilson aplica-se a insignificância, porque os tributos iludidos são inferiores a R$ 20 mil, sendo irrelevante a reiteração da conduta para esse fim.",
+    "Errada. A jurisprudência do STJ entende que a reiteração delitiva obsta, em regra, a aplicação da insignificância ao descaminho, independentemente do valor do tributo, ressalvado o exame excepcional das instâncias ordinárias."
+   ],
+   [
+    "Heitor responde por descaminho, pois cigarros são mercadoria de importação permitida, e a ausência de registro sanitário gera apenas infração administrativa.",
+    "Errada. A importação de cigarros estrangeiros sem registro no órgão sanitário configura contrabando (art. 334-A), por se tratar de mercadoria de importação proibida em razão da falta de autorização sanitária."
+   ],
+   [
+    "Contrabando e descaminho têm a mesma pena, de um a quatro anos de reclusão, e distinguem-se apenas pelo valor das mercadorias introduzidas no país.",
+    "Errada. O descaminho (iludir tributo sobre mercadoria permitida) é punido com reclusão de 1 a 4 anos (art. 334); o contrabando (importar ou exportar mercadoria proibida) com reclusão de 2 a 5 anos (art. 334-A)."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 334 e 334-A; Súmula Vinculante 24 (inaplicável ao descaminho); Portarias MF 75 e 130/2012; jurisprudência do STF e do STJ.",
+  "dica": "Descaminho: mercadoria PERMITIDA, tributo iludido; crime formal (sem SV 24); insignificância até R$ 20 mil, salvo reiteração. Contrabando: mercadoria PROIBIDA (cigarro sem registro), pena 2 a 5; insignificância em regra não."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21d",
+  "nivel": "fácil",
+  "tema": "Denunciação caluniosa x falso testemunho: retratação e consumação (CP, arts. 339, 340 e 342)",
+  "enun": "Igor, para prejudicar seu vizinho Júlio, com quem tinha antiga desavença, compareceu à delegacia e registrou ocorrência afirmando que Júlio havia furtado seu carro, embora soubesse que ele era inocente. Com base na notícia, foi instaurado inquérito policial contra Júlio. Duas semanas depois, arrependido, Igor voltou à delegacia e declarou que havia mentido, antes da conclusão das investigações. Em outro processo, uma ação penal por lesão corporal, Kátia, arrolada como testemunha de acusação e devidamente compromissada, afirmou falsamente ter presenciado as agressões. Ao final da instrução, antes da sentença, Kátia procurou o juiz e declarou a verdade, esclarecendo que não estava no local dos fatos. O Ministério Público requisitou a instauração de investigações contra Igor e Kátia. Considerando o Código Penal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Igor praticou denunciação caluniosa, e sua retratação não extingue a punibilidade; já a retratação de Kátia, feita antes da sentença, torna o fato não punível.",
+    "CORRETA. Dar causa à instauração de inquérito policial contra alguém, imputando-lhe crime de que o sabe inocente, é denunciação caluniosa (art. 339), consumada com a instauração da investigação; não há previsão de retratação extintiva. No falso testemunho, o fato deixa de ser punível se, antes da sentença no processo em que ocorreu o ilícito, o agente se retrata ou declara a verdade (art. 342, §2º)."
+   ],
+   [
+    "Igor praticou comunicação falsa de crime, pois apenas noticiou um fato à autoridade policial, sem que tenha sido instaurado processo judicial contra Júlio.",
+    "Errada. A comunicação falsa de crime (art. 340) não imputa o fato a pessoa determinada. Como Igor apontou Júlio, sabendo-o inocente, e deu causa à instauração de inquérito, o crime é o do art. 339, que não exige processo judicial."
+   ],
+   [
+    "A retratação de Igor, feita antes da conclusão do inquérito, extingue sua punibilidade, aplicando-se por analogia a regra prevista para o falso testemunho.",
+    "Errada. O art. 339 não prevê a retratação como causa extintiva, e a extinção da punibilidade pela retratação só ocorre nos casos em que a lei a admite (art. 107, VI). O arrependimento pode, no máximo, influir na pena."
+   ],
+   [
+    "A retratação de Kátia só afastaria a punibilidade se fosse feita antes do recebimento da denúncia oferecida contra ela pelo crime de falso testemunho.",
+    "Errada. O marco é a sentença no processo em que ocorreu o ilícito, e não o recebimento de denúncia no processo por falso testemunho (art. 342, §2º)."
+   ],
+   [
+    "O falso testemunho de Kátia só se consumaria com a prolação de sentença que se baseasse no depoimento falso, razão pela qual o fato é atípico.",
+    "Errada. O falso testemunho é crime formal, que se consuma com o encerramento do depoimento falso, independentemente de influir na decisão. A retratação antes da sentença é causa de extinção da punibilidade, e não elemento do tipo."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 107, VI, 339, 340 e 342, §2º.",
+  "dica": "Denunciação caluniosa: pessoa determinada + sabe inocente + instaura investigação; retratação NÃO extingue. Comunicação falsa: sem apontar ninguém. Falso testemunho: formal; retratação antes da sentença do processo onde mentiu = não punível."
+ }
+]

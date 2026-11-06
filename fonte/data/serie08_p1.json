@@ -1,0 +1,387 @@
+[
+ {
+  "disc": "Direito Constitucional",
+  "item": "C15",
+  "nivel": "médio",
+  "tema": "Cláusula de reserva de plenário (CF, art. 97; SV 10; CPC, art. 949, parágrafo único)",
+  "enun": "Em uma mesma sessão, a 3ª Câmara Cível do Tribunal de Justiça do Estado Delta julgou três apelações. Na primeira, interposta por Augusto, o colegiado, por unanimidade, afastou a aplicação de lei estadual de 2019 que fixava prazo decadencial para revisão de benefício, afirmando no acórdão que \"não se declara a inconstitucionalidade da norma, mas apenas se deixa de aplicá-la, por incompatível com o art. 5º, XXXVI, da Constituição\". Na segunda, interposta por Beatriz, a Câmara deixou de aplicar lei estadual cuja inconstitucionalidade já havia sido declarada pelo Órgão Especial do próprio Tribunal em incidente anterior. Na terceira, interposta por Caio, a Câmara deixou de aplicar decreto-lei estadual de 1975, por considerá-lo incompatível com a Constituição de 1988, sem submeter a questão ao Órgão Especial. Em todos os casos, as partes vencidas alegaram violação da cláusula de reserva de plenário. Considerando a Constituição Federal, o Código de Processo Civil e a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Houve violação da reserva de plenário apenas no caso de Augusto, já que nos casos de Beatriz e de Caio havia pronunciamento prévio do Órgão Especial e juízo de não recepção, respectivamente.",
+    "CORRETA. Viola o art. 97 a decisão de órgão fracionário que, embora não declare expressamente a inconstitucionalidade, afasta a incidência da lei no todo ou em parte (SV 10). Dispensa-se a remessa quando já houver pronunciamento do plenário ou órgão especial do tribunal ou do plenário do STF sobre a questão (CPC, art. 949, parágrafo único), e o juízo de não recepção de norma pré-constitucional não é declaração de inconstitucionalidade, não se sujeitando ao art. 97."
+   ],
+   [
+    "Houve violação nos três casos, porque somente o plenário ou o órgão especial pode deixar de aplicar lei por incompatibilidade com a Constituição, qualquer que seja a data da norma.",
+    "Errada. O CPC dispensa a remessa quando já há pronunciamento do órgão especial (art. 949, parágrafo único), e a análise de direito pré-constitucional é de recepção ou revogação, à qual não se aplica a reserva de plenário."
+   ],
+   [
+    "Não houve violação em nenhum caso, porque a reserva de plenário só é exigida quando o órgão fracionário declara expressamente a inconstitucionalidade no dispositivo do acórdão.",
+    "Errada. A SV 10 equipara à declaração de inconstitucionalidade o afastamento da incidência da lei por fundamento constitucional, ainda que o acórdão negue estar declarando a inconstitucionalidade, como no caso de Augusto."
+   ],
+   [
+    "Houve violação nos casos de Augusto e de Beatriz, pois a dispensa da remessa exige pronunciamento do plenário do STF em controle concentrado, não bastando decisão do órgão especial local.",
+    "Errada. O parágrafo único do art. 949 do CPC dispensa a remessa quando houver pronunciamento do plenário ou do órgão especial do próprio tribunal, ou do plenário do STF, sem exigir controle concentrado."
+   ],
+   [
+    "Houve violação nos casos de Augusto e de Caio, porque a incompatibilidade de norma anterior à Constituição com o texto vigente configura inconstitucionalidade superveniente sujeita ao art. 97.",
+    "Errada. O STF não admite a inconstitucionalidade superveniente: a norma pré-constitucional incompatível é não recepcionada (revogada), e o órgão fracionário pode reconhecer isso sem submeter a questão ao plenário."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 97; Súmula Vinculante 10; CPC, arts. 948 e 949, parágrafo único; STF, ADI 2 (não recepção).",
+  "dica": "SV 10: \"não declarou, mas afastou\" = violou o art. 97. Dispensa: precedente do pleno/órgão especial local ou do pleno do STF. Norma pré-88: não recepção, sem reserva de plenário."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C08t",
+  "nivel": "médio",
+  "tema": "Competência da Justiça do Trabalho (CF, art. 114; ADI 3.395; SVs 22 e 23)",
+  "enun": "Quatro ações foram ajuizadas na comarca de Vale Verde. Na primeira, Denise, servidora ocupante de cargo efetivo do Município de Vale Verde, regida pelo estatuto municipal, pede o pagamento de adicional de insalubridade previsto no estatuto. Na segunda, o Banco Horizonte S.A. ajuizou interdito proibitório para impedir que bancários grevistas bloqueassem o acesso às suas agências. Na terceira, Edson, empregado de uma metalúrgica, pede indenização por danos morais e materiais contra a empregadora em razão de acidente de trabalho que lhe amputou dois dedos. Na quarta, o mesmo Edson pede ao INSS a concessão de auxílio-acidente decorrente do mesmo infortúnio. Considerando a Constituição Federal e a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Compete à Justiça do Trabalho julgar o interdito proibitório do banco e a ação indenizatória de Edson contra a empregadora, e à Justiça comum as ações de Denise e de Edson contra o INSS.",
+    "CORRETA. Compete à JT a ação possessória ajuizada em decorrência do exercício do direito de greve pelos trabalhadores da iniciativa privada (SV 23; art. 114, II) e as ações de indenização por dano moral ou patrimonial decorrentes da relação de trabalho, inclusive de acidente de trabalho (art. 114, VI; SV 22). O STF excluiu do art. 114, I, as causas entre o Poder Público e servidores estatutários (ADI 3.395), e a ação acidentária contra o INSS é da Justiça estadual (art. 109, I)."
+   ],
+   [
+    "Compete à Justiça do Trabalho julgar as quatro ações, porque todas decorrem de relação de trabalho em sentido amplo, conceito adotado pela EC 45/2004.",
+    "Errada. Na ADI 3.395, o STF deu interpretação conforme ao art. 114, I, para excluir as causas instauradas entre o Poder Público e seus servidores estatutários. A ação acidentária contra o INSS foi expressamente ressalvada para a Justiça comum (art. 109, I)."
+   ],
+   [
+    "Compete à Justiça comum o interdito proibitório do banco, por se tratar de ação possessória de natureza civil, e à Justiça do Trabalho a ação de Denise.",
+    "Errada. A SV 23 atribui à JT a possessória ajuizada em razão de greve de trabalhadores da iniciativa privada. A ação da servidora estatutária é da Justiça comum (ADI 3.395)."
+   ],
+   [
+    "Compete à Justiça comum estadual a ação indenizatória de Edson contra a empregadora, por se tratar de acidente de trabalho, e à Justiça do Trabalho a ação contra o INSS.",
+    "Errada. A competência é invertida. A indenização por acidente de trabalho movida pelo empregado contra o empregador é da JT (SV 22; art. 114, VI); a ação acidentária contra a autarquia previdenciária é da Justiça estadual (art. 109, I)."
+   ],
+   [
+    "Compete à Justiça Federal a ação de Edson contra o INSS, por ser autarquia federal, e à Justiça do Trabalho a ação de Denise, por envolver adicional de insalubridade.",
+    "Errada. As causas de acidente do trabalho são excluídas da competência da Justiça Federal mesmo quando figura o INSS (art. 109, I), cabendo à Justiça estadual. A ação de Denise é da Justiça comum, pelo vínculo estatutário."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 109, I, e 114, I, II e VI; STF, ADI 3.395; Súmulas Vinculantes 22 e 23.",
+  "dica": "JT: greve privada e possessória (SV 23), dano moral/acidente contra o EMPREGADOR (SV 22). Fora da JT: estatutário (ADI 3.395) e acidentária contra o INSS (Justiça estadual)."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C11",
+  "nivel": "fácil",
+  "tema": "Publicidade administrativa: promoção pessoal (CF, art. 37, §1º) e divulgação da remuneração (Tema 483/STF)",
+  "enun": "Fabrício, Prefeito do Município de Santa Luzia, determinou que todas as placas das obras de pavimentação contivessem a frase \"Mais uma obra do Prefeito Fabrício\", acompanhada de sua fotografia e do slogan usado em sua campanha eleitoral. As placas foram custeadas com recursos do orçamento municipal. Ao mesmo tempo, em cumprimento à legislação de acesso à informação, o Município passou a divulgar no portal da transparência o nome de cada servidor, o cargo ocupado e o valor da respectiva remuneração. Glória, servidora municipal, ajuizou ação pedindo a retirada de seu nome do portal, alegando violação à intimidade e risco à segurança. Considerando a Constituição Federal e a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "As placas violam a Constituição, por conterem nome, imagem e símbolo que caracterizam promoção pessoal, e a divulgação nominal da remuneração de Glória é legítima.",
+    "CORRETA. A publicidade dos atos, obras e campanhas deve ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal (art. 37, §1º). O STF fixou ser legítima a publicação, inclusive em sítio eletrônico da Administração, dos nomes dos servidores e do valor dos vencimentos e vantagens (Tema 483)."
+   ],
+   [
+    "As placas são válidas, pois informam a população sobre a autoria das obras, e a divulgação nominal da remuneração de Glória viola sua intimidade.",
+    "Errada. A indicação do nome e da imagem do governante com slogan de campanha é promoção pessoal vedada pelo art. 37, §1º. E o STF considera legítima a divulgação nominal da remuneração (Tema 483)."
+   ],
+   [
+    "As placas só seriam inválidas se contivessem símbolo de partido político, e a divulgação da remuneração deve ser feita apenas pelo número de matrícula.",
+    "Errada. A vedação alcança nomes, símbolos ou imagens que caracterizem promoção pessoal, com ou sem símbolo partidário. O STF admite a divulgação com o nome do servidor (Tema 483)."
+   ],
+   [
+    "As placas são inválidas e a divulgação da remuneração também, porque a publicidade administrativa não pode identificar nenhum agente público, seja autoridade, seja servidor.",
+    "Errada. A vedação do §1º diz respeito à promoção pessoal na publicidade institucional. A divulgação da remuneração atende à publicidade e ao controle social, e o interesse público prevalece sobre a intimidade (Tema 483)."
+   ],
+   [
+    "As placas só seriam inválidas se custeadas com recursos próprios do Prefeito, e a divulgação da remuneração depende de autorização individual do servidor.",
+    "Errada. O custeio com dinheiro público agrava a ilicitude, que pode configurar improbidade (Lei 8.429/1992, art. 11, XII). A divulgação da remuneração independe de consentimento do servidor (Tema 483)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 5º, XXXIII, e 37, caput e §1º; Lei 12.527/2011; Lei 8.429/1992, art. 11, XII; STF, Tema 483 (ARE 652.777).",
+  "dica": "Publicidade institucional: educa, informa, orienta; nunca promove o governante. Salário do servidor com nome no portal: pode (Tema 483)."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C12",
+  "nivel": "difícil",
+  "tema": "Defensoria Pública: autonomia, orçamento, poder de requisição (ADI 6.852) e vedações (CF, art. 134)",
+  "enun": "No Estado Ípsilon, lei de iniciativa do Governador vinculou a Defensoria Pública à Secretaria de Justiça, cabendo ao Secretário aprovar a lotação dos defensores. Na consolidação do projeto de lei orçamentária, o Governador reduziu, por ato próprio, a proposta orçamentária enviada pela Defensoria, elaborada dentro dos limites da lei de diretrizes orçamentárias. Na mesma época, o defensor público Henrique requisitou a um hospital estadual o prontuário de um assistido, para instruir ação de indenização, e a direção do hospital recusou-se, alegando que só o juiz poderia determinar a entrega. Por fim, a defensora Íris consultou a corregedoria sobre a possibilidade de patrocinar, em caráter particular, causas de parentes fora do expediente. Considerando a Constituição Federal e a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A vinculação à Secretaria de Justiça e o corte unilateral da proposta são inconstitucionais, a requisição de Henrique é válida, e Íris não pode exercer a advocacia fora das atribuições institucionais.",
+    "CORRETA. Às Defensorias Estaduais são asseguradas autonomia funcional e administrativa e a iniciativa da proposta orçamentária (art. 134, §2º), o que impede a subordinação ao Executivo e o corte unilateral pelo Governador, cabendo ao Legislativo eventuais ajustes. O STF declarou constitucional o poder de requisição dos defensores (ADI 6.852), e o §1º veda o exercício da advocacia fora das atribuições institucionais."
+   ],
+   [
+    "A vinculação à Secretaria é válida, pois a Defensoria integra o Poder Executivo, mas o corte da proposta é inconstitucional, e o poder de requisição depende de autorização judicial.",
+    "Errada. A Defensoria não é subordinada ao Executivo: tem autonomia funcional e administrativa (art. 134, §2º). E o STF reconheceu a constitucionalidade da requisição direta pelos defensores, sem intermediação judicial (ADI 6.852)."
+   ],
+   [
+    "O corte da proposta é válido, porque cabe ao Governador consolidar o orçamento, e a requisição de Henrique é inconstitucional, por conferir à Defensoria prerrogativa que a advocacia privada não tem.",
+    "Errada. O STF afasta a redução unilateral da proposta da Defensoria pelo Executivo, elaborada dentro da LDO. Na ADI 6.852, entendeu que a requisição não quebra a paridade de armas, pois instrumentaliza o acesso à justiça dos necessitados."
+   ],
+   [
+    "A vinculação e o corte são inconstitucionais, e a requisição é válida, mas Íris pode advogar para parentes, pois a vedação constitucional alcança apenas a advocacia remunerada contra o Estado.",
+    "Errada. O art. 134, §1º, veda o exercício da advocacia fora das atribuições institucionais, sem ressalva quanto a parentes ou ao tipo de causa."
+   ],
+   [
+    "A autonomia administrativa e a iniciativa orçamentária são asseguradas apenas à Defensoria Pública da União, cabendo às Defensorias Estaduais a autonomia funcional.",
+    "Errada. A autonomia funcional e administrativa e a iniciativa da proposta orçamentária foram asseguradas primeiro às Defensorias Estaduais (art. 134, §2º, EC 45/2004) e depois estendidas à DPU e à do DF (§3º, EC 74/2013)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 99, §2º, e 134, §§1º a 4º; LC 80/1994; STF, ADI 6.852.",
+  "dica": "Defensoria: autonomia funcional e administrativa + proposta orçamentária (§2º, Estados; §3º, DPU/DF). Governador não corta sozinho. Requisição: constitucional (ADI 6.852). Advocacia privada: vedada."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C01",
+  "nivel": "médio",
+  "tema": "Poder constituinte originário x derivado (ADCT, art. 17)",
+  "enun": "Analise as afirmativas a seguir sobre o poder constituinte.\nI. O poder constituinte originário é inicial, ilimitado juridicamente e incondicionado, razão pela qual não se lhe pode opor direito adquirido, como evidencia o art. 17 do ADCT, que determinou a redução imediata de remunerações e proventos percebidos em desacordo com a Constituição, sem admitir a invocação de direito adquirido.\nII. Segundo a jurisprudência do Supremo Tribunal Federal, é possível declarar a inconstitucionalidade de norma constitucional originária quando contrariar cláusula pétrea ou princípio constitucional de hierarquia superior, à luz da teoria das normas constitucionais inconstitucionais.\nIII. O poder constituinte derivado reformador é subordinado e condicionado, sujeitando-se a limites formais, circunstanciais e materiais, de modo que a Constituição não pode ser emendada na vigência de intervenção federal, de estado de defesa ou de estado de sítio.\nEstá correto o que se afirma em",
+  "alts": [
+   [
+    "I, apenas.",
+    "Errada. A afirmativa III também está correta: o art. 60, §1º, veda emenda na vigência de intervenção federal, estado de defesa ou estado de sítio, e o poder reformador se submete aos limites do art. 60."
+   ],
+   [
+    "II, apenas.",
+    "Errada. A afirmativa II é a única falsa: o STF não admite controle de constitucionalidade de normas constitucionais originárias, pois não há hierarquia entre elas (ADI 815), rejeitando a tese de Otto Bachof."
+   ],
+   [
+    "I e III, apenas.",
+    "CORRETA. O originário é inicial, ilimitado e incondicionado, e o art. 17 do ADCT afastou expressamente a invocação de direito adquirido contra a redução de vencimentos e proventos em desacordo com a Constituição. O derivado reformador é limitado pelo art. 60 (iniciativa, quórum de três quintos em dois turnos, limites circunstanciais do §1º e cláusulas pétreas do §4º)."
+   ],
+   [
+    "II e III, apenas.",
+    "Errada. A afirmativa II é falsa (ADI 815: normas originárias não se sujeitam a controle de constitucionalidade) e a I é verdadeira."
+   ],
+   [
+    "I, II e III.",
+    "Errada. A afirmativa II é falsa. Somente as emendas, fruto do poder derivado, podem ser declaradas inconstitucionais; as normas do texto originário são harmonizadas pela interpretação sistemática."
+   ]
+  ],
+  "c": 2,
+  "base": "CF, art. 60, §§1º a 4º; ADCT, art. 17; STF, ADI 815.",
+  "dica": "Originário: inicial, ilimitado, incondicionado; não respeita direito adquirido (ADCT, 17). Norma originária não é inconstitucional (ADI 815). Emenda: limites do art. 60.",
+  "fixa": true
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A04",
+  "nivel": "médio",
+  "tema": "Consórcios públicos (Lei 11.107/2005): personalidade, protocolo de intenções e contrato de rateio",
+  "enun": "Os Municípios de Alfa, Beta e Gama, com o Estado Kappa, decidiram constituir consórcio público para a gestão de um aterro sanitário regional. Subscreveram protocolo de intenções prevendo a forma de associação pública. As Câmaras de Alfa e Beta e a Assembleia Legislativa ratificaram o protocolo por lei; em Gama, o Prefeito entendeu que a assinatura do protocolo bastava, sem lei. Constituído o consórcio, Alfa deixou de consignar em sua lei orçamentária as dotações necessárias para as obrigações assumidas, e o Prefeito de Beta propôs que os repasses ao consórcio fossem feitos por simples transferência, sem instrumento específico. A União manifestou interesse em ingressar no consórcio. Considerando a Lei 11.107/2005, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O consórcio, como associação pública, tem personalidade de direito público e integra a administração indireta dos consorciados; repasses exigem contrato de rateio; e Alfa pode ser excluído após suspensão.",
+    "CORRETA. A associação pública adquire personalidade de direito público com a vigência das leis de ratificação e integra a administração indireta de todos os entes consorciados (art. 6º, I e §1º). Os entes somente entregam recursos ao consórcio mediante contrato de rateio (art. 8º), e pode ser excluído, após prévia suspensão, o ente que não consignar as dotações suficientes (art. 8º, §5º)."
+   ],
+   [
+    "Gama integra o consórcio desde a assinatura do protocolo de intenções, porque a ratificação legislativa é necessária apenas para os entes que aportarem recursos.",
+    "Errada. O contrato de consórcio é celebrado com a ratificação, mediante lei, do protocolo de intenções (art. 5º). Só se dispensa a ratificação do ente que, antes de subscrever o protocolo, disciplinou por lei sua participação (art. 5º, §4º)."
+   ],
+   [
+    "O consórcio, por gerir serviço de interesse local, tem personalidade de direito privado e integra apenas a administração indireta do Município onde estiver sediado.",
+    "Errada. O protocolo previu associação pública, que tem personalidade de direito público e integra a administração indireta de todos os entes consorciados (art. 6º, I e §1º)."
+   ],
+   [
+    "A União pode ingressar no consórcio independentemente da participação do Estado, bastando a ratificação do protocolo por lei federal e a aprovação da assembleia geral.",
+    "Errada. A União somente participa de consórcios públicos em que também façam parte todos os Estados em cujos territórios estejam situados os Municípios consorciados (art. 1º, §2º)."
+   ],
+   [
+    "O contrato de rateio pode ter vigência indeterminada, por envolver serviço contínuo, e o ente inadimplente fica sujeito apenas à cobrança judicial das parcelas devidas.",
+    "Errada. O contrato de rateio é formalizado em cada exercício financeiro, com vigência não superior à das dotações que o suportam, salvo as exceções do art. 8º, §1º, e a lei prevê a exclusão do ente omisso após prévia suspensão (art. 8º, §5º)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 11.107/2005, arts. 1º, §2º, 3º, 5º, caput e §4º, 6º, I e §1º, e 8º, §§1º e 5º; CF, art. 241.",
+  "dica": "Consórcio: protocolo de intenções + lei de ratificação. Associação pública = direito público, indireta de TODOS. Dinheiro só por contrato de rateio, anual. União só entra com o Estado."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A17",
+  "nivel": "fácil",
+  "tema": "Uso privativo de bem público: autorização, permissão e concessão de uso",
+  "enun": "O Município de Porto Claro recebeu três pedidos de uso de bens públicos. A associação de moradores do bairro Jardim pediu para fechar uma rua no domingo seguinte, para a realização de uma festa junina. Joana, jornaleira, pediu para instalar uma banca de jornais em calçada da praça central, prestando serviço útil aos transeuntes. A empresa Sabor Ltda. pretende explorar, por quinze anos, o restaurante instalado no prédio do mercado municipal, com investimentos vultosos em reforma, e exige garantia de permanência durante todo o período para amortizá-los. Meses depois, o Prefeito pretende revogar o ato que permitiu a instalação da banca de Joana, para reurbanizar a praça, e Joana alega ter direito adquirido de nela permanecer. Considerando a doutrina majoritária e a legislação aplicável, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A rua comporta autorização de uso e a banca, permissão de uso, ambas precárias; o restaurante, concessão de uso, contrato com prazo determinado e precedido de licitação.",
+    "CORRETA. A autorização de uso é ato unilateral, discricionário e precário, em interesse predominante do particular, usual em eventos transitórios. A permissão de uso também é unilateral, discricionária e precária, mas atende a interesse público e privado. A concessão de uso é contrato administrativo, com prazo determinado e maior estabilidade, sujeito a licitação (Lei 14.133/2021, art. 2º, IV)."
+   ],
+   [
+    "Os três pedidos devem ser atendidos por concessão de uso, único instrumento que permite o uso privativo de bem público por particular.",
+    "Errada. A autorização e a permissão de uso também conferem uso privativo, de forma precária. A concessão é reservada a situações que exigem estabilidade, como investimentos vultosos e prazos longos."
+   ],
+   [
+    "A banca de jornais exige concessão de uso, por ser atividade econômica permanente, e o restaurante pode ser explorado por mera autorização, revogável a qualquer tempo.",
+    "Errada. A banca é o exemplo clássico de permissão de uso. Para o restaurante, com quinze anos de exploração e altos investimentos, o instrumento adequado é a concessão de uso, contratual e não precária."
+   ],
+   [
+    "A permissão de uso concedida a Joana gera direito adquirido à permanência, de modo que só pode ser extinta mediante prévia indenização.",
+    "Errada. A permissão de uso é precária e pode ser revogada por razões de interesse público, em regra sem direito a indenização, salvo se outorgada com prazo certo e revogada antes do termo."
+   ],
+   [
+    "A autorização para o fechamento da rua depende de lei específica de desafetação, porque a rua é bem de uso comum do povo.",
+    "Errada. O uso privativo transitório de bem de uso comum não altera sua destinação e não exige desafetação. A desafetação só é necessária para retirar o bem de sua finalidade pública, por exemplo, para aliená-lo."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 99 a 103; Lei 14.133/2021, art. 2º, IV; doutrina (Di Pietro, Carvalho Filho).",
+  "dica": "Uso privativo: AUTORIZAÇÃO (evento, interesse do particular, precária), PERMISSÃO (banca, interesse misto, precária), CONCESSÃO (contrato, prazo, licitação, estável)."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A16",
+  "nivel": "médio",
+  "tema": "Independência das instâncias e absolvição criminal (Lei 8.112/1990, arts. 121 a 126)",
+  "enun": "Os servidores federais Kléber e Laura foram acusados de desviar computadores de uma universidade federal. Em processo administrativo disciplinar, Kléber foi demitido, e Laura, embora indiciada, teve o processo suspenso a pedido da defesa até o julgamento da ação penal. No juízo criminal, Kléber foi absolvido com fundamento na insuficiência de provas (CPP, art. 386, VII), e Laura foi absolvida porque ficou provado que ela não concorreu para a infração (CPP, art. 386, IV). No PAD, também se apurou que Laura deixara de registrar a saída de bens sob sua guarda, falta não abrangida pela acusação criminal. Kléber ajuizou ação pedindo a reintegração com base na absolvição. Considerando a Lei 8.112/1990 e a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A absolvição de Kléber não repercute no PAD, mas a de Laura afasta a responsabilidade administrativa pelo desvio, sem impedir a punição pela falta residual de registro dos bens.",
+    "CORRETA. As sanções civis, penais e administrativas são independentes (art. 125), e a responsabilidade administrativa só é afastada pela absolvição criminal que negue a existência do fato ou sua autoria (art. 126), o que não ocorre na absolvição por falta de provas. A falta residual, não compreendida na absolvição, admite punição administrativa (Súmula 18/STF)."
+   ],
+   [
+    "Ambas as absolvições afastam a responsabilidade administrativa, porque a sentença penal absolutória faz coisa julgada no cível e na esfera disciplinar.",
+    "Errada. Só a absolvição que nega o fato ou a autoria repercute na esfera administrativa (art. 126). A absolvição por insuficiência de provas, como a de Kléber, não impede a punição disciplinar."
+   ],
+   [
+    "Nenhuma das absolvições repercute no PAD, porque as instâncias são absolutamente independentes e a Administração não se vincula ao juízo criminal.",
+    "Errada. A independência é relativa: o art. 126 da Lei 8.112/1990 vincula a Administração à absolvição criminal que negue a existência do fato ou a autoria, como no caso de Laura."
+   ],
+   [
+    "A absolvição de Laura impede também a punição pela falta de registro dos bens, porque, absolvida na esfera penal, a servidora não pode ser punida por fatos conexos.",
+    "Errada. Pela falta residual, não compreendida na absolvição pelo juízo criminal, é admissível a punição administrativa do servidor (Súmula 18/STF)."
+   ],
+   [
+    "O PAD de Laura deveria obrigatoriamente ficar suspenso, porque a Administração só pode aplicar sanção disciplinar depois do trânsito em julgado da ação penal sobre o mesmo fato.",
+    "Errada. Pela independência das instâncias (art. 125), o PAD não depende do desfecho da ação penal, e a Administração pode punir antes do julgamento criminal."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 8.112/1990, arts. 121, 125 e 126; CPP, art. 386, IV e VII; Súmula 18/STF.",
+  "dica": "Absolvição penal só vincula o PAD se negar o FATO ou a AUTORIA. Falta de provas não vincula. Falta residual pode ser punida (Súmula 18/STF)."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A20",
+  "nivel": "difícil",
+  "tema": "Atos de notários e registradores (Tema 777/STF) e prescrição quinquenal (Decreto 20.910/1932)",
+  "enun": "Em março de 2021, o Oficial do Registro de Imóveis de Rio Fundo registrou escritura de compra e venda de imóvel de Márcia lavrada com base em procuração falsa, sem conferir os dados do documento, como exigiam as normas de serviço. O imóvel foi revendido a terceiro de boa-fé. Márcia só tomou conhecimento da fraude e ajuizou ação de indenização contra o Estado em abril de 2025. Em contestação, o Estado alegou: (i) ilegitimidade passiva, pois a responsabilidade seria exclusiva e pessoal do registrador, profissional do direito que exerce a atividade em caráter privado; (ii) subsidiariamente, que sua responsabilidade dependeria da prova de culpa; e (iii) prescrição, pelo decurso do prazo trienal do Código Civil para a reparação civil. Considerando a Constituição Federal, a legislação aplicável e a jurisprudência dos tribunais superiores, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O Estado responde objetivamente pelo dano, com dever de regresso contra o registrador em caso de dolo ou culpa, e a pretensão contra a Fazenda prescreve em cinco anos, não estando prescrita.",
+    "CORRETA. O STF fixou que o Estado responde, objetivamente, pelos atos dos tabeliães e registradores que causem dano a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa, sob pena de improbidade (Tema 777). O STJ aplica às ações indenizatórias contra a Fazenda o prazo quinquenal do art. 1º do Decreto 20.910/1932, que prevalece sobre o prazo trienal do Código Civil."
+   ],
+   [
+    "O Estado é parte ilegítima, pois os serviços notariais e de registro são exercidos em caráter privado, e o registrador responde objetivamente perante a vítima.",
+    "Errada. A delegação não afasta a responsabilidade do Estado (art. 236 da CF; Tema 777). E o registrador responde pessoalmente por culpa ou dolo (Lei 8.935/1994, art. 22), ou seja, de forma subjetiva."
+   ],
+   [
+    "O Estado responde apenas subsidiariamente, depois de esgotado o patrimônio do registrador, e a ação está prescrita pelo prazo trienal do art. 206, §3º, V, do Código Civil.",
+    "Errada. No Tema 777, o STF afirmou a responsabilidade direta e objetiva do Estado, e não subsidiária. Contra a Fazenda, prevalece o prazo quinquenal do Decreto 20.910/1932."
+   ],
+   [
+    "O Estado responde objetivamente, mas o exercício do direito de regresso contra o registrador é faculdade discricionária da Administração, e a ação está prescrita.",
+    "Errada. A tese do Tema 777 impõe o regresso nos casos de dolo ou culpa, sob pena de improbidade administrativa. E não houve prescrição, pois a ação foi proposta antes de cinco anos do registro."
+   ],
+   [
+    "O Estado responde somente se provada a culpa do registrador, por se tratar de omissão na fiscalização, e a prescrição contra a Fazenda, uma vez interrompida, recomeça pelo prazo integral.",
+    "Errada. A responsabilidade do Estado por atos dos registradores é objetiva (art. 37, §6º; Tema 777). A prescrição interrompida recomeça a correr pela metade do prazo (art. 9º do Decreto 20.910/1932), respeitado o mínimo de cinco anos (Súmula 383/STF)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 37, §6º, e 236; Lei 8.935/1994, art. 22; Decreto 20.910/1932, arts. 1º e 9º; STF, Tema 777 (RE 842.846); Súmula 383/STF.",
+  "dica": "Cartório: Estado responde OBJETIVAMENTE e regride (obrigatório) contra o titular por dolo/culpa. Contra a Fazenda: 5 anos (Decreto 20.910), não 3 do CC."
+ },
+ {
+  "disc": "Noções Gerais de Direito e Formação Humanística",
+  "item": "H2",
+  "nivel": "médio",
+  "tema": "Vieses cognitivos na decisão judicial (ancoragem, confirmação, disponibilidade, retrospectiva)",
+  "enun": "Em curso de formação de magistrados, a professora apresentou quatro situações. (1) Em ação de indenização por dano moral, o juiz Otávio fixou valor bem acima de sua média habitual, influenciado pelo valor milionário indicado na petição inicial, embora tenha julgado o pedido apenas parcialmente procedente. (2) A juíza Paula, convencida desde a audiência de custódia de que o réu era culpado, passou a valorizar apenas os depoimentos que reforçavam essa impressão, desconsiderando as contradições da acusação. (3) Logo após ampla cobertura jornalística de um latrocínio praticado por réu em liberdade provisória, o juiz Rui passou a superestimar o risco de reiteração de todos os réus que examinava. (4) Ao julgar ação por erro médico, a juíza Sara considerou evidente que a complicação era previsível, mas só chegou a essa conclusão porque já conhecia o desfecho trágico do caso. Considerando os estudos de psicologia cognitiva aplicados à decisão judicial, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "As situações ilustram, respectivamente, os vieses de ancoragem, de confirmação, de disponibilidade e de retrospectiva.",
+    "CORRETA. Na ancoragem, um valor inicial, ainda que arbitrário, influencia a estimativa final. Na confirmação, busca-se e valoriza-se a informação que confirma a hipótese prévia. Na disponibilidade, a probabilidade é estimada pela facilidade com que exemplos vêm à mente. No viés retrospectivo (hindsight bias), conhecer o resultado faz o evento parecer mais previsível do que era (Kahneman e Tversky)."
+   ],
+   [
+    "As situações ilustram, respectivamente, os vieses de confirmação, de ancoragem, de retrospectiva e de disponibilidade.",
+    "Errada. A influência do valor da inicial é ancoragem, e a valorização seletiva da prova que reforça a convicção prévia é confirmação. A cobertura midiática recente gera disponibilidade, e o conhecimento do desfecho, retrospectiva."
+   ],
+   [
+    "As situações ilustram, respectivamente, os vieses de ancoragem, de disponibilidade, de confirmação e de representatividade.",
+    "Errada. A situação de Paula é viés de confirmação, a de Rui, de disponibilidade. O caso de Sara é o viés retrospectivo; a representatividade consiste em julgar pela semelhança com um estereótipo."
+   ],
+   [
+    "As situações ilustram, respectivamente, os vieses de disponibilidade, de confirmação, de ancoragem e de retrospectiva.",
+    "Errada. O juiz Otávio foi influenciado por um número inicial (ancoragem), e o juiz Rui pela lembrança vívida de um caso recente (disponibilidade). A sequência troca os dois."
+   ],
+   [
+    "As situações não configuram vieses cognitivos, mas erros de direito, corrigíveis apenas por recurso, já que a psicologia não se aplica à atividade jurisdicional.",
+    "Errada. A literatura sobre heurísticas e vieses demonstra que os julgadores estão sujeitos aos mesmos atalhos mentais, e a formação humanística do magistrado inclui a psicologia judiciária para reconhecê-los e mitigá-los."
+   ]
+  ],
+  "c": 0,
+  "base": "Tversky e Kahneman, Judgment under Uncertainty: Heuristics and Biases (1974); Daniel Kahneman, Rápido e devagar (2011).",
+  "dica": "Âncora = número inicial; Confirmação = só vejo o que confirma; Disponibilidade = o que lembro fácil (mídia); Retrospectiva = \"era óbvio\" depois do resultado."
+ },
+ {
+  "disc": "Noções Gerais de Direito e Formação Humanística",
+  "item": "H3",
+  "nivel": "fácil",
+  "tema": "Uso de redes sociais por magistrados (Res. CNJ 305/2019) e Código de Ética da Magistratura",
+  "enun": "O juiz Tadeu mantém perfil público em rede social, no qual se identifica como magistrado. Em uma semana, publicou: (1) comentário depreciativo sobre a sentença proferida por uma colega em processo criminal de grande repercussão, ainda pendente de recurso; (2) vídeo manifestando apoio a candidato a prefeito de sua cidade; (3) postagem patrocinada, remunerada por uma academia de ginástica, recomendando os serviços da empresa; e (4) texto doutrinário, em tom respeitoso, criticando em abstrato tese firmada pelo Superior Tribunal de Justiça sobre prescrição. Questionado por seguidores, afirmou que fala como cidadão, e não como juiz. Considerando a Resolução CNJ 305/2019 e o Código de Ética da Magistratura Nacional, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "As publicações 1, 2 e 3 são vedadas, e a publicação 4 é permitida, pois a crítica doutrinária é ressalvada pelas normas aplicáveis.",
+    "CORRETA. É vedado ao magistrado manifestar opinião sobre processo pendente de julgamento ou juízo depreciativo sobre decisões judiciais, ressalvada a crítica nos autos, doutrinária ou no magistério; manifestar apoio ou crítica a candidatos e partidos; e receber patrocínio para divulgar produtos ou serviços comerciais (Res. CNJ 305/2019, art. 4º; Código de Ética, arts. 7º e 12, II; LOMAN, art. 36, III)."
+   ],
+   [
+    "Todas as publicações são vedadas, pois a Resolução CNJ 305/2019 proíbe o magistrado de manter perfil público em rede social com identificação do cargo.",
+    "Errada. A resolução não proíbe o uso de redes sociais nem a identificação como magistrado; disciplina a conduta, com recomendações de prudência e rol de condutas vedadas. A crítica doutrinária é expressamente ressalvada."
+   ],
+   [
+    "Apenas a publicação 2 é vedada, porque a liberdade de expressão do magistrado só é limitada quanto à atividade político-partidária.",
+    "Errada. Além da vedação político-partidária (CF, art. 95, parágrafo único, III), são vedados o juízo depreciativo sobre decisões de outros órgãos judiciais e o patrocínio de conteúdo comercial."
+   ],
+   [
+    "As publicações 1 e 4 são vedadas, porque o magistrado não pode criticar decisões judiciais fora dos autos, e as publicações 2 e 3 são permitidas fora do horário de expediente.",
+    "Errada. A crítica doutrinária ou no magistério é ressalvada, e as vedações de manifestação político-partidária e de patrocínio comercial valem a qualquer tempo, inclusive fora do expediente."
+   ],
+   [
+    "Apenas a publicação 3 é vedada, porque a resolução se limita a coibir a autopromoção com fins comerciais, e as demais condutas se inserem na liberdade de expressão.",
+    "Errada. A resolução veda também a opinião sobre processo pendente e o juízo depreciativo sobre decisões, além do apoio ou crítica a candidatos e partidos."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 95, parágrafo único, III; LOMAN (LC 35/1979), art. 36, III; Res. CNJ 305/2019, art. 4º; Código de Ética da Magistratura Nacional, arts. 7º, 12 e 13.",
+  "dica": "Juiz na rede: pode ter perfil e fazer crítica doutrinária. Não pode: opinar sobre processo pendente, depreciar decisão alheia, apoiar candidato, receber patrocínio."
+ },
+ {
+  "disc": "Direitos Humanos",
+  "item": "DH7",
+  "nivel": "difícil",
+  "tema": "Liberdade religiosa no STF: sacrifício ritual de animais (RE 494.601) e ensino religioso confessional (ADI 4.439)",
+  "enun": "O Estado Ômega editou duas leis. A primeira, alterando o código estadual de proteção animal, passou a permitir expressamente o sacrifício ritual de animais em cultos de religiões de matriz africana, desde que sem excessos ou crueldade. A segunda regulamentou o ensino religioso nas escolas públicas de ensino fundamental, prevendo matrícula facultativa e a possibilidade de que o conteúdo seja ministrado de forma confessional, segundo a crença escolhida pelos pais ou alunos, por professores credenciados pelas respectivas confissões. Uma associação de proteção animal sustentou que a primeira lei viola o art. 225, §1º, VII, da Constituição e a isonomia, por beneficiar apenas algumas religiões. Uma entidade laica sustentou que o ensino confessional fere a laicidade do Estado. Considerando a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Ambas as leis são constitucionais: a proteção ao sacrifício ritual em cultos de matriz africana não ofende a vedação à crueldade nem a isonomia, e o ensino religioso facultativo pode ter natureza confessional.",
+    "CORRETA. No RE 494.601, o STF afirmou ser constitucional a lei de proteção animal que, para resguardar a liberdade religiosa, permite o sacrifício ritual em cultos de matriz africana, considerando a estigmatização histórica dessas religiões. Na ADI 4.439, admitiu o ensino religioso confessional nas escolas públicas, com matrícula facultativa (CF, art. 210, §1º)."
+   ],
+   [
+    "A primeira lei é inconstitucional, pois o art. 225, §1º, VII, veda de forma absoluta práticas que causem a morte de animais, e a segunda é constitucional.",
+    "Errada. A Constituição veda práticas que submetam os animais a crueldade, e o STF entendeu que o sacrifício ritual, por si só, não configura crueldade, diferenciando-o da farra do boi e das rinhas de galo."
+   ],
+   [
+    "A primeira lei é constitucional, mas a segunda é inconstitucional, porque a laicidade impõe que o ensino religioso nas escolas públicas seja exclusivamente não confessional, de caráter histórico e comparado.",
+    "Errada. Essa foi a tese vencida na ADI 4.439. Por maioria, o STF admitiu o ensino confessional, entendendo que a matrícula facultativa preserva a liberdade de crença e a laicidade."
+   ],
+   [
+    "A primeira lei é inconstitucional por violar a isonomia, pois a permissão do sacrifício deveria alcançar todas as religiões, e a segunda é inconstitucional por violar a laicidade.",
+    "Errada. O STF rejeitou a alegação de ofensa à isonomia: a menção às religiões de matriz africana justifica-se pelo histórico de preconceito e não exclui a proteção de outros cultos. O ensino confessional facultativo foi validado (ADI 4.439)."
+   ],
+   [
+    "Ambas as leis são constitucionais, mas o ensino religioso, para ser confessional, deve ser de matrícula obrigatória, assegurada a escolha da confissão pelos pais.",
+    "Errada. A Constituição prevê o ensino religioso como disciplina de matrícula facultativa nos horários normais das escolas públicas de ensino fundamental (art. 210, §1º). A obrigatoriedade violaria a liberdade de crença."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 5º, VI, 19, I, 210, §1º, e 225, §1º, VII; Lei 9.394/1996, art. 33; STF, RE 494.601 e ADI 4.439.",
+  "dica": "STF: sacrifício ritual de matriz africana sem crueldade = constitucional (RE 494.601). Ensino religioso confessional + matrícula FACULTATIVA = constitucional (ADI 4.439)."
+ }
+]

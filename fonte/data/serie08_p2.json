@@ -1,0 +1,483 @@
+[
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P07",
+  "nivel": "médio",
+  "tema": "Reconvenção: autonomia, litisconsórcio com terceiro e substituto processual (CPC, art. 343)",
+  "enun": "A Construtora Alfa Ltda. ajuizou, pelo procedimento comum, ação de cobrança contra Bruno, pleiteando o pagamento das últimas parcelas de contrato de empreitada para a construção de uma casa. Citado, Bruno não apresentou contestação, mas, dentro do prazo de resposta, ofereceu reconvenção em litisconsórcio ativo com sua esposa, Clara, coproprietária do imóvel, pedindo a condenação da construtora e de Diego, engenheiro responsável técnico pela obra, ao pagamento de indenização pelos vícios construtivos constatados. Intimada na pessoa de seu advogado, a construtora desistiu da ação principal e, ao responder à reconvenção, formulou nova reconvenção, pleiteando multa contratual cujo fundamento somente surgiu com os fatos alegados na primeira reconvenção. Diego, por sua vez, sustentou que não poderia figurar no processo, por não ser parte na ação originária. Considerando o Código de Processo Civil e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A reconvenção é admissível mesmo sem contestação, pode incluir Clara e Diego, e a desistência da ação principal não obsta o seu prosseguimento.",
+    "CORRETA. O réu pode reconvir independentemente de contestar (art. 343, §6º); a reconvenção pode ser proposta pelo réu em litisconsórcio com terceiro e contra o autor e terceiro (§§3º e 4º); e a desistência da ação ou causa extintiva que impeça o exame do mérito da ação principal não obsta o prosseguimento da reconvenção (§2º)."
+   ],
+   [
+    "A reconvenção é inadmissível, porque deve ser apresentada na própria contestação, de modo que a ausência de defesa gera preclusão consumativa.",
+    "Errada. O art. 343, §6º, do CPC autoriza expressamente o réu a propor reconvenção independentemente de oferecer contestação; a exigência de veiculá-la na contestação não condiciona sua admissibilidade à existência de defesa."
+   ],
+   [
+    "A desistência da ação principal acarreta a extinção da reconvenção, que é acessória e depende da subsistência da demanda originária.",
+    "Errada. A reconvenção é ação autônoma: a desistência da ação ou a ocorrência de causa extintiva que impeça o exame de seu mérito não obsta o prosseguimento do processo quanto à reconvenção (art. 343, §2º)."
+   ],
+   [
+    "A reconvenção à reconvenção é vedada em qualquer procedimento, por expressa disposição do Código de Processo Civil, devendo ser liminarmente rejeitada.",
+    "Errada. A vedação expressa existe apenas na ação monitória (art. 702, §6º). No procedimento comum, o STJ admite a reconvenção sucessiva quando a questão que a justifica surge na contestação ou na primeira reconvenção, como no caso."
+   ],
+   [
+    "Se a construtora atuasse como substituta processual, a reconvenção poderia ser dirigida contra ela em nome próprio, sem vinculação ao direito do substituído.",
+    "Errada. Se o autor for substituto processual, o reconvinte deverá afirmar ser titular de direito em face do substituído, e a reconvenção será proposta em face do autor também na qualidade de substituto processual (art. 343, §5º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 343, §§2º a 6º, e 702, §6º; STJ, Terceira Turma (admissão da reconvenção sucessiva no procedimento comum).",
+  "dica": "Reconvenção é ação autônoma: vive sem contestação, sobrevive à desistência e pode puxar terceiro; só a monitória proíbe a reconvenção da reconvenção."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P09-11",
+  "nivel": "fácil",
+  "tema": "Congruência: sentença ultra, extra e citra petita e pedidos implícitos (CPC, arts. 141, 322 e 492)",
+  "enun": "Fernanda, motorista de aplicativo, teve seu veículo furtado e ajuizou ação contra a Seguradora Beta S.A., que recusara a cobertura. Na petição inicial, pediu a condenação da ré ao pagamento de R$ 40.000,00, a título de indenização securitária, e de lucros cessantes pelos dias em que ficou impedida de trabalhar, sem mencionar juros de mora nem correção monetária. A sentença julgou procedente o pedido e condenou a seguradora ao pagamento de R$ 46.000,00, valor de tabela apurado pelo juiz, acrescido de juros de mora e correção monetária, além de R$ 10.000,00 a título de danos morais, embora tal verba não tivesse sido pleiteada. A sentença nada dispôs sobre os lucros cessantes. Ambas as partes apelaram. Considerando o Código de Processo Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A inclusão de juros de mora e de correção monetária não ofende a congruência, por se tratar de pedidos implícitos, mas a condenação em danos morais é extra petita.",
+    "CORRETA. Compreendem-se no principal, ainda que não pedidos expressamente, os juros legais, a correção monetária e as verbas de sucumbência (art. 322, §1º). Já a condenação em verba não pedida configura decisão extra petita, vedada pelos arts. 141 e 492 do CPC."
+   ],
+   [
+    "A sentença é nula por inteiro, pois a condenação acima do valor pedido contamina todo o julgado, sendo vedado ao tribunal apenas reduzi-la ao limite do pedido.",
+    "Errada. O vício ultra petita não acarreta a nulidade integral da sentença: basta ao tribunal decotar o excesso, reduzindo a condenação aos limites do pedido (art. 492)."
+   ],
+   [
+    "A inclusão de juros de mora e de correção monetária configura julgamento ultra petita, porque tais verbas dependem de pedido expresso na petição inicial.",
+    "Errada. Juros legais e correção monetária são pedidos implícitos, compreendidos no principal independentemente de pedido expresso (art. 322, §1º)."
+   ],
+   [
+    "A condenação em danos morais é válida, porque a interpretação do pedido considera o conjunto da postulação e permite conceder verbas decorrentes do mesmo fato.",
+    "Errada. A interpretação do pedido segundo o conjunto da postulação e a boa-fé (art. 322, §2º) não autoriza o juiz a conceder pretensão não deduzida, sob pena de violar os arts. 141 e 492."
+   ],
+   [
+    "A omissão quanto aos lucros cessantes não pode ser suprida pelo tribunal, que deverá sempre anular a sentença e determinar o retorno dos autos ao primeiro grau.",
+    "Errada. Constatada a omissão no exame de um dos pedidos (sentença citra petita), o tribunal, se o processo estiver em condições de imediato julgamento, deve decidir desde logo o mérito (art. 1.013, §3º, III)."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 141, 322, §§1º e 2º, 492 e 1.013, §3º, III.",
+  "dica": "Ultra: corta o excesso. Extra: cai a parte estranha. Citra: o tribunal completa (causa madura). Juros, correção e sucumbência vêm de brinde."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P22",
+  "nivel": "difícil",
+  "tema": "Juizados Especiais Cíveis: partes, recursos e controle das decisões (Súmula 376/STJ; Súmula 640/STF)",
+  "enun": "Tobias ajuizou, no Juizado Especial Cível da comarca, ação de indenização de R$ 30.000,00 contra a Construtora Beta Ltda., sociedade empresária de grande porte, em razão de infiltrações em seu apartamento. Durante a instrução, o juiz indeferiu o pedido de prova pericial formulado pela ré, por considerar suficientes as fotografias e o parecer técnico juntados pelo autor. A ré impetrou mandado de segurança contra essa decisão interlocutória. Proferida sentença de procedência, a turma recursal a manteve, em acórdão que, segundo a construtora, contrariou dispositivos do Código Civil e o art. 5º, LV, da Constituição Federal. A construtora sustenta, ainda, que a causa exigia perícia complexa, o que afastaria a competência do juizado, e pretende obter o reconhecimento da incompetência por meio de mandado de segurança no Tribunal de Justiça. Considerando a Lei 9.099/1995 e a jurisprudência dos tribunais superiores, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Contra o acórdão da turma recursal cabe recurso extraordinário, mas não especial, e o mandado de segurança contra ato do juizado é, em regra, julgado pela turma recursal.",
+    "CORRETA. Cabe RE contra decisão de turma recursal (Súmula 640/STF), mas não REsp, pois a turma não é tribunal (Súmula 203/STJ; CF, art. 105, III). Compete à turma recursal julgar MS contra ato de juizado especial (Súmula 376/STJ), ressalvado o MS no TJ para controle da competência do juizado, admitido pelo STJ."
+   ],
+   [
+    "Contra o acórdão da turma recursal cabe recurso especial ao STJ quanto à violação do Código Civil e recurso extraordinário ao STF quanto à matéria constitucional.",
+    "Errada. Não cabe recurso especial contra decisão proferida por órgão de segundo grau dos juizados especiais (Súmula 203/STJ), porque o art. 105, III, da CF exige decisão de tribunal."
+   ],
+   [
+    "A decisão que indeferiu a perícia podia ser impugnada por agravo de instrumento ou, na falta de previsão, por mandado de segurança dirigido à turma recursal.",
+    "Errada. A Lei 9.099/1995 não prevê agravo contra interlocutórias, e o STF, em repercussão geral, firmou não caber mandado de segurança contra decisões interlocutórias no rito dos juizados; a matéria pode ser suscitada no recurso inominado."
+   ],
+   [
+    "A Construtora Beta, por ser pessoa jurídica de grande porte, não poderia figurar em nenhum dos polos do processo, devendo o feito ser extinto sem resolução do mérito.",
+    "Errada. O art. 8º da Lei 9.099/1995 restringe quem pode ser parte (incapaz, preso, pessoas jurídicas de direito público, empresas públicas da União, massa falida e insolvente civil) e, em seu §1º, quem pode propor a ação; nada impede que pessoa jurídica privada de qualquer porte seja ré."
+   ],
+   [
+    "A alegação de incompetência do juizado por complexidade da causa só pode ser examinada pela turma recursal, sendo vedado qualquer controle pelo Tribunal de Justiça.",
+    "Errada. O STJ admite a impetração de mandado de segurança perante o Tribunal de Justiça para o controle da competência dos juizados especiais, hipótese que não se confunde com a revisão do mérito das decisões, reservada à turma recursal."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 9.099/1995, arts. 8º e 41; CF, arts. 102, III, e 105, III; Súmulas 640/STF, 203/STJ e 376/STJ; STF, RE 576.847 (MS contra interlocutória no juizado).",
+  "dica": "Turma recursal não é tribunal: RE sim, REsp não. MS contra o juizado vai à turma; MS para discutir competência do juizado vai ao TJ."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V08",
+  "nivel": "médio",
+  "tema": "Mandato: substabelecimento proibido e mandato em causa própria (CC, arts. 667 e 685)",
+  "enun": "Olga outorgou a Paulo procuração para vender seu apartamento, com cláusula expressa que proibia o substabelecimento. Durante viagem ao exterior, Paulo substabeleceu os poderes a Rui, que celebrou com Sérgio, terceiro de boa-fé, compromisso de compra e venda do imóvel. Ao saber do negócio, Olga recusou-se a cumpri-lo. Meses antes, Olga havia vendido a Tânia um lote rural, cujo preço foi integralmente pago, e, para viabilizar a lavratura da escritura, outorgou-lhe, por instrumento público, mandato com a cláusula em causa própria, com poderes para transferir o lote a si mesma. Olga faleceu antes da lavratura. Seus herdeiros sustentam que o mandato conferido a Tânia se extinguiu com a morte da mandante e exigem que ela preste contas da utilização dos poderes recebidos. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O compromisso celebrado por Rui não obriga Olga, salvo ratificação expressa, e o mandato em causa própria outorgado a Tânia não se extinguiu com a morte de Olga.",
+    "CORRETA. Se a proibição de substabelecer constar da procuração, os atos do substabelecido não obrigam o mandante, salvo ratificação expressa, que retroage à data do ato (art. 667, §3º). O mandato em causa própria não se extingue pela morte de qualquer das partes, e sua revogação é ineficaz (art. 685)."
+   ],
+   [
+    "O compromisso celebrado por Rui obriga Olga perante Sérgio, terceiro de boa-fé, restando a ela apenas ação regressiva contra Paulo pelos prejuízos sofridos.",
+    "Errada. Havendo proibição expressa de substabelecer na procuração, os atos praticados pelo substabelecido não vinculam o mandante, salvo ratificação expressa (art. 667, §3º); a boa-fé de Sérgio não supre a falta de poderes."
+   ],
+   [
+    "O mandato outorgado a Tânia extinguiu-se com a morte de Olga, pois a morte de qualquer das partes sempre põe fim ao mandato, ainda que oneroso.",
+    "Errada. A regra da extinção pela morte (art. 682, II) não se aplica ao mandato com a cláusula em causa própria, que expressamente não se extingue pela morte de qualquer das partes (art. 685)."
+   ],
+   [
+    "Tânia pode concluir a transferência, mas deve prestar contas aos herdeiros, pois todo mandatário é obrigado a dar contas de sua gerência ao mandante.",
+    "Errada. O dever geral de prestar contas (art. 668) é afastado no mandato em causa própria, cujo mandatário fica dispensado de prestar contas (art. 685)."
+   ],
+   [
+    "Olga poderia ter revogado o mandato em causa própria a qualquer tempo, com plena eficácia, respondendo apenas por perdas e danos perante Tânia.",
+    "Errada. A revogação eficaz com indenização por perdas e danos é a consequência da cláusula de irrevogabilidade comum (art. 683). No mandato em causa própria, a revogação não tem eficácia (art. 685)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 667, §§1º a 4º, 668, 682, 683, 684 e 685.",
+  "dica": "Em causa própria: não se revoga, não morre e não presta contas. Substabelecimento proibido: o substabelecido não obriga o mandante, salvo ratificação."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V05",
+  "nivel": "médio",
+  "tema": "Negócio consigo mesmo e conflito de interesses na representação (CC, arts. 117 e 119)",
+  "enun": "Vera, residente no exterior, outorgou a Ulisses procuração com amplos poderes para administrar e vender os imóveis de que é proprietária no Brasil, sem qualquer cláusula que o autorizasse a contratar consigo mesmo. Ulisses substabeleceu parte dos poderes a seu sobrinho Wagner, que, em nome de Vera, vendeu um terreno ao próprio Ulisses, por preço compatível com o de mercado. Em seguida, Ulisses vendeu uma casa de Vera a Xavier, seu sócio em uma incorporadora, por valor bastante inferior ao de mercado, com o propósito de favorecer a sociedade de que ambos participavam, circunstância conhecida por Xavier. Um ano depois de concluídos os negócios, Vera tomou conhecimento das vendas e consultou advogado sobre a possibilidade de desfazê-las. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A venda do terreno é anulável, pois o negócio celebrado pelo substabelecido considera-se celebrado pelo próprio representante, salvo permissão legal ou de Vera.",
+    "CORRETA. É anulável o negócio que o representante celebra consigo mesmo, salvo se o permitir a lei ou o representado; para esse efeito, tem-se como celebrado pelo representante o negócio realizado por aquele em quem os poderes houverem sido substabelecidos (art. 117 e parágrafo único)."
+   ],
+   [
+    "A venda do terreno é válida, porque quem atuou em nome de Vera foi Wagner, e não o próprio adquirente, além de o preço ter sido compatível com o de mercado.",
+    "Errada. O parágrafo único do art. 117 impede a burla por meio do substabelecimento: o negócio de Wagner com Ulisses equivale ao contrato consigo mesmo, anulável independentemente de prejuízo."
+   ],
+   [
+    "A venda do terreno é nula de pleno direito, por violar norma de ordem pública, podendo a nulidade ser declarada de ofício pelo juiz a qualquer tempo.",
+    "Errada. O art. 117 comina a anulabilidade, e não a nulidade, ao negócio consigo mesmo; a anulabilidade não se pronuncia de ofício e só aproveita a quem a alegar (art. 177)."
+   ],
+   [
+    "A venda da casa é anulável ainda que Xavier desconhecesse e não devesse conhecer o conflito de interesses, em razão do prejuízo efetivamente sofrido por Vera.",
+    "Errada. O negócio concluído em conflito de interesses só é anulável se o fato era ou devia ser do conhecimento de quem tratou com o representante (art. 119, caput), em proteção ao terceiro de boa-fé."
+   ],
+   [
+    "O prazo para anular a venda da casa é decadencial de quatro anos, contado do dia em que Vera tomou conhecimento do conflito de interesses.",
+    "Errada. O prazo decadencial para anular o negócio celebrado em conflito de interesses é de cento e oitenta dias, contado da conclusão do negócio ou da cessação da incapacidade (art. 119, parágrafo único); no caso, já se esgotou."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 117, 119 e 177.",
+  "dica": "Consigo mesmo (inclusive via substabelecido): anulável, salvo lei ou autorização. Conflito de interesses: só se o terceiro sabia ou devia saber; 180 dias da conclusão."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V02",
+  "nivel": "difícil",
+  "tema": "Capacidade civil, curatela e tomada de decisão apoiada após o Estatuto da Pessoa com Deficiência",
+  "enun": "Yara, de 30 anos, tem deficiência intelectual moderada, trabalha meio período em uma padaria e namora Zeca há três anos, com quem pretende casar-se. Preocupados com a administração de uma herança que a filha recebeu, os pais de Yara ajuizaram ação de curatela, pedindo que ela seja declarada absolutamente incapaz e que o curador seja autorizado a consentir, em seu nome, no casamento e na realização de laqueadura tubária, por entenderem que ela não teria condições de exercer a maternidade. Paralelamente, sustentaram que, se o juiz preferir medida menos gravosa, eles próprios poderiam requerer a instituição de tomada de decisão apoiada, figurando a mãe como única apoiadora. A perícia concluiu que Yara compreende os atos do cotidiano, mas necessita de auxílio para negócios patrimoniais de maior complexidade. Considerando o Código Civil e a Lei 13.146/2015, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Eventual curatela de Yara alcançará apenas atos patrimoniais e negociais, não impedindo o casamento com Zeca nem autorizando a esterilização pretendida.",
+    "CORRETA. A curatela afeta tão somente os atos relacionados aos direitos de natureza patrimonial e negocial, não alcançando o direito ao próprio corpo, à sexualidade e ao matrimônio (Lei 13.146/2015, art. 85, caput e §1º); a deficiência não afeta a capacidade para casar e para conservar a fertilidade, vedada a esterilização compulsória (art. 6º, I e IV)."
+   ],
+   [
+    "O juiz pode declarar Yara absolutamente incapaz, desde que a perícia comprove a ausência de discernimento para a prática dos atos complexos da vida civil.",
+    "Errada. Desde a Lei 13.146/2015, são absolutamente incapazes apenas os menores de 16 anos (CC, art. 3º); a pessoa maior pode, no máximo, ser considerada relativamente incapaz e submetida a curatela proporcional (CC, art. 4º, III)."
+   ],
+   [
+    "A tomada de decisão apoiada pode ser instituída com uma única apoiadora, desde que se trate de pessoa idônea, com vínculo afetivo e da confiança de Yara.",
+    "Errada. Na tomada de decisão apoiada, a pessoa com deficiência elege pelo menos duas pessoas idôneas, com as quais mantenha vínculos e que gozem de sua confiança (CC, art. 1.783-A, caput)."
+   ],
+   [
+    "A tomada de decisão apoiada pode ser requerida pelos pais de Yara, como alternativa à curatela, desde que o Ministério Público seja ouvido antes da decisão.",
+    "Errada. O pedido de tomada de decisão apoiada é requerido pela própria pessoa a ser apoiada, com indicação expressa dos apoiadores (CC, art. 1.783-A, §2º); a oitiva do MP é requisito adicional, não substitui essa legitimidade."
+   ],
+   [
+    "Decretada a curatela, deixará de correr a prescrição contra Yara, por força da causa impeditiva prevista para os incapazes no art. 198, I, do Código Civil.",
+    "Errada. O art. 198, I, impede a prescrição apenas contra os absolutamente incapazes do art. 3º, isto é, os menores de 16 anos; contra a pessoa curatelada, relativamente incapaz, a prescrição corre normalmente."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 3º, 4º, 198, I, e 1.783-A; Lei 13.146/2015, arts. 6º, 84 e 85.",
+  "dica": "Pós-LBI: absolutamente incapaz só o menor de 16. Curatela = patrimônio e negócios; corpo, sexo, casamento e voto ficam com a pessoa. TDA: a própria pessoa pede e escolhe 2 apoiadores."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V10-11",
+  "nivel": "fácil",
+  "tema": "Usucapião extraordinária com prazo reduzido e soma das posses (CC, arts. 1.238 e 1.243)",
+  "enun": "Abel adquiriu de Bento, por meio de instrumento particular de cessão de direitos possessórios, a posse de um terreno urbano de 400 m², no qual Bento havia construído uma casa e residido, de forma mansa, pacífica e ininterrupta, durante quatro anos, sem qualquer título de propriedade. Desde a cessão, Abel reside no imóvel com sua família há sete anos, também sem oposição, e paga regularmente as contas de água e luz. O proprietário registral, que nunca exerceu qualquer ato sobre o bem, faleceu, e seus herdeiros notificaram Abel para desocupar o imóvel. Abel, que não é proprietário de nenhum outro imóvel, pretende ajuizar ação de usucapião. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Abel pode usucapir o imóvel na modalidade extraordinária, somando à sua posse a de Bento, pois o prazo é de dez anos se o possuidor nele tiver moradia habitual.",
+    "CORRETA. A usucapião extraordinária dispensa justo título e boa-fé, e o prazo de quinze anos reduz-se a dez se o possuidor houver estabelecido no imóvel sua moradia habitual (art. 1.238 e parágrafo único). O possuidor pode acrescentar à sua posse a dos antecessores, desde que contínuas e pacíficas (art. 1.243): 4 + 7 = 11 anos."
+   ],
+   [
+    "Abel pode usucapir o imóvel na modalidade especial urbana, pois possui o bem há mais de cinco anos, nele reside com sua família e não é proprietário de outro imóvel.",
+    "Errada. A usucapião especial urbana exige área urbana de até 250 m² (CC, art. 1.240; CF, art. 183); o terreno de Abel tem 400 m²."
+   ],
+   [
+    "Abel somente poderá usucapir após completar quinze anos de posse própria, pois a soma das posses é admitida apenas na usucapião ordinária, que exige justo título.",
+    "Errada. O art. 1.243 permite a soma das posses em geral, exigindo justo título e boa-fé de todas elas apenas nos casos do art. 1.242; e o prazo da extraordinária com moradia é de dez anos."
+   ],
+   [
+    "Abel pode usucapir o imóvel na modalidade ordinária, com prazo de dez anos, pois a boa-fé se presume em favor de quem possui de forma mansa e pacífica.",
+    "Errada. A usucapião ordinária exige, além da boa-fé, justo título (art. 1.242); a cessão de mera posse, sem título apto a transferir o domínio, não o configura."
+   ],
+   [
+    "Abel não pode usucapir, porque a ausência de justo título impede a aquisição da propriedade imóvel por usucapião, seja qual for a modalidade invocada.",
+    "Errada. O justo título é dispensado na usucapião extraordinária, que exige apenas posse sem interrupção nem oposição, com ânimo de dono, pelo prazo legal (art. 1.238)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 1.238, 1.240, 1.242 e 1.243; CF, art. 183.",
+  "dica": "Extraordinária: 15 anos, ou 10 com moradia/obras, sem título. Ordinária: 10, ou 5, com justo título e boa-fé. Especial urbana: 250 m² e 5 anos. Somar posses é permitido."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V12-14",
+  "nivel": "médio",
+  "tema": "Direito real de laje: laje sucessiva, encargos, preferência e ruína (CC, arts. 1.510-A a 1.510-E)",
+  "enun": "Carla, proprietária de uma casa térrea, instituiu em favor de Daniel direito real de laje sobre a superfície superior da construção, e Daniel edificou ali uma unidade residencial autônoma, aberta em matrícula própria no registro de imóveis. Dois anos depois, Daniel ajustou com Elisa a cessão da superfície de sua unidade para que ela construísse um segundo pavimento, também como laje, sem consultar Carla. No mesmo período, a prefeitura lançou o IPTU da unidade de Daniel, que se recusou a pagá-lo sob o argumento de que o solo pertence a Carla. Meses depois, Carla vendeu a casa térrea a Fábio, sem dar ciência prévia a Daniel, que só soube do negócio quarenta dias após a alienação. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Daniel, não cientificado da venda, pode haver para si a casa térrea, depositando o preço, se o requerer no prazo decadencial de cento e oitenta dias contado da alienação.",
+    "CORRETA. Na alienação de qualquer das unidades sobrepostas, os titulares da construção-base e da laje têm direito de preferência; o titular a quem não se der conhecimento da alienação pode, mediante depósito do preço, haver para si a parte alienada, se o requerer no prazo decadencial de 180 dias contado da data da alienação (art. 1.510-D, caput e §1º)."
+   ],
+   [
+    "Daniel pode ceder a Elisa a superfície de sua unidade para instituição de laje sucessiva sem autorização de Carla, por ser titular de unidade imobiliária autônoma.",
+    "Errada. O titular da laje pode ceder a superfície de sua construção para a instituição de sucessivo direito real de laje desde que haja autorização expressa dos titulares da construção-base e das demais lajes (art. 1.510-A, §6º)."
+   ],
+   [
+    "A instituição do direito real de laje atribuiu a Daniel fração ideal do terreno, proporcional à área construída de sua unidade, como ocorre no condomínio edilício.",
+    "Errada. A instituição do direito real de laje não implica a atribuição de fração ideal de terreno ao seu titular nem participação proporcional em áreas já edificadas (art. 1.510-A, §4º)."
+   ],
+   [
+    "O IPTU da unidade de Daniel deve ser pago por Carla, proprietária do solo, que poderá cobrá-lo regressivamente do titular da laje, na proporção ajustada em contrato.",
+    "Errada. O titular do direito real de laje responde pelos encargos e tributos que incidirem sobre a sua unidade (art. 1.510-A, §2º)."
+   ],
+   [
+    "Se a casa térrea vier a ruir, o direito de Daniel se extinguirá em qualquer hipótese, restando-lhe somente a reparação civil contra o culpado pela ruína.",
+    "Errada. A ruína da construção-base extingue a laje, salvo se esta tiver sido instituída sobre o subsolo ou se a construção-base for reconstruída no prazo de cinco anos (art. 1.510-E, I e II), sem prejuízo da reparação civil (parágrafo único)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 1.510-A, §§2º, 4º e 6º, 1.510-D e 1.510-E.",
+  "dica": "Laje: unidade autônoma, sem fração ideal; paga seus tributos; laje sobre laje exige autorização de todos; preferência com 30 dias para manifestar e 180 dias para reaver; ruína extingue, salvo subsolo ou reconstrução em 5 anos."
+ },
+ {
+  "disc": "Direito Empresarial",
+  "item": "E04",
+  "nivel": "médio",
+  "tema": "Sociedade em conta de participação: responsabilidade, registro e falência (CC, arts. 991 a 996)",
+  "enun": "Gilberto, empresário individual do ramo imobiliário, e Heloísa, investidora, celebraram contrato de sociedade em conta de participação para a construção e venda de um pequeno edifício, figurando Gilberto como sócio ostensivo e Heloísa como sócia participante. O contrato foi registrado no Cartório de Títulos e Documentos. Gilberto adquiriu materiais de construção do fornecedor Ítalo, em nome próprio, e deixou de pagá-los. Heloísa, por sua vez, compareceu pessoalmente às reuniões com o Banco Ômega e negociou, ao lado de Gilberto, as condições de um empréstimo destinado à obra, também inadimplido. Posteriormente, Gilberto admitiu Igor como novo sócio participante, sem consultar Heloísa, e, meses depois, teve sua falência decretada. Ítalo ajuizou ação de cobrança contra Gilberto e Heloísa. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Ítalo só pode exigir de Gilberto o pagamento dos materiais, mas Heloísa responde solidariamente pelo empréstimo em cuja negociação interveio pessoalmente.",
+    "CORRETA. Perante terceiros obriga-se somente o sócio ostensivo (art. 991, parágrafo único). O sócio participante que toma parte nas relações do ostensivo com terceiros responde solidariamente pelas obrigações em que intervier (art. 993, parágrafo único)."
+   ],
+   [
+    "O registro do contrato conferiu personalidade jurídica à sociedade, que passou a responder com patrimônio próprio perante Ítalo e o Banco Ômega.",
+    "Errada. O contrato da sociedade em conta de participação produz efeitos somente entre os sócios, e sua eventual inscrição em qualquer registro não confere personalidade jurídica à sociedade (art. 993, caput)."
+   ],
+   [
+    "Heloísa responde subsidiariamente perante Ítalo, depois de exaurido o patrimônio de Gilberto, por integrar a sociedade em conta de participação.",
+    "Errada. O sócio participante obriga-se exclusivamente perante o sócio ostensivo, nos termos do contrato (art. 991, parágrafo único); não há responsabilidade subsidiária perante terceiros por obrigações das quais não participou."
+   ],
+   [
+    "Com a falência de Gilberto, o saldo da conta de participação devido a Heloísa constituirá crédito com privilégio especial no concurso de credores.",
+    "Errada. A falência do sócio ostensivo acarreta a dissolução da sociedade e a liquidação da respectiva conta, cujo saldo constituirá crédito quirografário (art. 994, §2º)."
+   ],
+   [
+    "Gilberto podia admitir Igor como novo sócio sem consultar Heloísa, porque o sócio ostensivo é o único que se obriga perante terceiros e conduz os negócios sociais.",
+    "Errada. Salvo estipulação em contrário, o sócio ostensivo não pode admitir novo sócio sem o consentimento expresso dos demais (art. 995)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 991, 993, 994, §2º, e 995.",
+  "dica": "SCP: sem personalidade mesmo registrada; terceiro só cobra do ostensivo; participante que se mete no negócio vira solidário; falência do ostensivo = crédito quirografário."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21b",
+  "nivel": "médio",
+  "tema": "Extorsão x roubo, sequestro-relâmpago e consumação (CP, art. 158, §3º; Súmula 96/STJ)",
+  "enun": "João e Kleber, armados com revólveres, abordaram Lívia quando ela estacionava o carro, subtraíram seu telefone celular e a obrigaram a permanecer no banco traseiro do veículo, conduzindo-a a três caixas eletrônicos, onde ela, sob ameaça, digitou suas senhas e efetuou saques, entregando o dinheiro aos agentes. Como os criminosos não conheciam as senhas, a colaboração da vítima era indispensável para a obtenção dos valores. Lívia foi libertada duas horas depois, em local ermo. Em outro caso, Marcelo telefonou para Nívea e, afirmando ter sequestrado o filho dela, exigiu a transferência imediata de R$ 5.000,00 sob ameaça de matá-lo. Apavorada, Nívea realizou a transferência, mas o banco bloqueou o valor por suspeita de fraude antes que Marcelo pudesse sacá-lo; o filho estava, na verdade, na escola. Considerando o Código Penal e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "João e Kleber respondem por roubo e por extorsão com restrição da liberdade da vítima, em concurso material, e Marcelo responde por extorsão consumada.",
+    "CORRETA. A subtração do celular é roubo; a obtenção dos saques mediante constrangimento, com a colaboração indispensável da vítima privada de liberdade, é extorsão qualificada (art. 158, §3º), e o STJ afasta a continuidade entre roubo e extorsão, por serem de espécies distintas. A extorsão é crime formal e consuma-se independentemente da obtenção da vantagem (Súmula 96/STJ)."
+   ],
+   [
+    "João e Kleber respondem somente por roubo majorado pela restrição da liberdade da vítima, que absorve a conduta de obrigá-la a realizar os saques.",
+    "Errada. Quando a vantagem depende de comportamento indispensável da vítima (digitar senhas e sacar), configura-se extorsão, e não roubo; se a restrição da liberdade é necessária para obtê-la, incide o art. 158, §3º."
+   ],
+   [
+    "João e Kleber respondem por roubo e extorsão em continuidade delitiva, pois os crimes são da mesma espécie e foram praticados no mesmo contexto fático.",
+    "Errada. O STJ entende que roubo e extorsão, embora do mesmo gênero, são crimes de espécies diferentes, o que impede o crime continuado (art. 71) e impõe o concurso material."
+   ],
+   [
+    "João e Kleber respondem por extorsão mediante sequestro, pois a vantagem econômica foi obtida enquanto Lívia permanecia privada de sua liberdade.",
+    "Errada. A extorsão mediante sequestro (art. 159) exige que a vantagem seja condição ou preço do resgate; no sequestro-relâmpago, a restrição da liberdade é meio para obter a vantagem da própria vítima (art. 158, §3º)."
+   ],
+   [
+    "Marcelo responde por tentativa de extorsão, pois, bloqueada a transferência pelo banco, não chegou a obter a vantagem econômica pretendida.",
+    "Errada. O crime de extorsão consuma-se independentemente da obtenção da vantagem indevida (Súmula 96/STJ); basta que a vítima, constrangida, faça, tolere ou deixe de fazer algo, como ocorreu."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 157, 158, caput e §3º, 159 e 71; Súmula 96/STJ.",
+  "dica": "Se o ladrão consegue sozinho: roubo. Se precisa da vítima (senha): extorsão. Vítima presa para obter a vantagem: 158, §3º. Extorsão é formal: consuma sem embolsar."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D07",
+  "nivel": "fácil",
+  "tema": "Tentativa: critério de redução e infrações que não a admitem (CP, art. 14, II e parágrafo único)",
+  "enun": "Sobre a tentativa no Código Penal e na legislação penal correlata, analise as afirmativas a seguir.\nI. A fração de redução da pena do crime tentado, entre um e dois terços, é definida conforme o iter criminis percorrido, de modo que, quanto mais próximo da consumação o agente chegou, menor será a redução.\nII. Não é punível a tentativa de contravenção penal.\nIII. Os crimes culposos e os preterdolosos admitem tentativa, desde que iniciada a execução, porque a lei não distingue a natureza do elemento subjetivo para a punição do crime tentado.\nEstá correto o que se afirma em",
+  "alts": [
+   [
+    "I, apenas.",
+    "Errada. A afirmativa II também está correta, pois o art. 4º da Lei das Contravenções Penais declara não punível a tentativa de contravenção."
+   ],
+   [
+    "I e II, apenas.",
+    "CORRETA. A redução de um a dois terços (CP, art. 14, parágrafo único) varia, segundo a jurisprudência do STJ, conforme a proximidade da consumação (I). A tentativa de contravenção não é punível (LCP, art. 4º) (II). A afirmativa III é falsa: crimes culposos e preterdolosos não admitem tentativa, pois nela o agente quer o resultado que não se produz."
+   ],
+   [
+    "II e III, apenas.",
+    "Errada. A afirmativa III é falsa: não há tentativa em crime culposo (o resultado não é querido) nem em crime preterdoloso (o resultado agravador é culposo). E a afirmativa I está correta."
+   ],
+   [
+    "III, apenas.",
+    "Errada. A afirmativa III é a única incorreta: a tentativa exige dolo dirigido ao resultado, incompatível com a culpa e com o resultado agravador culposo do crime preterdoloso."
+   ],
+   [
+    "I, II e III.",
+    "Errada. A afirmativa III é falsa, porque crimes culposos e preterdolosos são incompatíveis com a tentativa (CP, art. 14, II, exige que a consumação não ocorra por circunstâncias alheias à vontade do agente)."
+   ]
+  ],
+  "c": 1,
+  "base": "CP, art. 14, II e parágrafo único; Decreto-Lei 3.688/1941 (LCP), art. 4º.",
+  "dica": "Quanto mais perto da consumação, menor o desconto. Não admitem tentativa: culposos, preterdolosos, contravenções (não punível), omissivos próprios, habituais e unissubsistentes.",
+  "fixa": true
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D04-06",
+  "nivel": "médio",
+  "tema": "Erro sobre a pessoa, aberratio ictus e aberratio criminis (CP, arts. 20, §3º, 73 e 74)",
+  "enun": "Otávio decidiu matar seu pai, Pedro, com quem mantinha antiga inimizade. Certa noite, escondido próximo à casa dos pais, avistou um homem de estatura e roupas semelhantes às de Pedro saindo pelo portão e efetuou disparos, matando-o. A vítima, contudo, era Quintino, vizinho que visitava o casal. Em fato diverso, Raul, irritado com Sílvio, arremessou uma pedra contra a vitrine da loja deste, com o propósito exclusivo de danificá-la. Por erro de pontaria, a pedra não atingiu a vitrine, mas acertou Teresa, transeunte que passava pela calçada, causando-lhe lesões corporais leves. Nenhum outro resultado ocorreu. Ambos foram denunciados pelo Ministério Público. Considerando o Código Penal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Otávio responde por homicídio doloso com a agravante do crime contra ascendente, e Raul responde por lesão corporal culposa.",
+    "CORRETA. No erro sobre a pessoa, consideram-se as condições ou qualidades da vítima visada (art. 20, §3º), incidindo a agravante do art. 61, II, e. Na aberratio criminis, sobrevindo resultado diverso do pretendido, o agente responde por culpa, se o fato é previsto como crime culposo (art. 74)."
+   ],
+   [
+    "Otávio responde por homicídio culposo contra Quintino, em concurso formal com tentativa de homicídio contra Pedro, que era a vítima pretendida.",
+    "Errada. O erro sobre a pessoa não isenta de pena nem desdobra a imputação: o agente responde como se tivesse atingido a vítima visada, pelo crime doloso efetivamente consumado (art. 20, §3º)."
+   ],
+   [
+    "Otávio responde por homicídio doloso sem a agravante, pois consideram-se as condições e qualidades da vítima efetivamente atingida pelos disparos.",
+    "Errada. A lei determina o oposto: não se consideram as condições ou qualidades da vítima atingida, senão as da pessoa contra quem o agente queria praticar o crime (art. 20, §3º)."
+   ],
+   [
+    "Raul responde apenas por tentativa de dano, pois o resultado diverso do pretendido não pode ser imputado a quem não o desejou nem o aceitou.",
+    "Errada. O art. 74 do CP imputa o resultado diverso a título de culpa quando previsto o tipo culposo, como na lesão corporal culposa (art. 129, §6º)."
+   ],
+   [
+    "Otávio e Raul agiram em aberratio ictus, respondendo ambos como se tivessem atingido a pessoa ou a coisa que pretendiam ofender.",
+    "Errada. Otávio incorreu em erro sobre a pessoa (confundiu a vítima, sem falha na execução), e Raul, em resultado diverso do pretendido (coisa x pessoa), regido pelo art. 74; a aberratio ictus (art. 73) é o erro na execução que atinge pessoa diversa."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 20, §3º, 61, II, e, 73, 74 e 129, §6º.",
+  "dica": "Error in persona: confundiu quem era. Aberratio ictus: errou o alvo (pessoa por pessoa). Aberratio criminis: bem jurídico diverso (coisa por pessoa) = culpa, se houver tipo culposo."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D08-10",
+  "nivel": "difícil",
+  "tema": "Erro de proibição indireto x descriminante putativa por erro de tipo (CP, arts. 20, §1º, e 21)",
+  "enun": "Xisto, fazendeiro, surpreendeu Yuri, à noite, furtando bezerros de sua propriedade. Embora Yuri já fugisse, desarmado e sem os animais, Xisto atirou e o matou, por acreditar sinceramente que a lei autoriza o proprietário a matar quem invade suas terras para furtar, desde que o faça dentro da propriedade. Em outro caso, Zélia, que mora sozinha em bairro com sucessivos roubos, viu, de madrugada, um homem encapuzado pular o muro de sua casa e levar rapidamente a mão ao bolso, como se fosse sacar uma arma. Supondo estar na iminência de ser atacada, atirou e o feriu. Tratava-se de seu filho, que deveria estar viajando, retornara de surpresa e, ao perceber a mãe armada, ia pegar o celular. A perícia concluiu que as circunstâncias tornavam o equívoco de Zélia plenamente justificado. Considerando o Código Penal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Xisto incorreu em erro de proibição indireto, que, se evitável, só reduz a pena, e Zélia, em descriminante putativa por erro sobre a situação fática, é isenta de pena.",
+    "CORRETA. O CP adota a teoria limitada da culpabilidade: o erro sobre os limites ou a existência de causa de justificação é erro de proibição indireto (art. 21), que isenta de pena se inevitável e reduz de um sexto a um terço se evitável. O erro plenamente justificado sobre a situação de fato que tornaria a ação legítima isenta de pena (art. 20, §1º)."
+   ],
+   [
+    "Xisto incorreu em descriminante putativa por erro de tipo permissivo, de modo que, sendo vencível o erro, responderá por homicídio culposo.",
+    "Errada. Xisto não errou sobre os fatos (sabia que Yuri fugia desarmado), mas sobre os limites jurídicos da legítima defesa, o que configura erro de proibição indireto (art. 21), e não a hipótese do art. 20, §1º."
+   ],
+   [
+    "Zélia incorreu em erro de proibição indireto inevitável, que exclui o dolo e a culpa e, por consequência, afasta a própria tipicidade do fato.",
+    "Errada. Zélia errou sobre a situação fática (descriminante putativa do art. 20, §1º); além disso, o erro de proibição não exclui o dolo, mas a culpabilidade, pela falta de potencial consciência da ilicitude."
+   ],
+   [
+    "Xisto deve ser isento de pena, pois o Código Penal adota a teoria extremada da culpabilidade, segundo a qual todo erro sobre causa de justificação exclui o dolo.",
+    "Errada. O CP adota a teoria limitada da culpabilidade (Exposição de Motivos da Parte Geral); ademais, mesmo pela teoria extremada, todo erro sobre causa de justificação seria erro de proibição, que não exclui o dolo."
+   ],
+   [
+    "Zélia responde por lesão corporal culposa, pois o erro sobre a situação de fato da legítima defesa nunca isenta de pena, apenas permite a punição por culpa.",
+    "Errada. O art. 20, §1º, isenta de pena quem, por erro plenamente justificado pelas circunstâncias, supõe situação de fato que tornaria a ação legítima; a punição a título de culpa só ocorre quando o erro deriva de culpa."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 20, §1º, e 21; Exposição de Motivos da Nova Parte Geral do CP (teoria limitada da culpabilidade).",
+  "dica": "Errou sobre o FATO da justificante: art. 20, §1º (invencível isenta; vencível, culpa). Errou sobre o DIREITO (limites ou existência): art. 21 (inevitável isenta; evitável, reduz 1/6 a 1/3)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21a",
+  "nivel": "médio",
+  "tema": "Homicídio qualificado-privilegiado: qualificadoras objetivas e hediondez (CP, art. 121, §§1º e 2º)",
+  "enun": "Abílio soube que Benedito, seu vizinho, havia abusado sexualmente de sua filha de 12 anos. Três dias depois, ainda profundamente abalado e movido pelo desejo de vingar a honra da filha, escondeu-se atrás de um muro no caminho que Benedito percorria diariamente e, quando este passou, atacou-o de surpresa com golpes de facão, matando-o. Pronunciado por homicídio qualificado pela emboscada e por motivo torpe, Abílio foi submetido a julgamento pelo Tribunal do Júri. Os jurados reconheceram que o réu agiu impelido por motivo de relevante valor moral e, em seguida, afirmaram a qualificadora da emboscada. O juiz-presidente consultou as partes sobre como proceder em relação ao quesito do motivo torpe e sobre os reflexos da decisão dos jurados na dosimetria e na natureza do crime. Considerando o Código Penal e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "É possível o reconhecimento simultâneo do privilégio e da qualificadora da emboscada, de natureza objetiva, e o crime assim configurado não é hediondo.",
+    "CORRETA. O privilégio do art. 121, §1º, de natureza subjetiva, é compatível com as qualificadoras objetivas, relativas ao meio ou ao modo de execução (art. 121, §2º, III e IV). O STJ entende que o homicídio qualificado-privilegiado não é hediondo, por ser incompatível com a hediondez a motivação reconhecida como de relevante valor."
+   ],
+   [
+    "O privilégio é incompatível com qualquer qualificadora, de modo que, reconhecido pelos jurados, ficam prejudicados os quesitos da emboscada e do motivo torpe.",
+    "Errada. A incompatibilidade alcança apenas as qualificadoras subjetivas (motivo torpe, fútil e as do inciso V); as objetivas, como a emboscada, coexistem com o privilégio."
+   ],
+   [
+    "É possível o reconhecimento simultâneo do privilégio e do motivo torpe, desde que os jurados os afirmem em quesitos distintos e por maioria de votos.",
+    "Errada. O relevante valor moral e o motivo torpe dizem respeito à motivação do crime e são logicamente excludentes; reconhecido o privilégio, o quesito da qualificadora subjetiva fica prejudicado."
+   ],
+   [
+    "O homicídio qualificado-privilegiado mantém a natureza hedionda, pois a Lei 8.072/1990 abrange o homicídio qualificado sem ressalvar o privilégio.",
+    "Errada. A jurisprudência consolidada do STJ afasta a hediondez do homicídio qualificado-privilegiado, por ser incongruente qualificar de hediondo um crime motivado por relevante valor social ou moral."
+   ],
+   [
+    "A redução de um sexto a um terço é mera faculdade do juiz-presidente, que pode deixar de aplicá-la mesmo após o reconhecimento do privilégio pelos jurados.",
+    "Errada. Apesar da expressão \"pode\" no art. 121, §1º, reconhecido o privilégio pelo Conselho de Sentença, a redução é obrigatória, por força da soberania dos veredictos; ao juiz cabe apenas escolher a fração."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, art. 121, §§1º e 2º, III e IV; CF, art. 5º, XXXVIII, c; Lei 8.072/1990, art. 1º; STJ (homicídio qualificado-privilegiado não é hediondo).",
+  "dica": "Privilégio é motivo (subjetivo): convive com meio e modo (objetivas), nunca com motivo torpe ou fútil. Qualificado-privilegiado não é hediondo."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D13-16",
+  "nivel": "difícil",
+  "tema": "Ação penal nos crimes sexuais (CP, art. 225; Lei 13.718/2018) e ofensa a funcionário público (Súmula 714/STF)",
+  "enun": "Em março de 2018, Carolina, de 25 anos, plenamente capaz, foi vítima de estupro mediante grave ameaça, praticado por Diogo, seu colega de trabalho. Embora soubesse desde o início quem era o autor, ela nunca manifestou à autoridade policial ou ao Ministério Público interesse na persecução. Em 2025, outros fatos levaram à reabertura das investigações e o Ministério Público ofereceu denúncia contra Diogo. Em outro caso, o delegado de polícia Elias foi chamado de \"corrupto e vendido\" por Fábio em uma rede social, em razão de inquérito que presidia contra a família do ofensor. Em um terceiro caso, ocorrido em 2024, Gabriela, de 30 anos, foi vítima de importunação sexual no metrô e não deseja que o autor seja processado. Considerando o Código Penal e a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A ação penal no caso de Carolina dependia de representação, sem retroatividade da Lei 13.718/2018, e Elias pode oferecer queixa ou representar ao Ministério Público.",
+    "CORRETA. Até a Lei 13.718/2018, o art. 225 previa ação pública condicionada à representação para vítima maior e capaz; a norma que torna a ação incondicionada é mais gravosa, pois suprime a decadência, e não retroage (CF, art. 5º, XL), operando-se a decadência (CP, art. 103). Na ofensa a funcionário público em razão das funções, a legitimidade é concorrente (Súmula 714/STF)."
+   ],
+   [
+    "A ação no caso de Carolina é pública incondicionada, porque a norma que define a natureza da ação penal é puramente processual e tem aplicação imediata.",
+    "Errada. A norma sobre a natureza da ação penal tem conteúdo misto, pois repercute no direito de punir (decadência e renúncia como causas extintivas da punibilidade), e, sendo prejudicial ao réu, não retroage."
+   ],
+   [
+    "Elias só pode buscar a responsabilização de Fábio por meio de representação ao Ministério Público, sendo vedada a queixa por se tratar de ofensa ligada à função.",
+    "Errada. A Súmula 714/STF assegura legitimidade concorrente do ofendido, mediante queixa, e do Ministério Público, condicionada à representação, nos crimes contra a honra de servidor público em razão do exercício de suas funções."
+   ],
+   [
+    "No caso de Gabriela, a ação é pública condicionada à representação, por se tratar de importunação sexual praticada contra vítima maior e capaz.",
+    "Errada. Desde a Lei 13.718/2018, os crimes dos Capítulos I e II do Título VI, entre eles a importunação sexual (art. 215-A), procedem-se mediante ação penal pública incondicionada (art. 225), sendo irrelevante a vontade da vítima."
+   ],
+   [
+    "No caso de Carolina, a ação seria pública incondicionada mesmo antes de 2018, pois o estupro de vítima maior sempre se processou independentemente de representação.",
+    "Errada. Entre a Lei 12.015/2009 e a Lei 13.718/2018, a regra era a ação pública condicionada à representação, sendo incondicionada apenas se a vítima fosse menor de 18 anos ou pessoa vulnerável."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 103, 141, II, 145, parágrafo único, 215-A e 225; CF, art. 5º, XL; Lei 12.015/2009; Lei 13.718/2018; Súmula 714/STF.",
+  "dica": "Crime sexual após a Lei 13.718/2018 (setembro de 2018): sempre incondicionada; antes, maior e capaz dependia de representação (e a lei nova não retroage). Servidor ofendido na função: queixa OU representação."
+ }
+]

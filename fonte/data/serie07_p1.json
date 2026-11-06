@@ -1,0 +1,387 @@
+[
+ {
+  "disc": "Direito Constitucional",
+  "item": "C07",
+  "nivel": "médio",
+  "tema": "Provas ilícitas por derivação: fonte independente (CF, art. 5º, LVI; CPP, art. 157)",
+  "enun": "Policiais civis receberam denúncia anônima de que Ronaldo guardava drogas em casa. Ao chegarem ao local, notaram que ele ficou nervoso ao ver a viatura e, apenas por isso, ingressaram na residência sem mandado judicial e sem consentimento, onde apreenderam pequena quantidade de cocaína e o celular de Ronaldo. Sem autorização judicial, acessaram as conversas do aplicativo de mensagens e descobriram o nome do fornecedor, Sérgio, e o endereço de um galpão usado como depósito. Ocorre que, havia dois meses, outra delegacia investigava Sérgio em inquérito autônomo, no qual uma interceptação telefônica judicialmente autorizada já havia revelado o mesmo galpão, e o pedido de busca e apreensão já tramitava quando se deu o ingresso na casa de Ronaldo. Deferida a busca, foram apreendidos 200 kg de cocaína no galpão. Denunciados, a defesa de ambos requereu o desentranhamento de todas as provas, como frutos da árvore envenenada. Considerando a Constituição Federal, o Código de Processo Penal e a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "São ilícitas as provas obtidas na casa e no celular de Ronaldo, mas a apreensão no galpão é válida, porque decorreu de fonte independente, sem nexo causal com a prova ilícita.",
+    "CORRETA. O ingresso forçado sem mandado só é lícito quando amparado em fundadas razões, justificadas a posteriori, de flagrante delito (STF, Tema 280); denúncia anônima e nervosismo não bastam, e o acesso às mensagens exige autorização judicial. Mas o art. 157, §1º, do CPP ressalva as provas derivadas quando não evidenciado o nexo causal ou quando puderem ser obtidas por fonte independente, como a investigação autônoma com interceptação autorizada."
+   ],
+   [
+    "Todas as provas devem ser desentranhadas, porque o ordenamento brasileiro adota a teoria dos frutos da árvore envenenada sem exceções legais.",
+    "Errada. O art. 157, §§1º e 2º, do CPP positivou exceções à ilicitude por derivação: ausência de nexo causal e fonte independente. A prova do galpão tem origem autônoma, anterior ao ingresso ilegal."
+   ],
+   [
+    "São válidas todas as provas, porque o tráfico é crime permanente e o estado de flagrância autoriza o ingresso em domicílio em qualquer circunstância.",
+    "Errada. A natureza permanente do crime não dispensa fundadas razões prévias, devidamente justificadas, para o ingresso sem mandado (STF, Tema 280; CF, art. 5º, XI). Nervosismo e denúncia anônima isolada não as configuram."
+   ],
+   [
+    "São válidas as provas da casa de Ronaldo, porque, diante da gravidade do tráfico, o princípio da proporcionalidade permite aproveitar a prova ilícita em favor da sociedade.",
+    "Errada. A CF declara inadmissíveis as provas obtidas por meios ilícitos (art. 5º, LVI), e a jurisprudência só admite o seu aproveitamento, excepcionalmente, em favor do réu, não pro societate."
+   ],
+   [
+    "A apreensão no galpão só seria válida se demonstrada a descoberta inevitável, porque o CPP não acolheu a teoria da fonte independente.",
+    "Errada. A fonte independente está expressamente prevista no art. 157, §§1º e 2º, do CPP. No caso, a prova não precisa ser hipotética: ela efetivamente tinha origem lícita e autônoma."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, XI, XII e LVI; CPP, art. 157, §§1º e 2º; STF, Tema 280 (RE 603.616).",
+  "dica": "Prova derivada da ilícita cai, SALVO: sem nexo causal ou fonte independente (art. 157, §1º). Ilícita pro reo, sim; pro societate, nunca."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C08t",
+  "nivel": "difícil",
+  "tema": "Unicidade sindical e contribuições (ADI 5.794; Tema 935/STF; SV 40)",
+  "enun": "O Sindicato dos Empregados no Comércio do Município Alfa celebrou convenção coletiva com o sindicato patronal contendo três cláusulas: a primeira institui contribuição assistencial de 1% do salário, devida por todos os empregados da categoria, filiados ou não, assegurado a qualquer deles o direito de se opor ao desconto no prazo de dez dias; a segunda impõe a todos os empregados, inclusive não filiados, a contribuição confederativa fixada pela assembleia geral; a terceira autoriza as empresas a descontar, de todos os empregados, a contribuição sindical anual equivalente a um dia de trabalho, independentemente de autorização. No mesmo período, um grupo de comerciários fundou o Sindicato Livre dos Comerciários de Alfa, com a mesma categoria e base territorial, invocando a liberdade sindical. Considerando a Constituição Federal e a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A contribuição assistencial não pode ser cobrada de empregados não filiados, ainda que garantido o direito de oposição, pois só a mensalidade e a contribuição sindical alcançam toda a categoria.",
+    "Errada. O STF revisou seu entendimento no Tema 935 e passou a admitir a contribuição assistencial instituída por acordo ou convenção coletiva para todos os empregados da categoria, ainda que não sindicalizados, desde que assegurado o direito de oposição."
+   ],
+   [
+    "A contribuição sindical permanece compulsória, porque tem natureza tributária e a sua facultatividade dependeria de lei complementar.",
+    "Errada. Na ADI 5.794, o STF declarou constitucional a Lei 13.467/2017, que tornou a contribuição sindical facultativa: não se exige lei complementar para tanto, e o desconto depende de autorização prévia e expressa do empregado."
+   ],
+   [
+    "A criação do segundo sindicato é válida, porque a Constituição assegura a liberdade sindical e o Brasil ratificou a Convenção 87 da OIT, que consagra o pluralismo.",
+    "Errada. O art. 8º, II, da CF adota a unicidade sindical, vedando mais de uma organização representativa da mesma categoria na mesma base territorial, que não pode ser inferior a um Município. O Brasil não ratificou a Convenção 87 da OIT."
+   ],
+   [
+    "É válida a assistencial com direito de oposição; a confederativa só é exigível dos filiados, a sindical depende de autorização prévia e o segundo sindicato viola a unicidade.",
+    "CORRETA. Contribuição assistencial para toda a categoria, com direito de oposição, é constitucional (Tema 935/STF). A confederativa (art. 8º, IV) só é exigível dos filiados (SV 40). A sindical é facultativa (ADI 5.794). E é vedada mais de uma entidade da mesma categoria na mesma base territorial (art. 8º, II)."
+   ],
+   [
+    "É válida a contribuição confederativa imposta a todos os empregados, porque fixada pela assembleia geral com base em autorização constitucional expressa.",
+    "Errada. Embora prevista no art. 8º, IV, da CF, a contribuição confederativa só é exigível dos filiados ao sindicato respectivo (Súmula Vinculante 40), em respeito à liberdade de filiação (art. 8º, V)."
+   ]
+  ],
+  "c": 3,
+  "base": "CF, art. 8º, II, IV e V; Súmula Vinculante 40; STF, ADI 5.794 e Tema 935 (ARE 1.018.459).",
+  "dica": "Sindical: facultativa (ADI 5.794). Confederativa: só filiado (SV 40). Assistencial: todos, com direito de oposição (Tema 935). Unicidade: 1 por categoria, base mínima = Município."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C09",
+  "nivel": "médio",
+  "tema": "Criação de Municípios e de Estados (CF, art. 18, §§3º e 4º; ADCT, art. 96)",
+  "enun": "Em 2025, a Assembleia Legislativa do Estado Gama aprovou lei criando o Município de Nova Esperança, por desmembramento do distrito de mesmo nome, pertencente ao Município Alfa. Antes da votação, foram publicados estudos de viabilidade municipal e realizado plebiscito apenas entre os eleitores do distrito, que aprovaram a emancipação. A lei estadual registrou que a lei complementar federal prevista no art. 18, §4º, da Constituição ainda não foi editada e que o Supremo Tribunal Federal, na ADO 3.682, já reconheceu a mora do Congresso Nacional, razão pela qual o Estado poderia suprir a omissão. Ao mesmo tempo, lideranças do sul do Estado Beta iniciaram movimento para a criação de um novo Estado a partir do desmembramento daquela região, propondo que a decisão fosse tomada por lei federal ordinária após consulta apenas aos moradores da região. Considerando a Constituição Federal e a jurisprudência do Supremo Tribunal Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A lei estadual é válida, porque, reconhecida a mora legislativa na ADO 3.682, os Estados passaram a poder criar Municípios com base apenas na legislação estadual.",
+    "Errada. A ADO 3.682 declarou a mora do Congresso e fixou prazo para a edição da lei complementar, mas não autorizou os Estados a dispensá-la. Leis estaduais posteriores à EC 15/1996 editadas sem a lei complementar federal são inconstitucionais."
+   ],
+   [
+    "A lei estadual é inconstitucional, por falta da lei complementar federal e de plebiscito com toda a população envolvida; o novo Estado exige plebiscito e lei complementar.",
+    "CORRETA. Desde a EC 15/1996, a criação de Municípios exige lei estadual dentro do período fixado por lei complementar federal e plebiscito com as populações dos Municípios envolvidos (art. 18, §4º). A criação de Estado depende de plebiscito com a população diretamente interessada e de lei complementar do Congresso (art. 18, §3º), ouvidas as Assembleias Legislativas (art. 48, VI)."
+   ],
+   [
+    "A lei estadual é válida, porque o art. 96 do ADCT convalidou a criação de Municípios realizada por lei estadual enquanto não editada a lei complementar federal.",
+    "Errada. O art. 96 do ADCT (EC 57/2008) convalidou apenas os atos de criação, fusão, incorporação e desmembramento de Municípios cuja lei tenha sido publicada até 31 de dezembro de 2006."
+   ],
+   [
+    "O plebiscito realizado é suficiente, porque a população diretamente interessada na emancipação é somente a do distrito a ser desmembrado.",
+    "Errada. O art. 18, §4º, exige consulta às populações dos Municípios envolvidos, o que abrange a área desmembrada e a remanescente; o mesmo critério vale para os Estados (Lei 9.709/1998, art. 7º; STF, ADI 2.650)."
+   ],
+   [
+    "O novo Estado pode ser criado por lei federal ordinária, desde que a Assembleia Legislativa do Estado Beta aprove o desmembramento, em manifestação vinculante.",
+    "Errada. O art. 18, §3º, exige lei complementar federal, após plebiscito. A manifestação das Assembleias Legislativas (art. 48, VI) é obrigatória, mas meramente opinativa."
+   ]
+  ],
+  "c": 1,
+  "base": "CF, arts. 18, §§3º e 4º, e 48, VI; ADCT, art. 96; Lei 9.709/1998, art. 7º; STF, ADO 3.682 e ADI 2.650.",
+  "dica": "Município novo: LC federal (período) + estudos de viabilidade + plebiscito de TODOS os envolvidos + lei estadual. Convalidação do ADCT 96: só até 31/12/2006. Estado novo: plebiscito + LC federal."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C10",
+  "nivel": "fácil",
+  "tema": "Medidas provisórias: limites, prazos e reedição (CF, art. 62)",
+  "enun": "Sobre as medidas provisórias, analise as afirmativas a seguir.\nI. É vedada a edição de medidas provisórias sobre direito penal, processual penal e processual civil, bem como sobre matéria reservada a lei complementar.\nII. A medida provisória perde a eficácia, desde a edição, se não for convertida em lei no prazo de sessenta dias, prorrogável uma única vez por igual período, prazo que se suspende durante os períodos de recesso do Congresso Nacional.\nIII. A medida provisória rejeitada pelo Congresso Nacional pode ser reeditada na mesma sessão legislativa, desde que mediante proposta da maioria absoluta dos membros de qualquer das Casas.\nConsiderando a Constituição Federal, está correto o que se afirma em",
+  "alts": [
+   [
+    "I, apenas.",
+    "Errada. A afirmativa II também está correta: reproduz os §§3º, 4º e 7º do art. 62 (60 dias, prorrogáveis uma vez por igual período, com suspensão no recesso)."
+   ],
+   [
+    "II, apenas.",
+    "Errada. A afirmativa I também está correta: o art. 62, §1º, I, b, veda MP sobre direito penal, processual penal e processual civil, e o inciso III veda MP sobre matéria reservada a lei complementar."
+   ],
+   [
+    "I e II, apenas.",
+    "CORRETA. I reproduz o art. 62, §1º, I, b, e III. II reproduz os §§3º, 4º e 7º. III está errada: é vedada, sem exceção, a reedição na mesma sessão legislativa de MP rejeitada ou que tenha perdido a eficácia por decurso de prazo (§10). A ressalva da maioria absoluta vale para o projeto de lei rejeitado (art. 67)."
+   ],
+   [
+    "II e III, apenas.",
+    "Errada. III é incorreta: a vedação de reedição da MP rejeitada ou caducada na mesma sessão legislativa é absoluta (art. 62, §10). Também não há trancamento antes de 45 dias da publicação (§6º)."
+   ],
+   [
+    "I, II e III.",
+    "Errada. III confunde o regime da MP (art. 62, §10, vedação absoluta de reedição na mesma sessão legislativa) com o do projeto de lei rejeitado, que pode ser reapresentado mediante proposta da maioria absoluta de qualquer das Casas (art. 67)."
+   ]
+  ],
+  "c": 2,
+  "base": "CF, arts. 62, §§1º, 3º, 4º, 6º, 7º e 10, e 67; STF, MS 27.931.",
+  "dica": "MP: 60 + 60 dias, suspensos no recesso; 45 dias sem votação = urgência e pauta trancada; rejeitada ou caducada: NUNCA reedita na mesma sessão (o art. 67 é para projeto de lei).",
+  "fixa": true
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C08",
+  "nivel": "difícil",
+  "tema": "Controle judicial de políticas públicas (STF, Tema 698; mínimo existencial e reserva do possível)",
+  "enun": "O Ministério Público ajuizou ação civil pública contra o Município Pi, demonstrando, por relatórios da vigilância sanitária e do conselho de saúde, que o único hospital municipal funciona com metade dos médicos necessários, com pacientes atendidos em macas nos corredores e mortes evitáveis registradas no último ano. A sentença julgou procedente o pedido e determinou ao Município que, em 90 dias, realize concurso público para 30 médicos, construa nova ala com 40 leitos e adquira equipamentos especificados pelo juízo, sob pena de multa diária. Na apelação, o Município sustentou que a sentença violou a separação dos poderes e invocou a reserva do possível, limitando-se a afirmar que não há previsão orçamentária para as despesas. Considerando a Constituição Federal e a jurisprudência do Supremo Tribunal Federal, o tribunal deve",
+  "alts": [
+   [
+    "reformar integralmente a sentença, porque a definição de prioridades na saúde cabe exclusivamente aos Poderes eleitos, sendo vedado ao Judiciário intervir em políticas públicas.",
+    "Errada. O STF fixou, no Tema 698, que a intervenção do Judiciário em políticas públicas voltadas a direitos fundamentais, em caso de ausência ou deficiência grave do serviço, não viola a separação dos poderes."
+   ],
+   [
+    "manter integralmente a sentença, porque, comprovada a omissão, cabe ao juiz definir as medidas concretas, sendo o concurso público a única via para suprir o déficit de médicos.",
+    "Errada. No Tema 698, o STF afirmou que a decisão, como regra, não deve fixar medidas pontuais, e que o déficit de profissionais pode ser suprido por concurso, remanejamento de pessoal ou contratação de organizações sociais e OSCIPs."
+   ],
+   [
+    "reformar a sentença para acolher a reserva do possível, porque a ausência de previsão orçamentária, por si só, impede a imposição de obrigações de fazer ao Município.",
+    "Errada. A reserva do possível exige comprovação objetiva da incapacidade financeira e não pode ser invocada para frustrar o mínimo existencial; a mera alegação de falta de previsão orçamentária é insuficiente (STF, ADPF 45)."
+   ],
+   [
+    "anular a sentença, porque a intervenção judicial em políticas de saúde depende de lei específica que fixe o número mínimo de médicos e de leitos por habitante.",
+    "Errada. O direito à saúde decorre diretamente dos arts. 6º e 196 da CF, e a sua tutela judicial em caso de deficiência grave não depende de lei que quantifique o serviço."
+   ],
+   [
+    "manter o reconhecimento da omissão, mas, em regra, substituir as medidas pontuais pela fixação das finalidades a alcançar e pela ordem para que o Município apresente um plano.",
+    "CORRETA. Pela tese do Tema 698, a decisão judicial, em lugar de determinar medidas pontuais, deve apontar as finalidades a serem alcançadas e determinar à Administração que apresente um plano ou os meios adequados para alcançar o resultado, sem que isso afaste a legitimidade da intervenção diante de deficiência grave."
+   ]
+  ],
+  "c": 4,
+  "base": "CF, arts. 2º, 6º e 196; STF, Tema 698 (RE 684.612) e ADPF 45.",
+  "dica": "Tema 698: Judiciário pode intervir (deficiência grave), mas fixa o FIM e manda a Administração apresentar o PLANO. Reserva do possível: precisa de prova, e não vence o mínimo existencial."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A15",
+  "nivel": "médio",
+  "tema": "Abuso do poder regulatório (Lei 13.874/2019, arts. 1º, §4º, e 4º)",
+  "enun": "O Prefeito do Município Delta editou decreto para regulamentar a lei municipal que autorizou o comércio de alimentos em veículos automotores (food trucks), a qual não contém nenhuma restrição à concorrência. O decreto estabeleceu que: (i) somente empresas com sede no Município há pelo menos cinco anos poderão obter licença; (ii) os veículos deverão ser de um único modelo, de fabricante indicado, embora outros modelos atendam igualmente às normas sanitárias; (iii) fica proibida a venda por meio de aplicativos de entrega, sem indicação de qualquer risco que justifique a vedação; e (iv) todos os documentos apresentados deverão ter firma reconhecida em cartório. A associação dos comerciantes impugnou o decreto, alegando abuso do poder regulatório. O Município respondeu que a Lei 13.874/2019 é lei federal que não vincula os Municípios, por força da sua autonomia. Considerando a Lei 13.874/2019 (Lei da Liberdade Econômica), assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O decreto é válido, porque a Lei 13.874/2019 vincula apenas a administração pública federal, e o Município exerce competência própria para legislar sobre assuntos de interesse local.",
+    "Errada. O art. 1º, §4º, da Lei 13.874/2019 qualifica os arts. 1º a 4º como normas gerais de direito econômico (CF, art. 24, I), a serem observadas também por Estados, Distrito Federal e Municípios."
+   ],
+   [
+    "As quatro exigências configuram abuso do poder regulatório, vedado também aos Municípios, salvo quando a restrição decorrer de estrito cumprimento de previsão explícita em lei.",
+    "CORRETA. O art. 4º veda, entre outras condutas, criar reserva de mercado, impedir a entrada de novos competidores, exigir especificação técnica desnecessária, impedir ou retardar a inovação e criar demanda artificial ou compulsória, inclusive de uso de cartórios. A vedação ressalva o estrito cumprimento de previsão explícita em lei, ausente no caso."
+   ],
+   [
+    "O abuso do poder regulatório só se configura se comprovado o desvio de finalidade, ou seja, a intenção do Prefeito de favorecer determinados agentes econômicos.",
+    "Errada. As hipóteses do art. 4º são objetivas: basta que a regulamentação produza, indevidamente, os efeitos descritos, como a reserva de mercado ou a demanda artificial, sem necessidade de prova de intenção."
+   ],
+   [
+    "As exigências seriam válidas se precedidas de análise de impacto regulatório, que afasta a caracterização do abuso do poder regulatório.",
+    "Errada. A análise de impacto regulatório (art. 5º) é dever procedimental da administração federal e não autoriza a prática de condutas vedadas pelo art. 4º, que só se excepcionam por previsão explícita em lei."
+   ],
+   [
+    "Apenas a exigência de sede no Município configura abuso, porque o reconhecimento de firma garante a fé pública e a escolha do modelo de veículo é mérito administrativo.",
+    "Errada. O art. 4º também veda exigir especificação técnica desnecessária para o fim desejado, impedir a adoção de novos modelos de negócios e criar demanda artificial ou compulsória, inclusive de uso de cartórios."
+   ]
+  ],
+  "c": 1,
+  "base": "Lei 13.874/2019, arts. 1º, §4º, 3º, 4º e 5º; CF, arts. 24, I, e 170.",
+  "dica": "Abuso regulatório (art. 4º): reserva de mercado, barreira a novos competidores, especificação técnica inútil, travar inovação, custo sem benefício, demanda artificial (cartório). Vale para todos os entes, salvo previsão EXPLÍCITA em lei."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A16",
+  "nivel": "médio",
+  "tema": "Prescrição no PAD da Lei 8.112/1990 (art. 142 e Súmula 635/STJ)",
+  "enun": "Em 2016, Marcos, servidor público federal, valeu-se do cargo para obter vantagem indevida para terceiro, infração punível com demissão. O fato só chegou ao conhecimento da autoridade competente para instaurar o procedimento disciplinar em 10/3/2019. Em 5/2/2020, foi instaurada sindicância de caráter acusatório, regularmente processada. Em 1/9/2020, com base no relatório da sindicância, foi instaurado processo administrativo disciplinar, que se estendeu por anos, muito além do prazo legal de conclusão, sem que a defesa apontasse prejuízo concreto. A pena de demissão foi aplicada em 10/10/2025. Em mandado de segurança, Marcos sustentou a prescrição da pretensão punitiva e a nulidade do processo pelo excesso de prazo. A infração não é capitulada como crime. Considerando a Lei 8.112/1990 e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A pretensão punitiva não está prescrita, porque a instauração do PAD, em setembro de 2020, interrompeu novamente o prazo, que voltou a correr por inteiro apenas 140 dias depois.",
+    "Errada. Pela Súmula 635/STJ, a prescrição se interrompe com o primeiro ato de instauração válido, sindicância de caráter punitivo ou PAD. A posterior abertura do PAD não gera nova interrupção."
+   ],
+   [
+    "A pretensão punitiva estava prescrita desde 2021, porque o prazo de cinco anos começou a correr na data em que a infração foi praticada.",
+    "Errada. O prazo começa a correr da data em que o fato se tornou conhecido (art. 142, §1º), e o STJ exige o conhecimento pela autoridade competente para a instauração (Súmula 635)."
+   ],
+   [
+    "A pretensão punitiva não está prescrita, porque a interrupção provocada pela sindicância perdura até a decisão final da autoridade competente, como dispõe a lei.",
+    "Errada. A jurisprudência limita a interrupção ao prazo legal de conclusão do processo: o prazo volta a fluir por inteiro após 140 dias da interrupção (Súmula 635/STJ), sob pena de imprescritibilidade."
+   ],
+   [
+    "A pretensão punitiva está prescrita, porque o prazo de cinco anos, interrompido pela sindicância acusatória, voltou a correr por inteiro 140 dias depois, esgotando-se em junho de 2025.",
+    "CORRETA. Contado do conhecimento pela autoridade competente, o prazo de cinco anos (art. 142, I) foi interrompido em 5/2/2020 pelo primeiro ato de instauração válido e voltou a fluir por inteiro após 140 dias, em 24/6/2020 (Súmula 635/STJ). Esgotou-se em 24/6/2025, antes da demissão."
+   ],
+   [
+    "O PAD é nulo, porque o excesso do prazo legal de conclusão, de sessenta dias prorrogáveis por igual período, invalida o processo independentemente de prejuízo.",
+    "Errada. O excesso de prazo para a conclusão do PAD só causa nulidade se houver demonstração de prejuízo à defesa (Súmula 592/STJ). Seu efeito relevante é sobre a contagem da prescrição."
+   ]
+  ],
+  "c": 3,
+  "base": "Lei 8.112/1990, arts. 142, I e §§1º, 3º e 4º, 145, 146 e 152; Súmulas 592 e 635/STJ.",
+  "dica": "PAD federal: demissão prescreve em 5 anos, suspensão em 2, advertência em 180 dias, contados da CIÊNCIA da autoridade competente. Interrompe UMA vez e volta a correr inteiro após 140 dias (60 + 60 + 20)."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A10-11",
+  "nivel": "médio",
+  "tema": "Tredestinação lícita e ilícita e retrocessão (DL 3.365/1941; CC, art. 519)",
+  "enun": "O Estado Ômega declarou de utilidade pública e desapropriou a fazenda de Helena para construir uma escola técnica, pagando a indenização fixada judicialmente. Anos depois, diante de novas prioridades, construiu no local um hospital regional, que atende toda a população da região. Helena ajuizou ação alegando desvio da finalidade indicada no decreto expropriatório e pedindo a devolução do imóvel. No mesmo Estado, o Município Sigma desapropriou um terreno de Otávio para a construção de uma praça e, concluído o processo, doou a área a uma empresa privada, que nela construiu um supermercado. Otávio pretende reaver o bem ou ser compensado, oferecendo-se a devolver o valor que recebeu, corrigido monetariamente. Considerando a legislação e a doutrina majoritária, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Helena tem direito à retrocessão, porque qualquer alteração da destinação prevista no decreto expropriatório configura desvio de finalidade.",
+    "Errada. A mudança de destino que mantém uma finalidade pública é tredestinação lícita e não gera retrocessão. O que importa é a afetação do bem ao interesse público, e não a finalidade específica do decreto."
+   ],
+   [
+    "Otávio não tem nenhuma pretensão, porque os bens expropriados incorporados à Fazenda Pública não podem ser objeto de reivindicação.",
+    "Errada. O art. 35 do DL 3.365/1941 impede a reivindicação, mas ressalva que qualquer ação julgada procedente se resolve em perdas e danos. A tredestinação ilícita não fica sem consequência."
+   ],
+   [
+    "No caso de Helena, há tredestinação lícita, sem retrocessão; no de Otávio, a tredestinação é ilícita e gera preferência pelo preço atual da coisa ou perdas e danos.",
+    "CORRETA. Na tredestinação lícita, o bem recebe destinação diversa, mas ainda pública, e não há retrocessão. A transferência a particular para fim privado é tredestinação ilícita, que dá ao expropriado o direito de preferência pelo preço atual da coisa (CC, art. 519) e, não sendo possível reaver o bem, perdas e danos (DL 3.365/1941, art. 35)."
+   ],
+   [
+    "Otávio pode reaver o terreno mediante a devolução do valor da indenização recebida, corrigido monetariamente, por força do direito de preferência.",
+    "Errada. O art. 519 do CC assegura a preferência pelo preço atual da coisa, e não pelo valor da indenização corrigido. A banca troca o parâmetro do preço."
+   ],
+   [
+    "A tredestinação ilícita só se configura se o expropriante deixar de dar destinação pública ao bem no prazo de cinco anos da declaração de utilidade pública.",
+    "Errada. O prazo de cinco anos do art. 10 do DL 3.365/1941 é de caducidade do decreto para efetivar a desapropriação. A tredestinação ilícita decorre do desvio do bem para fim não público, como a doação a particular."
+   ]
+  ],
+  "c": 2,
+  "base": "DL 3.365/1941, arts. 10 e 35; CC, art. 519.",
+  "dica": "Tredestinação lícita: muda o fim, mas continua público, sem retrocessão. Ilícita: vai para fim privado, e há retrocessão (preferência pelo PREÇO ATUAL ou perdas e danos)."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A12-13",
+  "nivel": "fácil",
+  "tema": "Interrupção do serviço público por inadimplemento (Lei 8.987/1995, art. 6º, §§3º e 4º)",
+  "enun": "Três consumidores procuraram o Procon do Município Kappa. Joana alugou um apartamento e pediu à concessionária a religação do fornecimento de água, mas a empresa condicionou o serviço ao pagamento das contas deixadas pelo inquilino anterior. Paulo teve a energia elétrica cortada, sem nenhum aviso, por causa de uma fatura vencida havia dois anos, embora pagasse em dia as faturas recentes. Carla, que deixou de pagar a conta de energia do mês anterior, recebeu aviso prévio de que o fornecimento seria interrompido, e o corte foi agendado para uma sexta-feira. A concessionária sustenta que todas as medidas são legítimas, porque o serviço é remunerado por tarifa e a inadimplência compromete o equilíbrio econômico-financeiro da concessão. Considerando a Lei 8.987/1995 e a jurisprudência do Superior Tribunal de Justiça, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Joana não responde pelo débito do inquilino anterior; o corte de Paulo é ilegal, por ser débito pretérito; e o de Carla, embora possível, não pode iniciar-se na sexta.",
+    "CORRETA. O débito de água e energia é obrigação pessoal de quem usufruiu do serviço, e não propter rem. O corte só é admitido para débito atual, após aviso prévio (art. 6º, §3º, II), e não para débitos pretéritos, que devem ser cobrados pelas vias ordinárias. A interrupção por inadimplemento não pode iniciar-se na sexta-feira, no sábado, no domingo, em feriado ou na véspera (§4º)."
+   ],
+   [
+    "Nenhum dos cortes é lícito, porque o princípio da continuidade dos serviços públicos essenciais impede a interrupção por inadimplemento do usuário.",
+    "Errada. Não se caracteriza descontinuidade a interrupção, após prévio aviso, por inadimplemento do usuário, considerado o interesse da coletividade (art. 6º, §3º, II, da Lei 8.987/1995)."
+   ],
+   [
+    "A exigência feita a Joana é lícita, porque o débito de água tem natureza propter rem e acompanha o imóvel, qualquer que seja o seu ocupante.",
+    "Errada. O STJ entende que a obrigação de pagar pelo serviço é de natureza pessoal (propter personam), de modo que o novo usuário não responde pelos débitos do anterior."
+   ],
+   [
+    "O corte de Paulo seria lícito se precedido de aviso prévio, porque a lei não distingue débitos atuais e pretéritos para fins de interrupção do serviço.",
+    "Errada. O STJ só admite o corte por inadimplemento de débito atual. Débitos antigos, consolidados, devem ser cobrados pelos meios ordinários, e não pela suspensão do serviço."
+   ],
+   [
+    "O corte de Carla é lícito na data agendada, porque, havendo aviso prévio, a interrupção pode ocorrer em qualquer dia útil, a critério da concessionária.",
+    "Errada. O §4º do art. 6º da Lei 8.987/1995, incluído pela Lei 14.015/2020, proíbe que a interrupção por inadimplemento se inicie na sexta-feira, no sábado, no domingo, em feriado ou no dia anterior a feriado."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 8.987/1995, art. 6º, §§1º, 3º, II, e 4º (Lei 14.015/2020); CDC, art. 22.",
+  "dica": "Corte por inadimplência: só débito ATUAL, com aviso prévio, nunca de sexta a domingo, feriado ou véspera. Débito é do usuário (pessoal), não do imóvel."
+ },
+ {
+  "disc": "Noções Gerais de Direito e Formação Humanística",
+  "item": "H9",
+  "nivel": "médio",
+  "tema": "Convenção Interamericana contra o Racismo (Decreto 10.932/2022): discriminação direta, indireta e múltipla",
+  "enun": "Uma rede de lojas foi alvo de três denúncias. Na primeira, o gerente recusou a contratação de Tiago, aprovado em todas as etapas do processo seletivo, declarando a colegas que \"não queria um negro no atendimento\". Na segunda, a empresa passou a exigir, para todas as vagas de vendedor, que os candidatos residissem em determinados bairros centrais da cidade, sem nenhuma relação com as atribuições do cargo; a regra, embora sem referência à raça, excluiu quase todos os candidatos negros, majoritariamente residentes na periferia. Na terceira, Luíza, mulher negra e quilombola, foi preterida em promoção por ser mulher e por ser negra, conforme mensagens dos dirigentes. A empresa alegou que não houve discriminação na segunda situação, porque o critério é neutro e não houve intenção de excluir pessoas negras. Considerando a Convenção Interamericana contra o Racismo, a Discriminação Racial e Formas Correlatas de Intolerância, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Há discriminação apenas na primeira situação, porque a Convenção exige, para a caracterização da discriminação racial, a intenção de distinguir em razão da raça.",
+    "Errada. A Convenção define a discriminação racial pelo propósito ou pelo efeito de anular ou restringir direitos, e prevê expressamente a discriminação indireta, que dispensa intenção."
+   ],
+   [
+    "A segunda situação não configura discriminação, porque a Convenção alcança somente os atos praticados por agentes públicos, e não as relações privadas de trabalho.",
+    "Errada. A Convenção define a discriminação racial como a que ocorre em qualquer área da vida pública ou privada, e obriga os Estados a preveni-la e puni-la também nas relações entre particulares."
+   ],
+   [
+    "Há discriminação direta contra Tiago, indireta na exigência de residência, por critério aparentemente neutro com efeito desproporcional injustificado, e múltipla ou agravada contra Luíza.",
+    "CORRETA. A Convenção prevê a discriminação racial direta, a indireta (dispositivo, prática ou critério aparentemente neutro que acarreta desvantagem particular a grupo específico, sem objetivo ou justificativa razoável e legítima) e a múltipla ou agravada (baseada, de modo concomitante, em dois ou mais critérios), como raça e gênero."
+   ],
+   [
+    "A Convenção integra o ordenamento com status supralegal, como os demais tratados de direitos humanos aprovados por maioria simples, de modo que não pode servir de parâmetro de constitucionalidade.",
+    "Errada. A Convenção foi aprovada pelo Congresso pelo rito do art. 5º, §3º, da CF e promulgada pelo Decreto 10.932/2022, com equivalência de emenda constitucional, integrando o bloco de constitucionalidade."
+   ],
+   [
+    "A situação de Luíza configura discriminação de gênero, alheia ao objeto da Convenção, que só considera critérios raciais isoladamente.",
+    "Errada. A Convenção trata expressamente da discriminação múltipla ou agravada, fundada concomitantemente em dois ou mais critérios, inclusive critérios reconhecidos em outros instrumentos internacionais, como o gênero."
+   ]
+  ],
+  "c": 2,
+  "base": "Convenção Interamericana contra o Racismo, a Discriminação Racial e Formas Correlatas de Intolerância, arts. 1º a 4º (Decreto 10.932/2022, aprovada na forma do art. 5º, §3º, da CF); Lei 12.288/2010, art. 1º, parágrafo único.",
+  "dica": "Convenção contra o Racismo = emenda constitucional (art. 5º, §3º). Direta: intenção explícita. Indireta: critério neutro + efeito desproporcional + sem justificativa. Múltipla: raça + outro critério."
+ },
+ {
+  "disc": "Noções Gerais de Direito e Formação Humanística",
+  "item": "H1",
+  "nivel": "fácil",
+  "tema": "Durkheim: solidariedade mecânica e orgânica; direito repressivo e restitutivo",
+  "enun": "Em aula de sociologia jurídica, o professor comparou duas sociedades hipotéticas. Na primeira, uma pequena aldeia em que todos exercem atividades semelhantes e compartilham as mesmas crenças, a violação de um costume provoca a indignação coletiva e é punida publicamente, com severidade, como forma de reafirmar os valores do grupo. Na segunda, uma grande cidade com intensa especialização profissional, a maior parte dos conflitos envolve contratos, relações comerciais e familiares, e as decisões judiciais buscam, sobretudo, restabelecer a situação anterior ao litígio, por meio de indenizações e da anulação de atos. Considerando a obra \"Da divisão do trabalho social\", de Émile Durkheim, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A primeira sociedade é marcada pela solidariedade orgânica, fundada na diferenciação dos indivíduos, e a segunda pela mecânica, fundada na semelhança.",
+    "Errada. Inverte os conceitos: a solidariedade mecânica decorre das semelhanças e da consciência coletiva forte; a orgânica, da divisão do trabalho e da interdependência entre indivíduos diferenciados."
+   ],
+   [
+    "Na primeira sociedade predomina a solidariedade mecânica, expressa no direito repressivo; na segunda, a solidariedade orgânica, expressa no direito restitutivo.",
+    "CORRETA. Para Durkheim, o direito é o símbolo visível da solidariedade social. Nas sociedades de solidariedade mecânica predomina o direito repressivo (penal), que pune as ofensas à consciência coletiva; nas de solidariedade orgânica, fundadas na divisão do trabalho, predomina o direito restitutivo (civil, comercial, processual, administrativo), que visa restabelecer o estado anterior."
+   ],
+   [
+    "O direito restitutivo é típico das sociedades simples, porque nelas a reparação do dano é o meio mais eficaz de preservar a coesão do grupo.",
+    "Errada. Nas sociedades simples, de solidariedade mecânica, predomina o direito repressivo. O direito restitutivo se expande com a divisão do trabalho social, nas sociedades complexas."
+   ],
+   [
+    "Para Durkheim, o crime é sempre um fenômeno patológico, que tende a desaparecer à medida que a sociedade evolui da solidariedade mecânica para a orgânica.",
+    "Errada. Durkheim considera o crime um fato social normal, presente em todas as sociedades, e define-o como o ato que ofende estados fortes e definidos da consciência coletiva."
+   ],
+   [
+    "A pena, na primeira sociedade, tem função exclusivamente reparatória, voltada a indenizar a vítima, e não a reafirmar os valores comuns.",
+    "Errada. Para Durkheim, a pena tem função de reação passional da coletividade e, sobretudo, de reafirmar e manter intacta a coesão social e a consciência coletiva ofendida pelo crime."
+   ]
+  ],
+  "c": 1,
+  "base": "Émile Durkheim, Da divisão do trabalho social (1893) e As regras do método sociológico (1895).",
+  "dica": "Durkheim: MEcânica = seMElhança = direito REPRESSIVO (penal). ORgânica = divisão do trabalho = direito RESTITUTIVO (civil, comercial). Crime é fato social normal."
+ },
+ {
+  "disc": "Direitos Humanos",
+  "item": "DH3",
+  "nivel": "difícil",
+  "tema": "Medidas cautelares da CIDH x medidas provisórias da Corte IDH (CADH, art. 63.2)",
+  "enun": "Uma organização não governamental denunciou que a comunidade indígena Tuiuti, no Brasil, vinha sofrendo ataques armados de garimpeiros, com mortes e ameaças a lideranças, sem resposta eficaz das autoridades. Ainda não havia petição individual sobre os fatos no sistema interamericano, e nenhum recurso interno havia sido esgotado. A ONG solicitou, ao mesmo tempo, medidas cautelares à Comissão Interamericana de Direitos Humanos e medidas provisórias diretamente à Corte Interamericana. A Comissão outorgou as medidas cautelares e, diante do agravamento da situação e do descumprimento pelo Estado, solicitou à Corte a adoção de medidas provisórias. O Estado sustentou que as medidas não poderiam ser adotadas sem prévio esgotamento dos recursos internos e que, não havendo caso contencioso, a Corte não poderia agir. Considerando a Convenção Americana sobre Direitos Humanos e a prática do sistema interamericano, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A Corte podia deferir de imediato o pedido da ONG, porque as vítimas e seus representantes têm legitimidade para requerer medidas provisórias em qualquer situação de urgência.",
+    "Errada. Em assuntos ainda não submetidos ao seu conhecimento, a Corte só pode adotar medidas provisórias a pedido da Comissão (art. 63.2 da CADH). A solicitação direta dos representantes só é admitida em casos já em trâmite na Corte."
+   ],
+   [
+    "As medidas cautelares e as provisórias dependem do prévio esgotamento dos recursos internos, requisito de admissibilidade de toda atuação dos órgãos do sistema interamericano.",
+    "Errada. O esgotamento dos recursos internos é requisito de admissibilidade da petição individual (art. 46 da CADH), não das medidas urgentes, que visam evitar danos irreparáveis."
+   ],
+   [
+    "A Corte não podia adotar medidas provisórias, porque elas pressupõem caso contencioso em trâmite perante o tribunal, cabendo à Comissão apenas a via das medidas cautelares.",
+    "Errada. O art. 63.2 da CADH admite medidas provisórias em assuntos ainda não submetidos à Corte, desde que a pedido da Comissão, como ocorreu no caso."
+   ],
+   [
+    "As medidas provisórias exigem apenas gravidade e urgência, ao passo que as medidas cautelares, por serem outorgadas sem caso em trâmite, exigem extrema gravidade.",
+    "Errada. Inverte os requisitos: o art. 63.2 da CADH exige, para as medidas provisórias, extrema gravidade e urgência e a necessidade de evitar danos irreparáveis; o Regulamento da Comissão exige, para as cautelares, gravidade e urgência com risco de dano irreparável."
+   ],
+   [
+    "As cautelares, previstas no Regulamento da Comissão, dispensam petição em trâmite; as provisórias, sem caso submetido à Corte, dependem de pedido da Comissão (CADH, art. 63.2).",
+    "CORRETA. A Comissão outorga medidas cautelares com base em seu Regulamento, de ofício ou a pedido, em situações de gravidade e urgência, independentemente de petição ou caso pendente. A Corte adota medidas provisórias em casos de extrema gravidade e urgência, para evitar danos irreparáveis, e, nos assuntos ainda não submetidos ao seu conhecimento, atua a pedido da Comissão."
+   ]
+  ],
+  "c": 4,
+  "base": "Convenção Americana sobre Direitos Humanos, arts. 46 e 63.2; Regulamento da CIDH, art. 25; Regulamento da Corte IDH, art. 27.",
+  "dica": "Comissão: medidas CAUTELARES (Regulamento, gravidade e urgência, sem caso). Corte: medidas PROVISÓRIAS (art. 63.2, EXTREMA gravidade); sem caso na Corte, só a pedido da Comissão."
+ }
+]

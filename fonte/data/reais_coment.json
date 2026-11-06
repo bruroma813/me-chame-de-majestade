@@ -973,5 +973,317 @@
   ],
   "base": "CP, arts. 14, II, 15 e 17.",
   "dica": "\"Posso, mas não quero\" = desistência voluntária. \"Quero, mas não posso\" = tentativa (Fórmula de Frank)."
+ },
+ "e5-9": {
+  "nivel": "médio",
+  "tema": "Princípios da ordem econômica e transporte por aplicativo (CF, art. 170)",
+  "coms": [
+   "Errada. A afirmativa I é falsa: propriedade privada e livre concorrência estão no art. 170 (incisos II e IV), mas o direito de greve não é princípio da ordem econômica (é direito social, art. 9º), e a CF fala em \"defesa do meio ambiente\" (inciso VI), não em \"desenvolvimento sustentável\".",
+   "Errada. A afirmativa II é verdadeira, mas a III também é: o parágrafo único do art. 170 assegura o livre exercício de qualquer atividade econômica, independentemente de autorização, salvo nos casos previstos em lei.",
+   "Errada. A III é verdadeira, mas a II também: o STF (ADPF 449 e RE 1.054.110, Tema 967) declarou inconstitucional a proibição ou restrição desproporcional do transporte individual por aplicativo, por violar a livre iniciativa e a livre concorrência.",
+   "Errada. A afirmativa I é falsa, porque o direito de greve não integra o rol do art. 170 da CF.",
+   "CORRETA. II é verdadeira (STF, ADPF 449 e Tema 967: proibir ou restringir o transporte por aplicativo viola a livre iniciativa e a livre concorrência) e III reproduz o art. 170, parágrafo único, da CF. A I é falsa por incluir o direito de greve."
+  ],
+  "base": "CF, arts. 9º e 170, caput, incisos e parágrafo único; STF, ADPF 449 e RE 1.054.110 (Tema 967).",
+  "dica": "Greve mora no art. 9º (direitos sociais), não no art. 170. Aplicativo: proibir é inconstitucional; regulamentar pode."
+ },
+ "e5-2": {
+  "nivel": "médio",
+  "tema": "Coisa julgada inconstitucional, modulação e ação rescisória (CPC, art. 525, §§12 a 15)",
+  "coms": [
+   "Errada. A modulação delimita no tempo os efeitos da decisão do STF, mas não proíbe toda revisão; o CPC admite a rescisória, observados os efeitos modulados (art. 525, §§13 e 15).",
+   "Errada. A coisa julgada não é absoluta diante de decisão do STF: o CPC prevê a inexigibilidade do título (se a decisão do STF for anterior ao trânsito) e a ação rescisória (se posterior), art. 525, §§12 e 15.",
+   "Errada. As decisões definitivas de mérito em ADI produzem eficácia contra todos e efeito vinculante para o Judiciário e a Administração (CF, art. 102, §2º).",
+   "CORRETA. Se a decisão do STF é posterior ao trânsito em julgado, cabe ação rescisória, com prazo contado do trânsito da decisão do STF (CPC, art. 525, §15, e art. 535, §8º), mas os efeitos da declaração podem ser modulados (§13), e a rescisória deve respeitar esses limites.",
+   "Errada. A declaração de inconstitucionalidade não desconstitui automaticamente as sentenças transitadas em julgado; é preciso a via própria (rescisória), e o STF já afirmou que a decisão em controle abstrato não produz a rescisão automática das decisões anteriores (Tema 733/STF)."
+  ],
+  "base": "CF, art. 102, §2º; CPC, arts. 525, §§12 a 15, e 535, §§5º a 8º; Lei 9.868/1999, art. 27; STF, Tema 733.",
+  "dica": "STF antes do trânsito: título inexigível (impugnação). STF depois do trânsito: rescisória, respeitada a modulação."
+ },
+ "e1-23": {
+  "nivel": "médio",
+  "tema": "Licitação internacional, consórcio e certificação (Lei 14.133/2021)",
+  "coms": [
+   "CORRETA (é a incorreta). A Lei 14.133 admite que o edital permita ao licitante estrangeiro cotar preço em moeda estrangeira, e, nesse caso, o brasileiro igualmente poderá fazê-lo (art. 52, §1º). Não há nulidade dessa previsão.",
+   "Errada (a afirmativa é verdadeira). Salvo vedação devidamente justificada no processo licitatório, pessoa jurídica pode participar de licitação em consórcio (art. 15, caput).",
+   "Errada (a afirmativa é verdadeira). O edital pode estabelecer limite máximo de empresas consorciadas, desde que haja justificativa técnica aprovada pela autoridade competente (art. 15, §4º).",
+   "Errada (a afirmativa é verdadeira). O edital pode exigir certificação de qualidade por instituição credenciada, e a Lei admite certificado emitido por entidade credenciada como prova de qualidade (art. 42, III e §1º; art. 17, §6º).",
+   "Errada (a afirmativa é verdadeira). Em regra, o julgamento das propostas precede a habilitação; a inversão é possível, mediante ato motivado e previsão no edital (art. 17, IV e V, e §1º)."
+  ],
+  "base": "Lei 14.133/2021, arts. 15, caput e §4º, 17, §1º, 42 e 52, §1º.",
+  "dica": "Nova lei: julgamento antes da habilitação; consórcio é a regra; moeda estrangeira para o estrangeiro = também para o brasileiro."
+ },
+ "e3-18": {
+  "nivel": "médio",
+  "tema": "Descentralização, desconcentração, vinculação e subordinação",
+  "coms": [
+   "CORRETA. Governador que exonera presidente de autarquia exerce controle (tutela) sobre a entidade: vinculação (3). Coordenadoria criada dentro do Ministério é desconcentração (2). Presidente do Detran que dá ordem à sua Diretoria exerce hierarquia: subordinação (4). Município que cria autarquia descentraliza (1).",
+   "Errada. Exonerar o dirigente de autarquia não é desconcentração (que é distribuição interna de competências dentro da mesma pessoa jurídica), mas controle finalístico sobre outra pessoa jurídica.",
+   "Errada. A ordem da Presidente do Detran à Diretoria do próprio Detran ocorre dentro da mesma pessoa jurídica (hierarquia), e a criação de autarquia pelo Município é descentralização, não subordinação.",
+   "Errada. Entre Governador e autarquia não há hierarquia, mas vinculação (tutela), porque a autarquia tem personalidade jurídica própria (DL 200/1967, arts. 4º e 5º).",
+   "Errada. A criação de coordenadoria interna ao Ministério é desconcentração, e a ordem dentro do Detran é subordinação; a sequência inverte os dois conceitos."
+  ],
+  "base": "DL 200/1967, arts. 4º, 5º e 19 a 26; CF, art. 37, XIX.",
+  "dica": "Nova pessoa = DEScentralização + vinculação (tutela). Mesma pessoa = desCONcentração + subordinação (hierarquia)."
+ },
+ "e4-32": {
+  "nivel": "fácil",
+  "tema": "Patriarcado, interseccionalidade e o Protocolo de Julgamento com Perspectiva de Gênero",
+  "coms": [
+   "Errada. O patriarcado é organização social marcada pela dominação masculina e pela subordinação das mulheres, e seus efeitos estruturais não foram superados pela CF/1988.",
+   "Errada. O Protocolo do CNJ (Res. CNJ 492/2023) exige igualdade material e expressamente considera as interseccionalidades (raça, classe, orientação sexual, deficiência).",
+   "Errada. A discriminação de gênero é estrutural e se manifesta em diversas esferas: saúde, sistema de justiça, segurança pública, política e trabalho.",
+   "CORRETA. O Protocolo, de observância obrigatória desde a Res. CNJ 492/2023, orienta a magistratura a identificar estereótipos e assimetrias de poder, de modo a decidir com atenção às desigualdades estruturais de gênero.",
+   "Errada. As desigualdades de gênero são estruturais e históricas, ligadas ao patriarcado e ao racismo, e não meramente episódicas."
+  ],
+  "base": "CF, art. 5º, I; Protocolo para Julgamento com Perspectiva de Gênero (CNJ, 2021); Res. CNJ 492/2023.",
+  "dica": "Perspectiva de gênero = igualdade MATERIAL + interseccionalidade + combate a estereótipos."
+ },
+ "e4-35": {
+  "nivel": "fácil",
+  "tema": "Direito à instrução na DUDH (art. 26) e Tema 548/STF",
+  "coms": [
+   "CORRETA. O art. 26.1 da DUDH dispõe que a instrução será gratuita, pelo menos nos graus elementares e fundamentais, e que a instrução elementar será obrigatória.",
+   "Errada. Pela DUDH, só a instrução elementar é obrigatória; o acesso à instrução superior é baseado no mérito (art. 26.1).",
+   "Errada. O art. 26.2 determina que a instrução promoverá a compreensão, a tolerância e a amizade entre todas as nações e grupos raciais ou religiosos.",
+   "Errada. O art. 26.3 assegura que os pais têm prioridade de direito na escolha do gênero de instrução a ser ministrada a seus filhos.",
+   "Errada. O art. 26.1 dispõe que a instrução técnico-profissional será acessível a todos."
+  ],
+  "base": "DUDH, art. 26; CF, arts. 205 e 208; STF, Tema 548.",
+  "dica": "DUDH 26: elementar gratuita e obrigatória; técnica acessível a todos; superior por mérito; pais escolhem."
+ },
+ "e3-50": {
+  "nivel": "difícil",
+  "tema": "Consignação em pagamento: depósito insuficiente e título em favor do réu (CPC, art. 545)",
+  "coms": [
+   "Errada. O depósito extrajudicial em estabelecimento bancário é faculdade do devedor (CPC, art. 539, §1º), não condição da ação consignatória.",
+   "Errada. Julgada procedente a consignação, quem levanta o depósito é o credor, e a sentença declara extinta a obrigação (CPC, art. 546); o autor não levanta o valor depositado.",
+   "Errada. A complementação deve ocorrer em 10 dias (não 30), e não é admitida se corresponder a prestação cujo inadimplemento acarrete a rescisão do contrato (CPC, art. 545, caput).",
+   "CORRETA. Reconhecida a insuficiência do depósito, a sentença determinará, sempre que possível, o montante devido e valerá como título executivo, facultado ao credor promover o cumprimento nos mesmos autos (CPC, art. 545, §2º), sem necessidade de reconvenção.",
+   "Errada. Para o STJ (Tema 967), a insuficiência do depósito conduz à improcedência do pedido consignatório, porque o pagamento parcial não extingue a obrigação; o réu pode levantar a parte incontroversa (art. 545, §1º), mas não há procedência parcial com liberação."
+  ],
+  "base": "CPC, arts. 539, §1º, 545 e 546; STJ, Tema 967.",
+  "dica": "Depósito insuficiente: improcedência para o devedor, mas a sentença vira título para o credor (natureza dúplice)."
+ },
+ "e1-59": {
+  "nivel": "fácil",
+  "tema": "Promessa de recompensa: credor que desconhecia o anúncio (CC, art. 855)",
+  "coms": [
+   "Errada. A promessa de recompensa é declaração unilateral de vontade que obriga o promitente (CC, art. 854); não é obrigação natural.",
+   "Errada. A incapacidade de Gabriel não afasta o direito à recompensa; ele apenas será representado no exercício do crédito (CC, arts. 3º e 1.634, VII).",
+   "CORRETA. Quem fizer o serviço ou satisfizer a condição pode exigir a recompensa, \"ainda que não pelo interesse da promessa\" (CC, art. 855). Como Gabriel tem 15 anos, é absolutamente incapaz e será representado pela mãe (arts. 3º e 1.634, VII).",
+   "Errada. O art. 855 dispensa o conhecimento ou o interesse na promessa: basta realizar o serviço ou satisfazer a condição.",
+   "Errada. A credora é a pessoa que encontrou o animal (Gabriel); a mãe apenas o representa."
+  ],
+  "base": "CC, arts. 3º, 854, 855 e 1.634, VII.",
+  "dica": "Achou e entregou? Tem direito à recompensa, mesmo sem saber dela (art. 855)."
+ },
+ "e5-53": {
+  "nivel": "médio",
+  "tema": "União estável do separado de fato e uniões simultâneas (Tema 529/STF)",
+  "coms": [
+   "Errada. O casamento não impede a união estável se a pessoa casada estiver separada de fato (CC, art. 1.723, §1º), como Francisco desde 2008.",
+   "Errada. O STF (Tema 529) não admite o reconhecimento de duas uniões estáveis simultâneas, por força do dever de fidelidade e da monogamia.",
+   "CORRETA. A união com Camila preenche os requisitos do art. 1.723, e o casamento com Raquel não a impede por causa da separação de fato (§1º). A relação com Ruth, paralela, é concubinato (art. 1.727), e o STF veda o reconhecimento de uniões simultâneas (Tema 529).",
+   "Errada. Prevalece a união anterior e preexistente; a relação posterior e paralela não pode ser reconhecida como união estável (Tema 529/STF).",
+   "Errada. Sem contrato escrito, aplica-se à união estável o regime da comunhão parcial de bens (CC, art. 1.725), e não a separação."
+  ],
+  "base": "CC, arts. 1.723, §1º, 1.725 e 1.727; STF, RE 1.045.273 (Tema 529).",
+  "dica": "Separado de fato pode ter união estável; duas uniões ao mesmo tempo, não. Sem contrato: comunhão parcial."
+ },
+ "e4-69": {
+  "nivel": "fácil",
+  "tema": "Vetores da insignificância segundo o STF",
+  "coms": [
+   "Errada. Os vetores do STF são mínima ofensividade, nenhuma periculosidade social, reduzidíssimo grau de reprovabilidade e inexpressividade da lesão; \"ausência de ofensividade\", \"pouca periculosidade\" e \"nenhuma reprovabilidade\" alteram a fórmula.",
+   "Errada. A primariedade não é vetor objetivo da insignificância; a reincidência pode influir na análise, mas não a impede automaticamente.",
+   "Errada. A disponibilidade do bem jurídico não é vetor da insignificância (relaciona-se com o consentimento do ofendido).",
+   "Errada. A primariedade do agente não é um dos quatro vetores fixados no HC 84.412.",
+   "CORRETA. Desde o HC 84.412 (Rel. Min. Celso de Mello), o STF exige: mínima ofensividade da conduta, nenhuma periculosidade social da ação, reduzidíssimo grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada."
+  ],
+  "base": "STF, HC 84.412; CP, art. 1º (atipicidade material).",
+  "dica": "MARI: Mínima ofensividade, Ausência de periculosidade, Reduzidíssima reprovabilidade, Inexpressividade da lesão."
+ },
+ "e5-80": {
+  "nivel": "difícil",
+  "tema": "Prisão provisória no cômputo do requisito temporal de indulto e comutação",
+  "coms": [
+   "CORRETA. Para o STJ, em recurso repetitivo, o período de prisão provisória deve ser computado para o requisito temporal do indulto e da comutação, pois é tempo de privação da liberdade já posto à disposição do Estado, a ser considerado também por força da detração (CP, art. 42).",
+   "Errada. O STJ rejeitou essa restrição: a detração não serve só para abater a pena total, e o tempo de prisão provisória integra o cálculo do requisito objetivo dos decretos.",
+   "Errada. A tese repetitiva não exige que a prisão cautelar tenha sido mantida na sentença nem continuidade entre a custódia e a execução definitiva.",
+   "Errada. Não se trata de analogia contra legem: o próprio art. 42 do CP manda computar a prisão provisória na pena, e o STJ estendeu esse cômputo ao requisito temporal.",
+   "Errada. Computar o tempo de prisão provisória beneficia o réu e não viola a presunção de inocência; ao contrário, evita que a cautelar seja desconsiderada em seu prejuízo."
+  ],
+  "base": "CP, art. 42; LEP, art. 111; STJ, recurso especial repetitivo sobre cômputo da prisão provisória para indulto e comutação.",
+  "dica": "Tempo preso é tempo cumprido: a prisão provisória conta para a detração e para os requisitos de indulto e comutação."
+ },
+ "e5-12": {
+  "nivel": "médio",
+  "tema": "Imunidades: fonogramas, estatal com ações em bolsa e templos (CF, art. 150, VI)",
+  "coms": [
+   "Errada. A afirmativa I é falsa: a imunidade da alínea e abrange fonogramas e videofonogramas produzidos no Brasil; suportes produzidos no exterior e importados não estão cobertos.",
+   "Errada. A I é falsa, porque a imunidade musical exige produção no Brasil.",
+   "Errada. A I é falsa e a II, verdadeira; a combinação inverte o gabarito.",
+   "CORRETA. II é verdadeira: sociedade de economia mista com ações negociadas em bolsa e voltada à remuneração do capital não tem imunidade recíproca (STF, RE 600.867, Tema 508). III reproduz o art. 150, VI, b, com a redação da EC 132/2023, que incluiu as organizações assistenciais e beneficentes das entidades religiosas. A I é falsa.",
+   "Errada. A I é falsa: a alínea e do art. 150, VI, protege apenas fonogramas produzidos no Brasil."
+  ],
+  "base": "CF, art. 150, VI, a, b e e (EC 75/2013 e EC 132/2023); STF, RE 600.867 (Tema 508).",
+  "dica": "Imunidade musical: só o que é produzido no Brasil. Estatal que distribui lucro a acionista em bolsa: sem imunidade recíproca."
+ },
+ "e3-11": {
+  "nivel": "médio",
+  "tema": "Prisão de ofício, prisão especial do diplomado e prazo de apresentação ao juiz das garantias",
+  "coms": [
+   "Errada. A I é verdadeira, mas a II também é: o STF declarou inconstitucional a prisão especial para diplomados (ADPF 334).",
+   "Errada. A II é verdadeira, mas a I também: para o STJ, após a Lei 13.964/2019 o juiz não pode decretar a preventiva de ofício nem converter de ofício o flagrante em preventiva (CPP, arts. 282, §2º, e 311).",
+   "CORRETA. I: STJ (e STF) vedam a decretação e a conversão de ofício da preventiva após o Pacote Anticrime. II: STF, ADPF 334, declarou não recepcionado o art. 295, VII, do CPP, por ofensa à isonomia. III é falsa: nas ADIs 6.298, 6.299, 6.300 e 6.305, o STF fixou o prazo de 24 horas para a apresentação ao juiz das garantias, salvo impossibilidade fática.",
+   "Errada. A III é falsa: o STF fixou 24 horas, e não 72 horas, para a apresentação do preso ao juiz das garantias.",
+   "Errada. A III é falsa, porque o prazo fixado pelo STF para a audiência é de 24 horas."
+  ],
+  "base": "CPP, arts. 3º-B, §1º, 282, §2º, 295, VII, e 311; STF, ADPF 334 e ADIs 6.298, 6.299, 6.300 e 6.305.",
+  "dica": "Pacote Anticrime: nada de preventiva de ofício; apresentação em 24h; diploma não dá cela especial."
+ },
+ "e4-23": {
+  "nivel": "fácil",
+  "tema": "Diálogo competitivo (Lei 14.133/2021, art. 32)",
+  "coms": [
+   "Errada. O diálogo competitivo é modalidade da Lei 14.133 (art. 28, V), aplicável a todos os entes federativos, e não restrita à União nem a licitações internacionais.",
+   "Errada. O diálogo competitivo é modalidade de licitação, e não hipótese de dispensa: após os diálogos, abre-se fase competitiva (art. 32, §1º, VIII).",
+   "Errada. Não se exige autorização legislativa específica; a previsão geral da Lei 14.133 (arts. 28, V, e 32) basta.",
+   "Errada. A existência de um único fornecedor caracteriza inexigibilidade (art. 74, I), situação incompatível com o diálogo competitivo, que pressupõe pluralidade de interessados.",
+   "CORRETA. O diálogo competitivo exige edital com as necessidades e exigências já definidas, prazo para manifestação de interesse, sessões de diálogo com licitantes previamente selecionados e, encerrado o diálogo, fase competitiva com a apresentação das propostas finais (art. 32, §1º, I, II e VIII)."
+  ],
+  "base": "Lei 14.133/2021, arts. 6º, XLII, 28, V, e 32.",
+  "dica": "Diálogo competitivo: a Administração sabe o problema, não a solução. Dialoga primeiro, compete depois."
+ },
+ "e3-21": {
+  "nivel": "médio",
+  "tema": "Análise de Impacto Regulatório e consulta pública nas agências",
+  "coms": [
+   "Errada. A terceira afirmativa é falsa: a consulta pública é exigida para minutas e propostas de atos normativos de interesse geral dos agentes econômicos, consumidores ou usuários (Lei 13.848/2019, art. 9º), e não para todo e qualquer ato.",
+   "Errada. A primeira é verdadeira: a AIR é, em regra, obrigatória antes da edição ou alteração de atos normativos de interesse geral, nos termos do regulamento (Lei 13.848, art. 6º; Lei 13.874, art. 5º).",
+   "Errada. A segunda é verdadeira (nota técnica quando não houver AIR) e a terceira é falsa.",
+   "CORRETA. V: a AIR é obrigatória como regra, com hipóteses de dispensa definidas em regulamento (Lei 13.848, art. 6º; Lei 13.874, art. 5º). V: sem AIR, deve ser disponibilizada nota técnica ou documento equivalente que fundamente a proposta (Lei 13.848, art. 6º, §5º). F: a consulta pública não é exigida para todos os atos, mas para os de interesse geral (art. 9º).",
+   "Errada. As duas primeiras afirmativas são verdadeiras e a terceira é falsa."
+  ],
+  "base": "Lei 13.848/2019, arts. 6º e 9º; Lei 13.874/2019, art. 5º; Decreto 10.411/2020.",
+  "dica": "AIR: regra (dispensa só no regulamento, com nota técnica). Consulta pública: para atos de interesse geral, não para todos."
+ },
+ "e1-27": {
+  "nivel": "médio",
+  "tema": "Horário especial do servidor estadual com filho com deficiência (Tema 1.097/STF)",
+  "coms": [
+   "Errada. A Lei 12.764/2012 (art. 1º, §2º) dispõe expressamente que a pessoa com transtorno do espectro autista é considerada pessoa com deficiência para todos os efeitos legais.",
+   "Errada. A Convenção sobre os Direitos das Pessoas com Deficiência foi aprovada pelo rito do art. 5º, §3º, da CF (Decreto Legislativo 186/2008) e, por isso, tem equivalência de emenda constitucional.",
+   "Errada. O STF entendeu que a redução da jornada é adaptação razoável que concretiza a igualdade material, e não ônus desproporcional à Administração.",
+   "Errada. Para o STF, a ausência de lei estadual ou municipal não impede o direito, aplicando-se por analogia o art. 98, §§2º e 3º, da Lei 8.112/1990.",
+   "CORRETA. Tema 1.097/STF: aos servidores estaduais e municipais aplica-se, por analogia, o art. 98, §§2º e 3º, da Lei 8.112/1990, que garante horário especial, sem compensação e sem redução de vencimentos, ao servidor que tenha cônjuge, filho ou dependente com deficiência, em atenção à igualdade substancial e à Convenção."
+  ],
+  "base": "CF, arts. 5º, §3º, e 227; Lei 8.112/1990, art. 98, §§2º e 3º; Lei 12.764/2012, art. 1º, §2º; STF, RE 1.237.867 (Tema 1.097).",
+  "dica": "Filho com deficiência: horário especial sem compensar e sem perder salário, também para servidor estadual e municipal."
+ },
+ "e4-37": {
+  "nivel": "fácil",
+  "tema": "Paradigma do reconhecimento e consulta prévia aos povos originários",
+  "coms": [
+   "Errada. A Convenção 169 da OIT superou o paradigma assimilacionista e integracionista da Convenção 107, e a CF/1988 (art. 231) reconhece a organização social, os costumes e as línguas indígenas.",
+   "Errada. O paradigma integracionista da Convenção 107 foi abandonado, e não fortalecido; integração e autodeterminação são ideias contraditórias.",
+   "CORRETA. A Convenção 169 da OIT, a CF/1988 (art. 231), a Corte IDH e o CNJ (Res. 287/2019 e 454/2022) adotam o paradigma do reconhecimento: autodeterminação, identidade cultural, direito às terras e consulta livre, prévia e informada (Convenção 169, art. 6º).",
+   "Errada. A consulta livre, prévia e informada é exigida sempre que se prevejam medidas legislativas ou administrativas suscetíveis de afetá-los diretamente (Convenção 169, art. 6º), e não vedada.",
+   "Errada. A consulta não é vedada em nome do interesse público; é dever do Estado (Convenção 169, art. 6º), e a compensação financeira não a substitui."
+  ],
+  "base": "CF, art. 231; Convenção 169 da OIT, arts. 6º e 7º; Res. CNJ 287/2019 e 454/2022.",
+  "dica": "Convenção 107 = integrar. Convenção 169 = reconhecer e consultar (livre, prévia e informada)."
+ },
+ "e3-44": {
+  "nivel": "difícil",
+  "tema": "Liminar contra o Poder Público, multa de ofício e execução individual da ACP de consumo",
+  "coms": [
+   "Errada. A I é falsa: na ação civil pública contra pessoa jurídica de direito público, a liminar só pode ser concedida após audiência do representante judicial, que se pronunciará em 72 horas (Lei 8.437/1992, art. 2º).",
+   "Errada. A I é falsa, por desconsiderar a oitiva prévia exigida pelo art. 2º da Lei 8.437/1992.",
+   "Errada. A I é falsa e a II, verdadeira; a combinação está invertida.",
+   "CORRETA. II: nas obrigações de fazer e não fazer, o juiz pode cominar multa diária independentemente de requerimento do autor (Lei 7.347/1985, art. 11). III: a sentença coletiva de consumo beneficia as vítimas, associadas ou não, e pode ser executada individualmente em outro estado, pois o STF declarou inconstitucional a limitação territorial do art. 16 da LACP (Tema 1.075) e as regras do CDC (arts. 103 e 104) regem a extensão da coisa julgada.",
+   "Errada. A I é falsa: a liminar contra o Poder Público na ACP exige audiência prévia do representante judicial, no prazo de 72 horas."
+  ],
+  "base": "Lei 7.347/1985, arts. 11, 12 e 16; Lei 8.437/1992, art. 2º; CDC, arts. 81, 98, 101 e 103; STF, RE 1.101.937 (Tema 1.075).",
+  "dica": "ACP contra o Poder Público: ouvir em 72h antes da liminar. Multa: de ofício. Sentença coletiva: vale no país inteiro."
+ },
+ "e1-42": {
+  "nivel": "médio",
+  "tema": "Preparo não comprovado, recolhimento em dobro e deserção (CPC, art. 1.007, §4º)",
+  "coms": [
+   "CORRETA. Sem a comprovação do preparo no ato de interposição, o recorrente é intimado para recolher em dobro, sob pena de deserção (CPC, art. 1.007, §4º). Como João ficou inerte no prazo de 5 dias, a deserção está correta, e é vedada a complementação do recolhimento em dobro (§5º).",
+   "Errada. Não há previsão de recolhimento em quádruplo; a segunda oportunidade é o recolhimento em dobro (art. 1.007, §4º).",
+   "Errada. A deserção é pressuposto de admissibilidade examinável de ofício, sem necessidade de pedido do apelado.",
+   "Errada. Contra decisão monocrática do relator cabe agravo interno (CPC, art. 1.021), e não embargos de divergência, que têm cabimento restrito aos tribunais superiores (art. 1.043).",
+   "Errada. O agravo interno cabe, mas o agravante deve impugnar especificamente os fundamentos da decisão agravada (CPC, art. 1.021, §1º)."
+  ],
+  "base": "CPC, arts. 932, III, 1.007, §§2º, 4º e 5º, e 1.021, §1º.",
+  "dica": "Sem comprovar o preparo: 2ª chance pagando em DOBRO. Perdeu essa, é deserção. Recolhimento insuficiente (pago a menor): complementa em 5 dias."
+ },
+ "e1-58": {
+  "nivel": "difícil",
+  "tema": "Mútuo de dinheiro sem prazo para aposta legalmente permitida (CC, arts. 592, 814 e 815)",
+  "coms": [
+   "CORRETA. A aposta foi feita em local onde é legalmente permitida, o que afasta a regra de inexigibilidade das dívidas de jogo (CC, art. 814, §2º) e a vedação de reembolso do art. 815. O mútuo de dinheiro sem prazo convencionado vence em, pelo menos, 30 dias (art. 592, II), e, destinado a fins econômicos, presumem-se devidos juros (art. 591).",
+   "Errada. Embora não haja multa contratada, a alternativa omite que o próprio valor do mútuo, acrescido de juros, é exigível após 30 dias; o gabarito oficial considerou correta a solução que inclui os juros.",
+   "Errada. O mútuo de dinheiro com fins econômicos presume juros (CC, art. 591), de modo que a devolução não se restringe ao valor emprestado.",
+   "Errada. Como as apostas eram legalmente permitidas no local, não incide a inexigibilidade do art. 814 nem a vedação de reembolso do art. 815 (art. 814, §2º).",
+   "Errada. A obrigação é exigível, porque a exceção do art. 814, §2º, alcança os jogos e apostas legalmente permitidos."
+  ],
+  "base": "CC, arts. 591, 592, II, 814, §2º, e 815.",
+  "dica": "Mútuo de dinheiro sem prazo: 30 dias no mínimo. Aposta legalizada: a dívida pode ser cobrada."
+ },
+ "e3-53": {
+  "nivel": "médio",
+  "tema": "Renúncia x exclusão por indignidade e direito de representação",
+  "coms": [
+   "CORRETA. Os descendentes do excluído por indignidade sucedem como se ele fosse morto (CC, art. 1.816): Tânia representa Xisto. Já o renunciante é tratado como se nunca tivesse sido herdeiro e ninguém sucede representando-o (art. 1.811): Umberto nada recebe, e a parte de Yone acresce aos demais da mesma classe (art. 1.810). Ficam metade para Valter e metade para Tânia.",
+   "Errada. Ninguém pode suceder representando herdeiro renunciante (CC, art. 1.811); Umberto só herdaria por direito próprio se todos os da classe renunciassem, o que não ocorreu.",
+   "Errada. Valter, filho não excluído, é herdeiro por direito próprio, e Umberto não representa a mãe renunciante.",
+   "Errada. A divisão em três partes ignora que a renúncia de Yone não gera representação: sua quota acresce aos demais herdeiros da classe (CC, arts. 1.810 e 1.811).",
+   "Errada. Umberto não recebe nada, porque não há representação do renunciante; a herança divide-se entre Valter e Tânia, esta por representação de Xisto."
+  ],
+  "base": "CC, arts. 1.810, 1.811, 1.816 e 1.851 a 1.856.",
+  "dica": "Indigno = \"morto\" (filhos representam). Renunciante = \"nunca existiu\" (filhos não representam)."
+ },
+ "e5-64": {
+  "nivel": "difícil",
+  "tema": "Títulos de crédito escriturais: duplicata, títulos rurais e CCB",
+  "coms": [
+   "Errada. A I é verdadeira, mas a II e a III também são.",
+   "Errada. A III também é verdadeira: na CCB escritural, o sistema de escrituração fará constar o endosso em preto e a cadeia de endossos (Lei 10.931/2004, art. 27-A, incluído pela Lei 13.986/2020).",
+   "Errada. A II também é verdadeira: a Lei 13.986/2020 permitiu a emissão escritural da cédula de crédito rural, da nota promissória rural e da duplicata rural (DL 167/1967).",
+   "Errada. A I também é verdadeira: a duplicata escritural e o extrato do seu registro eletrônico são títulos executivos extrajudiciais (Lei 13.775/2018, art. 7º).",
+   "CORRETA. As três afirmativas são verdadeiras: I (Lei 13.775/2018, art. 7º: duplicata escritural e extrato são títulos executivos extrajudiciais), II (títulos rurais escriturais em sistema mantido por entidade autorizada pelo Banco Central, introduzidos pela Lei 13.986/2020) e III (CCB escritural, com registro do endosso em preto e da cadeia de endossos, Lei 10.931/2004, art. 27-A)."
+  ],
+  "base": "Lei 13.775/2018, arts. 3º e 7º; DL 167/1967 (com a Lei 13.986/2020); Lei 10.931/2004, art. 27-A; CC, art. 889, §3º.",
+  "dica": "Duplicata, rurais e CCB: todas podem ser escriturais, com registro em entidade autorizada pelo Banco Central."
+ },
+ "e4-71": {
+  "nivel": "médio",
+  "tema": "Extraterritorialidade incondicionada: fé pública de fundação pública (CP, art. 7º, I, b)",
+  "coms": [
+   "Errada. A territorialidade é a regra (CP, art. 5º), mas o art. 7º prevê exceções; crime contra a fé pública de fundação instituída pelo Poder Público fica sujeito à lei brasileira.",
+   "CORRETA. O diploma falso atribuído à UFRJ (fundação de direito público) atinge a fé pública de fundação instituída pelo Poder Público: é hipótese de extraterritorialidade incondicionada (CP, art. 7º, I, b), pelo princípio da defesa (real ou da proteção), e o agente é punido ainda que absolvido ou condenado no estrangeiro (§1º).",
+   "Errada. As hipóteses do inciso I do art. 7º são incondicionadas (§1º); as condições do §2º só valem para o inciso II.",
+   "Errada. A hipótese é incondicionada, mas se funda no princípio da defesa (proteção do bem jurídico nacional), e não no da nacionalidade; Efigênia, aliás, é portuguesa.",
+   "Errada. O princípio da nacionalidade ativa (art. 7º, II, b) exige agente brasileiro e é condicionado; aqui a agente é estrangeira e o caso é de defesa, incondicionado."
+  ],
+  "base": "CP, arts. 5º e 7º, I, b, §§1º e 2º.",
+  "dica": "Art. 7º, I (vida/liberdade do Presidente, patrimônio/fé pública de entes públicos, administração, genocídio) = incondicionada."
+ },
+ "e5-77": {
+  "nivel": "médio",
+  "tema": "Perda do cargo (efeito não automático) x perda do produto do crime (efeito automático)",
+  "coms": [
+   "Errada. A perda do cargo (CP, art. 92, I) não é automática: deve ser motivadamente declarada na sentença (art. 92, parágrafo único).",
+   "Errada. A perda do cargo como efeito da condenação criminal é constitucional e independe de PAD, pois a estabilidade cede diante de sentença judicial transitada em julgado (CF, art. 41, §1º, I).",
+   "CORRETA. Os efeitos do art. 92 do CP (como a perda do cargo) não são automáticos e exigem declaração motivada na sentença (parágrafo único). Já a perda, em favor da União, do produto do crime ou do bem adquirido com ele é efeito genérico e automático da condenação (art. 91, II, b).",
+   "Errada. A perda do cargo exige pena superior a 1 ano nos crimes funcionais ou superior a 4 anos nos demais (art. 92, I), e o confisco do produto do crime não depende de patamar de pena (art. 91, II, b).",
+   "Errada. O confisco do produto do crime alcança o bem transferido a terceiro sem contraprestação, ressalvado apenas o direito do lesado ou do terceiro de boa-fé (art. 91, II); não exige ação civil autônoma."
+  ],
+  "base": "CP, arts. 91, II, b, e 92, I e parágrafo único; CF, art. 41, §1º, I.",
+  "dica": "Art. 91 = automático (confisco). Art. 92 = precisa estar escrito e motivado na sentença (cargo, poder familiar, CNH)."
  }
 }
