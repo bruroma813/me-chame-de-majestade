@@ -1,0 +1,418 @@
+[
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P23",
+  "nivel": "difícil",
+  "tema": "Tutela de direitos individuais homogêneos: coisa julgada, suspensão da ação individual e reparação fluida (CDC, arts. 95 a 104)",
+  "enun": "A Associação de Defesa do Consumidor Alfa ajuizou ação civil coletiva contra a fabricante de eletrodomésticos Beta, pedindo indenização a todos os compradores de um modelo de fogão com defeito que causava vazamento de gás. Rodolfo, comprador do produto, já tinha ação individual em curso e foi informado nos autos do ajuizamento da ação coletiva, mas não pediu a suspensão de seu processo. A ação coletiva foi julgada procedente, com condenação genérica. Passados 14 meses do trânsito em julgado, apenas 40 consumidores haviam se habilitado para liquidar seus créditos, número muito inferior ao de produtos vendidos. A ação individual de Rodolfo foi julgada improcedente. Considerando o Código de Defesa do Consumidor, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Rodolfo não se beneficia da sentença coletiva, por não ter requerido a suspensão de sua ação em 30 dias da ciência; e, passado 1 ano sem habilitação de interessados em número compatível com a gravidade do dano, os legitimados podem promover a liquidação e a execução da indenização, revertida ao fundo da Lei da Ação Civil Pública.",
+    "CORRETA. As ações coletivas não induzem litispendência para as individuais, mas os efeitos da coisa julgada erga omnes não beneficiam os autores das ações individuais que não requererem a suspensão no prazo de 30 dias da ciência nos autos do ajuizamento da ação coletiva (CDC, art. 104). Decorrido 1 ano sem habilitação de interessados em número compatível com a gravidade do dano, os legitimados do art. 82 podem promover a liquidação e a execução da indenização devida (fluid recovery), cujo produto reverte ao fundo da Lei 7.347/1985 (CDC, art. 100)."
+   ],
+   [
+    "Rodolfo se beneficia da sentença coletiva procedente, pois a coisa julgada coletiva sempre favorece o consumidor individual, ainda que sua ação tenha sido julgada improcedente.",
+    "Errada. O benefício (transporte in utilibus) depende da suspensão da ação individual em 30 dias (art. 104). Quem prosseguiu com sua ação fica vinculado ao resultado dela."
+   ],
+   [
+    "A ação coletiva induz litispendência em relação à ação individual de Rodolfo, que deveria ter sido extinta sem resolução do mérito.",
+    "Errada. A lei afirma expressamente que as ações coletivas não induzem litispendência para as individuais (art. 104)."
+   ],
+   [
+    "Se a ação coletiva fosse julgada improcedente por insuficiência de provas, os consumidores que não intervieram no processo ficariam impedidos de propor ações individuais.",
+    "Errada. Nos direitos individuais homogêneos, a coisa julgada erga omnes só se forma em caso de procedência, para beneficiar as vítimas (art. 103, III). Em caso de improcedência, os interessados que não intervieram como litisconsortes podem propor ação individual (art. 103, §2º)."
+   ],
+   [
+    "Na reparação fluida, o valor apurado é rateado entre os 40 consumidores habilitados, na proporção de seus créditos.",
+    "Errada. O produto da indenização na reparação fluida reverte ao fundo criado pela Lei 7.347/1985 (CDC, art. 100, parágrafo único), e não aos habilitados."
+   ]
+  ],
+  "c": 0,
+  "base": "CDC, arts. 81, III, 82, 95, 97, 98, 100, 103, III e §2º, e 104; Lei 7.347/1985, art. 13.",
+  "dica": "Individuais homogêneos: a coisa julgada só beneficia (in utilibus) quem suspendeu a ação individual em 30 dias. Se em 1 ano poucos se habilitam, há fluid recovery para o fundo."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V06",
+  "nivel": "médio",
+  "tema": "Pagamento por terceiro não interessado e pagamento ao credor putativo (CC, arts. 304 a 309)",
+  "enun": "Olga devia R$ 20 mil a Paulo, com vencimento em 30 de junho. Em 10 de maio, Quitéria, amiga de Olga e sem qualquer vínculo jurídico com a dívida, pagou a Paulo, em seu próprio nome, o valor integral, para ajudar a amiga. Em outro negócio, Olga devia R$ 5 mil a Rubens, que lhe apresentou pessoalmente a fatura; Olga pagou a Sandro, que se apresentou com crachá e uniforme da empresa de Rubens e com uma via da fatura, como cobrador habitual, mas que fora desligado da empresa na véspera, fato que Olga não tinha como saber. Quitéria pretende cobrar de Olga, de imediato, os R$ 20 mil, com os juros e garantias do crédito original. Rubens pretende cobrar de Olga novamente. Considerando o Código Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Quitéria tem direito a reembolsar-se, mas não se sub-roga nos direitos de Paulo e só pode exigir o reembolso no vencimento; e o pagamento de boa-fé a Sandro, credor putativo, é válido, não podendo Rubens cobrar Olga novamente.",
+    "CORRETA. O terceiro não interessado que paga a dívida em seu próprio nome tem direito a reembolsar-se do que pagar, mas não se sub-roga nos direitos do credor; se pagar antes de vencida a dívida, só terá direito ao reembolso no vencimento (CC, art. 305). O pagamento feito de boa-fé ao credor putativo é válido, ainda provado depois que não era credor (art. 309), o que inclui quem aparentava, de modo objetivo e razoável, estar autorizado a receber."
+   ],
+   [
+    "Quitéria sub-roga-se em todos os direitos, ações, privilégios e garantias de Paulo contra Olga, podendo cobrá-la de imediato.",
+    "Errada. A sub-rogação legal beneficia o terceiro interessado (art. 346, III). O terceiro não interessado que paga em nome próprio só tem direito ao reembolso (art. 305), e, tendo pago antes do vencimento, só pode exigi-lo no vencimento (art. 305, parágrafo único)."
+   ],
+   [
+    "Quitéria não tem direito a nenhum reembolso, pois pagou dívida alheia por liberalidade, sem autorização de Olga.",
+    "Errada. O terceiro não interessado que paga em seu próprio nome tem direito ao reembolso (art. 305). Só não teria se pagasse em nome e por conta do devedor, ou com o desconhecimento ou a oposição deste, havendo meios para ilidir a ação (arts. 304, parágrafo único, e 306)."
+   ],
+   [
+    "O pagamento a Sandro é nulo, pois quem paga mal paga duas vezes, e o devedor deve sempre verificar a atual legitimidade de quem recebe.",
+    "Errada. A regra do “quem paga mal paga duas vezes” cede diante da boa-fé do devedor e da aparência de legitimidade do recebedor: o pagamento ao credor putativo é válido (art. 309), restando a Rubens agir contra Sandro."
+   ],
+   [
+    "O pagamento a Sandro só seria válido se Rubens o ratificasse ou se provasse que o valor reverteu em proveito de Rubens.",
+    "Errada. Essas hipóteses (art. 308) validam o pagamento feito a quem não é credor nem representante. No caso de credor putativo, basta a boa-fé do devedor (art. 309)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 304, 305, 306, 308, 309 e 346, III.",
+  "dica": "Terceiro interessado (fiador, avalista) sub-roga-se. Não interessado em nome próprio só tem reembolso, e no vencimento. Credor putativo + boa-fé = pagamento válido."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V03",
+  "nivel": "médio",
+  "tema": "Desconsideração inversa da personalidade jurídica e incidente processual (CC, art. 50, §3º; CPC, arts. 133 a 137)",
+  "enun": "Na ação de alimentos movida pelos filhos contra Tomás, ficou demonstrado que ele, sócio majoritário da sociedade Urano Ltda., transferira para a empresa, por valor simbólico, seu apartamento, seus veículos e suas aplicações financeiras, e passara a viver com recursos da sociedade, sem salário formal, apresentando-se como pessoa sem patrimônio. Na fase de cumprimento de sentença, os credores requereram que bens da sociedade respondessem pela dívida de Tomás. A sociedade, que não integrava o processo, alegou que a desconsideração só serviria para atingir bens dos sócios por dívidas da empresa e que, em qualquer caso, deveria ser feita em ação autônoma. Considerando o Código Civil e o Código de Processo Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "É cabível a desconsideração inversa, para que a sociedade responda por obrigação do sócio, mediante incidente instaurado em qualquer fase do processo, inclusive no cumprimento de sentença, com citação da pessoa jurídica para manifestar-se e requerer provas em 15 dias.",
+    "CORRETA. O CC prevê a extensão das obrigações de sócios ou administradores à pessoa jurídica (desconsideração inversa) quando houver abuso por desvio de finalidade ou confusão patrimonial (art. 50, §3º), como na transferência de bens pessoais para a empresa. O incidente de desconsideração aplica-se à hipótese inversa (CPC, art. 133, §2º), é cabível em todas as fases do processo de conhecimento, no cumprimento de sentença e na execução (art. 134), e a pessoa jurídica é citada para manifestar-se e requerer provas em 15 dias (art. 135)."
+   ],
+   [
+    "A desconsideração só pode atingir os bens dos sócios por dívidas da sociedade, sendo inadmissível que a pessoa jurídica responda por dívida pessoal do sócio.",
+    "Errada. A desconsideração inversa é expressamente admitida (CC, art. 50, §3º; CPC, art. 133, §2º)."
+   ],
+   [
+    "A desconsideração deve ser requerida em ação autônoma, pois o incidente não é admitido na fase de cumprimento de sentença.",
+    "Errada. O incidente é cabível em todas as fases do processo de conhecimento, no cumprimento de sentença e na execução de título extrajudicial (CPC, art. 134)."
+   ],
+   [
+    "A instauração do incidente não suspende o processo, e a decisão que o resolve é sentença, impugnável por apelação.",
+    "Errada. A instauração do incidente suspende o processo, salvo quando a desconsideração for requerida na petição inicial (art. 134, §§2º e 3º). O incidente é resolvido por decisão interlocutória (art. 136), impugnável por agravo de instrumento (art. 1.015, IV)."
+   ],
+   [
+    "A mera existência de grupo econômico ou de confusão de atividades autoriza a desconsideração, independentemente de abuso.",
+    "Errada. A mera existência de grupo econômico sem os requisitos do art. 50 não autoriza a desconsideração (CC, art. 50, §4º). Exige-se abuso caracterizado por desvio de finalidade ou confusão patrimonial."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, art. 50, caput e §§2º a 4º; CPC, arts. 133 a 137 e 1.015, IV.",
+  "dica": "Inversa: o sócio esconde bens na empresa e a empresa paga a dívida do sócio. IDPJ: em qualquer fase, suspende o processo (salvo se pedido na inicial) e termina por decisão interlocutória (agravo)."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V18",
+  "nivel": "difícil",
+  "tema": "LGPD: dados anonimizados, término do tratamento e hipóteses de conservação (Lei 13.709/2018, arts. 12, 15, 16 e 18)",
+  "enun": "Vânia foi cliente da academia Fitness Plus por cinco anos e, ao encerrar o contrato, revogou o consentimento que dera para o uso de seus dados em campanhas de marketing. Pediu a eliminação de todos os seus dados pessoais. A academia respondeu que manteria as notas fiscais e os registros de pagamento pelo prazo exigido pela legislação tributária, que continuaria a usar, em relatórios internos, uma base de frequência da qual retirou nomes e CPFs, mas manteve data de nascimento, CEP e horários de treino, o que permitia identificar facilmente os alunos, e que poderia vender a parceiros comerciais os dados de contato de Vânia, por terem sido coletados licitamente. Considerando a Lei Geral de Proteção de Dados, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A academia pode conservar os dados necessários ao cumprimento de obrigação legal ou regulatória; a base de frequência continua a conter dados pessoais, pois a anonimização pode ser revertida com esforços razoáveis; e a revogação do consentimento impede a cessão dos dados de contato a parceiros.",
+    "CORRETA. Encerrado o tratamento, os dados devem ser eliminados, autorizada a conservação para cumprimento de obrigação legal ou regulatória pelo controlador (LGPD, art. 16, I). Dados anonimizados não são considerados pessoais, salvo quando o processo de anonimização puder ser revertido com esforços razoáveis (art. 12), como ocorre com a combinação de data de nascimento, CEP e horários. A comunicação do titular, inclusive no exercício do direito de revogação do consentimento, é hipótese de término do tratamento (art. 15, III), e a transferência a terceiros para fins comerciais dependeria de base legal que não existe mais."
+   ],
+   [
+    "Com o fim do contrato e a revogação do consentimento, a academia deve eliminar imediatamente todos os dados de Vânia, inclusive as notas fiscais.",
+    "Errada. A eliminação admite exceções, entre elas a conservação para cumprimento de obrigação legal ou regulatória (art. 16, I), como a guarda de documentos fiscais."
+   ],
+   [
+    "A base de frequência é anonimizada e escapa da LGPD, pois foram retirados os dados de identificação direta, como nome e CPF.",
+    "Errada. Dado anonimizado é o que não permite a identificação do titular por meios técnicos razoáveis (art. 5º, III). Se a reidentificação for possível com esforços razoáveis, os dados continuam pessoais (art. 12)."
+   ],
+   [
+    "Coletados licitamente, os dados de contato podem ser vendidos a parceiros, pois a revogação do consentimento só produz efeitos para o futuro e não alcança dados já armazenados.",
+    "Errada. A revogação ratifica os tratamentos já realizados sob o consentimento anterior (art. 8º, §5º), mas impede novos tratamentos baseados nele, como a cessão a terceiros. A conservação para uso exclusivo do controlador só é permitida com dados anonimizados e vedado o acesso por terceiro (art. 16, IV)."
+   ],
+   [
+    "O titular não tem direito de pedir a eliminação de dados tratados com seu consentimento, mas apenas a correção de dados incompletos ou desatualizados.",
+    "Errada. O titular tem direito à eliminação dos dados tratados com o seu consentimento, ressalvadas as hipóteses do art. 16 (art. 18, VI), além do direito à revogação do consentimento (art. 18, IX)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 13.709/2018, arts. 5º, III e XI, 8º, §5º, 12, 15, 16 e 18, VI e IX.",
+  "dica": "Fim do tratamento = eliminar, salvo obrigação legal, pesquisa, transferência lícita ou uso interno anonimizado. Anonimização reversível com esforço razoável = continua dado pessoal."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V20",
+  "nivel": "fácil",
+  "tema": "Fato do produto: responsabilidade do comerciante, excludentes, consumidor por equiparação e prescrição (CDC, arts. 12, 13, 17 e 27)",
+  "enun": "Xênia comprou na loja Utilidades Ltda. uma panela de pressão de fabricação nacional, devidamente identificada com o nome e o endereço do fabricante, a Metalúrgica Zeta. Na primeira utilização, a válvula de segurança falhou e a panela explodiu, ferindo Xênia e Yuri, vizinho que a visitava. A perícia apontou defeito de fabricação. Quatro anos depois do acidente, ambos ajuizaram ação apenas contra a loja. A Utilidades contestou alegando ilegitimidade passiva, que Yuri não era consumidor por não ter comprado o produto e que a pretensão estaria prescrita, por aplicação do prazo de 90 dias para reclamar de vícios. Considerando o Código de Defesa do Consumidor, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A loja não responde, pois o fabricante está identificado e não há notícia de má conservação; Yuri é consumidor por equiparação; e a pretensão não está prescrita, pois o prazo é de 5 anos a partir do conhecimento do dano e de sua autoria.",
+    "CORRETA. No fato do produto, respondem o fabricante, o produtor, o construtor e o importador (CDC, art. 12). O comerciante só responde quando o fabricante não puder ser identificado, o produto for fornecido sem identificação clara ou o comerciante não conservar adequadamente produtos perecíveis (art. 13). Equiparam-se aos consumidores todas as vítimas do evento (art. 17, bystander). A pretensão à reparação por fato do produto prescreve em 5 anos, contados do conhecimento do dano e de sua autoria (art. 27)."
+   ],
+   [
+    "A loja responde solidariamente com o fabricante, pois todos os fornecedores da cadeia respondem solidariamente pelos danos causados por defeitos do produto.",
+    "Errada. A solidariedade de toda a cadeia é a regra nos vícios do produto (art. 18). No fato do produto, a responsabilidade do comerciante é subsidiária e restrita às hipóteses do art. 13."
+   ],
+   [
+    "Yuri não pode invocar o CDC, pois não adquiriu nem utilizou o produto como destinatário final.",
+    "Errada. Para os acidentes de consumo, equiparam-se aos consumidores todas as vítimas do evento (art. 17), mesmo sem relação contratual."
+   ],
+   [
+    "A pretensão está extinta, pois o prazo para reclamar de defeitos em produtos duráveis é de 90 dias.",
+    "Errada. O prazo de 90 dias é decadencial e se refere a vícios aparentes ou de fácil constatação em produtos duráveis (art. 26, II). Para danos por fato do produto, aplica-se a prescrição de 5 anos (art. 27)."
+   ],
+   [
+    "O fabricante pode afastar sua responsabilidade demonstrando que outra marca colocou no mercado panela de melhor qualidade, com dupla válvula.",
+    "Errada. O produto não é considerado defeituoso pelo fato de outro de melhor qualidade ter sido colocado no mercado (art. 12, §2º), mas o defeito de fabricação comprovado gera responsabilidade. As excludentes são não ter colocado o produto no mercado, inexistência do defeito e culpa exclusiva do consumidor ou de terceiro (art. 12, §3º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CDC, arts. 12, §§1º a 3º, 13, 17, 18, 26 e 27.",
+  "dica": "Fato do produto (acidente): fabricante responde, comerciante só subsidiariamente (art. 13), toda vítima é consumidora e o prazo é de 5 anos. Vício: solidariedade e prazos de 30/90 dias."
+ },
+ {
+  "disc": "Direito Civil",
+  "item": "V08",
+  "nivel": "médio",
+  "tema": "Contrato de transporte de pessoas: culpa de terceiro, transporte de cortesia e culpa concorrente do passageiro (CC, arts. 734 a 738)",
+  "enun": "O ônibus da Viação Alfa, que fazia linha intermunicipal, colidiu com um caminhão cujo motorista avançou o sinal vermelho. Bruna, passageira, sofreu fraturas. Clóvis, outro passageiro, também se feriu, mas ficou provado que viajava em pé, junto à porta, em desobediência às placas e às instruções do motorista. No mesmo dia, Débora, que pegara carona gratuita e por amizade no carro de Eva, feriu-se quando Eva, distraída, bateu num poste em baixa velocidade, sem culpa grave. A Viação Alfa alegou que o acidente foi causado exclusivamente pelo caminhoneiro, e Eva alegou que não responde pela carona. Considerando o Código Civil e a jurisprudência, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A Viação Alfa responde perante Bruna, com ação regressiva contra o terceiro; a indenização de Clóvis pode ser reduzida equitativamente, na medida de sua contribuição para o dano; e Eva, no transporte de cortesia, só responde se houver dolo ou culpa grave.",
+    "CORRETA. A responsabilidade contratual do transportador por acidente com o passageiro não é elidida por culpa de terceiro, contra o qual tem ação regressiva (CC, art. 735; Súmula 187/STF). Se o prejuízo sofrido pelo passageiro for atribuível à transgressão de normas e instruções regulamentares, o juiz reduzirá equitativamente a indenização (art. 738, parágrafo único). O transporte gratuito, por amizade ou cortesia, não se subordina às normas do contrato de transporte (art. 736), e o transportador só responde por dolo ou culpa grave (Súmula 145/STJ)."
+   ],
+   [
+    "A culpa exclusiva do motorista do caminhão rompe o nexo causal e afasta a responsabilidade da Viação Alfa perante Bruna.",
+    "Errada. O fato de terceiro ligado aos riscos do transporte não exclui a responsabilidade do transportador perante o passageiro (art. 735; Súmula 187/STF). Só a força maior e o fortuito externo afastam a responsabilidade (art. 734)."
+   ],
+   [
+    "A transgressão das normas por Clóvis exclui integralmente a responsabilidade da transportadora.",
+    "Errada. A lei determina a redução equitativa da indenização, e não sua exclusão, na medida em que a vítima concorreu para o dano (art. 738, parágrafo único)."
+   ],
+   [
+    "Eva responde objetivamente pelos danos sofridos por Débora, pois todo transporte de pessoas gera obrigação de resultado.",
+    "Errada. O transporte por amizade ou cortesia não se subordina às regras do contrato de transporte (art. 736). Segundo a Súmula 145/STJ, o transportador só responde por dolo ou culpa grave."
+   ],
+   [
+    "A transportadora pode limitar sua responsabilidade por danos aos passageiros mediante cláusula impressa no bilhete.",
+    "Errada. É nula qualquer cláusula excludente da responsabilidade (art. 734). O que a lei permite é exigir a declaração do valor da bagagem para fixar o limite da indenização (art. 734, parágrafo único)."
+   ]
+  ],
+  "c": 0,
+  "base": "CC, arts. 734, 735, 736 e 738; Súmula 187/STF; Súmula 145/STJ.",
+  "dica": "Transporte: culpa de terceiro não exime o transportador (ele tem regresso). Passageiro que desobedece = indenização reduzida. Carona por amizade = só dolo ou culpa grave."
+ },
+ {
+  "disc": "Direito Empresarial",
+  "item": "E10",
+  "nivel": "difícil",
+  "tema": "Classificação dos créditos na falência após a Lei 14.112/2020 (Lei 11.101/2005, arts. 83 e 151)",
+  "enun": "Decretada a falência da Indústria Fênix S.A., o administrador judicial organizou o quadro-geral de credores, que inclui: Gilda, ex-empregada, com crédito trabalhista equivalente a 200 salários mínimos; o Banco Hélio, com crédito garantido por hipoteca sobre imóvel avaliado em valor inferior ao da dívida; a Fazenda Nacional, com crédito de tributos e multas tributárias; o fornecedor Íris, com crédito que, por lei especial, tinha privilégio especial sobre certos bens; e Joel, administrador sem vínculo empregatício, com crédito decorrente de contratação em condições não comutativas. Considerando a Lei 11.101/2005, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O crédito de Gilda é pago com prioridade até 150 salários mínimos, e o excedente torna-se quirografário; o Banco Hélio tem prioridade até o limite do valor do bem; os tributos vêm em seguida, e as multas tributárias ficam abaixo dos quirografários; o crédito de Íris é quirografário; e o de Joel é subordinado.",
+    "CORRETA. Na ordem do art. 83: créditos trabalhistas limitados a 150 salários mínimos por credor (I); créditos com garantia real até o limite do valor do bem gravado (II); créditos tributários, exceto multas (III); quirografários, incluídos os saldos não cobertos pelo bem gravado e o excedente trabalhista (VI); multas, inclusive tributárias (VII); subordinados, como os créditos de administradores sem vínculo empregatício cuja contratação não observou condições comutativas (VIII, b). Após a Lei 14.112/2020, os créditos com privilégio especial ou geral em outras normas integram a classe dos quirografários (art. 83, §6º)."
+   ],
+   [
+    "O crédito de Gilda deve ser pago integralmente com prioridade, pois a Constituição assegura ao crédito trabalhista natureza alimentar sem limite de valor.",
+    "Errada. A preferência trabalhista na falência é limitada a 150 salários mínimos por credor (art. 83, I). O excedente é quirografário (art. 83, VI, c)."
+   ],
+   [
+    "O crédito tributário, incluídas as multas, prefere ao crédito com garantia real, pois o interesse público prevalece sobre o privado.",
+    "Errada. Na falência, o crédito com garantia real (até o valor do bem) precede o tributário (art. 83, II e III; CTN, art. 186, parágrafo único, I). As multas tributárias foram deslocadas para depois dos quirografários (art. 83, VII)."
+   ],
+   [
+    "O crédito de Íris mantém o privilégio especial e é pago antes dos quirografários, como previa a redação original da Lei 11.101/2005.",
+    "Errada. A Lei 14.112/2020 revogou os incisos IV e V do art. 83 e estabeleceu que os créditos com privilégio especial ou geral em outras normas integram a classe dos quirografários (art. 83, §6º)."
+   ],
+   [
+    "O saldo do crédito do Banco Hélio não coberto pela venda do imóvel continua a ter preferência sobre os créditos tributários.",
+    "Errada. A preferência da garantia real vai até o limite do valor do bem gravado; o saldo não coberto pelo produto da alienação é quirografário (art. 83, VI, b)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 11.101/2005, arts. 83, I a IX e §6º, 84 e 151 (redação da Lei 14.112/2020); CTN, art. 186, parágrafo único.",
+  "dica": "Ordem na falência: trabalhista até 150 SM, garantia real até o valor do bem, tributos, quirografários (incluídos os antigos privilegiados), multas, subordinados e juros posteriores."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21b",
+  "nivel": "fácil",
+  "tema": "Escusas absolutórias e imunidades relativas nos crimes patrimoniais (CP, arts. 181 a 183)",
+  "enun": "Em um mesmo inquérito, a polícia apurou os seguintes fatos: Lauro, de 25 anos, furtou joias de seu pai, Mário, de 58 anos; Nádia, sobrinha que morava com o tio Osvaldo, furtou dinheiro dele; Pedro furtou o relógio de sua mãe, Quitéria, de 67 anos; e Rafael, amigo de Lauro, ajudou-o a carregar as joias de Mário, ciente de toda a situação. Em outro episódio, Lauro, mediante grave ameaça, subtraiu o carro do pai. O delegado precisa definir, em cada caso, a punibilidade e a natureza da ação penal. Considerando o Código Penal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Lauro é isento de pena pelo furto das joias, mas não pela subtração do carro mediante grave ameaça; o furto de Nádia depende de representação; Pedro e Rafael não se beneficiam de nenhuma imunidade.",
+    "CORRETA. É isento de pena quem comete crime contra o patrimônio em prejuízo de ascendente ou descendente (CP, art. 181, II), escusa absolutória. Somente se procede mediante representação no crime cometido em prejuízo de tio ou sobrinho com quem o agente coabita (art. 182, III). As imunidades não se aplicam ao roubo, à extorsão ou a crime com violência ou grave ameaça, ao estranho que participa do crime, nem quando o crime é praticado contra pessoa com 60 anos ou mais (art. 183, I a III), caso de Quitéria."
+   ],
+   [
+    "Lauro é isento de pena tanto pelo furto quanto pela subtração do carro, pois a escusa absolutória alcança qualquer crime patrimonial praticado contra ascendente.",
+    "Errada. As escusas não se aplicam ao roubo ou à extorsão nem, em geral, quando há emprego de grave ameaça ou violência à pessoa (art. 183, I)."
+   ],
+   [
+    "Rafael também é isento de pena, pois a escusa absolutória se comunica a todos os que concorrem para o crime.",
+    "Errada. As imunidades são pessoais e não se aplicam ao estranho que participa do crime (art. 183, II)."
+   ],
+   [
+    "Pedro é isento de pena, pois furtou bem de sua mãe, ascendente em primeiro grau.",
+    "Errada. A imunidade não se aplica quando o crime é praticado contra pessoa com idade igual ou superior a 60 anos (art. 183, III), incluído pelo Estatuto da Pessoa Idosa."
+   ],
+   [
+    "O furto praticado por Nádia é isento de pena, pois o art. 181 abrange todos os parentes que coabitam com a vítima.",
+    "Errada. Para o tio ou sobrinho com quem o agente coabita, a lei prevê imunidade relativa: a ação penal depende de representação (art. 182, III), e não isenção de pena."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 181, I e II, 182, I a III, e 183, I a III.",
+  "dica": "Art. 181 (isenção): cônjuge, ascendente e descendente. Art. 182 (representação): cônjuge separado, irmão, tio ou sobrinho que coabita. Art. 183 afasta tudo: violência ou grave ameaça, estranho e vítima com 60 anos ou mais."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D07",
+  "nivel": "médio",
+  "tema": "Atos preparatórios punidos como crimes autônomos: petrechos de falsificação, associação criminosa e terrorismo",
+  "enun": "Sílvio, Túlio e Úrsula se reuniram diversas vezes para planejar a falsificação de cédulas de real em grande escala e, com esse fim específico, formaram um grupo estável. Compraram uma impressora especial e chapas próprias para a fabricação de moeda, guardadas no galpão de Túlio, onde foram apreendidas antes que qualquer cédula fosse produzida. Na mesma operação, a polícia apurou que Vítor, sozinho, adquirira materiais químicos com o propósito inequívoco de praticar ato de terrorismo em um estádio, mas foi preso antes de iniciar a execução. A defesa de todos sustenta que os atos preparatórios são impuníveis. Considerando o Código Penal e a legislação especial, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Embora a regra seja a impunidade dos atos preparatórios, Sílvio, Túlio e Úrsula respondem por associação criminosa e pelo crime de petrechos para falsificação de moeda, e Vítor responde pelos atos preparatórios de terrorismo, com a pena do crime consumado diminuída de 1/4 até a metade.",
+    "CORRETA. A cogitação e a preparação não são, em regra, puníveis, pois a tentativa exige início de execução (CP, art. 14, II). A lei, porém, tipifica certos atos preparatórios como crimes autônomos: associarem-se 3 ou mais pessoas para o fim específico de cometer crimes (art. 288), e fabricar, adquirir, fornecer, possuir ou guardar maquinismo, aparelho ou objeto especialmente destinado à falsificação de moeda (art. 291). E a Lei 13.260/2016 pune os atos preparatórios de terrorismo com o propósito inequívoco de consumá-lo, com a pena do consumado diminuída de 1/4 até a metade (art. 5º)."
+   ],
+   [
+    "Todos os fatos são atípicos, pois o Código Penal só pune a conduta a partir do início da execução, e o planejamento e a aquisição de instrumentos são meros atos preparatórios.",
+    "Errada. Os arts. 288 e 291 do CP e o art. 5º da Lei 13.260/2016 transformam esses atos preparatórios em crimes autônomos."
+   ],
+   [
+    "Sílvio, Túlio e Úrsula respondem por tentativa de moeda falsa, pois a aquisição dos petrechos já representa início da execução do crime de falsificação.",
+    "Errada. A compra dos instrumentos não inicia a execução da falsificação (art. 289), que exige começar a fabricar ou alterar a moeda. A conduta se amolda ao crime autônomo do art. 291."
+   ],
+   [
+    "Não há associação criminosa, pois o grupo não chegou a cometer nenhum crime de falsificação, e esse delito exige a prática efetiva de ao menos um crime.",
+    "Errada. A associação criminosa é crime formal e autônomo, que se consuma com a associação estável de 3 ou mais pessoas para o fim de cometer crimes, independentemente da prática de qualquer deles (art. 288)."
+   ],
+   [
+    "Vítor responde por tentativa de terrorismo, com a redução de 1/3 a 2/3 do art. 14, parágrafo único, do Código Penal.",
+    "Errada. Não houve início de execução, e por isso não há tentativa. A lei antiterrorismo pune especificamente os atos preparatórios, com redução de 1/4 até a metade (Lei 13.260/2016, art. 5º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 14, II, 31, 288, 289 e 291; Lei 13.260/2016, art. 5º.",
+  "dica": "Preparação não se pune, salvo quando a lei a transforma em crime: associação criminosa (3 ou mais pessoas), petrechos de falsificação e preparação de terrorismo (pena do consumado reduzida de 1/4 a 1/2)."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D08-10",
+  "nivel": "fácil",
+  "tema": "Estrito cumprimento do dever legal, exercício regular de direito e consentimento do ofendido",
+  "enun": "Analise as seguintes situações: Xisto, oficial de justiça, cumprindo mandado judicial de busca e apreensão, arrombou a porta de uma casa diante da recusa do morador em abri-la; Yolanda, lutadora profissional, causou lesão corporal leve na adversária durante luta regulamentada, sem violar as regras da modalidade; Zélia, maior e capaz, pediu a um tatuador que lhe fizesse uma grande tatuagem no braço, o que foi feito; e Álvaro, policial militar, atirou nas costas de um suspeito de furto que fugia desarmado, matando-o, por entender que tinha o dever de impedir a fuga a qualquer custo. Considerando o Código Penal e a doutrina, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Xisto agiu em estrito cumprimento do dever legal, Yolanda no exercício regular de direito, a tatuagem é lícita pelo consentimento válido de Zélia sobre bem disponível, e Álvaro não está amparado por nenhuma excludente.",
+    "CORRETA. Não há crime quando o agente pratica o fato em estrito cumprimento de dever legal ou no exercício regular de direito (CP, art. 23, III). O arrombamento para cumprir o mandado, diante da recusa do morador, está autorizado em lei (CPP, art. 245, §§2º e 3º). A lesão na luta, dentro das regras, é exercício regular de direito (violência desportiva). O consentimento do ofendido capaz, sobre bem disponível e de forma livre, afasta o crime (causa supralegal ou exclusão da tipicidade). Já nenhum dever legal autoriza matar suspeito desarmado em fuga, e Álvaro responde, inclusive pelo excesso (art. 23, parágrafo único)."
+   ],
+   [
+    "Álvaro agiu em estrito cumprimento do dever legal, pois os policiais têm o dever de impedir a fuga de suspeitos e podem usar os meios necessários para tanto.",
+    "Errada. O estrito cumprimento exige atuação nos limites do dever imposto por lei, e nenhuma lei autoriza matar suspeito desarmado em fuga. O uso de força letal exige agressão injusta, atual ou iminente (legítima defesa), inexistente no caso."
+   ],
+   [
+    "Yolanda responde por lesão corporal, pois o consentimento da vítima não é causa legal de exclusão da ilicitude, e o esporte não autoriza ofensas à integridade física.",
+    "Errada. A prática de esporte violento regulamentado, dentro das regras, configura exercício regular de direito (art. 23, III). Só o excesso doloso ou culposo seria punível (art. 23, parágrafo único)."
+   ],
+   [
+    "A tatuagem configura lesão corporal, pois a integridade física é bem indisponível e o consentimento do ofendido nunca exclui o crime.",
+    "Errada. Doutrina e jurisprudência admitem o consentimento do ofendido como causa supralegal de exclusão da ilicitude, ou de atipicidade, quando o bem é disponível, como na lesão leve consentida e socialmente adequada, e o titular é capaz."
+   ],
+   [
+    "Xisto responde por violação de domicílio, pois a casa é asilo inviolável e só pode ser penetrada sem consentimento do morador em caso de flagrante delito.",
+    "Errada. A Constituição também admite o ingresso, durante o dia, por determinação judicial (CF, art. 5º, XI), e o CPP autoriza o arrombamento em caso de desobediência ao mandado (art. 245, §2º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, XI; CP, art. 23, III e parágrafo único; CPP, art. 245, §§2º e 3º.",
+  "dica": "Dever legal autoriza o arrombamento com mandado, mas não matar quem foge desarmado. Esporte dentro das regras = exercício regular de direito. Consentimento de pessoa capaz sobre bem disponível = causa supralegal."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D21a",
+  "nivel": "difícil",
+  "tema": "Induzimento, instigação ou auxílio a suicídio ou a automutilação (CP, art. 122; Lei 13.968/2019)",
+  "enun": "Bento, de 30 anos, administrava um grupo em rede social no qual propunha “desafios” progressivos a adolescentes, com tarefas de automutilação. Instigou Caio, de 16 anos, a cortar os próprios braços, o que resultou em lesões corporais de natureza grave, transmitidas em tempo real no grupo. Instigou também Dalva, de 13 anos, a praticar automutilação, e ela sofreu lesão corporal gravíssima, com deformidade permanente. Por fim, induziu Edu, de 19 anos, a se suicidar, e Edu tentou o suicídio, mas sobreviveu sem lesões. O Ministério Público avalia a tipificação de cada conduta. Considerando o Código Penal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Quanto a Caio, há o crime do art. 122 com resultado lesão grave, com pena duplicada por ser a vítima menor, aumentada até o dobro pelo uso de rede social e transmissão em tempo real e aumentada de metade por ser Bento líder do grupo; quanto a Dalva, menor de 14 anos com lesão gravíssima, Bento responde por lesão corporal gravíssima; e quanto a Edu, o crime do art. 122 se consuma independentemente de resultado naturalístico.",
+    "CORRETA. Após a Lei 13.968/2019, o art. 122 pune quem induz ou instiga alguém a suicidar-se ou a praticar automutilação, ou presta auxílio material para isso, e é crime formal: consuma-se com o induzimento, a instigação ou o auxílio, com formas qualificadas se resulta lesão grave ou gravíssima (§1º) ou morte (§2º). A pena é duplicada se a vítima é menor (§3º, II), aumentada até o dobro se a conduta é praticada por meio da rede de computadores, de rede social ou transmitida em tempo real (§4º) e aumentada de metade se o agente é líder ou coordenador de grupo ou de rede virtual (§5º). Se resulta lesão gravíssima e a vítima é menor de 14 anos, o agente responde por lesão corporal gravíssima (§6º; art. 129, §2º)."
+   ],
+   [
+    "O induzimento de Edu é atípico, pois o crime do art. 122 só se configura se do suicídio resultar morte ou lesão corporal de natureza grave.",
+    "Errada. Essa era a redação anterior à Lei 13.968/2019. Hoje o tipo básico se consuma com o induzimento, a instigação ou o auxílio, e a lesão grave e a morte qualificam o crime (§§1º e 2º)."
+   ],
+   [
+    "Quanto a Dalva, Bento responde pelo art. 122 qualificado, pois a lesão corporal gravíssima é apenas resultado que qualifica o crime de instigação à automutilação, qualquer que seja a idade da vítima.",
+    "Errada. Se resulta lesão gravíssima e o crime é cometido contra menor de 14 anos, ou contra quem não tem discernimento ou não pode oferecer resistência, o agente responde pelo crime do art. 129, §2º (art. 122, §6º)."
+   ],
+   [
+    "A instigação a automutilação não é crime, pois o Código Penal não pune a autolesão, e quem instiga participa de fato atípico.",
+    "Errada. A Lei 13.968/2019 incluiu expressamente a automutilação no art. 122. A conduta de quem induz, instiga ou auxilia é típica, embora a autolesão em si não o seja."
+   ],
+   [
+    "Se Edu tivesse morrido, Bento responderia por homicídio doloso, pois o induzimento ao suicídio é sempre equiparado ao homicídio quando ocorre o resultado morte.",
+    "Errada. Se resulta morte, aplica-se o §2º do art. 122, com pena de 2 a 6 anos. Só se responde por homicídio se a vítima for menor de 14 anos ou não tiver discernimento ou capacidade de resistência (art. 122, §7º). Edu tinha 19 anos."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, art. 122, caput e §§1º a 7º (Lei 13.968/2019), e art. 129, §2º.",
+  "dica": "Art. 122 hoje: crime formal, inclui a automutilação. Menor de 14 anos ou sem discernimento: lesão gravíssima vira art. 129, §2º, e morte vira homicídio. Rede social ou transmissão ao vivo: até o dobro. Líder do grupo: + metade."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D11",
+  "nivel": "médio",
+  "tema": "Concurso de agentes: comunicabilidade das elementares, autoria mediata e participação de menor importância (CP, arts. 29 e 30)",
+  "enun": "Fausto, servidor público responsável pelo almoxarifado de uma universidade federal, combinou com seu amigo Gaspar, comerciante que sabia da condição funcional de Fausto, a subtração de notebooks guardados no setor. Fausto facilitou a entrada de Gaspar à noite, e este levou os equipamentos. Para transportá-los, Gaspar convenceu Hugo, adolescente com deficiência mental grave que não tinha nenhuma capacidade de entendimento, a carregar as caixas, dizendo-lhe que se tratava de uma mudança. Iara, vizinha de Gaspar, apenas lhe emprestou uma lanterna, sabendo da finalidade. O Ministério Público ofereceu denúncia. Considerando o Código Penal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Fausto e Gaspar respondem por peculato, pois a condição de funcionário público, elementar do crime, comunica-se ao particular que dela tem ciência; Gaspar é autor mediato quanto à conduta de Hugo; e Iara pode ter a pena diminuída de 1/6 a 1/3 por participação de menor importância.",
+    "CORRETA. Não se comunicam as circunstâncias e as condições de caráter pessoal, salvo quando elementares do crime (CP, art. 30). A qualidade de funcionário público é elementar do peculato (art. 312, §1º, peculato-furto) e se estende ao particular que conhece essa condição. Quem se vale de pessoa sem capacidade de entendimento como instrumento é autor mediato, e o executor não é punido. Se a participação for de menor importância, a pena pode ser diminuída de 1/6 a 1/3 (art. 29, §1º)."
+   ],
+   [
+    "Fausto responde por peculato e Gaspar por furto qualificado, pois a condição de funcionário público é pessoal e não se comunica ao particular.",
+    "Errada. A condição de funcionário público é elementar do peculato e, conhecida pelo particular, comunica-se a ele (art. 30, parte final)."
+   ],
+   [
+    "Hugo é coautor do crime, e Gaspar responde apenas pela participação, pois foi Hugo quem transportou os bens.",
+    "Errada. Hugo foi mero instrumento, sem capacidade de entendimento nem consciência do fato. Gaspar, que dominou a ação por meio dele, é autor mediato."
+   ],
+   [
+    "Iara é isenta de pena, pois o simples empréstimo de objeto de uso comum não configura participação punível.",
+    "Errada. Quem, de qualquer modo, concorre para o crime incide nas penas a este cominadas, na medida de sua culpabilidade (art. 29). O auxílio material consciente é participação, ainda que de menor importância (art. 29, §1º)."
+   ],
+   [
+    "A participação de menor importância de Iara impõe a aplicação da pena do crime menos grave, por ela ter querido participar apenas de furto.",
+    "Errada. A aplicação da pena do crime menos grave é regra da cooperação dolosamente distinta (art. 29, §2º), quando o agente quis participar de crime menos grave. Iara sabia da finalidade, e a menor importância apenas reduz a pena (art. 29, §1º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CP, arts. 29, caput e §§1º e 2º, 30 e 312, §1º.",
+  "dica": "Elementar pessoal (ser funcionário público) se comunica a quem sabe dela. Quem usa um inimputável como instrumento é autor mediato. Menor importância: redução de 1/6 a 1/3."
+ },
+ {
+  "disc": "Direito Penal",
+  "item": "D19-20",
+  "nivel": "difícil",
+  "tema": "Crimes militares após a Lei 13.491/2017 e competência das Justiças Militares (CF, arts. 124 e 125, §4º; CPM, art. 9º)",
+  "enun": "Jair, policial militar do Estado Alfa, em serviço de patrulhamento, praticou tortura contra um preso (Lei 9.455/1997) e, no mesmo dia, matou dolosamente um civil durante uma abordagem. Kléber, civil, foi denunciado por desacatar um oficial da Polícia Militar estadual no quartel. Lúcio, militar do Exército empregado em operação de garantia da lei e da ordem determinada pelo Presidente da República, matou dolosamente um civil durante a operação. Discute-se a competência para processar e julgar cada caso. Considerando a Constituição, o Código Penal Militar com a redação da Lei 13.491/2017 e a jurisprudência do STJ, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A tortura praticada por Jair em serviço é crime militar da competência da Justiça Militar estadual; o homicídio doloso do civil por Jair vai ao Tribunal do Júri; Kléber deve ser julgado pela Justiça comum estadual; e o homicídio praticado por Lúcio na operação de GLO é da competência da Justiça Militar da União.",
+    "CORRETA. Após a Lei 13.491/2017, são crimes militares em tempo de paz também os previstos na legislação penal comum, quando praticados nas situações do art. 9º, II, do CPM, como o militar em serviço. A Justiça Militar estadual julga os militares dos Estados nos crimes militares definidos em lei, ressalvada a competência do júri quando a vítima for civil (CF, art. 125, §4º; CPM, art. 9º, §1º). A Justiça Militar estadual não julga civis (Súmula 53/STJ). Os crimes dolosos contra a vida de civil praticados por militares das Forças Armadas em operação de GLO são da Justiça Militar da União (CPM, art. 9º, §2º, III; CF, art. 124)."
+   ],
+   [
+    "A tortura praticada por Jair é crime comum, pois não está prevista no Código Penal Militar, e deve ser julgada pela Justiça comum estadual.",
+    "Errada. Desde a Lei 13.491/2017, os crimes previstos na legislação penal comum também são militares quando praticados nas hipóteses do art. 9º, II, do CPM, como o militar em serviço."
+   ],
+   [
+    "O homicídio doloso do civil praticado por Jair é julgado pela Justiça Militar estadual, por ter sido cometido em serviço.",
+    "Errada. A Constituição ressalva a competência do júri quando a vítima de crime doloso contra a vida praticado por militar estadual for civil (art. 125, §4º)."
+   ],
+   [
+    "Kléber deve ser julgado pela Justiça Militar estadual, pois o desacato a militar no quartel é crime militar.",
+    "Errada. A Justiça Militar estadual não tem competência para julgar civis, ainda que o fato seja crime militar (CF, art. 125, §4º; Súmula 53/STJ). Já a Justiça Militar da União pode julgar civis (art. 124)."
+   ],
+   [
+    "O homicídio praticado por Lúcio é julgado pelo Tribunal do Júri federal, pois a ressalva do júri vale para todos os militares que matam civis.",
+    "Errada. A Lei 13.491/2017 manteve a regra do júri para os demais casos, mas atribuiu à Justiça Militar da União os crimes dolosos contra a vida de civil praticados por militares das Forças Armadas em atividades como a GLO (CPM, art. 9º, §2º)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 124 e 125, §§4º e 5º; CPM, art. 9º, II e §§1º e 2º (Lei 13.491/2017); Súmulas 53 e 90/STJ.",
+  "dica": "Militar estadual: crime militar (inclusive da legislação comum, em serviço) vai à Justiça Militar estadual, mas homicídio doloso de civil vai ao júri. Civil nunca é julgado na Justiça Militar estadual. Forças Armadas em GLO: Justiça Militar da União."
+ }
+]

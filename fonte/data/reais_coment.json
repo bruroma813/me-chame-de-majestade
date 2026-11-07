@@ -1285,5 +1285,330 @@
   ],
   "base": "CP, arts. 91, II, b, e 92, I e parágrafo único; CF, art. 41, §1º, I.",
   "dica": "Art. 91 = automático (confisco). Art. 92 = precisa estar escrito e motivado na sentença (cargo, poder familiar, CNH)."
+ },
+ "e1-8": {
+  "nivel": "médio",
+  "tema": "ITR: fiscalização municipal por convênio, imunidade da pequena gleba e repartição",
+  "coms": [
+   "Errada. Contribuinte do ITR é o proprietário, o titular do domínio útil ou o possuidor a qualquer título (CTN, art. 31). O proprietário que arrenda continua a ser sujeito passivo; o fisco não está obrigado a cobrar do arrendatário.",
+   "Errada. Pertencem aos Municípios 50% do ITR dos imóveis neles situados, ou a totalidade (100%) se o Município optar por fiscalizar e cobrar o imposto (CF, art. 158, II). Não existe o percentual de 90%.",
+   "CORRETA. O ITR é da União, mas pode ser fiscalizado e cobrado pelos Municípios que assim optarem, na forma da lei, desde que não haja redução do imposto ou renúncia fiscal (CF, art. 153, §4º, III). A opção se formaliza por convênio com a União (Lei 11.250/2005). Sem convênio, o Município não tem atribuição para lançar o ITR, e o auto é nulo.",
+   "Errada. A imunidade alcança as pequenas glebas rurais, definidas em lei, quando as explore o proprietário que não possua outro imóvel (CF, art. 153, §4º, II). Márcio arrenda o imóvel ao vizinho, ou seja, não o explora pessoalmente, e por isso não faz jus à imunidade.",
+   "Errada. A Constituição não prevê prazo decadencial especial para o ITR. A decadência é matéria de lei complementar (CF, art. 146, III, b) e segue o prazo de cinco anos do CTN (arts. 150, §4º, e 173)."
+  ],
+  "base": "CF, arts. 153, §4º, II e III, e 158, II; CTN, arts. 31, 150, §4º, e 173; Lei 11.250/2005.",
+  "dica": "ITR: imposto federal; Município só fiscaliza com convênio e aí fica com 100%. Imunidade da pequena gleba exige que o próprio dono explore e não tenha outro imóvel."
+ },
+ "e3-8": {
+  "nivel": "fácil",
+  "tema": "Competência para ações sobre penalidades da fiscalização do trabalho (CF, art. 114, VII)",
+  "coms": [
+   "Errada. Antes da EC 45/2004 a ação contra a União para anular auto de infração trabalhista corria na Justiça Federal; a emenda deslocou a matéria para a Justiça do Trabalho (CF, art. 114, VII), regra especial que prevalece sobre o art. 109, I.",
+   "CORRETA. Compete à Justiça do Trabalho processar e julgar as ações relativas às penalidades administrativas impostas aos empregadores pelos órgãos de fiscalização das relações de trabalho (CF, art. 114, VII, incluído pela EC 45/2004). A ação anulatória do auto lavrado pelo Auditor Fiscal do Trabalho se enquadra exatamente nessa hipótese.",
+   "Errada. A Justiça Estadual não tem competência: o auto é lavrado por órgão federal e a matéria foi atribuída expressamente à Justiça do Trabalho.",
+   "Errada. A competência constitucional é absoluta e exclusiva; não há concorrência entre Justiça Federal e Justiça do Trabalho.",
+   "Errada. Não há competência concorrente entre justiças distintas. A matéria é da Justiça do Trabalho (CF, art. 114, VII)."
+  ],
+  "base": "CF, art. 114, VII (EC 45/2004).",
+  "dica": "Multa aplicada pelo Auditor Fiscal do Trabalho = Justiça do Trabalho, mesmo sendo a União a ré."
+ },
+ "e4-22": {
+  "nivel": "médio",
+  "tema": "Indisponibilidade de bens na improbidade: multa civil e ordem de prioridade (Lei 8.429/1992, art. 16, §§10 e 11)",
+  "coms": [
+   "CORRETA. Após a Lei 14.230/2021, a indisponibilidade recai sobre bens que assegurem exclusivamente o integral ressarcimento do dano ao erário, sem incidir sobre valores de eventual multa civil (Lei 8.429/1992, art. 16, §10). E a ordem deve priorizar veículos de via terrestre, imóveis e outros bens, deixando o bloqueio de contas bancárias apenas para a falta desses (art. 16, §11). Logo, prioriza-se o veículo importado.",
+   "Errada. O alcance (só o ressarcimento) está certo, mas a prioridade está invertida: o bloqueio de conta bancária só ocorre na inexistência de veículos, imóveis e demais bens (art. 16, §11).",
+   "Errada. A indisponibilidade não pode garantir a multa civil (art. 16, §10). A prioridade do veículo estaria correta.",
+   "Errada. Erra duas vezes: inclui a multa civil, vedada pelo art. 16, §10, e prioriza a conta bancária, contrariando o art. 16, §11.",
+   "Errada. A indisponibilidade não serve para garantir a multa civil (art. 16, §10), e a ordem de prioridade coloca o dinheiro em conta por último (§11)."
+  ],
+  "base": "Lei 8.429/1992, art. 16, §§3º, 10 e 11 (redação da Lei 14.230/2021).",
+  "dica": "Indisponibilidade na LIA: só o dano (multa fora) e conta bancária por último (primeiro veículo e imóvel)."
+ },
+ "e1-26": {
+  "nivel": "fácil",
+  "tema": "Poder de polícia: motivação, presunção de veracidade, autoexecutoriedade e prescrição (Lei 9.873/1999)",
+  "coms": [
+   "Errada (a afirmativa é verdadeira). Os atos que neguem, limitem ou afetem direitos ou interesses devem ser motivados (Lei 9.784/1999, art. 50, I).",
+   "Errada (a afirmativa é verdadeira). Os atos administrativos gozam de presunção de veracidade, que é relativa (juris tantum) e admite prova em contrário pelo administrado.",
+   "Errada (a afirmativa é verdadeira). A interdição é manifestação da autoexecutoriedade do poder de polícia, que dispensa ordem judicial prévia em situações previstas em lei ou urgentes, como a venda de combustível adulterado.",
+   "Errada (a afirmativa é verdadeira). Na esfera federal, prescreve em cinco anos a ação punitiva da Administração no exercício do poder de polícia, contados da prática do ato ou, na infração permanente ou continuada, do dia em que tiver cessado (Lei 9.873/1999, art. 1º).",
+   "CORRETA (é a afirmativa incorreta). Vigora a inafastabilidade da jurisdição (CF, art. 5º, XXXV): não se exige o prévio esgotamento das vias administrativas para ir ao Judiciário. As exceções são pontuais (justiça desportiva, art. 217, §1º; reclamação contra ato administrativo que viola súmula vinculante, Lei 11.417/2006, art. 7º, §1º; prévio requerimento em benefício previdenciário, Tema 350/STF)."
+  ],
+  "base": "CF, art. 5º, XXXV; Lei 9.784/1999, art. 50, I; Lei 9.873/1999, art. 1º.",
+  "dica": "Questão pede a INCORRETA: \"esgotamento prévio da via administrativa\" é quase sempre o erro."
+ },
+ "e3-29": {
+  "nivel": "fácil",
+  "tema": "Equidade aristotélica (régua de Lesbos) e julgamento por equidade no direito positivo",
+  "coms": [
+   "CORRETA. A régua de chumbo de Lesbos, que se molda à pedra, é a imagem da epieikeia: a correção da lei geral diante do caso concreto. O ordenamento positiva o julgamento por equidade nos casos previstos em lei (CPC, art. 140, parágrafo único), como nos Juizados (Lei 9.099/1995, art. 6º: decisão \"mais justa e equânime\") e na arbitragem (Lei 9.307/1996, art. 2º: arbitragem de direito ou de equidade).",
+   "Errada. A interpretação teleológica busca a finalidade da norma (LINDB, art. 5º), mas não é a ideia de adaptar a regra às circunstâncias singulares que a metáfora traduz.",
+   "Errada. A interpretação extensiva amplia o sentido literal de um texto que disse menos do que queria; não corresponde à correção da lei pelo justo no caso concreto.",
+   "Errada. A interpretação evolutiva atualiza o sentido da norma com a mudança social ao longo do tempo; a metáfora trata da adaptação ao caso, não da evolução histórica.",
+   "Errada. O julgamento por precedentes (CPC, arts. 926 e 927) busca uniformidade e estabilidade, quase o oposto da régua que muda conforme a pedra."
+  ],
+  "base": "Aristóteles, Ética a Nicômaco, V; CPC, art. 140, parágrafo único; Lei 9.099/1995, arts. 6º e 25; Lei 9.307/1996, art. 2º.",
+  "dica": "Régua de Lesbos = equidade (epieikeia). Juiz só decide por equidade quando a lei permite."
+ },
+ "e3-34": {
+  "nivel": "difícil",
+  "tema": "Empresas e direitos humanos: Pacto Global, Princípios de Ruggie e Decreto 9.571/2018",
+  "coms": [
+   "Errada. A afirmativa I está correta, mas II e III também estão.",
+   "Errada. Omite a afirmativa III, que também está correta.",
+   "Errada. Omite a afirmativa II, que também está correta.",
+   "Errada. Omite a afirmativa I, também correta.",
+   "CORRETA. I: o Pacto Global (2000) é iniciativa voluntária com princípios genéricos e foi criticado por não definir os deveres das empresas transnacionais. II: os Princípios Orientadores da ONU (Ruggie, 2011) se organizam no tripé \"proteger, respeitar e reparar\", com dever de reparação que envolve Estado e empresas. III: ainda não há tratado vinculante (as negociações seguem no grupo criado pela Res. 26/9 do Conselho de DH), e o Decreto 9.571/2018 diz que as diretrizes serão implementadas voluntariamente pelas empresas (art. 1º, §2º)."
+  ],
+  "base": "Princípios Orientadores sobre Empresas e Direitos Humanos (ONU, 2011); Pacto Global (2000); Decreto 9.571/2018, art. 1º, §2º.",
+  "dica": "Ruggie = proteger (Estado), respeitar (empresa), reparar (ambos). No Brasil, Decreto 9.571/2018 = adesão voluntária."
+ },
+ "e1-39": {
+  "nivel": "difícil",
+  "tema": "Distribuição por dependência após desistência (CPC, art. 286, II)",
+  "coms": [
+   "CORRETA. Distribuem-se por dependência as causas quando, extinto o processo sem resolução de mérito, o pedido é reiterado, ainda que em litisconsórcio com outros autores ou com alteração parcial dos réus (CPC, art. 286, II). A regra impede que o autor escolha o juízo desistindo da ação depois de ter a liminar negada. O Juízo Y deve remeter os autos ao Juízo X, que é o prevento.",
+   "Errada. Não há litispendência, pois o primeiro processo já terminou com sentença homologatória transitada em julgado (CPC, art. 337, §3º, exige ação em curso).",
+   "Errada. Antes de admitir a ação, o juiz deve verificar a própria competência. A prevenção do Juízo X impõe a remessa (art. 286, II).",
+   "Errada. A desistência gera extinção sem resolução do mérito (CPC, art. 485, VIII) e não faz coisa julgada material; a ação pode ser proposta de novo (art. 486), mas no juízo prevento.",
+   "Errada. O Juízo X não recusou a competência, e por isso não há conflito a suscitar. Basta ao Juízo Y declinar e remeter os autos (CPC, art. 66)."
+  ],
+  "base": "CPC, arts. 66, 286, II, 337, §§1º a 4º, 485, VIII, e 486.",
+  "dica": "Desistiu depois da liminar negada e voltou com a mesma ação (até com réu novo)? Vai para o mesmo juízo: art. 286, II."
+ },
+ "e3-49": {
+  "nivel": "médio",
+  "tema": "Litisconsórcio passivo entre devedor e garantidores: simples e facultativo",
+  "coms": [
+   "Errada. A solidariedade permite cobrar de um, de alguns ou de todos (CC, art. 275), mas não impõe decisão idêntica para todos: um garantidor pode ter defesa pessoal (nulidade da garantia, por exemplo). Não há litisconsórcio unitário (CPC, art. 116).",
+   "Errada. Justamente por ser solidária, o credor pode demandar qualquer devedor isoladamente (CC, art. 275). Não há lei nem natureza da relação que imponha a presença de todos (CPC, art. 114).",
+   "Errada. O litisconsórcio não pode ser ao mesmo tempo simples e unitário: são classificações opostas quanto ao resultado (art. 116).",
+   "Errada. Mesmo na fiança com benefício de ordem, o credor pode demandar o fiador sem o devedor; ao fiador cabe invocar o benefício (CC, art. 827) ou chamar o devedor ao processo (CPC, art. 130, I). Não há litisconsórcio necessário.",
+   "CORRETA. Em qualquer das hipóteses o litisconsórcio é facultativo, pois o credor escolhe contra quem demandar (CPC, art. 113; CC, art. 275), e simples, pois as relações de cada réu com o autor podem ser decididas de modo diferente (por exemplo, por defesas pessoais). Não há lei que imponha a formação nem relação jurídica incindível (CPC, arts. 114 e 116)."
+  ],
+  "base": "CPC, arts. 113, 114, 116 e 130; CC, arts. 275 e 827.",
+  "dica": "Necessário = lei ou relação incindível; unitário = decisão igual para todos. Devedor + garantidor = facultativo e simples."
+ },
+ "e1-62": {
+  "nivel": "médio",
+  "tema": "Impedimentos matrimoniais: primos, afinidade em linha reta e cunhados",
+  "coms": [
+   "Errada. A afirmativa I é falsa: primos são colaterais de 4º grau, e o impedimento atinge colaterais só até o 3º grau (CC, art. 1.521, IV).",
+   "Errada. A afirmativa II é falsa: sogra e genro são afins em linha reta, e esse vínculo não se extingue com a dissolução do casamento (CC, art. 1.595, §2º), o que mantém o impedimento (art. 1.521, II).",
+   "CORRETA. Só a III é verdadeira. Plínio é cunhado de Angélica (afinidade na linha colateral), e a afinidade colateral se extingue com a dissolução do casamento; só a afinidade em linha reta persiste (CC, art. 1.595, §2º). Não há impedimento entre ex-cunhados. A I é falsa (primos são parentes de 4º grau, fora do art. 1.521, IV) e a II é falsa (sogra e genro continuam afins em linha reta).",
+   "Errada. I e II são falsas.",
+   "Errada. A I é falsa: o casamento entre primos é válido."
+  ],
+  "base": "CC, arts. 1.521, II e IV, 1.548, II, e 1.595, §§1º e 2º.",
+  "dica": "Afinidade em linha reta (sogro, sogra, enteado) é para sempre. Cunhado deixa de ser afim com o divórcio. Primo pode casar."
+ },
+ "e5-51": {
+  "nivel": "médio",
+  "tema": "Dano moral coletivo: categoria autônoma e configuração in re ipsa (STJ)",
+  "coms": [
+   "Errada. Há previsão legal expressa: o CDC assegura a reparação de danos morais coletivos e difusos (art. 6º, VI), e a Lei da Ação Civil Pública prevê ações de responsabilidade por danos morais e patrimoniais a interesses difusos e coletivos (Lei 7.347/1985, art. 1º).",
+   "Errada. O STJ afasta a ideia de que o dano moral coletivo depende de abalo psíquico ou ofensa à honra subjetiva de cada membro: o bem atingido é a esfera de valores da coletividade.",
+   "Errada. O caso envolve direitos difusos (usuários indeterminados), não individuais homogêneos, e o STJ reconhece o dano moral coletivo in re ipsa, sem prova de prejuízo psíquico individual.",
+   "Errada. O dano moral coletivo não depende da identificação, nem por amostragem, dos lesados; exige-se lesão injusta e intolerável a valores da coletividade, presente diante de conduta reiterada que expôs milhares de usuários a risco.",
+   "CORRETA. Para o STJ, o dano moral coletivo é categoria autônoma, voltada à proteção de valores e interesses fundamentais da coletividade. Dispensa prova de dor, sofrimento ou abalo psicológico individual e se configura in re ipsa, desde que a conduta seja grave e intolerável, como na operação prolongada de frota precária com risco à segurança dos usuários."
+  ],
+  "base": "CDC, art. 6º, VI; Lei 7.347/1985, art. 1º; jurisprudência do STJ sobre dano moral coletivo (in re ipsa).",
+  "dica": "Dano moral coletivo: autônomo, in re ipsa, exige ofensa grave e intolerável a valores sociais, e não dor de cada pessoa."
+ },
+ "e5-79": {
+  "nivel": "difícil",
+  "tema": "Territorialidade: embarcação privada estrangeira no mar territorial e imunidade consular",
+  "coms": [
+   "CORRETA. Aplica-se a lei brasileira aos crimes praticados a bordo de embarcação estrangeira de propriedade privada que esteja em porto ou mar territorial do Brasil (CP, art. 5º, §2º): é territorialidade. Pierre é funcionário consular acreditado na Argentina, e não no Brasil. As imunidades das Convenções de Viena se dirigem ao Estado receptor, e quem está de férias no Brasil não as possui aqui.",
+   "Errada. O princípio da bandeira só prevalece para embarcações privadas em alto-mar (CP, art. 5º, §1º). No mar territorial brasileiro, a regra é a do art. 5º, §2º: lei brasileira.",
+   "Errada. Pierre não é agente diplomático acreditado no Brasil nem está em trânsito para assumir posto (Convenção de Viena de 1961, art. 40). Além disso, funcionário consular tem imunidade apenas funcional, e não plena.",
+   "Errada. Não se trata de extraterritorialidade (CP, art. 7º), pois o crime ocorreu em território brasileiro por extensão (art. 5º, §2º). E não existe hipótese de extraterritorialidade incondicionada por crime contra pessoa domiciliada no Brasil.",
+   "Errada. A requisição do Ministro da Justiça é condição para a extraterritorialidade no crime cometido por estrangeiro contra brasileiro fora do Brasil (CP, art. 7º, §3º, b). Aqui o crime é territorial e não depende de condição alguma."
+  ],
+  "base": "CP, art. 5º, §§1º e 2º, e art. 7º, §3º; Convenção de Viena sobre Relações Diplomáticas (1961), arts. 31 e 40; Convenção de Viena sobre Relações Consulares (1963), arts. 41 e 43.",
+  "dica": "Embarcação privada estrangeira em águas brasileiras = lei brasileira. Bandeira só vale em alto-mar. Imunidade é perante o país onde o agente está acreditado."
+ },
+ "e3-74": {
+  "nivel": "difícil",
+  "tema": "Convenção de Mérida: extradição, dupla incriminação e cooperação",
+  "coms": [
+   "Errada. A convenção considera cumprida a dupla incriminação quando a conduta for delito na legislação de ambos os Estados Partes, independentemente de a lei do requerido enquadrá-la na mesma categoria ou usar a mesma denominação (art. 43, 2). Não dispensa a tipicidade nas leis internas.",
+   "CORRETA. Os Estados Partes, em conformidade com sua legislação interna, procurarão agilizar os procedimentos de extradição e simplificar os requisitos probatórios correspondentes quanto aos delitos abrangidos pela convenção (Convenção de Mérida, art. 44, 9; Decreto 5.687/2006).",
+   "Errada. Quem não extradita o próprio nacional deve submeter o caso, sem demora, às autoridades competentes para fins de persecução (aut dedere aut judicare, art. 44, 11). Executar a sentença estrangeira é só uma possibilidade a ser considerada, se a lei interna permitir (art. 44, 13).",
+   "Errada. O atendimento a pedidos de confisco segue a legislação interna (art. 55), sem prazo fixo de 30 dias. A convenção admite até o confisco sem condenação penal em certos casos (art. 54, 1, c).",
+   "Errada. A convenção estimula o contrário: os Estados considerarão a possibilidade de transferir processos entre si para concentrar a persecução, no interesse da boa administração da justiça (art. 47)."
+  ],
+  "base": "Convenção das Nações Unidas contra a Corrupção (Mérida), arts. 43, 44, 47, 54 e 55; Decreto 5.687/2006.",
+  "dica": "Mérida: agilizar extradição e simplificar a prova; quem não extradita processa (aut dedere aut judicare); transferir processos para concentrar."
+ },
+ "e1-5": {
+  "nivel": "médio",
+  "tema": "Créditos adicionais: especial, suplementar e extraordinário (CF, art. 167; Lei 4.320/1964)",
+  "coms": [
+   "Errada. A MP não pode tratar de créditos adicionais e suplementares (CF, art. 62, §1º, I, d), salvo crédito extraordinário, que exige despesa imprevisível e urgente, como guerra, comoção interna ou calamidade pública (art. 167, §3º). Projeto previsto em plano nacional não é imprevisível.",
+   "CORRETA. Despesa sem nenhuma dotação orçamentária exige crédito especial (Lei 4.320/1964, art. 41, II), que depende de prévia autorização legislativa (CF, art. 167, V; Lei 4.320/1964, art. 42). Por isso é preciso lei.",
+   "Errada. O crédito suplementar serve para reforçar dotação já existente (Lei 4.320/1964, art. 41, I), o que não é o caso. Além disso, o remanejamento de recursos de um programa para outro sem autorização legislativa é vedado (CF, art. 167, VI).",
+   "Errada. A exigência de estimativa de impacto e de fonte de custeio se aplica a despesa obrigatória de caráter continuado, com execução por mais de dois exercícios (LRF, art. 17). O projeto é provisório e dura alguns meses.",
+   "Errada. O crédito extraordinário é aberto por decreto do Executivo, com comunicação ao Legislativo (Lei 4.320/1964, art. 44), ou por medida provisória no âmbito federal (CF, art. 167, §3º). Nem todos os créditos adicionais exigem lei."
+  ],
+  "base": "CF, arts. 62, §1º, I, d, e 167, V, VI e §3º; Lei 4.320/1964, arts. 41 a 44; LRF, art. 17.",
+  "dica": "Sem dotação = especial (lei). Reforço = suplementar (lei, que pode estar na própria LOA). Imprevisível e urgente = extraordinário (MP ou decreto)."
+ },
+ "e3-1": {
+  "nivel": "médio",
+  "tema": "Licença da mãe não gestante em união homoafetiva (Tema 1.072/STF)",
+  "coms": [
+   "CORRETA. O STF fixou que a mãe servidora ou trabalhadora não gestante em união homoafetiva tem direito à licença-maternidade. Se a companheira já tiver usufruído do benefício, a mãe não gestante faz jus à licença pelo período equivalente ao da licença-paternidade (Tema 1.072/STF, RE 1.211.446). A solução protege a criança e a isonomia sem duplicar a licença-maternidade.",
+   "Errada. O STF reconheceu o direito, à luz da proteção à maternidade, à infância e à família (CF, arts. 6º, 7º, XVIII e XIX, 226 e 227).",
+   "Errada. Não há duplicação: com a licença gozada pela gestante, a não gestante recebe o equivalente à licença-paternidade (Tema 1.072/STF).",
+   "Errada. A tese não prevê licença-maternidade sucessiva; prevê licença equivalente à paternidade quando a outra mãe já gozou a maternidade.",
+   "Errada. A primeira parte está correta, mas o período não é o da licença por adoção: é o equivalente ao da licença-paternidade (Tema 1.072/STF)."
+  ],
+  "base": "CF, arts. 7º, XVIII e XIX, 226 e 227; STF, Tema 1.072 (RE 1.211.446).",
+  "dica": "Duas mães: uma tira a licença-maternidade e a outra tira o equivalente à paternidade. Se a gestante não usar, a outra pode tirar a maternidade."
+ },
+ "e4-19": {
+  "nivel": "difícil",
+  "tema": "Invalidação e consequencialismo no regulamento da LINDB (Decreto 9.830/2019, arts. 4º e 5º)",
+  "coms": [
+   "CORRETA. Reproduz o art. 4º, §1º, do Decreto 9.830/2019: na decisão de invalidação, a consideração das consequências jurídicas e administrativas é limitada aos fatos e fundamentos de mérito e jurídicos que se espera do decisor no exercício diligente de sua atuação. O decisor não precisa prever todas as consequências imagináveis.",
+   "Errada. A motivação deve demonstrar a necessidade e a adequação da medida \"consideradas as possíveis alternativas\" (Decreto 9.830/2019, art. 4º, §2º; LINDB, art. 20, parágrafo único). A afirmativa troca por \"desconsideradas\".",
+   "Errada. É o oposto: quando cabível, a decisão indicará, na modulação, as condições para que a regularização ocorra de forma proporcional e equânime e sem prejuízo aos interesses gerais (Decreto 9.830/2019, art. 4º, §3º; LINDB, art. 21, parágrafo único).",
+   "Errada. A modulação buscará justamente a mitigação dos ônus ou das perdas anormais ou excessivos dos administrados ou da Administração (Decreto 9.830/2019, art. 4º, §5º).",
+   "Errada. A revisão levará em conta as orientações gerais da época, e é vedado declarar inválida situação plenamente constituída por mudança posterior de orientação geral (LINDB, art. 24; Decreto 9.830/2019, art. 5º)."
+  ],
+  "base": "LINDB, arts. 20, 21 e 24; Decreto 9.830/2019, arts. 3º a 5º.",
+  "dica": "LINDB: considerar alternativas, regularizar de forma proporcional, mitigar perdas excessivas e respeitar a orientação da época. A banca inverte essas palavras."
+ },
+ "e1-22": {
+  "nivel": "médio",
+  "tema": "Prescrição nas relações administrativas: improbidade dolosa, patrimônio mineral e Decreto 20.910/1932",
+  "coms": [
+   "Errada. Omite II e III, também corretas.",
+   "Errada. Omite a III: a regra geral de prescrição quinquenal contra a Fazenda está no Decreto 20.910/1932.",
+   "Errada. Omite a II, que o STJ considera correta.",
+   "Errada. Omite a I, que reproduz a tese do Tema 897/STF.",
+   "CORRETA. I: são imprescritíveis as ações de ressarcimento fundadas em ato doloso tipificado na Lei de Improbidade (Tema 897/STF; CF, art. 37, §5º). II: a jurisprudência do STJ trata como imprescritível o ressarcimento pela extração irregular de recurso mineral da União, por ser indissociável do dano ambiental (na linha do Tema 999/STF). III: as dívidas passivas e todo direito ou ação contra a Fazenda federal, estadual ou municipal prescrevem em cinco anos da data do ato ou fato (Decreto 20.910/1932, art. 1º)."
+  ],
+  "base": "CF, art. 37, §5º; STF, Temas 666, 897 e 999; Decreto 20.910/1932, art. 1º.",
+  "dica": "Imprescritível: ressarcimento por improbidade DOLOSA e dano ambiental. Ilícito civil comum (Tema 666) e TCU (Tema 899) prescrevem."
+ },
+ "e5-32": {
+  "nivel": "médio",
+  "tema": "Reclamação por violação de súmula vinculante: ato administrativo, revisão e lei",
+  "coms": [
+   "CORRETA. Só a I é verdadeira. Contra omissão ou ato da Administração Pública, a reclamação por violação de súmula vinculante só é admitida após o esgotamento das vias administrativas (Lei 11.417/2006, art. 7º, §1º). A II é falsa, pois a revisão ou o cancelamento seguem procedimento próprio, com legitimados definidos (Lei 11.417/2006, art. 3º; CF, art. 103-A, §2º). A III é falsa, pois a súmula vinculante não vincula o Legislativo na função de legislar (CF, art. 103-A).",
+   "Errada. A II é falsa: a reclamação é meio de cassar o ato que desrespeita a súmula, e não de rediscuti-la.",
+   "Errada. A III é falsa: o efeito vinculante alcança os demais órgãos do Judiciário e a Administração, não o legislador, e o STF não admite reclamação contra lei.",
+   "Errada. II e III são falsas.",
+   "Errada. Só a I é verdadeira."
+  ],
+  "base": "CF, art. 103-A, caput, §§2º e 3º; Lei 11.417/2006, arts. 3º e 7º, §1º; CPC, art. 988.",
+  "dica": "Reclamação por SV contra a Administração: só depois de esgotar a via administrativa. Contra lei: nunca, porque o legislador não fica vinculado."
+ },
+ "e3-37": {
+  "nivel": "difícil",
+  "tema": "Igualdade racial: ações afirmativas, racismo estrutural e caso Simone André Diniz",
+  "coms": [
+   "Errada. A I é falsa e as afirmativas II e III, verdadeiras, ficaram de fora.",
+   "Errada. A I é falsa: o Estatuto da Igualdade Racial não traz cláusula expressa de temporariedade das ações afirmativas. Essa previsão está em tratados como a Convenção sobre a Eliminação da Discriminação Racial (art. 1.4) e a Convenção Interamericana contra o Racismo (art. 5).",
+   "Errada. A I é falsa.",
+   "CORRETA. II: na leitura de Silvio Almeida, o racismo estrutural é processo histórico e político, ligado às peculiaridades de cada formação social, e não mera derivação automática da economia. III: no caso Simone André Diniz (Relatório 66/2006), a CIDH responsabilizou pela primeira vez um Estado membro da OEA por racismo, no caso o Brasil, e o caso virou paradigma do racismo institucional. A I é falsa: a Lei 12.288/2010 define ações afirmativas (art. 1º, VI, e art. 4º), mas não fixa expressamente sua cessação.",
+   "Errada. A I é falsa."
+  ],
+  "base": "Lei 12.288/2010, arts. 1º e 4º; Convenção Interamericana contra o Racismo (Decreto 10.932/2022), art. 5; CIDH, Relatório 66/2006 (Simone André Diniz vs. Brasil).",
+  "dica": "Simone André Diniz = 1º caso de racismo na CIDH, contra o Brasil, na Comissão (não na Corte). Temporariedade das cotas: está nos tratados."
+ },
+ "e4-46": {
+  "nivel": "médio",
+  "tema": "Remessa necessária: MS concedido, ação popular improcedente, improbidade e limite de valor",
+  "coms": [
+   "CORRETA. I: a sentença que concede o mandado de segurança está sujeita ao duplo grau obrigatório (Lei 12.016/2009, art. 14, §1º). Dirigente de empresa pública em licitação é autoridade para fins de MS (art. 1º, §2º, e Súmula 333/STJ). II: a sentença que conclui pela carência ou pela improcedência da ação popular está sujeita a reexame (Lei 4.717/1965, art. 19). III fica de fora: a Lei 14.230/2021 afastou a remessa necessária na improbidade (Lei 8.429/1992, art. 17, §19, IV). IV fica de fora: a condenação da União em valor líquido inferior a 1.000 salários mínimos dispensa a remessa (CPC, art. 496, §3º, I).",
+   "Errada. A III não está sujeita: na improbidade, não há remessa necessária de sentença de improcedência ou de extinção sem mérito (art. 17, §19, IV).",
+   "Errada. A IV não está sujeita: o valor fica abaixo do limite de 1.000 salários mínimos para a União (CPC, art. 496, §3º, I).",
+   "Errada. Nenhuma das duas está sujeita.",
+   "Errada. A IV não está sujeita (limite de valor do art. 496, §3º, I, do CPC)."
+  ],
+  "base": "Lei 12.016/2009, art. 14, §1º; Lei 4.717/1965, art. 19; Lei 8.429/1992, art. 17, §19, IV; CPC, art. 496, §3º, I; Súmula 333/STJ.",
+  "dica": "Remessa \"invertida\": ação popular sobe quando o autor PERDE. MS sobe quando o impetrante GANHA. Improbidade: não sobe."
+ },
+ "e3-46": {
+  "nivel": "médio",
+  "tema": "Indeferimento da inicial do mandado de segurança (Lei 12.016/2009; CPC, art. 106)",
+  "coms": [
+   "Errada. Se o documento necessário estiver em poder de autoridade que se recuse a fornecê-lo, o juiz ordenará a exibição em até 10 dias (Lei 12.016/2009, art. 6º, §1º). Indeferir por falta dessa prova seria incorreto.",
+   "Errada. Não cabe MS contra decisão judicial da qual caiba recurso com efeito suspensivo (Lei 12.016/2009, art. 5º, II), mas nenhuma decisão dispensa motivação (CF, art. 93, IX; CPC, art. 489, §1º).",
+   "Errada. Pedidos incompatíveis entre si tornam a inicial inepta (CPC, art. 330, §1º, IV), o que autoriza o indeferimento (Lei 12.016/2009, art. 10). O ato estaria correto.",
+   "Errada. O prazo decadencial do MS é de 120 dias da ciência do ato (Lei 12.016/2009, art. 23). Se já passaram 180 dias, a decadência ocorreu e o indeferimento estaria correto.",
+   "CORRETA. O advogado que postula em causa própria deve declarar na inicial seu endereço, número de inscrição na OAB e sociedade a que pertence (CPC, art. 106, I). Se não o fizer, o juiz o intima para suprir em 5 dias, sob pena de indeferimento (art. 106, §1º). Descumprida a ordem no prazo, o indeferimento é correto, aplicando-se subsidiariamente o CPC ao MS (Lei 12.016/2009, arts. 6º e 10)."
+  ],
+  "base": "Lei 12.016/2009, arts. 5º, II, 6º, §1º, 10 e 23; CPC, arts. 106, 330, §1º, IV, e 489, §1º.",
+  "dica": "MS: decadência de 120 dias (não 180). Documento retido pela autoridade: o juiz manda exibir."
+ },
+ "e3-54": {
+  "nivel": "fácil",
+  "tema": "Comunhão parcial: fato eventual, aquisição onerosa, frutos e herança (CC, arts. 1.659 e 1.660)",
+  "coms": [
+   "Errada. Além do apartamento, entram na comunhão o prêmio de loteria (art. 1.660, II) e os aluguéis (art. 1.660, V).",
+   "Errada. Falta o prêmio de loteria, bem adquirido por fato eventual (art. 1.660, II).",
+   "Errada. Faltam os aluguéis: os frutos dos bens comuns ou particulares percebidos na constância do casamento se comunicam (art. 1.660, V).",
+   "CORRETA. Na comunhão parcial, entram na comunhão os bens adquiridos por fato eventual, como prêmio de loteria (CC, art. 1.660, II), os adquiridos onerosamente na constância do casamento (art. 1.660, I) e os frutos dos bens comuns ou particulares (art. 1.660, V). O terreno herdado é bem particular de Juraci (art. 1.659, I).",
+   "Errada. O terreno recebido por herança é excluído da comunhão (CC, art. 1.659, I)."
+  ],
+  "base": "CC, arts. 1.658, 1.659, I, e 1.660, I, II e V.",
+  "dica": "Comunhão parcial: herança e doação ficam de fora; loteria e frutos (aluguel) entram."
+ },
+ "e1-56": {
+  "nivel": "médio",
+  "tema": "Perda de uma chance x causalidade virtual (hipotética)",
+  "coms": [
+   "CORRETA. Maria invoca a perda de uma chance séria e real (aprovação provável, demonstrada pelas respostas já marcadas), frustrada pela eliminação injusta. O ente federal responde com a causalidade virtual (ou hipotética): ainda que não houvesse o ato do fiscal, o resultado (eliminação) ocorreria de qualquer modo por causa diversa, o uso de caneta vermelha vedado no edital.",
+   "Errada. Causalidade virtual não fundamenta a tese de Maria. Causalidade alternativa se usa quando o dano é causado por um de vários agentes de um grupo, sem se saber qual, o que não é o caso.",
+   "Errada. Lucro da intervenção é a vantagem obtida por quem explora indevidamente bem ou direito alheio (enriquecimento sem causa, CC, art. 884), e não se relaciona com o caso.",
+   "Errada. A tese de Maria é a perda de uma chance, mas a defesa não é a causalidade alternativa, e sim a causalidade virtual: a eliminação ocorreria por outra causa.",
+   "Errada. Não há lucro da intervenção, e a equivalência dos antecedentes (conditio sine qua non) não traduz a defesa, que se apoia na causa hipotética que produziria o mesmo resultado."
+  ],
+  "base": "CC, arts. 186, 403, 884 e 927; doutrina e jurisprudência do STJ sobre perda de uma chance.",
+  "dica": "\"Teria acontecido de qualquer jeito por outra causa\" = causalidade virtual. \"Foi um deles, não se sabe quem\" = causalidade alternativa."
+ },
+ "e4-65": {
+  "nivel": "fácil",
+  "tema": "Exclusão do nome do cadastro após pagamento: dever do credor em 5 dias úteis (Súmula 548/STJ)",
+  "coms": [
+   "Errada. Pela Súmula 548/STJ, cabe ao credor, e não ao devedor, providenciar a exclusão do registro no prazo de cinco dias úteis a partir do pagamento integral.",
+   "Errada. A negativação inicial pode ter sido exercício regular de direito, mas o ilícito está na manutenção do registro por meses depois da quitação, o que gera dano moral.",
+   "CORRETA. Incumbe ao credor excluir o registro da dívida no cadastro de inadimplentes em cinco dias úteis a partir do integral e efetivo pagamento (Súmula 548/STJ; CDC, art. 43, §3º). A manutenção indevida da inscrição gera dano moral presumido (in re ipsa).",
+   "Errada. Na inscrição ou manutenção indevida em cadastro de inadimplentes, o STJ reconhece dano moral in re ipsa, sem prova do abalo.",
+   "Errada. Havia débito residual, e o credor podia negativar sem renegociação prévia. A comunicação prévia ao consumidor cabe ao órgão mantenedor do cadastro (Súmula 359/STJ). O ilícito foi a manutenção depois do pagamento."
+  ],
+  "base": "CDC, art. 43, §§2º e 3º; Súmulas 359, 385 e 548/STJ.",
+  "dica": "Pagou? O credor tem 5 dias úteis para tirar o nome. A comunicação ANTES da inscrição é do arquivista (Súmula 359)."
+ },
+ "e3-78": {
+  "nivel": "médio",
+  "tema": "Arquivamento do inquérito: art. 28 do CPP após as ADIs 6.298, 6.299, 6.300 e 6.305",
+  "coms": [
+   "Errada. O art. 28, §1º, legitima apenas a vítima ou seu representante legal a submeter o arquivamento à revisão, em 30 dias. A autoridade policial é comunicada, mas não tem esse poder.",
+   "Errada. Nos crimes contra a União, os Estados e os Municípios, a revisão pode ser provocada pela chefia do órgão a quem couber a representação judicial do ente, ou seja, a Advocacia Pública (art. 28, §2º), e não pela chefia do Poder Executivo.",
+   "CORRETA. O STF deu interpretação conforme ao art. 28: o MP submete sua manifestação de arquivamento ao juiz competente, e o juiz, ao verificar patente ilegalidade ou teratologia, pode submeter a matéria à revisão da instância competente do MP. A vítima ou seu representante também pode provocar a revisão (§1º).",
+   "Errada. O STF não repristinou o modelo antigo; manteve a revisão interna no MP com controle judicial limitado a casos de ilegalidade ou teratologia.",
+   "Errada. O juiz não ficou reduzido a formalidades de baixa: recebe a manifestação e pode provocar a revisão ministerial em caso de patente ilegalidade ou teratologia."
+  ],
+  "base": "CPP, art. 28, caput e §§1º e 2º (Lei 13.964/2019); STF, ADIs 6.298, 6.299, 6.300 e 6.305.",
+  "dica": "Arquivamento hoje: o MP decide e comunica ao juiz; a revisão pode vir da vítima (30 dias), da Advocacia Pública ou do juiz (ilegalidade ou teratologia)."
+ },
+ "e5-75": {
+  "nivel": "médio",
+  "tema": "Crime permanente, lei mais grave (Súmula 711/STF) e retroatividade da lei posterior mais benéfica",
+  "coms": [
+   "Errada. É vedada a combinação de leis (lex tertia) para extrair de cada uma a parte mais favorável: aplica-se, por inteiro, a lei mais benéfica (STF, RE 600.817; Súmula 501/STJ, por analogia).",
+   "Errada. A Súmula 711/STF de fato manda aplicar a lei mais grave vigente antes da cessação da permanência. Mas a lei posterior mais benéfica (LKY) retroage e afasta a WXZ (CP, art. 2º, parágrafo único).",
+   "CORRETA. Pela Súmula 711/STF, a Lei WXZ, vigente antes de cessar a permanência, seria aplicável. A Lei LKY, porém, é posterior e mais benéfica e retroage para alcançar fatos ainda não definitivamente julgados (e até os julgados), por força da CF, art. 5º, XL, e do CP, art. 2º, parágrafo único.",
+   "Errada. A retroatividade benéfica alcança até fatos com sentença transitada em julgado (CP, art. 2º, parágrafo único), e o oferecimento da denúncia não congela a lei aplicável.",
+   "Errada. Contraria a Súmula 711/STF: no crime permanente, aplica-se a lei vigente ao tempo da conduta, que se prolonga, e ela pode ser mais grave. Em todo caso, prevalece a LKY, mais benéfica."
+  ],
+  "base": "CF, art. 5º, XL; CP, art. 2º, parágrafo único; Súmula 711/STF; Súmula 501/STJ; STF, RE 600.817.",
+  "dica": "Permanente: vale a lei mais grave vigente antes de cessar (Súmula 711). Mas lei nova mais benéfica sempre retroage."
  }
 }

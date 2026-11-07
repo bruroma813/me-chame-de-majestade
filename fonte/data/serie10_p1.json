@@ -1,0 +1,451 @@
+[
+ {
+  "disc": "Direito Constitucional",
+  "item": "C15",
+  "nivel": "médio",
+  "tema": "Legitimidade ativa na ADI: pertinência temática, partidos, confederações e entidades de classe (CF, art. 103)",
+  "enun": "Três ações diretas de inconstitucionalidade foram ajuizadas no Supremo Tribunal Federal contra a mesma lei federal, que trata da jornada de trabalho dos motoristas de transporte coletivo. A primeira foi proposta pelo Partido Ômega, que tinha um deputado federal na data do ajuizamento, mas perdeu sua única cadeira no Congresso no curso do processo. A segunda foi proposta por uma central sindical de âmbito nacional. A terceira foi proposta pelo Governador do Estado Alfa, subscrita apenas por ele, sem advogado, sob o fundamento de que a lei aumentaria os custos das concessionárias estaduais de transporte. O relator analisa a legitimidade e a capacidade postulatória em cada caso. Considerando a Constituição e a jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A ADI do Partido Ômega deve prosseguir, pois a representação no Congresso é aferida no momento da propositura; a central sindical não tem legitimidade; e o Governador, que tem capacidade postulatória própria, deve demonstrar pertinência temática.",
+    "CORRETA. A perda superveniente de representação parlamentar não prejudica a ADI já ajuizada por partido político, pois a legitimidade é aferida na propositura (STF, ADI 2.618). Entre as entidades sindicais, só as confederações têm legitimidade (CF, art. 103, IX); centrais sindicais e federações, não. O Governador é legitimado especial: tem capacidade postulatória própria, dispensando advogado, mas deve demonstrar pertinência temática entre a norma e os interesses do Estado."
+   ],
+   [
+    "A ADI do Partido Ômega deve ser extinta, pois a representação no Congresso Nacional deve ser mantida durante todo o processo.",
+    "Errada. Para o STF, a legitimidade do partido é aferida no momento do ajuizamento, e a perda superveniente da representação não acarreta a extinção da ação."
+   ],
+   [
+    "A central sindical tem legitimidade, pois representa trabalhadores de diversas categorias em âmbito nacional, o que equivale a uma confederação.",
+    "Errada. O art. 103, IX, legitima apenas a confederação sindical. O STF não reconhece legitimidade às centrais sindicais nem às federações."
+   ],
+   [
+    "A petição do Governador deve ser indeferida por falta de capacidade postulatória, pois toda ADI precisa ser subscrita por advogado.",
+    "Errada. O STF reconhece capacidade postulatória própria aos legitimados dos incisos I a VII do art. 103, como o Governador. A exigência de advogado vale para partidos, confederações e entidades de classe."
+   ],
+   [
+    "O Governador é legitimado universal e, por isso, pode impugnar qualquer lei federal sem demonstrar relação com os interesses do Estado.",
+    "Errada. Governador, Mesa de Assembleia Legislativa, confederações sindicais e entidades de classe de âmbito nacional são legitimados especiais e devem demonstrar pertinência temática."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 103; Lei 9.868/1999, art. 2º; STF, ADI 2.618.",
+  "dica": "Universais: Presidente, Mesas da Câmara e do Senado, PGR, CFOAB e partido. Especiais (pertinência temática): Governador, Mesa de AL, confederação e entidade de classe. Advogado: só partido, confederação e entidade."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C13",
+  "nivel": "fácil",
+  "tema": "Órgãos de segurança pública: polícias penais, subordinação e funções (CF, art. 144)",
+  "enun": "Na Assembleia Legislativa do Estado Alfa, tramita proposta de emenda à Constituição estadual que reorganiza a segurança pública local. Entre outras medidas, a proposta: cria a Polícia Penal estadual, vinculada ao órgão administrador do sistema penal, com a função de garantir a segurança dos estabelecimentos penais; atribui à Polícia Militar a apuração de infrações penais comuns, com a instauração de inquéritos; subordina o Corpo de Bombeiros Militar diretamente ao Secretário de Segurança, sem vínculo com o Governador; e permite que a Polícia Civil seja dirigida por oficial da Polícia Militar. Considerando a Constituição Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "É compatível com a Constituição a criação da Polícia Penal estadual, vinculada ao órgão administrador do sistema penal e incumbida da segurança dos estabelecimentos penais.",
+    "CORRETA. A EC 104/2019 incluiu as polícias penais federal, estaduais e distrital entre os órgãos de segurança pública (CF, art. 144, VI). Às polícias penais, vinculadas ao órgão administrador do sistema penal da unidade federativa a que pertencem, cabe a segurança dos estabelecimentos penais (art. 144, §5º-A)."
+   ],
+   [
+    "É válida a atribuição à Polícia Militar da apuração de infrações penais comuns, pois o Estado pode distribuir livremente as funções entre suas polícias.",
+    "Errada. Às polícias militares cabem a polícia ostensiva e a preservação da ordem pública (art. 144, §5º). A apuração de infrações penais, exceto as militares, cabe às polícias civis (art. 144, §4º)."
+   ],
+   [
+    "O Corpo de Bombeiros Militar pode ser desvinculado do Governador, desde que permaneça subordinado a órgão do Poder Executivo estadual.",
+    "Errada. As polícias militares e os corpos de bombeiros militares, forças auxiliares e reserva do Exército, subordinam-se, com as polícias civis e as polícias penais, aos Governadores dos Estados, do DF e dos Territórios (art. 144, §6º)."
+   ],
+   [
+    "A Polícia Civil pode ser dirigida por oficial da Polícia Militar, desde que de carreira e com formação jurídica.",
+    "Errada. As polícias civis são dirigidas por delegados de polícia de carreira (art. 144, §4º)."
+   ],
+   [
+    "O rol de órgãos do art. 144 é exemplificativo, de modo que o Estado pode criar outras polícias, como uma polícia científica autônoma com atribuições de segurança pública.",
+    "Errada. O STF entende que os Estados devem observar o modelo do art. 144 e não podem criar órgãos policiais de segurança pública diversos dos previstos na Constituição Federal."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 144, I a VI e §§4º, 5º, 5º-A e 6º (EC 104/2019).",
+  "dica": "Art. 144: civil investiga (delegado de carreira), militar faz o policiamento ostensivo, penal cuida dos presídios. Todas sob o Governador. Rol taxativo."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C08",
+  "nivel": "médio",
+  "tema": "Direito à educação: ensino obrigatório, direito público subjetivo e ensino domiciliar (CF, art. 208; Tema 822/STF)",
+  "fixa": true,
+  "enun": "Pais de alunos do Município Alfa organizaram um movimento para retirar os filhos da escola e educá-los em casa, alegando liberdade de educar. Ao mesmo tempo, adultos que não concluíram o ensino fundamental reclamam da falta de vagas na educação de jovens e adultos. O Ministério Público instaurou procedimento e formulou as seguintes conclusões. Analise-as.\nI. A educação básica é obrigatória e gratuita dos 4 aos 17 anos de idade, assegurada inclusive sua oferta gratuita para todos os que a ela não tiveram acesso na idade própria.\nII. O ensino domiciliar é direito público subjetivo dos pais, decorrente da liberdade de educar, e pode ser exercido independentemente de regulamentação legal.\nIII. O acesso ao ensino obrigatório e gratuito é direito público subjetivo, e o seu não oferecimento pelo Poder Público, ou sua oferta irregular, importa responsabilidade da autoridade competente.\nEstá correto o que se afirma em",
+  "alts": [
+   [
+    "I, apenas.",
+    "Errada. Omite a afirmativa III, que reproduz o art. 208, §§1º e 2º, da CF."
+   ],
+   [
+    "II, apenas.",
+    "Errada. A afirmativa II é falsa (Tema 822/STF), e as afirmativas I e III, verdadeiras, ficaram de fora."
+   ],
+   [
+    "II e III, apenas.",
+    "Errada. A afirmativa II é falsa: o ensino domiciliar não é direito público subjetivo e depende de lei."
+   ],
+   [
+    "I e III, apenas.",
+    "CORRETA. I: a educação básica é obrigatória e gratuita dos 4 aos 17 anos, assegurada a oferta gratuita para os que não tiveram acesso na idade própria (CF, art. 208, I, EC 59/2009). III: o acesso ao ensino obrigatório e gratuito é direito público subjetivo, e seu não oferecimento ou oferta irregular importa responsabilidade da autoridade competente (art. 208, §§1º e 2º). A II é falsa: o STF decidiu que o ensino domiciliar não é direito público subjetivo do aluno ou da família e que, embora não vedado pela Constituição, só pode ser implementado por lei federal que o regulamente (Tema 822, RE 888.815)."
+   ],
+   [
+    "I, II e III.",
+    "Errada. A afirmativa II é falsa."
+   ]
+  ],
+  "c": 3,
+  "base": "CF, arts. 205, 208, I e §§1º e 2º, e 227; STF, Tema 822 (RE 888.815).",
+  "dica": "Educação básica obrigatória: dos 4 aos 17 anos. Homeschooling: não é proibido, mas depende de lei federal; hoje não é direito subjetivo."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C07",
+  "nivel": "médio",
+  "tema": "Habeas data e mandado de injunção (Lei 9.507/1997; Lei 13.300/2016)",
+  "enun": "Yara impetrou habeas data contra o Instituto Nacional do Seguro Social para obter informações sobre registros funcionais que lhe dizem respeito, sem ter formulado antes qualquer pedido administrativo. Na mesma época, o Sindicato dos Servidores Beta impetrou mandado de injunção coletivo no Supremo Tribunal Federal, alegando a falta de norma regulamentadora de direito previsto na Constituição para a categoria. Zuleica, servidora filiada ao sindicato, já tinha mandado de injunção individual com o mesmo objeto em tramitação e não requereu sua desistência. O STF concedeu a ordem no processo coletivo. Considerando a legislação de regência e a jurisprudência, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "O habeas data de Yara não deve ser conhecido por falta de prova da recusa administrativa; e Zuleica não se beneficia dos efeitos do mandado de injunção coletivo, pois não requereu a desistência de sua ação individual no prazo legal.",
+    "CORRETA. Não cabe habeas data se não houve recusa de informações pela autoridade administrativa (Súmula 2/STJ), e a inicial deve vir instruída com prova da recusa ou do decurso de mais de 10 dias sem decisão (Lei 9.507/1997, art. 8º, parágrafo único). No MI coletivo, a ação não induz litispendência em relação às individuais, mas os efeitos da coisa julgada não beneficiam o impetrante que não requerer a desistência da demanda individual em 30 dias da ciência da impetração coletiva (Lei 13.300/2016, art. 13, parágrafo único)."
+   ],
+   [
+    "O habeas data independe de prévio requerimento administrativo, em razão da inafastabilidade da jurisdição.",
+    "Errada. O interesse de agir no habeas data pressupõe a recusa administrativa, expressa ou tácita (Súmula 2/STJ; Lei 9.507/1997, art. 8º, parágrafo único)."
+   ],
+   [
+    "O habeas data está sujeito ao pagamento de custas e honorários, pois não se confunde com o habeas corpus.",
+    "Errada. As ações de habeas corpus e habeas data são gratuitas (CF, art. 5º, LXXVII; Lei 9.507/1997, art. 21)."
+   ],
+   [
+    "O mandado de injunção coletivo induz litispendência em relação aos mandados de injunção individuais, que devem ser extintos.",
+    "Errada. O MI coletivo não induz litispendência em relação aos individuais (Lei 13.300/2016, art. 13, parágrafo único). O impetrante individual pode escolher entre prosseguir em sua ação ou desistir para se beneficiar do coletivo."
+   ],
+   [
+    "A decisão do mandado de injunção tem sempre eficácia erga omnes, pois supre a omissão legislativa para todos os titulares do direito.",
+    "Errada. A regra é a eficácia subjetiva limitada às partes. A eficácia ultra partes ou erga omnes pode ser conferida quando inerente ou indispensável ao exercício do direito (Lei 13.300/2016, art. 9º, caput e §1º). No MI coletivo, a sentença alcança os integrantes da coletividade substituída (art. 13)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 5º, LXXI, LXXII e LXXVII; Lei 9.507/1997, arts. 8º e 21; Lei 13.300/2016, arts. 9º, 12 e 13; Súmula 2/STJ.",
+  "dica": "Habeas data: precisa de recusa (10 dias para acesso, 15 para retificação), e é gratuito. MI: em regra só entre as partes; no coletivo, quem tem MI individual deve desistir em 30 dias para se beneficiar."
+ },
+ {
+  "disc": "Direito Constitucional",
+  "item": "C11",
+  "nivel": "fácil",
+  "tema": "Servidor público no exercício de mandato eletivo (CF, art. 38)",
+  "enun": "Três servidores públicos efetivos do Estado Alfa foram eleitos nas últimas eleições. Arlindo, analista da Secretaria de Fazenda, foi eleito deputado estadual. Bárbara, professora da rede estadual, foi eleita Prefeita do Município Beta. Cícero, técnico administrativo com jornada de seis horas no período da manhã, foi eleito vereador em Município cujas sessões ocorrem à noite. Os três consultam a área de gestão de pessoas sobre o afastamento e a remuneração durante os mandatos. Considerando a Constituição Federal, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Arlindo ficará afastado do cargo; Bárbara será afastada, podendo optar pela remuneração; e Cícero, havendo compatibilidade de horários, perceberá as vantagens de seu cargo sem prejuízo da remuneração do cargo eletivo.",
+    "CORRETA. Em mandato eletivo federal, estadual ou distrital, o servidor fica afastado de seu cargo (CF, art. 38, I). Investido no mandato de Prefeito, será afastado, sendo-lhe facultado optar pela sua remuneração (art. 38, II). Investido no mandato de vereador, havendo compatibilidade de horários, perceberá as vantagens de seu cargo sem prejuízo da remuneração do cargo eletivo; não havendo, aplica-se a regra do Prefeito (art. 38, III)."
+   ],
+   [
+    "Arlindo pode optar entre a remuneração do cargo efetivo e o subsídio de deputado estadual, como ocorre com o Prefeito.",
+    "Errada. A faculdade de opção pela remuneração é do servidor investido no mandato de Prefeito (art. 38, II). No mandato estadual, há afastamento (art. 38, I), e o deputado recebe o subsídio do cargo eletivo."
+   ],
+   [
+    "Bárbara pode acumular o cargo de professora com o de Prefeita, desde que haja compatibilidade de horários.",
+    "Errada. A acumulação com compatibilidade de horários só é admitida para o vereador (art. 38, III). O Prefeito é sempre afastado (art. 38, II)."
+   ],
+   [
+    "Cícero deverá ser afastado do cargo efetivo, pois o exercício simultâneo de mandato eletivo e cargo público é vedado em qualquer hipótese.",
+    "Errada. O vereador pode exercer simultaneamente o cargo efetivo e o mandato quando houver compatibilidade de horários (art. 38, III)."
+   ],
+   [
+    "O tempo de serviço durante o afastamento para exercício de mandato eletivo não é contado para nenhum efeito, salvo para aposentadoria.",
+    "Errada. Em qualquer caso de afastamento, o tempo de serviço é contado para todos os efeitos legais, exceto para promoção por merecimento (art. 38, IV)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 38, I a V.",
+  "dica": "Mandato federal, estadual ou distrital: afasta. Prefeito: afasta e escolhe a remuneração. Vereador: acumula se os horários forem compatíveis. O tempo conta para tudo, menos para promoção por merecimento."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A08",
+  "nivel": "médio",
+  "tema": "Fases da licitação, inversão de fases e recursos na Lei 14.133/2021 (arts. 17 e 165)",
+  "enun": "O Estado Alfa realizou pregão eletrônico para aquisição de equipamentos de informática, com critério de julgamento de menor preço. Após a fase de lances, a pregoeira declarou vencedora a sociedade Gama e passou à análise de seus documentos de habilitação. A licitante Delta, segunda colocada, não se manifestou durante a sessão e, cinco dias úteis depois da lavratura da ata de habilitação, apresentou recurso alegando que Gama não comprovara a qualificação técnica. Em outra licitação do mesmo Estado, o edital previu, sem qualquer justificativa nos autos, que a habilitação ocorreria antes da apresentação das propostas. Considerando a Lei 14.133/2021, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Na regra legal, o julgamento das propostas precede a habilitação; a inversão exige ato motivado com explicitação dos benefícios e previsão expressa no edital; e o recurso de Delta é intempestivo, pois a intenção de recorrer deve ser manifestada imediatamente e as razões apresentadas em 3 dias úteis.",
+    "CORRETA. As fases seguem a sequência: preparatória, divulgação do edital, apresentação de propostas e lances, julgamento, habilitação, recursal e homologação (Lei 14.133/2021, art. 17). A habilitação pode anteceder as propostas e o julgamento mediante ato motivado com explicitação dos benefícios, desde que expressamente previsto no edital (art. 17, §1º). Contra o julgamento e a habilitação, a intenção de recorrer deve ser manifestada imediatamente, sob pena de preclusão, e as razões apresentadas em 3 dias úteis (art. 165, I, e §1º, I)."
+   ],
+   [
+    "A Lei 14.133/2021 manteve a regra da Lei 8.666/1993, em que a habilitação precede o julgamento das propostas, e a inversão só é admitida no pregão.",
+    "Errada. A nova lei tornou regra geral o julgamento antes da habilitação (art. 17, IV e V). A habilitação prévia é a exceção do art. 17, §1º, aplicável a qualquer modalidade."
+   ],
+   [
+    "O recurso de Delta é tempestivo, pois o prazo recursal contra o ato de habilitação é de 5 dias úteis, contados da lavratura da ata.",
+    "Errada. O prazo é de 3 dias úteis (art. 165, I), e, no caso de julgamento e habilitação, depende de manifestação imediata da intenção de recorrer, sob pena de preclusão (art. 165, §1º, I)."
+   ],
+   [
+    "A inversão de fases pode ser adotada livremente pela Administração, desde que prevista no edital, sem necessidade de motivação.",
+    "Errada. A lei exige ato motivado com explicitação dos benefícios decorrentes, além da previsão expressa no edital (art. 17, §1º)."
+   ],
+   [
+    "As licitações devem ser obrigatoriamente eletrônicas, vedada em qualquer hipótese a forma presencial.",
+    "Errada. A forma eletrônica é preferencial, admitida a presencial desde que motivada, com a sessão pública registrada em ata e gravada em áudio e vídeo (art. 17, §2º)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 14.133/2021, arts. 17, caput e §§1º e 2º, e 165, I e §§1º e 2º.",
+  "dica": "Lei 14.133: primeiro julga e depois habilita. Inverter exige motivação e previsão no edital. Recurso: intenção imediata e razões em 3 dias úteis."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A16",
+  "nivel": "fácil",
+  "tema": "Formas de provimento na Lei 8.112/1990: readaptação, reversão, reintegração, recondução e aproveitamento",
+  "enun": "Na área de pessoal de uma autarquia federal, foram analisados os seguintes casos: Eduardo, estável, sofreu limitação física verificada em inspeção médica e não pode mais exercer as atribuições de seu cargo; Fernanda, estável, foi aprovada em concurso para outro cargo federal, mas foi inabilitada no estágio probatório do novo cargo; Gilberto, estável, teve anulada judicialmente sua demissão, mas seu antigo cargo está ocupado por Heloísa, também estável, que antes ocupava outro cargo; e Irene, aposentada por invalidez, teve declarados insubsistentes os motivos da aposentadoria por junta médica oficial. Considerando a Lei 8.112/1990, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Eduardo será readaptado; Fernanda, reconduzida ao cargo anterior; Gilberto, reintegrado, com a recondução de Heloísa ao seu cargo de origem; e Irene retornará por reversão.",
+    "CORRETA. Readaptação é a investidura em cargo de atribuições compatíveis com a limitação sofrida, verificada em inspeção médica (Lei 8.112/1990, art. 24). Recondução é o retorno do estável ao cargo anteriormente ocupado por inabilitação em estágio probatório relativo a outro cargo ou por reintegração do anterior ocupante (art. 29). Reintegração é a reinvestidura do estável cuja demissão foi invalidada; se o cargo estiver provido, o ocupante será reconduzido ao cargo de origem, sem indenização (art. 28, §2º). Reversão é o retorno do aposentado por invalidez quando junta médica declarar insubsistentes os motivos (art. 25, I)."
+   ],
+   [
+    "Eduardo será aproveitado em outro cargo, e Fernanda será exonerada, pois a inabilitação em estágio probatório impede o retorno ao serviço público.",
+    "Errada. A hipótese de Eduardo é de readaptação (art. 24). Fernanda, por ser estável no cargo anterior, tem direito à recondução (art. 29, I)."
+   ],
+   [
+    "Gilberto será aproveitado em outro cargo, pois o seu cargo de origem já está ocupado por servidora estável, que não pode ser removida.",
+    "Errada. Invalidada a demissão, o servidor é reintegrado no cargo anteriormente ocupado. O eventual ocupante é reconduzido, aproveitado em outro cargo ou posto em disponibilidade (art. 28, §2º)."
+   ],
+   [
+    "Irene retornará ao serviço por reintegração, já que a aposentadoria foi desconstituída.",
+    "Errada. O retorno do aposentado à atividade chama-se reversão (art. 25). A reintegração pressupõe a invalidação de demissão (art. 28)."
+   ],
+   [
+    "Heloísa, ao deixar o cargo ocupado por Gilberto, terá direito a indenização pelos prejuízos sofridos.",
+    "Errada. O eventual ocupante será reconduzido ao cargo de origem sem direito a indenização (art. 28, §2º)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 8.112/1990, arts. 8º, 24, 25, 28, 29 e 30.",
+  "dica": "REadaptação = limitação de saúde. REversão = aposentado volta. REintegração = demissão anulada. REcondução = volta ao cargo anterior. Aproveitamento = sai da disponibilidade."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A18",
+  "nivel": "difícil",
+  "tema": "Julgamento das contas do Prefeito: Câmara Municipal e parecer prévio do Tribunal de Contas (CF, art. 31; Temas 157 e 835/STF)",
+  "enun": "O Tribunal de Contas do Estado Alfa emitiu parecer prévio pela rejeição das contas anuais de governo do Prefeito Jonas, referentes a 2024, e também apreciou contas de gestão relativas a contratos em que ele atuou como ordenador de despesas. A Câmara Municipal deixou transcorrer o prazo previsto na Lei Orgânica sem julgar as contas. Um partido adversário pediu à Justiça Eleitoral o reconhecimento da inelegibilidade de Jonas (LC 64/1990, art. 1º, I, g), sustentando que, diante da omissão da Câmara, o parecer do Tribunal de Contas teria prevalecido e que as contas de gestão seriam julgadas em definitivo pelo próprio Tribunal. Considerando a Constituição e a jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Para fins de inelegibilidade, compete à Câmara Municipal julgar tanto as contas de governo quanto as de gestão do Prefeito, e o parecer do Tribunal de Contas só deixa de prevalecer por decisão de 2/3 dos vereadores; não há, porém, julgamento ficto pelo decurso do prazo.",
+    "CORRETA. O STF fixou que, para os fins do art. 1º, I, g, da LC 64/1990, a apreciação das contas de prefeito, tanto as de governo quanto as de gestão, cabe às Câmaras Municipais, com o auxílio dos Tribunais de Contas, cujo parecer prévio somente deixará de prevalecer por decisão de 2/3 dos vereadores (Tema 835; CF, art. 31, §2º). E o parecer tem natureza opinativa, sendo incabível o julgamento ficto das contas por decurso de prazo (Tema 157)."
+   ],
+   [
+    "Como a Câmara não julgou as contas no prazo, prevalece o parecer prévio do Tribunal de Contas, que passa a valer como julgamento definitivo.",
+    "Errada. O STF rejeitou o julgamento ficto por decurso de prazo: competência para julgar as contas do Chefe do Executivo municipal é exclusiva da Câmara (Tema 157)."
+   ],
+   [
+    "As contas de gestão do Prefeito ordenador de despesas são julgadas em definitivo pelo Tribunal de Contas, e a rejeição gera inelegibilidade independentemente de manifestação da Câmara.",
+    "Errada. Para fins de inelegibilidade, o STF atribuiu à Câmara também o julgamento das contas de gestão do Prefeito (Tema 835)."
+   ],
+   [
+    "O parecer prévio do Tribunal de Contas pode ser afastado pela maioria absoluta dos membros da Câmara Municipal.",
+    "Errada. A Constituição exige decisão de 2/3 dos membros da Câmara para que o parecer prévio deixe de prevalecer (art. 31, §2º)."
+   ],
+   [
+    "O Município Alfa poderia criar Tribunal de Contas municipal próprio para emitir o parecer prévio sobre as contas do Prefeito.",
+    "Errada. É vedada a criação de Tribunais, Conselhos ou órgãos de Contas Municipais (art. 31, §4º). Permanecem apenas os já existentes em 1988 (São Paulo e Rio de Janeiro)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, art. 31, §§1º, 2º e 4º; LC 64/1990, art. 1º, I, g; STF, Temas 157 (RE 729.744) e 835 (RE 848.826).",
+  "dica": "Contas do Prefeito (de governo e de gestão): quem julga é a Câmara. O parecer do TC só cai com 2/3. Sem julgamento da Câmara, não há rejeição ficta."
+ },
+ {
+  "disc": "Direito Administrativo",
+  "item": "A04",
+  "nivel": "médio",
+  "tema": "Organizações sociais: qualificação, contrato de gestão e regime de contratações (Lei 9.637/1998; ADI 1.923)",
+  "enun": "A União pretende transferir a gestão de um centro de pesquisa em biotecnologia a uma entidade privada sem fins lucrativos, a ser qualificada como organização social. O Ministério propõe: qualificar a entidade escolhida por decisão interna, sem critérios divulgados; celebrar contrato de gestão com metas e indicadores; ceder servidores e permitir o uso dos bens públicos do centro; e exigir que a entidade realize licitação nos termos da Lei 14.133/2021 para todas as suas compras e concurso público para contratar pessoal. A Consultoria Jurídica foi chamada a opinar. Considerando a Lei 9.637/1998 e a jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A qualificação e a celebração do contrato de gestão devem seguir procedimento público, objetivo e impessoal; a OS não se submete à Lei de Licitações nem ao concurso público, mas suas contratações e a seleção de pessoal devem observar regulamento próprio pautado nos princípios do art. 37 da CF.",
+    "CORRETA. Na ADI 1.923, o STF validou o modelo das organizações sociais, com interpretação conforme: a qualificação, a celebração do contrato de gestão e a permissão de uso de bens públicos devem ser conduzidas de forma pública, objetiva e impessoal. As OS, por serem entidades privadas, não se sujeitam ao dever de licitar nem ao concurso público, mas suas contratações e a seleção de pessoal devem seguir regulamento próprio que observe os princípios do caput do art. 37."
+   ],
+   [
+    "A qualificação como OS é ato vinculado, e a entidade que preencher os requisitos legais tem direito subjetivo a ela.",
+    "Errada. Na Lei 9.637/1998, a qualificação depende de juízo de conveniência e oportunidade (art. 2º, II). Ato vinculado é a qualificação como OSCIP (Lei 9.790/1999, art. 1º, §2º). Mesmo discricionária, a escolha da OS deve ser pública, objetiva e impessoal (ADI 1.923)."
+   ],
+   [
+    "A OS deve realizar licitação nos termos da Lei 14.133/2021 em todas as suas compras, pois recebe recursos públicos.",
+    "Errada. O STF afastou a incidência da lei geral de licitações sobre as contratações das OS com terceiros, exigindo apenas procedimento objetivo e impessoal previsto em regulamento próprio (ADI 1.923)."
+   ],
+   [
+    "É inconstitucional a cessão de servidores públicos e a permissão de uso de bens públicos às organizações sociais, por configurar privatização indevida.",
+    "Errada. A Lei 9.637/1998 prevê a permissão de uso de bens públicos (art. 12) e a cessão especial de servidores, com ônus para a origem (art. 14), e o STF reconheceu a validade dessas previsões."
+   ],
+   [
+    "As organizações sociais integram a Administração indireta e, por isso, estão sujeitas ao regime jurídico de direito público.",
+    "Errada. As OS são pessoas jurídicas de direito privado, sem fins lucrativos, que integram o terceiro setor, e não a Administração indireta. Seguem regime privado, parcialmente derrogado pelo vínculo com o Poder Público."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 9.637/1998, arts. 1º, 2º, 5º, 12 e 14; Lei 9.790/1999, art. 1º, §2º; STF, ADI 1.923.",
+  "dica": "OS: qualificação discricionária, mas com escolha pública, objetiva e impessoal; sem licitação e sem concurso, porém com regulamento que siga o art. 37. OSCIP: qualificação vinculada e termo de parceria."
+ },
+ {
+  "disc": "Noções Gerais de Direito e Formação Humanística",
+  "item": "H9",
+  "nivel": "fácil",
+  "tema": "Recusa de adaptação razoável como discriminação (Estatuto da Pessoa com Deficiência, arts. 2º, 3º, VI, e 4º)",
+  "enun": "Lara, pessoa surda usuária de Libras, inscreveu-se em concurso para analista de um tribunal e requereu intérprete de Libras para a prova oral e tempo adicional para a prova escrita. A banca organizadora indeferiu os pedidos sob o argumento de que o edital previa as mesmas condições para todos os candidatos, em respeito à isonomia, e de que a contratação de intérprete aumentaria os custos. Na mesma época, uma empresa privada recusou-se a instalar software leitor de tela para um empregado cego, alegando que a deficiência dele decorria de causa médica e que caberia ao próprio empregado adaptar-se ao ambiente de trabalho. Considerando a Lei 13.146/2015, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A recusa de adaptações razoáveis e do fornecimento de tecnologias assistivas configura discriminação em razão da deficiência, e a lei adota o modelo biopsicossocial, em que a deficiência resulta da interação do impedimento com barreiras.",
+    "CORRETA. Considera-se discriminação toda distinção, restrição ou exclusão, por ação ou omissão, que tenha o propósito ou o efeito de prejudicar, impedir ou anular direitos da pessoa com deficiência, incluindo a recusa de adaptações razoáveis e de fornecimento de tecnologias assistivas (Lei 13.146/2015, art. 4º, §1º). Adaptações razoáveis são os ajustes necessários e adequados que não acarretem ônus desproporcional e indevido (art. 3º, VI). A deficiência resulta da interação do impedimento com barreiras que obstruem a participação plena (art. 2º)."
+   ],
+   [
+    "A banca agiu corretamente, pois a isonomia exige tratamento idêntico a todos os candidatos, e qualquer condição diferenciada configuraria privilégio.",
+    "Errada. A igualdade material exige tratar desigualmente os desiguais. Negar a adaptação razoável é forma de discriminação por omissão (art. 4º, §1º), e a lei assegura adaptações em processos seletivos e concursos (arts. 34 e 35 e Decreto 9.508/2018)."
+   ],
+   [
+    "O custo adicional, por si só, afasta o dever de adaptação, pois a lei só exige adaptações que não gerem nenhuma despesa ao responsável.",
+    "Errada. O limite é o ônus desproporcional e indevido (art. 3º, VI), e não qualquer custo. A contratação de intérprete em concurso público está longe de ser desproporcional."
+   ],
+   [
+    "A empresa está correta, pois o Estatuto adota o modelo médico, que identifica a deficiência no indivíduo e lhe atribui o ônus de se adaptar.",
+    "Errada. O Estatuto e a Convenção sobre os Direitos das Pessoas com Deficiência adotam o modelo social ou biopsicossocial, que desloca o foco para a remoção de barreiras (art. 2º)."
+   ],
+   [
+    "A recusa de adaptação razoável só configura discriminação quando praticada pelo Poder Público, não alcançando as relações entre particulares.",
+    "Errada. O art. 4º, §1º, não distingue entre agentes públicos e privados, e a lei impõe deveres expressos aos empregadores, como a adaptação razoável no ambiente de trabalho (art. 34, §1º)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 13.146/2015, arts. 2º, 3º, VI, 4º, §1º, e 34; Convenção sobre os Direitos das Pessoas com Deficiência (Decreto 6.949/2009), art. 2.",
+  "dica": "Negar adaptação razoável = discriminar. O limite é o ônus desproporcional, não qualquer custo. Deficiência = impedimento + barreiras (modelo social)."
+ },
+ {
+  "disc": "Noções Gerais de Direito e Formação Humanística",
+  "item": "H2",
+  "nivel": "médio",
+  "tema": "Depoimento especial e escuta especializada de criança vítima (Lei 13.431/2017) e risco de falsas memórias",
+  "enun": "Uma menina de seis anos relatou à professora ter sofrido abuso sexual por um vizinho. A professora comunicou o fato ao Conselho Tutelar, que realizou entrevista com a criança. Em seguida, a delegada pretendia ouvir a menina na delegacia, o promotor queria ouvi-la novamente na audiência de instrução e o advogado do investigado pediu que ela fosse ouvida na presença do acusado, para garantir o contraditório. A psicóloga do juízo alertou que entrevistas repetidas e perguntas sugestivas aumentam o risco de falsas memórias e de revitimização. Considerando a Lei 13.431/2017, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Por ser a criança menor de 7 anos e tratar-se de violência sexual, o depoimento especial deve seguir o rito cautelar de antecipação de prova, sempre que possível uma única vez, com transmissão em tempo real à sala de audiência e garantia da ampla defesa do investigado.",
+    "CORRETA. O depoimento especial será regido por protocolos e, sempre que possível, realizado uma única vez, em sede de produção antecipada de prova judicial, garantida a ampla defesa do investigado (Lei 13.431/2017, art. 11). Segue o rito cautelar de antecipação de prova quando a criança tiver menos de 7 anos e em caso de violência sexual (art. 11, §1º). É transmitido em tempo real à sala de audiência, e o profissional especializado pode adaptar as perguntas (art. 12). A oitiva única reduz a contaminação da memória e a revitimização."
+   ],
+   [
+    "A criança deve ser ouvida na presença do investigado, pois o contraditório exige o confronto direto entre vítima e acusado.",
+    "Errada. A lei assegura à criança o resguardo de qualquer contato, ainda que visual, com o suposto autor (Lei 13.431/2017, arts. 9º e 12, III). O contraditório se exerce por perguntas encaminhadas ao profissional especializado."
+   ],
+   [
+    "A entrevista feita pelo Conselho Tutelar é depoimento especial e, por isso, dispensa nova oitiva judicial.",
+    "Errada. A entrevista perante órgão da rede de proteção é escuta especializada, limitada ao estritamente necessário para a finalidade protetiva (art. 7º). O depoimento especial é a oitiva perante autoridade policial ou judiciária (art. 8º)."
+   ],
+   [
+    "O promotor pode requerer nova oitiva na audiência de instrução, pois a lei permite a repetição do depoimento especial sempre que houver requerimento das partes.",
+    "Errada. Não se admite novo depoimento especial, salvo quando justificada sua imprescindibilidade pela autoridade competente e houver concordância da vítima ou de seu representante legal (art. 11, §2º)."
+   ],
+   [
+    "O depoimento especial deve ser colhido pelo próprio juiz, em linguagem formal, para preservar a imparcialidade e a fidelidade do relato.",
+    "Errada. A oitiva é conduzida por profissionais especializados, em linguagem adequada, com livre narrativa, e o profissional pode adaptar as perguntas do juiz e das partes (art. 12)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 13.431/2017, arts. 4º, 7º, 8º, 9º, 11 e 12.",
+  "dica": "Escuta especializada = rede de proteção. Depoimento especial = polícia ou juiz, uma vez só, antecipado (obrigatório para menor de 7 anos e violência sexual), sem contato com o acusado."
+ },
+ {
+  "disc": "Direitos Humanos",
+  "item": "DH9",
+  "nivel": "médio",
+  "tema": "Comunidades quilombolas: titulação, autoatribuição e marco temporal (ADCT, art. 68; ADI 3.239)",
+  "enun": "A Comunidade Remanescente de Quilombo São Bento ocupa há gerações uma área rural no Estado Alfa e requereu ao Incra a titulação de suas terras. Parte da área está registrada em nome de um particular, que contesta o procedimento com três argumentos: a identificação da comunidade como quilombola não poderia se basear na autodeclaração de seus membros; a comunidade deveria comprovar que ocupava a área exatamente em 5 de outubro de 1988; e o título, se expedido, deveria ser individual, em nome de cada família, para permitir a venda futura das parcelas. Considerando a Constituição, a Convenção 169 da OIT e a jurisprudência do STF, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A autoatribuição é critério legítimo de identificação; o STF afastou a exigência de marco temporal para as comunidades quilombolas; e o título é coletivo e pró-indiviso, com cláusulas de inalienabilidade, imprescritibilidade e impenhorabilidade, admitida a desapropriação das áreas de particulares.",
+    "CORRETA. Na ADI 3.239, o STF declarou constitucional o Decreto 4.887/2003. Considerou legítimo o critério da autoatribuição, em harmonia com a Convenção 169 da OIT (art. 1.2, consciência da própria identidade), e rejeitou a tese do marco temporal de 1988 para os quilombolas. O título é outorgado à comunidade em nome coletivo e pró-indiviso, com cláusulas de inalienabilidade, imprescritibilidade e impenhorabilidade (Decreto 4.887/2003, art. 17), e as terras de domínio particular podem ser desapropriadas (art. 13)."
+   ],
+   [
+    "A autodeclaração é inconstitucional como critério de identificação, pois a condição quilombola deve ser comprovada por laudo antropológico que dispense a manifestação da comunidade.",
+    "Errada. O STF validou a autoatribuição, acompanhada do procedimento técnico do Incra (relatório de identificação), sem excluir a manifestação da própria comunidade (ADI 3.239)."
+   ],
+   [
+    "O art. 68 do ADCT exige que a comunidade estivesse ocupando a área em 5 de outubro de 1988, sob pena de perda do direito à titulação.",
+    "Errada. A maioria do STF, na ADI 3.239, afastou o marco temporal para as comunidades quilombolas, considerando as expulsões e os esbulhos históricos."
+   ],
+   [
+    "O título deve ser expedido individualmente a cada família, que poderá alienar sua parcela após dez anos.",
+    "Errada. O título é coletivo e pró-indiviso, em nome da associação representativa da comunidade, e inalienável (Decreto 4.887/2003, art. 17)."
+   ],
+   [
+    "Como o art. 68 do ADCT reconhece a propriedade definitiva, a área registrada em nome do particular passa à comunidade sem desapropriação e sem indenização.",
+    "Errada. Incidindo os territórios sobre terras de domínio particular, é necessária a desapropriação, com a indenização correspondente (Decreto 4.887/2003, art. 13)."
+   ]
+  ],
+  "c": 0,
+  "base": "CF, arts. 215, 216, §5º; ADCT, art. 68; Convenção 169 da OIT, art. 1.2; Decreto 4.887/2003, arts. 2º, 13 e 17; STF, ADI 3.239.",
+  "dica": "Quilombolas: autoatribuição vale, não há marco temporal, o título é coletivo e inalienável, e a terra de particular é desapropriada."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P07",
+  "nivel": "fácil",
+  "tema": "Audiência de conciliação ou mediação (CPC, art. 334) e termo inicial da contestação",
+  "enun": "Marina ajuizou ação de cobrança contra Nelson, afirmando na petição inicial que não tinha interesse na audiência de conciliação. O juiz designou a audiência e determinou a citação. Citado, Nelson nada disse sobre a audiência e não compareceu nem enviou representante, sem apresentar justificativa. Na data marcada, compareceram apenas Marina e seu advogado. Nelson, depois, alegou que a audiência não poderia ter sido mantida, pois a autora havia manifestado desinteresse, e que o prazo de sua contestação só começaria a correr da intimação do termo da audiência. Considerando o Código de Processo Civil, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "A audiência só deixaria de ser realizada se ambas as partes manifestassem expressamente desinteresse; a ausência injustificada de Nelson é ato atentatório à dignidade da justiça, punível com multa de até 2% da vantagem econômica pretendida ou do valor da causa; e o prazo de contestação conta-se da audiência.",
+    "CORRETA. A audiência não será realizada se ambas as partes manifestarem, expressamente, desinteresse na composição consensual (CPC, art. 334, §4º, I). O não comparecimento injustificado do autor ou do réu é ato atentatório à dignidade da justiça, sancionado com multa de até 2% da vantagem econômica pretendida ou do valor da causa, revertida em favor da União ou do Estado (art. 334, §8º). O prazo de 15 dias para contestar conta-se da audiência ou da última sessão de conciliação (art. 335, I)."
+   ],
+   [
+    "Bastava o desinteresse manifestado pela autora na inicial para que a audiência fosse cancelada.",
+    "Errada. A dispensa exige manifestação expressa de ambas as partes (art. 334, §4º, I), ou que a causa não admita autocomposição (art. 334, §4º, II)."
+   ],
+   [
+    "A ausência de Nelson acarreta a revelia, com presunção de veracidade dos fatos alegados pela autora.",
+    "Errada. A revelia decorre da falta de contestação (art. 344), e não da ausência na audiência de conciliação. A sanção pela ausência injustificada é a multa do art. 334, §8º."
+   ],
+   [
+    "A multa pela ausência injustificada é de até 10% do valor da causa e reverte em favor da parte contrária.",
+    "Errada. A multa é de até 2% da vantagem econômica pretendida ou do valor da causa e reverte em favor da União ou do Estado, e não da parte (art. 334, §8º)."
+   ],
+   [
+    "O prazo para contestar começa a correr da juntada aos autos do termo da audiência.",
+    "Errada. O termo inicial é a própria audiência de conciliação ou mediação, ou a última sessão, quando qualquer parte não comparecer ou, comparecendo, não houver autocomposição (art. 335, I)."
+   ]
+  ],
+  "c": 0,
+  "base": "CPC, arts. 334, §§4º, 5º, 8º e 10, 335, I e II, e 344.",
+  "dica": "Audiência do 334: só cai se AMBOS recusarem. Faltou sem justificativa = multa de até 2% para o Estado ou a União. Contestação: 15 dias contados da audiência."
+ },
+ {
+  "disc": "Direito Processual Civil",
+  "item": "P25-26",
+  "nivel": "médio",
+  "tema": "Mediação na Lei 13.140/2015: cláusula de mediação, confidencialidade, prescrição e impedimentos do mediador",
+  "enun": "O contrato de fornecimento entre as sociedades Ômega e Sigma previa que, antes de qualquer ação judicial, as partes se submeteriam a mediação extrajudicial pelo prazo de 60 dias. Surgido o conflito, Ômega compareceu à primeira reunião, mas, na segunda, comunicou que não desejava prosseguir e ajuizou ação de cobrança. Sigma pediu a suspensão do processo e, subsidiariamente, que o mediador Teodoro fosse ouvido como testemunha sobre propostas feitas por Ômega na mediação. Ômega, por sua vez, pretende contratar Teodoro como consultor jurídico para o mesmo caso, logo após o fim da mediação. Considerando a Lei 13.140/2015, assinale a afirmativa correta.",
+  "alts": [
+   [
+    "Havendo cláusula que impeça o ajuizamento por certo prazo, o juiz suspenderá o processo pelo prazo acordado, salvo para medidas de urgência; Teodoro não pode depor como testemunha; e fica impedido, por 1 ano, de assessorar ou patrocinar as partes.",
+    "CORRETA. Se as partes se comprometeram a não iniciar processo judicial durante certo prazo, o juiz suspenderá o curso da ação pelo prazo acordado, ressalvadas as medidas de urgência (Lei 13.140/2015, art. 23). O mediador não pode funcionar como testemunha em processos pertinentes ao conflito em que atuou (art. 7º), e a confidencialidade abrange as propostas feitas (art. 30). Ele fica impedido, por 1 ano contado do término da última audiência, de assessorar, representar ou patrocinar qualquer das partes (art. 6º)."
+   ],
+   [
+    "Por força da cláusula, Ômega era obrigada a permanecer na mediação durante todo o prazo de 60 dias, sob pena de multa.",
+    "Errada. Havendo cláusula de mediação, as partes devem comparecer à primeira reunião (art. 2º, §1º), mas ninguém é obrigado a permanecer em procedimento de mediação (art. 2º, §2º)."
+   ],
+   [
+    "As informações produzidas na mediação podem ser reveladas em juízo sempre que uma das partes o requerer, para a busca da verdade.",
+    "Errada. A confidencialidade impede a revelação em processo judicial ou arbitral, salvo se as partes expressamente decidirem de forma diversa ou quando a divulgação for exigida por lei ou necessária para o cumprimento do acordo (art. 30)."
+   ],
+   [
+    "A instauração da mediação não afeta o prazo prescricional, que continua a correr normalmente durante o procedimento.",
+    "Errada. Enquanto transcorrer o procedimento de mediação, fica suspenso o prazo prescricional (art. 17, parágrafo único)."
+   ],
+   [
+    "O mediador extrajudicial deve ser graduado há pelo menos 2 anos em curso superior e ter capacitação em escola reconhecida.",
+    "Errada. Esses requisitos são do mediador judicial (art. 11). O extrajudicial pode ser qualquer pessoa capaz que tenha a confiança das partes e seja capacitada para fazer mediação (art. 9º)."
+   ]
+  ],
+  "c": 0,
+  "base": "Lei 13.140/2015, arts. 2º, §§1º e 2º, 6º, 7º, 9º, 11, 17, parágrafo único, 23 e 30.",
+  "dica": "Mediação: vai à 1ª reunião, mas ninguém é obrigado a ficar. Suspende a prescrição. Mediador não é testemunha e tem quarentena de 1 ano."
+ }
+]
