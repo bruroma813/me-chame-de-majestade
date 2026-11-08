@@ -1,0 +1,451 @@
+[
+{
+"disc": "Noções Gerais de Direito e Formação Humanística",
+"item": "H3",
+"nivel": "médio",
+"tema": "Imparcialidade do juiz: impedimento, suspeição, foro íntimo e fato superveniente criado pela parte (CPC, arts. 144 a 146)",
+"enun": "A juíza Marta, titular de vara cível, deparou-se com as seguintes situações: (i) em uma ação de cobrança, o advogado do autor é seu primo, filho de um irmão de seu pai; (ii) em uma ação indenizatória em que já atuava havia meses, o réu destituiu seu advogado e constituiu como novo patrono o irmão da magistrada, logo após ela indeferir um pedido de tutela; (iii) em uma ação possessória, o réu é seu amigo íntimo desde a infância; e (iv) em uma ação de família, embora não se enquadre em nenhuma hipótese legal específica, ela não se sente em condições de julgar com serenidade. Considerando o Código de Processo Civil, assinale a afirmativa correta.",
+"alts": [
+[
+"A juíza pode declarar-se suspeita por motivo de foro íntimo, sem necessidade de declarar suas razões; a constituição de seu irmão como advogado no curso do processo não gera impedimento; e a amizade íntima com o réu caracteriza suspeição.",
+"CORRETA. O art. 145, §1º, permite ao juiz declarar-se suspeito por motivo de foro íntimo, sem declarar as razões. O art. 144, §1º, limita o impedimento do inciso III aos casos em que o advogado parente já integrava o processo antes do início da atividade judicante do juiz, e o §2º veda a criação de fato superveniente para caracterizar impedimento. A amizade íntima com a parte ou seu advogado é hipótese de suspeição (art. 145, I)."
+],
+[
+"A juíza está impedida de atuar na ação de cobrança, pois o advogado do autor é seu parente colateral.",
+"Errada. O impedimento do art. 144, III, alcança o cônjuge, o companheiro ou o parente, consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau. O primo é colateral de quarto grau."
+],
+[
+"A juíza ficou impedida na ação indenizatória, pois o impedimento é objetivo e se verifica sempre que o parente do juiz atua como advogado da parte, independentemente do momento de seu ingresso.",
+"Errada. O CPC impede a manobra de escolher o juiz pela contratação de advogado parente: o impedimento só se verifica se o advogado já integrava o processo antes da atuação do juiz (art. 144, §1º), e é vedada a criação de fato superveniente a fim de caracterizá-lo (§2º)."
+],
+[
+"A amizade íntima com o réu gera impedimento, por comprometer de forma absoluta a imparcialidade da magistrada.",
+"Errada. A amizade íntima ou a inimizade com as partes ou seus advogados são hipóteses de suspeição (art. 145, I), de natureza mais subjetiva. O impedimento corresponde às hipóteses objetivas do art. 144."
+],
+[
+"O impedimento e a suspeição podem ser arguidos pela parte a qualquer tempo, por se tratar de matérias de ordem pública, sem prazo específico.",
+"Errada. O art. 146 fixa o prazo de quinze dias, contado do conhecimento do fato, para a parte alegar o impedimento ou a suspeição, em petição específica. Só o impedimento autoriza ação rescisória (art. 966, II)."
+]
+],
+"c": 0,
+"base": "CPC, arts. 144, III e §§1º e 2º, 145, I e §1º, 146 e 966, II; Código de Ética da Magistratura, arts. 8º e 9º.",
+"dica": "Impedimento = objetivo (parente até o 3º grau etc.), permite rescisória. Suspeição = subjetivo (amigo íntimo, inimigo, foro íntimo sem explicar). Advogado parente que entra depois do juiz não o afasta. Prazo para arguir: 15 dias."
+},
+{
+"disc": "Direito Civil",
+"item": "V06",
+"nivel": "médio",
+"tema": "Novação: ânimo de novar, expromissão, fiador e obrigações nulas (CC, arts. 360 a 367)",
+"enun": "Bruno devia R$ 100.000,00 a Carla, em contrato de mútuo garantido por fiança prestada por Diego. Vencida a dívida, Bruno e Carla, sem a participação de Diego, celebraram instrumento pelo qual declararam expressamente extinta a obrigação original e criaram nova obrigação de R$ 120.000,00, com vencimento em dois anos. Em outra relação, Carla aceitou que Elisa assumisse a dívida de Fábio, que nem sequer foi consultado, liberando-o expressamente; meses depois, Elisa se tornou insolvente. Por fim, Carla e Gustavo tentaram novar uma dívida oriunda de contrato nulo celebrado entre eles. Considerando o Código Civil, assinale a afirmativa correta.",
+"alts": [
+[
+"Diego ficou exonerado da fiança, pois a novação foi feita com o devedor principal sem o seu consentimento.",
+"CORRETA. O art. 366 do CC dispõe que importa exoneração do fiador a novação feita sem o seu consenso com o devedor principal. Como Bruno e Carla declararam expressamente a intenção de novar (art. 361), a obrigação original e seus acessórios se extinguiram."
+],
+[
+"A substituição de Fábio por Elisa é inválida, pois a novação subjetiva passiva exige o consentimento do devedor primitivo.",
+"Errada. A expromissão, isto é, a novação por substituição do devedor, pode ser feita independentemente do consentimento deste (art. 362)."
+],
+[
+"Diante da insolvência de Elisa, Carla pode cobrar a dívida de Fábio, pois o devedor primitivo responde subsidiariamente pela solvência do novo devedor.",
+"Errada. O art. 363 nega ao credor que aceitou o novo devedor ação regressiva contra o primeiro, salvo se este obteve a substituição por má-fé. Fábio nem participou do ato."
+],
+[
+"A obrigação nula pode ser objeto de novação, desde que as partes manifestem inequivocamente o ânimo de novar.",
+"Errada. Segundo o art. 367, não podem ser objeto de novação obrigações nulas ou extintas. Apenas as anuláveis podem ser confirmadas por novação."
+],
+[
+"Sempre que as partes criam obrigação nova entre si sobre o mesmo objeto, presume-se o ânimo de novar, com a extinção da obrigação anterior.",
+"Errada. O ânimo de novar deve ser expresso ou tácito, mas inequívoco. Não havendo esse ânimo, a segunda obrigação apenas confirma a primeira (art. 361)."
+]
+],
+"c": 0,
+"base": "CC, arts. 360 a 367.",
+"dica": "Novação: precisa de ânimo de novar inequívoco. Expromissão dispensa o antigo devedor. Novo devedor insolvente: sem regresso (salvo má-fé). Fiador que não anuiu: exonerado. Nula não se nova."
+},
+{
+"disc": "Direito Civil",
+"item": "V02",
+"nivel": "médio",
+"tema": "Morte presumida sem ausência e comoriência: efeitos sucessórios (CC, arts. 7º e 8º)",
+"enun": "Antônio, viúvo, e seu único filho, Bernardo, casado com Camila e sem descendentes, estavam a bordo de uma embarcação que naufragou em alto-mar. O corpo de Antônio foi encontrado dias depois, mas não foi possível determinar a hora de sua morte. O corpo de Bernardo jamais foi localizado, apesar de buscas realizadas por semanas pela Marinha, já encerradas. Antônio não tinha ascendentes vivos, mas tinha um irmão, Davi. Bernardo não tinha outros parentes além do pai. Camila pretende regularizar a situação jurídica do marido e saber como serão partilhados os bens. Considerando o Código Civil, assinale a afirmativa correta.",
+"alts": [
+[
+"Camila pode requerer a declaração da morte presumida de Bernardo sem decretação de ausência, e a sentença fixará a data provável do falecimento; não sendo possível averiguar quem morreu primeiro, presumem-se simultaneamente mortos, de modo que o patrimônio de Antônio caberá a Davi e o de Bernardo, a Camila.",
+"CORRETA. O art. 7º, I, permite declarar a morte presumida, sem ausência, quando for extremamente provável a morte de quem estava em perigo de vida, depois de esgotadas as buscas, devendo a sentença fixar a data provável do óbito. Pela comoriência (art. 8º), um não herda do outro. Sem descendentes, ascendentes ou cônjuge, a herança de Antônio vai ao colateral Davi (art. 1.839). A herança de Bernardo, sem descendentes nem ascendentes sobreviventes, vai integralmente ao cônjuge (art. 1.838)."
+],
+[
+"Como o corpo de Bernardo não foi encontrado, é indispensável o procedimento de ausência, com curadoria dos bens e sucessão provisória, antes da declaração de sua morte.",
+"Errada. O art. 7º prevê a morte presumida sem decretação de ausência quando for extremamente provável a morte de quem estava em perigo de vida, exatamente como em um naufrágio."
+],
+[
+"Não sendo possível saber quem morreu primeiro, presume-se que o mais velho faleceu antes, razão pela qual Bernardo herdou de Antônio e transmitiu tudo a Camila.",
+"Errada. O Código Civil brasileiro não adota presunções baseadas em idade ou sexo. A regra é a presunção de morte simultânea (art. 8º), sem transmissão hereditária entre os comorientes."
+],
+[
+"Camila herdará os bens de Antônio e de Bernardo, pois, como cônjuge do herdeiro necessário de Antônio, tem direito de representação.",
+"Errada. O direito de representação é dado aos descendentes e, na linha colateral, aos filhos de irmãos (arts. 1.851 a 1.853). O cônjuge não representa o herdeiro premorto ou comoriente."
+],
+[
+"A declaração de morte presumida pode ser requerida imediatamente após o naufrágio, independentemente da realização de buscas, pois a probabilidade do óbito é evidente.",
+"Errada. O art. 7º, parágrafo único, exige que a declaração só seja requerida depois de esgotadas as buscas e averiguações."
+]
+],
+"c": 0,
+"base": "CC, arts. 7º, 8º, 1.829, 1.838, 1.839 e 1.851 a 1.853.",
+"dica": "Perigo de vida + buscas esgotadas: morte presumida SEM ausência, e a sentença fixa a data. Comoriência: mortes simultâneas, um não herda do outro."
+},
+{
+"disc": "Direito Civil",
+"item": "V10-11",
+"nivel": "fácil",
+"tema": "Descoberta de coisa perdida e achado do tesouro (CC, arts. 1.233 a 1.237 e 1.264 a 1.266)",
+"enun": "Lúcia encontrou na calçada uma carteira com R$ 5.000,00 e documentos de Otávio, a quem a devolveu após localizá-lo pelas redes sociais, gastando R$ 200,00 com deslocamentos. Em outro episódio, Marcos, pedreiro contratado por Raul apenas para reformar o muro de sua casa, encontrou casualmente, enterrado no terreno, um cofre com moedas de ouro antigas, de cujo dono não há memória. Na mesma semana, Ricardo, sem autorização, entrou no sítio vizinho, de propriedade de Sandra, com um detector de metais, e desenterrou outro depósito antigo de joias, também sem dono conhecido. Considerando o Código Civil, assinale a afirmativa correta.",
+"alts": [
+[
+"Lúcia tem direito a recompensa não inferior a 5% do valor da coisa e à indenização das despesas; o tesouro achado por Marcos será dividido por igual entre ele e Raul; e o achado por Ricardo pertence por inteiro a Sandra.",
+"CORRETA. O art. 1.234 garante ao descobridor recompensa não inferior a 5% e indenização das despesas. O tesouro achado casualmente por terceiro divide-se por igual com o proprietário do prédio (art. 1.264). O achado por terceiro não autorizado pertence por inteiro ao proprietário (art. 1.265)."
+],
+[
+"Lúcia poderia ter ficado com a carteira se Otávio não a reclamasse em trinta dias, pois a coisa perdida se torna sem dono após esse prazo.",
+"Errada. Não encontrado o dono, a coisa deve ser entregue à autoridade competente (art. 1.233, parágrafo único). Passados sessenta dias da divulgação sem que o dono apareça, ela é vendida em hasta pública, e o remanescente, deduzidas as despesas e a recompensa, pertence ao Município (art. 1.237)."
+],
+[
+"O tesouro pertence sempre, por inteiro, a quem o encontrar, por se tratar de coisa sem dono adquirida por ocupação.",
+"Errada. O Código Civil disciplina o tesouro de modo específico: divide-se com o proprietário quando achado casualmente por terceiro e pertence inteiramente ao proprietário quando achado por ele, em pesquisa que ordenou ou por terceiro não autorizado."
+],
+[
+"A recompensa devida a Lúcia é fixada em 10% do valor da coisa, independentemente de outras circunstâncias.",
+"Errada. A lei fixa um piso de 5%, e não um valor fixo. Na determinação do montante, consideram-se o esforço do descobridor, as possibilidades que o dono teria de encontrar a coisa e a situação econômica de ambos (art. 1.234, parágrafo único)."
+],
+[
+"Se Lúcia tivesse danificado a carteira por descuido, responderia pelos prejuízos ainda que agisse apenas com culpa leve.",
+"Errada. O descobridor só responde pelos prejuízos causados ao dono quando tiver procedido com dolo (art. 1.235)."
+]
+],
+"c": 0,
+"base": "CC, arts. 1.233 a 1.237 e 1.264 a 1.266.",
+"dica": "Achou coisa perdida: devolve, recompensa de no mínimo 5% + despesas; só responde por dolo. Tesouro: achado casual de terceiro = metade; achado do dono, de quem ele mandou procurar ou de invasor = tudo para o dono."
+},
+{
+"disc": "Direito Civil",
+"item": "V12-14",
+"nivel": "médio",
+"tema": "Garantias reais: pacto comissório, cláusula de inalienabilidade e vencimento antecipado (CC, arts. 1.425, 1.428 e 1.475)",
+"enun": "A respeito das disposições gerais do penhor, da hipoteca e da anticrese no Código Civil, avalie as afirmativas a seguir.\nI. É nula a cláusula que autoriza o credor hipotecário a ficar com o imóvel hipotecado se a dívida não for paga no vencimento, mas, após o vencimento, o devedor pode dar o bem em pagamento da dívida.\nII. É válida a cláusula que proíbe o proprietário de alienar o imóvel hipotecado, desde que constante da escritura registrada no Registro de Imóveis.\nIII. A dívida considera-se vencida se, deteriorando-se ou depreciando-se o bem dado em segurança, desfalcar a garantia, e o devedor, intimado, não a reforçar ou substituir.\nEstá correto o que se afirma em",
+"alts": [
+[
+"I, apenas.",
+"Errada. A afirmativa III também está correta, pois reproduz o art. 1.425, I."
+],
+[
+"II, apenas.",
+"Errada. A afirmativa II é a única falsa: o art. 1.475 declara nula a cláusula que proíbe ao proprietário alienar o imóvel hipotecado."
+],
+[
+"I e II, apenas.",
+"Errada. A cláusula de inalienabilidade do bem hipotecado é nula (art. 1.475). As partes podem apenas convencionar que o crédito vencerá se o imóvel for alienado (parágrafo único)."
+],
+[
+"I e III, apenas.",
+"CORRETA. I reproduz o art. 1.428 e seu parágrafo único: o pacto comissório é nulo, mas a dação em pagamento após o vencimento é permitida. III reproduz o art. 1.425, I. II é falsa, porque a cláusula que proíbe a alienação do imóvel hipotecado é nula (art. 1.475)."
+],
+[
+"I, II e III.",
+"Errada. A afirmativa II contraria o art. 1.475 do CC."
+]
+],
+"c": 3,
+"fixa": true,
+"base": "CC, arts. 1.425, 1.428 e 1.475.",
+"dica": "Pacto comissório: nulo (mas a dação após o vencimento vale). Proibir a venda do imóvel hipotecado: nulo; pode-se só prever o vencimento antecipado se houver venda."
+},
+{
+"disc": "Direito Civil",
+"item": "V07",
+"nivel": "difícil",
+"tema": "Evicção: cláusula de exclusão, ciência do risco e verbas devidas (CC, arts. 447 a 457)",
+"enun": "Fábio comprou de Gustavo um terreno por R$ 300.000,00. A escritura continha cláusula pela qual o comprador renunciava a qualquer responsabilidade do vendedor pela evicção. Fábio não foi informado de que tramitava ação reivindicatória movida por Heitor contra Gustavo, na qual este acabou vencido. Fábio perdeu o imóvel, que valia R$ 400.000,00 na data da evicção, e não havia denunciado a lide a Gustavo no processo em que foi desapossado. Ele pretende agora cobrar de Gustavo o valor atual do terreno, as despesas com a escritura e os honorários advocatícios. Considerando o Código Civil e o Código de Processo Civil, assinale a afirmativa correta.",
+"alts": [
+[
+"Apesar da cláusula de exclusão, Fábio tem direito a receber o preço que pagou pelo terreno, pois não soube do risco da evicção, mas a cláusula afasta as demais verbas indenizatórias, e a ausência de denunciação da lide não impede o exercício do direito em ação autônoma.",
+"CORRETA. Segundo o art. 449 do CC, mesmo com cláusula excludente, o evicto recebe o preço pago se não soube do risco ou, informado, não o assumiu. As verbas do art. 450 (frutos, despesas, custas e honorários) são devidas salvo estipulação em contrário, e a cláusula de exclusão as afasta. O art. 125, §1º, do CPC permite exercer o direito regressivo em ação autônoma quando a denunciação não for promovida."
+],
+[
+"A cláusula de exclusão da responsabilidade pela evicção é válida e plena, de modo que Fábio nada pode reclamar de Gustavo.",
+"Errada. A exclusão da garantia tem limite no art. 449: o preço deve ser restituído se o adquirente não soube do risco ou, dele informado, não o assumiu."
+],
+[
+"Fábio perdeu o direito de reclamar a evicção, pois não denunciou a lide ao alienante no processo em que foi desapossado.",
+"Errada. O art. 456 do CC foi revogado pelo CPC/2015 (art. 1.072, II). A denunciação não é obrigatória, e o art. 125, §1º, do CPC ressalva a ação autônoma."
+],
+[
+"Fábio tem direito ao valor do terreno na data da evicção, R$ 400.000,00, acrescido das despesas do contrato e dos honorários advocatícios, pois a cláusula de exclusão é nula quando o comprador desconhece o litígio.",
+"Errada. A cláusula não é nula. Quando o adquirente desconhece o risco, ela só não alcança o preço pago (art. 449). O valor da coisa na época em que se evenceu (art. 450, parágrafo único) e as demais verbas são devidos quando não há exclusão da garantia."
+],
+[
+"Fábio teria direito à indenização mesmo que soubesse, ao comprar, que o terreno era objeto de ação reivindicatória.",
+"Errada. O adquirente não pode demandar pela evicção se sabia que a coisa era alheia ou litigiosa (art. 457)."
+]
+],
+"c": 0,
+"base": "CC, arts. 447 a 450 e 457; CPC, arts. 125, §1º, e 1.072, II.",
+"dica": "Cláusula de exclusão + comprador que não sabia do risco = devolve só o PREÇO pago. Sem cláusula = valor da época da evicção + frutos, despesas e honorários. Sabia que era litigiosa = nada. Denunciação não é obrigatória."
+},
+{
+"disc": "Direito Empresarial",
+"item": "E06",
+"nivel": "difícil",
+"tema": "Transformação, fusão e direito dos credores à anulação (CC, arts. 1.113 a 1.122)",
+"enun": "As sociedades limitadas Alfa e Beta deliberaram, regularmente, unir-se para formar a sociedade Gama Ltda. Pedro, credor quirografário de Alfa por dívida anterior à operação, sentiu-se prejudicado, pois o patrimônio da nova sociedade passou a responder também pelo elevado passivo de Beta. Paralelamente, os sócios majoritários da Delta Ltda., cujo contrato social é omisso a respeito, aprovaram a transformação da sociedade em sociedade anônima, com o voto contrário do sócio minoritário Quintino. Considerando o Código Civil, assinale a afirmativa correta.",
+"alts": [
+[
+"Pedro pode promover judicialmente a anulação da fusão até noventa dias depois de publicados os respectivos atos, e a transformação da Delta, no silêncio do contrato social, depende do consentimento de todos os sócios.",
+"CORRETA. O art. 1.122 confere ao credor anterior prejudicado o direito de pedir judicialmente a anulação da incorporação, fusão ou cisão em até noventa dias da publicação dos atos. Quanto à transformação, o art. 1.114 exige o consentimento de todos os sócios, salvo se prevista no ato constitutivo, hipótese em que o dissidente pode retirar-se."
+],
+[
+"Na fusão, Alfa e Beta conservam sua personalidade jurídica, e a Gama passa a ser sua controladora.",
+"Errada. A fusão determina a extinção das sociedades que se unem, para formar sociedade nova que lhes sucede em todos os direitos e obrigações (art. 1.119). A descrição dada é a de um grupo societário."
+],
+[
+"A transformação da Delta em sociedade anônima pode ser aprovada pela maioria do capital, e Quintino terá apenas o direito de recesso.",
+"Errada. No silêncio do contrato, a transformação depende de unanimidade (art. 1.114). O direito de retirada do dissidente só existe quando a transformação está prevista no ato constitutivo."
+],
+[
+"A transformação da Delta extingue as garantias dos credores constituídas sob o tipo societário anterior, que deverão ser renovadas.",
+"Errada. A transformação não modificará nem prejudicará, em qualquer caso, os direitos dos credores (art. 1.115)."
+],
+[
+"O pedido de anulação de Pedro não será prejudicado nem mesmo se a Gama consignar em pagamento o valor de seu crédito.",
+"Errada. Segundo o art. 1.122, §1º, a consignação em pagamento prejudica a anulação pleiteada. Sendo ilíquida a dívida, a sociedade pode garantir a execução, suspendendo-se o processo (§2º)."
+]
+],
+"c": 0,
+"base": "CC, arts. 1.113 a 1.122.",
+"dica": "Transformação: unanimidade, salvo previsão no contrato (aí o dissidente sai). Credores intactos. Incorporação, fusão e cisão: credor anterior prejudicado tem 90 dias para pedir a anulação; consignação derruba o pedido."
+},
+{
+"disc": "Direito Empresarial",
+"item": "E02",
+"nivel": "fácil",
+"tema": "Empresário casado: alienação de imóveis sem outorga, sociedade entre cônjuges e arquivamento de pactos (CC, arts. 977 a 980)",
+"enun": "Roberto é empresário individual regularmente inscrito no Registro Público de Empresas Mercantis e casado com Sônia sob o regime da comunhão parcial de bens. Ele pretende: (i) vender um galpão que integra o patrimônio da empresa, sem a anuência de Sônia; (ii) constituir com ela uma sociedade limitada para atuar em outro ramo; e (iii) dar publicidade a um imóvel que recebeu em herança com cláusula de incomunicabilidade. Considerando o Código Civil, assinale a afirmativa correta.",
+"alts": [
+[
+"Roberto pode alienar o galpão sem outorga conjugal, pode contratar sociedade com Sônia e deve arquivar e averbar no Registro Público de Empresas Mercantis o título da herança clausulado de incomunicabilidade.",
+"CORRETA. O art. 978 dispensa a outorga conjugal para o empresário casado alienar ou gravar imóveis da empresa, qualquer que seja o regime de bens. O art. 977 só veda a sociedade entre cônjuges casados na comunhão universal ou na separação obrigatória. O art. 979 manda arquivar e averbar no registro empresarial os títulos de herança clausulados de incomunicabilidade."
+],
+[
+"Roberto precisa da outorga de Sônia para vender o galpão, pois a dispensa da outorga só existe no regime da separação absoluta de bens.",
+"Errada. A regra geral do art. 1.647 do CC é afastada pela norma específica do art. 978, que dispensa a outorga para os imóveis da empresa em qualquer regime de bens."
+],
+[
+"A sociedade entre cônjuges é vedada em qualquer regime de bens, para evitar fraudes ao regime matrimonial.",
+"Errada. O art. 977 faculta aos cônjuges contratar sociedade, entre si ou com terceiros, salvo se casados na comunhão universal ou na separação obrigatória."
+],
+[
+"A sociedade entre Roberto e Sônia seria vedada se fossem casados no regime da separação convencional de bens.",
+"Errada. A vedação do art. 977 alcança a separação obrigatória, não a convencional, que decorre da livre escolha dos cônjuges."
+],
+[
+"O título de herança com cláusula de incomunicabilidade deve ser registrado apenas no Registro Civil, pois diz respeito ao estado civil do empresário.",
+"Errada. O art. 979 exige que, além do Registro Civil, esses atos sejam arquivados e averbados no Registro Público de Empresas Mercantis, para proteger terceiros que contratam com o empresário."
+]
+],
+"c": 0,
+"base": "CC, arts. 977, 978, 979 e 1.647.",
+"dica": "Empresário casado vende imóvel da empresa SEM outorga (qualquer regime). Sociedade entre cônjuges: proibida só na comunhão universal e na separação obrigatória."
+},
+{
+"disc": "Direito Penal",
+"item": "D21b",
+"nivel": "médio",
+"tema": "Receptação qualificada, culposa e autonomia em relação ao crime antecedente (CP, art. 180, §§1º a 4º)",
+"enun": "Tiago, proprietário de oficina de desmanche de veículos que funciona sem registro nos fundos de sua residência, adquiriu, sem nota fiscal e por preço muito inferior ao de mercado, peças de um automóvel que, conforme as circunstâncias, devia saber serem produto de furto. Dias depois, Vera comprou de um desconhecido, em um ponto de ônibus, um telefone celular novo por cerca de 10% do seu valor, sem nota ou caixa, sem desconfiar da procedência. Apurou-se que o celular havia sido furtado por um adolescente de 15 anos. Considerando o Código Penal e a jurisprudência do STF, assinale a afirmativa correta.",
+"alts": [
+[
+"Tiago responde por receptação qualificada, que abrange a conduta de quem deve saber ser a coisa produto de crime, e Vera responde por receptação culposa, sendo irrelevante que o autor do furto seja inimputável.",
+"CORRETA. O §1º do art. 180 pune quem, no exercício de atividade comercial, adquire coisa que deve saber ser produto de crime, e o §2º equipara à atividade comercial o comércio irregular ou clandestino, inclusive o exercido em residência. O STF declarou constitucional o preceito secundário do §1º (RE 443.388). Vera adquiriu coisa que, pela desproporção entre valor e preço e pela condição de quem a oferecia, devia presumir obtida por meio criminoso (§3º). O §4º torna a receptação punível ainda que isento de pena o autor do crime antecedente."
+],
+[
+"Tiago responde por receptação simples, pois a expressão “deve saber” indica dolo eventual, incompatível com a pena mais grave da forma qualificada.",
+"Errada. O STF reconheceu a constitucionalidade do §1º, entendendo que a expressão “deve saber” abrange o dolo eventual, e que a maior reprovabilidade decorre da atividade comercial do agente."
+],
+[
+"A conduta de Vera é atípica, pois o celular foi subtraído por adolescente, e o ato infracional não é crime para fins do art. 180 do Código Penal.",
+"Errada. O art. 180, §4º, torna punível a receptação ainda que o autor do crime de que proveio a coisa seja desconhecido ou isento de pena. O fato antecedente é típico e ilícito, ainda que praticado por inimputável."
+],
+[
+"Tiago não pode responder pela forma qualificada, pois a atividade comercial exigida pelo §1º pressupõe estabelecimento regularmente registrado.",
+"Errada. O §2º equipara à atividade comercial qualquer forma de comércio irregular ou clandestino, inclusive o exercido em residência."
+],
+[
+"Vera responde por receptação dolosa, pois a desproporção entre o preço e o valor do bem demonstra, por si só, o conhecimento da origem ilícita.",
+"Errada. A desproporção de preço é justamente um dos indicativos legais da receptação culposa (§3º), em que o agente deve presumir, mas não sabe, a origem criminosa. Para a forma dolosa do caput, exige-se que o agente saiba da origem ilícita."
+]
+],
+"c": 0,
+"base": "CP, art. 180, caput e §§1º a 4º; STF, RE 443.388.",
+"dica": "Receptação: SABE (caput); DEVE SABER + atividade comercial, mesmo clandestina ou em casa (§1º); DEVE PRESUMIR por preço, natureza ou vendedor (culposa, §3º). Autor do crime antecedente inimputável ou desconhecido: pune do mesmo jeito."
+},
+{
+"disc": "Direito Penal",
+"item": "D07",
+"nivel": "médio",
+"tema": "Momento consumativo: furto (Tema 934/STJ), extorsão mediante sequestro, concussão, estelionato e falso testemunho",
+"enun": "Em uma aula sobre iter criminis, o professor apresentou os seguintes casos: (i) Ana subtraiu uma bolsa em uma loja e foi presa por seguranças a poucos metros, após perseguição imediata, sem nunca ter tido a posse tranquila do bem; (ii) Bento privou Caio de sua liberdade para exigir resgate, mas foi preso antes de fazer qualquer contato com a família; (iii) o fiscal Dario exigiu de um comerciante vantagem indevida, que nunca chegou a ser paga; (iv) Elias empregou ardil contra uma vítima, que percebeu a fraude antes de transferir qualquer valor; e (v) Fausto mentiu em seu depoimento como testemunha, mas a sentença ainda não foi proferida. Considerando o Código Penal e a jurisprudência dos Tribunais Superiores, assinale a afirmativa correta.",
+"alts": [
+[
+"Ana consumou o furto, pois basta a inversão da posse do bem, ainda que por breve tempo e seguida de perseguição imediata, dispensando-se a posse mansa e pacífica ou desvigiada.",
+"CORRETA. É a tese do Tema 934 do STJ (teoria da amotio ou apprehensio): o furto se consuma com a inversão da posse, ainda que por breve tempo, sendo dispensável a posse mansa e pacífica ou desvigiada. A mesma lógica vale para o roubo (Súmula 582/STJ)."
+],
+[
+"Bento praticou extorsão mediante sequestro tentada, pois o crime só se consuma com a exigência do resgate à família da vítima.",
+"Errada. A extorsão mediante sequestro (art. 159) é crime formal e permanente: consuma-se com a privação da liberdade da vítima com o fim de obter vantagem, independentemente da exigência ou do pagamento do resgate."
+],
+[
+"Dario praticou concussão tentada, pois o crime se consuma apenas com o recebimento da vantagem indevida.",
+"Errada. A concussão (art. 316) é crime formal e consuma-se com a mera exigência da vantagem. O recebimento posterior é exaurimento."
+],
+[
+"Elias consumou o estelionato, pois o crime se aperfeiçoa com o emprego do meio fraudulento, independentemente da obtenção de vantagem.",
+"Errada. O estelionato (art. 171) é crime material: exige a obtenção da vantagem ilícita em prejuízo alheio. Se a vítima percebe a fraude antes do prejuízo, há tentativa."
+],
+[
+"O falso testemunho de Fausto só se consumará com o trânsito em julgado da sentença proferida no processo em que depôs.",
+"Errada. O falso testemunho (art. 342) é crime formal e consuma-se com o encerramento do depoimento. A sentença é relevante apenas para a retratação, que extingue a punibilidade se feita antes dela (§2º)."
+]
+],
+"c": 0,
+"base": "CP, arts. 155, 159, 171, 316 e 342; STJ, Tema 934 e Súmula 582.",
+"dica": "Furto e roubo: inversão da posse basta. Extorsão mediante sequestro: a privação da liberdade basta. Concussão: a exigência basta. Estelionato: precisa da vantagem. Falso testemunho: termina o depoimento."
+},
+{
+"disc": "Direito Penal",
+"item": "D12",
+"nivel": "médio",
+"tema": "Limite de 40 anos de cumprimento, unificação e nova condenação (CP, art. 75; Súmula 715/STF)",
+"enun": "Ricardo foi condenado em três processos distintos, por crimes praticados em 2021, a penas privativas de liberdade que somam 62 anos de reclusão. O juízo da execução unificou as penas para atender ao limite legal. Após cumprir 10 anos, Ricardo praticou homicídio no interior do presídio, pelo qual foi condenado a mais 15 anos. A defesa sustenta que o limite aplicável é de 30 anos, que a progressão de regime deve ser calculada sobre a pena unificada e que, de qualquer forma, Ricardo não pode permanecer preso por mais de 40 anos contados do início do cumprimento. Considerando o Código Penal e a jurisprudência do STF, assinale a afirmativa correta.",
+"alts": [
+[
+"A progressão de regime e o livramento condicional devem ser calculados sobre o total das penas, e não sobre a pena unificada, e, sobrevindo condenação por fato posterior ao início do cumprimento, far-se-á nova unificação, desprezando-se, para esse fim, o período de pena já cumprido.",
+"CORRETA. A Súmula 715 do STF estabelece que a pena unificada para atender ao limite do art. 75 não é considerada para a concessão de outros benefícios, como livramento condicional ou regime mais favorável. O art. 75, §2º, determina nova unificação em caso de condenação por fato posterior ao início do cumprimento, desprezando-se o período já cumprido."
+],
+[
+"O limite de cumprimento aplicável é de 30 anos, por ser a regra mais benéfica ao condenado.",
+"Errada. O limite de 40 anos foi introduzido pela Lei 13.964/2019, em vigor desde janeiro de 2020. Como os crimes foram praticados em 2021, aplica-se a lei vigente ao tempo dos fatos, sem retroatividade de lei mais benéfica."
+],
+[
+"Os benefícios da execução devem ser calculados sobre a pena unificada de 40 anos, que passa a ser a pena a cumprir para todos os efeitos.",
+"Errada. A unificação serve apenas para limitar o tempo máximo de cumprimento. Os benefícios são calculados sobre a pena total aplicada (Súmula 715/STF)."
+],
+[
+"Ricardo não pode permanecer preso por mais de 40 anos contados do início do cumprimento, ainda que pratique novos crimes durante a execução.",
+"Errada. A nova condenação por fato posterior ao início do cumprimento gera nova unificação, desprezando-se o período já cumprido (art. 75, §2º). Assim, o tempo total de prisão pode superar 40 anos contados do início."
+],
+[
+"O juiz sentenciante não pode aplicar, em um único processo, pena superior a 40 anos, sob pena de violação ao art. 75 do Código Penal.",
+"Errada. O art. 75 limita o tempo de cumprimento das penas, não a pena aplicada na sentença, que pode superar 40 anos, como no concurso material de crimes graves."
+]
+],
+"c": 0,
+"base": "CP, art. 75, §§1º e 2º; Lei 13.964/2019; Súmula 715/STF.",
+"dica": "40 anos é teto de CUMPRIMENTO, não de pena aplicada. Benefícios se calculam sobre o total (Súmula 715). Crime novo durante a execução: nova unificação, desprezando o tempo já cumprido."
+},
+{
+"disc": "Direito Penal",
+"item": "D21d",
+"nivel": "fácil",
+"tema": "Prevaricação, corrupção passiva privilegiada e condescendência criminosa (CP, arts. 317, §2º, 319 e 320)",
+"enun": "Três servidores públicos do Município Alfa foram investigados. O agente de fiscalização Paulo deixou de lavrar auto de infração contra o restaurante de seu amigo de infância, apesar de constatar irregularidades sanitárias graves, porque não queria prejudicar o amigo. O fiscal de obras Rui deixou de embargar uma construção irregular atendendo a pedido insistente de um vereador influente, sem receber nem lhe ser prometida qualquer vantagem. A chefe de repartição Sílvia, por indulgência, deixou de responsabilizar um subordinado que cometeu infração funcional no exercício do cargo, embora fosse competente para fazê-lo. Considerando o Código Penal, assinale a afirmativa correta.",
+"alts": [
+[
+"Paulo praticou prevaricação, Rui praticou corrupção passiva privilegiada e Sílvia praticou condescendência criminosa.",
+"CORRETA. Paulo deixou de praticar ato de ofício para satisfazer sentimento pessoal (art. 319). Rui deixou de praticar ato de ofício com infração de dever funcional, cedendo a pedido ou influência de outrem (art. 317, §2º). Sílvia, por indulgência, deixou de responsabilizar subordinado (art. 320)."
+],
+[
+"Paulo e Rui praticaram prevaricação, e Sílvia praticou corrupção passiva privilegiada.",
+"Errada. Rui cedeu a pedido ou influência de terceiro, elemento específico da corrupção passiva privilegiada. Na prevaricação, o móvel é interesse ou sentimento pessoal do próprio agente. A conduta de Sílvia corresponde à condescendência criminosa."
+],
+[
+"Paulo praticou corrupção passiva, Rui praticou concussão e Sílvia praticou prevaricação.",
+"Errada. A corrupção passiva do caput exige solicitação, recebimento ou aceitação de promessa de vantagem indevida, inexistente no caso de Paulo. A concussão exige a exigência de vantagem indevida. A omissão por indulgência em responsabilizar subordinado é condescendência criminosa."
+],
+[
+"Rui não praticou crime algum, pois a corrupção passiva exige sempre o recebimento ou a promessa de vantagem indevida.",
+"Errada. A forma privilegiada do §2º do art. 317 dispensa a vantagem: basta que o funcionário pratique, deixe de praticar ou retarde ato de ofício, com infração de dever funcional, cedendo a pedido ou influência de outrem."
+],
+[
+"Sílvia praticou prevaricação, pois deixou de praticar ato de ofício que lhe competia, satisfazendo sentimento pessoal de indulgência.",
+"Errada. A omissão em responsabilizar subordinado por indulgência tem tipo específico, a condescendência criminosa (art. 320), que prevalece pelo princípio da especialidade."
+]
+],
+"c": 0,
+"base": "CP, arts. 316, 317, caput e §2º, 319 e 320.",
+"dica": "Sentimento PESSOAL = prevaricação. Pedido ou influência de OUTREM, sem vantagem = corrupção passiva privilegiada. Indulgência com SUBORDINADO = condescendência."
+},
+{
+"disc": "Direito Penal",
+"item": "D04-06",
+"nivel": "médio",
+"tema": "Crimes de perigo abstrato e concreto: arma desmuniciada ou inapta, embriaguez ao volante e direção sem habilitação",
+"enun": "Sobre a classificação dos crimes de perigo e sua aplicação pelos Tribunais Superiores, assinale a afirmativa correta.",
+"alts": [
+[
+"O porte ilegal de arma de fogo desmuniciada configura crime, pois se trata de delito de perigo abstrato, que tutela a segurança pública e a paz social.",
+"CORRETA. O STF e o STJ consolidaram o entendimento de que o porte ilegal de arma de fogo, ainda que desmuniciada, é crime de perigo abstrato, cuja tipicidade independe da demonstração de perigo concreto (Lei 10.826/2003, arts. 14 e 16)."
+],
+[
+"O crime de embriaguez ao volante exige a demonstração de que o motorista conduzia o veículo de forma anormal, expondo a perigo concreto a segurança viária.",
+"Errada. Para o STJ, o crime do art. 306 do CTB é de perigo abstrato e se configura com a condução do veículo com capacidade psicomotora alterada pelo álcool, dispensada a prova de direção anormal ou de dano potencial a pessoa determinada."
+],
+[
+"A direção de veículo automotor sem habilitação é crime de perigo abstrato, que se consuma com a simples condução do veículo pelo inabilitado.",
+"Errada. O art. 309 do CTB exige que a conduta gere perigo de dano (perigo concreto). Segundo a Súmula 720 do STF, o art. 309 derrogou o art. 32 da Lei das Contravenções Penais quanto à direção sem habilitação em vias terrestres."
+],
+[
+"Os crimes de perigo abstrato são incompatíveis com a Constituição, por violarem os princípios da ofensividade e da lesividade.",
+"Errada. O STF admite a constitucionalidade dos crimes de perigo abstrato, como opção legítima do legislador para a proteção antecipada de bens jurídicos coletivos relevantes, desde que respeitada a proporcionalidade."
+],
+[
+"O porte de arma de fogo cuja perícia ateste a absoluta ineficácia para disparar configura crime, pois a lei não distingue a arma apta da inapta.",
+"Errada. O STJ entende que, comprovada pericialmente a absoluta ineficácia da arma, não há potencialidade lesiva, e a conduta é atípica (crime impossível por absoluta impropriedade do objeto, CP, art. 17). Isso difere da arma apta apenas desmuniciada."
+]
+],
+"c": 0,
+"base": "Lei 10.826/2003, arts. 14 e 16; CTB, arts. 306 e 309; Súmula 720/STF; CP, art. 17.",
+"dica": "Arma desmuniciada = crime (perigo abstrato). Arma totalmente inapta (laudo) = atípico. Embriaguez ao volante = perigo abstrato. Sem habilitação = precisa de perigo concreto (Súmula 720)."
+},
+{
+"disc": "Direito Penal",
+"item": "D13-16",
+"nivel": "difícil",
+"tema": "Representação na ação penal pública condicionada: forma, prazo decadencial e irretratabilidade (CP, arts. 102 e 103; CPP, arts. 25 e 38)",
+"enun": "No dia 10 de janeiro, Laura foi ameaçada de morte por seu vizinho Otávio, durante uma discussão sobre barulho, e soube no mesmo instante quem era o autor. No dia seguinte, registrou boletim de ocorrência, no qual narrou os fatos e declarou expressamente desejar que Otávio fosse processado, sem, no entanto, assinar qualquer termo específico de representação. O inquérito foi concluído, e o Ministério Público ofereceu denúncia em 2 de julho. Arrependida, Laura compareceu ao cartório no dia 5 de julho, antes do recebimento da denúncia, afirmando querer retirar a representação. A defesa sustenta que não houve representação válida e que, de todo modo, a retratação extingue a punibilidade. Considerando o Código Penal, o Código de Processo Penal e a jurisprudência do STJ, assinale a afirmativa correta.",
+"alts": [
+[
+"A representação dispensa formalidades e pode ser extraída da manifestação inequívoca da vítima no boletim de ocorrência, e a retratação de Laura é ineficaz, pois a representação é irretratável depois de oferecida a denúncia.",
+"CORRETA. O STJ entende que a representação prescinde de rigor formal, bastando a demonstração inequívoca do interesse da vítima na persecução penal, o que pode constar do boletim de ocorrência. Os arts. 102 do CP e 25 do CPP tornam a representação irretratável após o oferecimento (e não o recebimento) da denúncia. A ameaça, no caso, procede mediante representação (CP, art. 147, §2º)."
+],
+[
+"A retratação de Laura é eficaz, pois a representação pode ser retirada até o recebimento da denúncia pelo juiz.",
+"Errada. O marco legal é o oferecimento da denúncia (CP, art. 102; CPP, art. 25). Como a denúncia foi oferecida em 2 de julho, a retratação de 5 de julho é ineficaz. O marco do recebimento aparece na Lei Maria da Penha (art. 16), para a renúncia em audiência específica."
+],
+[
+"Não houve representação válida, pois ela exige termo próprio, assinado pela vítima perante a autoridade policial ou o Ministério Público.",
+"Errada. A jurisprudência dispensa forma sacramental: o registro de ocorrência com manifestação clara do desejo de ver o autor processado supre a representação."
+],
+[
+"Ainda que existisse representação válida no boletim, a denúncia seria intempestiva, pois o prazo decadencial de seis meses deve ser observado também pelo Ministério Público para oferecer a denúncia.",
+"Errada. O prazo decadencial de seis meses (CP, art. 103; CPP, art. 38) refere-se ao exercício do direito de representação pela vítima, e não ao oferecimento da denúncia. Representada a vítima no dia seguinte ao fato, o prazo foi cumprido."
+],
+[
+"O crime de ameaça é de ação penal pública incondicionada em qualquer hipótese, de modo que a discussão sobre a representação é irrelevante.",
+"Errada. O art. 147, §2º, do CP prevê que a ameaça somente se procede mediante representação, exceto quando cometida contra a mulher por razões da condição do sexo feminino (§1º), o que não é o caso de uma discussão entre vizinhos sobre barulho."
+]
+],
+"c": 0,
+"base": "CP, arts. 102, 103 e 147, §§1º e 2º; CPP, arts. 25 e 38; Lei 11.340/2006, art. 16.",
+"dica": "Representação: sem forma rígida (BO serve); 6 meses do dia em que se soube quem é o autor; irretratável depois de OFERECIDA a denúncia. Na Maria da Penha, a renúncia vai até o RECEBIMENTO, em audiência."
+}
+]

@@ -1610,5 +1610,317 @@
   ],
   "base": "CF, art. 5º, XL; CP, art. 2º, parágrafo único; Súmula 711/STF; Súmula 501/STJ; STF, RE 600.817.",
   "dica": "Permanente: vale a lei mais grave vigente antes de cessar (Súmula 711). Mas lei nova mais benéfica sempre retroage."
+ },
+ "e5-11": {
+  "nivel": "fácil",
+  "tema": "Trabalho do menor: idade mínima, aprendiz e trabalho noturno (CF, art. 7º, XXXIII)",
+  "coms": [
+   "Errada. A Constituição admite o trabalho a partir dos 14 anos na condição de aprendiz (art. 7º, XXXIII). Manuela, com 14 anos e contratada como aprendiz, trabalha regularmente.",
+   "CORRETA. O art. 7º, XXXIII, proíbe o trabalho noturno, perigoso ou insalubre a menores de 18 anos e qualquer trabalho a menores de 16, salvo na condição de aprendiz, a partir de 14. Jéssica (17) e Rodrigo (16) trabalham em horário diurno (das 10h às 17h), em funções não perigosas nem insalubres, e Manuela (14) é aprendiz. Todos os contratos são válidos.",
+   "Errada. Nenhum dos contratos é vedado pela idade: o limite geral é 16 anos, e o de aprendiz é 14 anos, ambos respeitados.",
+   "Errada. O contrato de Rodrigo (16 anos, trabalho diurno e não insalubre) e o de Manuela (aprendiz de 14 anos) também são compatíveis com a Constituição.",
+   "Errada. A ilicitude só existiria se houvesse trabalho noturno, perigoso ou insalubre para menor de 18, trabalho de menor de 16 fora da aprendizagem ou qualquer trabalho de menor de 14, o que não ocorre."
+  ],
+  "base": "CF, art. 7º, XXXIII; CLT, arts. 403 e 428.",
+  "dica": "Menor: 14 anos só como aprendiz; 16 em diante pode trabalhar; até 18 anos, nada noturno (22h às 5h), perigoso ou insalubre."
+ },
+ "e4-12": {
+  "nivel": "médio",
+  "tema": "Competência criminal: juiz estadual, pornografia infantil, estelionato transnacional, contrabando e tráfico interestadual",
+  "coms": [
+   "Errada. Juiz de Direito é julgado pelo Tribunal de Justiça a que está vinculado em todos os crimes comuns, inclusive federais, ressalvada apenas a competência da Justiça Eleitoral (CF, art. 96, III).",
+   "Errada. O simples uso da internet não atrai a Justiça Federal. O STF (Tema 393) fixou a competência federal quando a divulgação ocorre pela rede mundial de computadores com potencial de acesso no exterior. O STJ considera estadual a troca de material em conversas e grupos privados de aplicativos entre pessoas no Brasil, sem indício de transnacionalidade.",
+   "Errada. A transnacionalidade só atrai a Justiça Federal quando o crime está previsto em tratado ou convenção internacional (CF, art. 109, V), o que não ocorre com o estelionato comum. A competência é da Justiça Estadual.",
+   "Errada. O contrabando ofende interesse da União no controle aduaneiro e é de competência da Justiça Federal, ainda que a mercadoria seja apreendida no interior do país (Súmula 151/STJ).",
+   "CORRETA. Salvo o tráfico para o exterior, compete à Justiça Estadual julgar os crimes relativos a entorpecentes (Súmula 522/STF; Lei 11.343/2006, art. 70). O tráfico interestadual não desloca a competência para a Justiça Federal, e a investigação pela Polícia Federal não altera essa conclusão."
+  ],
+  "base": "CF, arts. 96, III, e 109, IV e V; Súmula 522/STF; Súmula 151/STJ; STF, Tema 393.",
+  "dica": "Tráfico interestadual = estadual; internacional = federal. Contrabando = federal. Estelionato contra vítima no exterior = estadual (não há tratado). Juiz estadual: sempre o TJ, salvo crime eleitoral."
+ },
+ "e5-24": {
+  "nivel": "difícil",
+  "tema": "Desapropriação indireta por concessionária x faixa não edificável como limitação administrativa",
+  "coms": [
+   "Errada. A faixa não edificável ao longo das faixas de domínio das rodovias (Lei 6.766/1979, art. 4º, III-A) é restrição geral e abstrata ao direito de construir. É limitação administrativa, em regra não indenizável, e não desapropriação.",
+   "Errada. A área não edificável não constitui servidão administrativa, que onera bem determinado em favor de um serviço ou obra específica. Trata-se de limitação administrativa genérica, imposta a todos os imóveis lindeiros.",
+   "CORRETA. A ocupação material da propriedade pela obra de duplicação, sem declaração de utilidade pública e sem indenização prévia, configura desapropriação indireta, que gera direito a indenização (DL 3.365/1941, art. 35). A concessionária pode promover desapropriações autorizadas pelo poder concedente (Lei 8.987/1995, art. 31, VI). A faixa não edificável é limitação administrativa.",
+   "Errada. A ocupação temporária é uso transitório de imóvel particular como apoio à execução de obra pública (DL 3.365/1941, art. 36). A incorporação definitiva da área à faixa de domínio caracteriza perda da propriedade, e não ocupação transitória.",
+   "Errada. Atuando por delegação do poder concedente, a concessionária executa a obra pública e pode figurar em atos de intervenção na propriedade. Consumada a afetação do bem à obra pública, a via adequada é a indenizatória por desapropriação indireta, e não a possessória."
+  ],
+  "base": "DL 3.365/1941, arts. 3º, 35 e 36; Lei 8.987/1995, art. 31, VI; Lei 6.766/1979, art. 4º, III-A.",
+  "dica": "Tomaram a área sem decreto e sem indenizar = desapropriação indireta (indeniza). Proibição geral de construir (faixa non aedificandi) = limitação administrativa (em regra, não indeniza)."
+ },
+ "e4-26": {
+  "nivel": "médio",
+  "tema": "Transferência da concessão sem nova licitação (Lei 8.987/1995, art. 27; ADI 2.946)",
+  "coms": [
+   "Errada. A encampação é a retomada do serviço pelo poder concedente durante o prazo da concessão, por interesse público, mediante lei autorizativa específica e prévia indenização (Lei 8.987/1995, art. 37). Não é consequência da dificuldade financeira da concessionária nem da transferência autorizada.",
+   "Errada. No julgamento da ADI 2.946, o STF declarou constitucional o art. 27 da Lei 8.987/1995, por entender que o contrato de concessão não é intuitu personae. O que a licitação protege é a proposta mais vantajosa, mantida com a transferência.",
+   "Errada. As receitas alternativas, complementares e acessórias (art. 11) são instrumento para favorecer a modicidade tarifária e não resolvem a questão central, que é a validade da transferência autorizada.",
+   "Errada. O art. 27 não restringe a transferência aos participantes da licitação original. Exige a anuência prévia do poder concedente e que o pretendente atenda aos requisitos do §1º.",
+   "CORRETA. O art. 27, caput e §1º, da Lei 8.987/1995 admite a transferência da concessão com prévia anuência do poder concedente, desde que o pretendente atenda às exigências de capacidade técnica, idoneidade financeira e regularidade jurídica e fiscal e se comprometa a cumprir todas as cláusulas do contrato em vigor. O STF confirmou a validade do dispositivo (ADI 2.946)."
+  ],
+  "base": "CF, art. 175; Lei 8.987/1995, arts. 11, 27 e 37; STF, ADI 2.946.",
+  "dica": "Transferir concessão sem nova licitação pode (ADI 2.946), desde que haja anuência prévia do poder concedente e o novo concessionário cumpra os requisitos. Sem anuência = caducidade."
+ },
+ "e5-36": {
+  "nivel": "médio",
+  "tema": "Meio ambiente como direito humano: greening, imprescritibilidade e vedação ao retrocesso (ADPF 708 e ADPF 651)",
+  "coms": [
+   "Errada. O STF fixou que é imprescritível a pretensão de reparação civil de dano ambiental (Tema 999) e, depois, que também é imprescritível a pretensão executória, sendo inaplicável a prescrição intercorrente na execução da reparação do dano ambiental, ainda que convertida em perdas e danos (Tema 1.268).",
+   "Errada. O PIDESC não consagra expressamente o direito ao meio ambiente ecologicamente equilibrado. Menciona apenas a melhoria da higiene do trabalho e do meio ambiente como medida ligada ao direito à saúde (art. 12.2, b).",
+   "Errada. A Convenção Americana não prevê expressamente esse direito. No sistema interamericano, ele aparece no Protocolo de San Salvador (art. 11) e foi reconhecido pela Corte IDH a partir do art. 26 da CADH (Opinião Consultiva 23/2017).",
+   "CORRETA. O greening, ou esverdeamento, é a proteção reflexa do meio ambiente por meio de outros direitos humanos (vida, saúde, propriedade, vida privada), técnica usada por cortes internacionais cujos tratados não preveem o direito ambiental de forma autônoma.",
+   "Errada. Na ADPF 651, o STF declarou inconstitucionais decretos que excluíam a sociedade civil e os governadores de conselhos e fundos ambientais, por violação aos princípios da participação popular e da vedação ao retrocesso socioambiental."
+  ],
+  "base": "CF, art. 225; PIDESC, art. 12; Protocolo de San Salvador, art. 11; STF, ADPF 708, ADPF 651 e Temas 999 e 1.268.",
+  "dica": "Greening = proteger o ambiente por tabela, via outros direitos. Dano ambiental: reparação e execução imprescritíveis. Direito ao meio ambiente expresso: Protocolo de San Salvador, não a CADH nem o PIDESC."
+ },
+ "e3-47": {
+  "nivel": "difícil",
+  "tema": "Ação popular: apelação para alterar o fundamento da improcedência por falta de provas e recurso adesivo",
+  "coms": [
+   "Errada. Ambos os recursos são admissíveis. A Fazenda tem interesse recursal específico, e a apelação adesiva do autor preenche os requisitos do art. 997 do CPC.",
+   "CORRETA. Na ação popular, a sentença de improcedência por insuficiência de provas não faz coisa julgada material plena: qualquer cidadão pode repropor a ação com nova prova (Lei 4.717/1965, art. 18). Por isso, a Fazenda tem interesse em recorrer apenas da fundamentação, para obter improcedência pelo reconhecimento da licitude do ato, apta a gerar coisa julgada erga omnes. Havendo sucumbência recíproca, o autor pode aderir ao recurso (CPC, art. 997, §§1º e 2º). Os dois recursos devem ser conhecidos.",
+   "Errada. A apelação principal da Fazenda deve ser conhecida, pois, excepcionalmente, a mudança do fundamento altera a eficácia da coisa julgada (Lei 4.717/1965, art. 18), o que configura interesse recursal.",
+   "Errada. A apelação adesiva também deve ser conhecida: a Fazenda ficou vencida quanto ao fundamento, o que permite ao autor, vencido no pedido, aderir ao recurso da parte contrária no prazo das contrarrazões (CPC, art. 997).",
+   "Errada. O juízo de admissibilidade da apelação é feito exclusivamente pelo tribunal (CPC, art. 1.010, §3º). O juiz de primeiro grau não pode obstar a subida do recurso."
+  ],
+  "base": "Lei 4.717/1965, arts. 18 e 19; CPC, arts. 996, 997 e 1.010, §3º.",
+  "dica": "Ação popular improcedente por falta de provas = cabe nova ação com prova nova. Por isso o réu pode apelar só para mudar o fundamento. E o juiz de 1º grau não faz admissibilidade da apelação."
+ },
+ "e5-41": {
+  "nivel": "médio",
+  "tema": "Remessa necessária: vedação da reformatio in pejus, cabimento e julgamento estendido (CPC, arts. 496 e 942; Súmula 45/STJ)",
+  "coms": [
+   "CORRETA. Segundo a Súmula 45/STJ, no reexame necessário é defeso ao tribunal agravar a condenação imposta à Fazenda Pública. A remessa existe em favor do ente público e não pode piorar sua situação.",
+   "Errada. A remessa necessária não retira o interesse recursal da Fazenda, que pode apelar normalmente. Interposta a apelação no prazo legal, o tribunal julga o recurso e a remessa.",
+   "Errada. A remessa necessária alcança as sentenças proferidas contra a União, os Estados, o DF, os Municípios e suas autarquias e fundações de direito público (CPC, art. 496, I). Não abrange empresas públicas e sociedades de economia mista.",
+   "Errada. O art. 942, §4º, II, do CPC exclui a aplicação da técnica de julgamento estendido à remessa necessária.",
+   "Errada. Não há regra que imponha a remessa pelo reconhecimento incidental de inconstitucionalidade. A remessa observa os limites de valor do art. 496, §3º, e as exceções do §4º (sentença fundada em precedentes vinculantes ou em orientação administrativa vinculante)."
+  ],
+  "base": "CPC, arts. 496 e 942, §4º, II; Súmula 45/STJ.",
+  "dica": "Remessa necessária: só pode MELHORAR para a Fazenda (Súmula 45). Não vale para estatais. Não tem julgamento estendido. A Fazenda pode apelar mesmo assim."
+ },
+ "e1-52": {
+  "nivel": "médio",
+  "tema": "Casamento por procuração e revogação do mandato desconhecida (CC, arts. 1.542 e 1.550, V)",
+  "coms": [
+   "CORRETA. É anulável o casamento realizado pelo mandatário sem que ele ou o outro contraente soubesse da revogação do mandato, e não sobrevindo coabitação entre os cônjuges (CC, art. 1.550, V). O art. 1.542, §1º, dispõe que, celebrado o casamento sem que o mandatário ou o outro contraente tivessem ciência da revogação, o mandante responderá por perdas e danos.",
+   "Errada. O casamento não é inexistente, pois houve celebração por autoridade com manifestação de vontade por procurador com poderes especiais. A lei o considera anulável e impõe ao mandante o dever de indenizar.",
+   "Errada. A hipótese não é de nulidade, mas de anulabilidade. Por isso, a lei admite a convalidação se sobrevier coabitação entre os cônjuges (art. 1.550, V).",
+   "Errada. A eficácia do mandato para o casamento é de noventa dias (art. 1.542, §3º). A procuração foi outorgada setenta dias antes da cerimônia, dentro do prazo.",
+   "Errada. A revogação do mandato para o casamento só pode ser feita por instrumento público (art. 1.542, §4º)."
+  ],
+  "base": "CC, arts. 1.542, §§1º, 3º e 4º, 1.550, V, e 1.560, §2º.",
+  "dica": "Procuração para casar: instrumento público, poderes especiais, 90 dias; revogação também por escritura. Revogação ignorada = casamento ANULÁVEL (convalida com coabitação) + mandante paga perdas e danos."
+ },
+ "e4-59": {
+  "nivel": "difícil",
+  "tema": "Fiança locatícia: ação de despejo não interrompe a prescrição da cobrança e benefício de ordem legal (CC, arts. 827 e 828)",
+  "coms": [
+   "Errada. Segundo o STJ, a ação de despejo por falta de pagamento, sem cumulação com cobrança, não interrompe a prescrição da pretensão de cobrança dos aluguéis, pois seu objeto é a rescisão da locação e a retomada do imóvel. Além disso, o benefício de ordem decorre da lei, e não apenas de cláusula expressa.",
+   "Errada. O despacho que ordena a citação interrompe a prescrição, e não a suspende (CC, art. 202, I). No caso, a ação de despejo nem sequer produziu esse efeito quanto à pretensão de cobrança.",
+   "CORRETA. A ação de despejo, que não veiculou pretensão de cobrança, não interrompeu a prescrição dos aluguéis. O benefício de ordem é assegurado pela lei ao fiador (CC, art. 827) e só deixa de existir se houver renúncia expressa ou se o fiador se obrigar como principal pagador ou devedor solidário (art. 828). A cláusula expressa apenas reforçou um direito que já existia.",
+   "Errada. A primeira parte está correta, mas o benefício de ordem não depende de cláusula expressa: é direito legal do fiador (art. 827), afastável por renúncia (art. 828).",
+   "Errada. A ação de despejo por falta de pagamento, sem pedido de cobrança, não interrompe a prescrição da pretensão de receber os aluguéis."
+  ],
+  "base": "CC, arts. 202, I, 204, §3º, 206, §3º, I, 827 e 828; Lei 8.245/1991, art. 62.",
+  "dica": "Aluguel prescreve em 3 anos. Despejo sem pedido de cobrança não interrompe a prescrição. Benefício de ordem vem da LEI; só some com renúncia ou solidariedade."
+ },
+ "e3-80": {
+  "nivel": "médio",
+  "tema": "Atos libidinosos com menor de 14 anos e bis in idem entre agravante e causa de aumento (Súmula 593 e Tema 1.121/STJ)",
+  "coms": [
+   "Errada. A prática de atos libidinosos com menor de 14 anos configura estupro de vulnerável (CP, art. 217-A), e o STJ afasta a desclassificação para importunação sexual quando a vítima é menor de 14 anos (Tema 1.121).",
+   "Errada. O estupro de vulnerável se consuma com a prática de qualquer ato libidinoso, como carícias nos seios e beijo lascivo, e não exige conjunção carnal. A interrupção posterior não torna o crime tentado.",
+   "Errada. O crime é consumado, mas o STJ entende que a incidência simultânea da agravante do art. 61, II, f (abuso de autoridade), e da causa de aumento do art. 226, II (preceptor ou quem tem autoridade sobre a vítima), configura bis in idem, pois ambas se baseiam na mesma circunstância.",
+   "CORRETA. Os atos libidinosos já praticados consumaram o estupro de vulnerável (art. 217-A; Súmula 593/STJ). A autoridade do professor sobre a aluna não pode ser valorada duas vezes, como agravante e como causa de aumento, sob pena de bis in idem (STJ).",
+   "Errada. Não se trata de importunação sexual (Tema 1.121/STJ), e a cumulação da agravante com a majorante pela mesma circunstância é vedada."
+  ],
+  "base": "CP, arts. 61, II, f, 215-A, 217-A e 226, II; Súmula 593/STJ; STJ, Tema 1.121.",
+  "dica": "Menor de 14 + qualquer ato libidinoso = estupro de vulnerável CONSUMADO (nunca importunação). Mesma autoridade não agrava duas vezes."
+ },
+ "e4-79": {
+  "nivel": "médio",
+  "tema": "Pena de multa: inadimplemento, prescrição, Súmula 171/STJ e concurso de crimes (CP, arts. 51, 72 e 114)",
+  "coms": [
+   "Errada. O valor da multa em relação ao mínimo da execução fiscal não a torna inexequível. Para o STJ, o inadimplemento da pena de multa impede a extinção da punibilidade, salvo se comprovada a impossibilidade de pagamento pelo condenado.",
+   "Errada. A prescrição em dois anos aplica-se quando a multa for a única cominada ou aplicada. Aplicada cumulativamente com pena privativa de liberdade, prescreve no mesmo prazo desta (CP, art. 114, I e II).",
+   "Errada. Segundo a Súmula 171/STJ, cominadas cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é vedada a substituição da prisão por multa.",
+   "CORRETA. Segundo o art. 72 do CP, no concurso de crimes as penas de multa são aplicadas distinta e integralmente. O STJ aplica a regra também ao concurso formal e ao crime continuado, somando-se as multas, sem a exasperação aplicável à pena privativa de liberdade.",
+   "Errada. Desde a Lei 9.268/1996, a multa é considerada dívida de valor e não pode ser convertida em pena privativa de liberdade (CP, art. 51)."
+  ],
+  "base": "CP, arts. 51, 60, §2º, 72 e 114; Súmula 171/STJ.",
+  "dica": "Multa: somam-se sempre no concurso (art. 72). Não vira prisão. Prescreve em 2 anos só se for a única pena. Não paga = punibilidade não se extingue, salvo se provar que não tem como pagar."
+ },
+ "e1-14": {
+  "nivel": "fácil",
+  "tema": "Conselho Superior da Justiça do Trabalho (CF, art. 111-A, §2º, II)",
+  "coms": [
+   "Errada. O STF é o órgão de cúpula do Judiciário e guardião da Constituição, mas não exerce a supervisão administrativa da Justiça do Trabalho.",
+   "Errada. O Conselho da Justiça Federal funciona junto ao STJ e supervisiona a Justiça Federal de primeiro e segundo graus (CF, art. 105, parágrafo único, II).",
+   "Errada. O CNJ exerce o controle da atuação administrativa e financeira de todo o Judiciário (art. 103-B, §4º), mas não é o órgão que funciona junto ao TST.",
+   "Errada. A Turma Nacional de Uniformização integra o sistema dos Juizados Especiais Federais e tem função jurisdicional de uniformização, não de supervisão administrativa.",
+   "CORRETA. O art. 111-A, §2º, II, prevê o Conselho Superior da Justiça do Trabalho, que funciona junto ao TST e exerce a supervisão administrativa, orçamentária, financeira e patrimonial da Justiça do Trabalho de primeiro e segundo graus, como órgão central do sistema, com decisões de efeito vinculante."
+  ],
+  "base": "CF, arts. 103-B, 105, parágrafo único, II, e 111-A, §2º.",
+  "dica": "Junto ao STJ: CJF (Justiça Federal). Junto ao TST: CSJT (Justiça do Trabalho, decisões vinculantes). Sobre todos: CNJ."
+ },
+ "e3-9": {
+  "nivel": "médio",
+  "tema": "Lei estadual sobre instalação de redes de telefonia: competência privativa da União (CF, arts. 21, XI, e 22, IV)",
+  "coms": [
+   "Errada. A proporcionalidade dos custos não salva a lei, cujo vício é formal: a matéria é de competência legislativa privativa da União.",
+   "Errada. A competência é privativa da União, mas a assertiva erra ao dizê-la indelegável: lei complementar pode autorizar os Estados a legislar sobre questões específicas das matérias do art. 22 (parágrafo único).",
+   "CORRETA. Ao disciplinar a instalação de redes de telefonia, ainda que sob o argumento da proteção ambiental e paisagística, o Estado invadiu a competência privativa da União para legislar sobre telecomunicações (CF, art. 22, IV) e para explorar o serviço (art. 21, XI). O STF tem declarado inconstitucionais leis estaduais com esse conteúdo.",
+   "Errada. A matéria não é de interesse local municipal, mas de telecomunicações, de competência privativa da União. O Município também não poderia disciplinar o tema.",
+   "Errada. A proteção ambiental é competência concorrente (art. 24, VI), mas o STF entende que normas sobre a instalação de infraestrutura de telecomunicações, ainda que com finalidade ambiental, invadem a competência privativa da União."
+  ],
+  "base": "CF, arts. 21, XI, 22, IV e parágrafo único, 24, VI, e 30, I.",
+  "dica": "Lei estadual que mexe em telefonia, energia ou radiodifusão, mesmo com roupa de lei ambiental ou de consumidor, tende a ser inconstitucional: a competência é privativa da União."
+ },
+ "e3-17": {
+  "nivel": "fácil",
+  "tema": "Motivação dos atos administrativos: hipóteses, motivação aliunde e meio mecânico (Lei 9.784/1999, art. 50)",
+  "coms": [
+   "CORRETA. Só a afirmativa I está correta: os atos que imponham ou agravem deveres, encargos ou sanções devem ser motivados (art. 50, II). A II é falsa, pois a lei admite a motivação aliunde, por concordância com pareceres anteriores (§1º). A III é falsa, pois a lei admite meio mecânico que reproduza os fundamentos, desde que não prejudique direito ou garantia dos interessados (§2º).",
+   "Errada. A afirmativa II é falsa: o art. 50, §1º, permite que a motivação consista em declaração de concordância com fundamentos de pareceres, informações, decisões ou propostas anteriores, que passam a integrar o ato.",
+   "Errada. A afirmativa III é falsa: o art. 50, §2º, permite o uso de meio mecânico na solução de vários assuntos da mesma natureza, desde que não prejudique direito ou garantia dos interessados.",
+   "Errada. As afirmativas II e III são falsas e a I é verdadeira.",
+   "Errada. Apenas a afirmativa I está correta."
+  ],
+  "base": "Lei 9.784/1999, art. 50, I a VIII e §§1º e 2º.",
+  "dica": "Motivação: explícita, clara e congruente, mas pode ser POR REMISSÃO a parecer (aliunde) e pode usar meio mecânico em casos iguais, se não prejudicar ninguém."
+ },
+ "e1-19": {
+  "nivel": "médio",
+  "tema": "Nepotismo: alcance da Súmula Vinculante 13, funções gratificadas e critério objetivo",
+  "coms": [
+   "Errada. A vedação da SV 13 alcança a Administração direta e indireta de qualquer dos Poderes, inclusive empresas públicas e sociedades de economia mista, que não são de direito público.",
+   "Errada. O nepotismo não se define só pelo parentesco civil: a SV 13 inclui o cônjuge e o companheiro, limita o parentesco ao terceiro grau e abrange o ajuste mediante designações recíprocas (nepotismo cruzado).",
+   "Errada. A SV 13 menciona expressamente a função gratificada, além do cargo em comissão e do cargo de confiança.",
+   "Errada. O nepotismo cruzado, mediante designações recíprocas, pode ocorrer entre órgãos e entes diversos. A SV 13 não restringe a vedação à mesma entidade federada.",
+   "CORRETA. O STF entende que a vedação ao nepotismo tem natureza objetiva: comprovado o parentesco nos limites da SV 13, como o de irmão (colateral de segundo grau), é desnecessário demonstrar vínculo de afeto, influência ou favorecimento concreto."
+  ],
+  "base": "CF, art. 37, caput; Súmula Vinculante 13.",
+  "dica": "SV 13: cônjuge, companheiro ou parente até o 3º grau; cargo em comissão, de confiança ou função gratificada; direta e indireta; vale o cruzado. Critério objetivo."
+ },
+ "e3-32": {
+  "nivel": "médio",
+  "tema": "Responsabilização de magistrados: competência concorrente do CNJ, abuso de autoridade e remoção por interesse público",
+  "coms": [
+   "CORRETA. F, F, V. A primeira é falsa: a competência disciplinar do CNJ é originária e concorrente, e não subsidiária às corregedorias (STF, ADI 4.638). A segunda é falsa: a Lei 13.869/2019 aplica-se a membros do Judiciário (art. 2º, IV); a divergência de interpretação afasta só o chamado crime de hermenêutica (art. 1º, §2º). A terceira é verdadeira e reproduz o art. 93, VIII, da CF.",
+   "Errada. As duas primeiras afirmativas são falsas, e a terceira é verdadeira.",
+   "Errada. A terceira afirmativa é verdadeira: a remoção ou disponibilidade por interesse público depende de voto da maioria absoluta do tribunal ou do CNJ, assegurada a ampla defesa (art. 93, VIII).",
+   "Errada. A segunda afirmativa é falsa: a Lei de Abuso de Autoridade alcança expressamente os membros do Poder Judiciário.",
+   "Errada. A primeira afirmativa é falsa, e a terceira é verdadeira."
+  ],
+  "base": "CF, arts. 93, VIII, e 103-B, §4º, III; Lei 13.869/2019, arts. 1º, §2º, e 2º, IV; STF, ADI 4.638.",
+  "dica": "CNJ disciplinar: competência originária e concorrente, não subsidiária. Abuso de autoridade alcança juízes, mas sem crime de hermenêutica. Remoção ou disponibilidade: maioria absoluta + ampla defesa."
+ },
+ "e1-37": {
+  "nivel": "difícil",
+  "tema": "Universalismo x relativismo cultural: universalismo de confluência e graus de relativismo",
+  "coms": [
+   "Errada. A associação foi invertida. O universalismo parte da dignidade do indivíduo como valor universal, e o relativismo toma a cultura e a coletividade como fonte de validade dos direitos.",
+   "CORRETA. O universalismo de confluência, associado a Joaquín Herrera Flores, entende a universalidade dos direitos humanos como ponto de chegada, construído por processo conflitivo e dialógico entre culturas, e não como ponto de partida imposto.",
+   "Errada. No relativismo radical, a cultura é a única fonte de validade de um direito ou regra moral. Considerá-la uma fonte relevante, entre outras, caracteriza o relativismo fraco (classificação de Jack Donnelly).",
+   "Errada. O direito de participar da vida cultural (DUDH, art. 27) integra o catálogo universal de direitos. Seu reconhecimento não significa adesão ao relativismo.",
+   "Errada. O universalismo também admite graus (radical, forte e fraco), em correspondência inversa aos graus do relativismo, segundo Donnelly."
+  ],
+  "base": "DUDH, arts. 1º e 27; Declaração e Programa de Ação de Viena (1993), §5º.",
+  "dica": "Universalismo de confluência = universalidade como ponto de CHEGADA, via diálogo. Relativismo radical: cultura é a ÚNICA fonte; forte: a principal; fraco: uma fonte importante."
+ },
+ "e5-48": {
+  "nivel": "médio",
+  "tema": "Negócio jurídico processual e calendário: limites do controle judicial (CPC, arts. 190 e 191)",
+  "coms": [
+   "Errada. O CPC admite a distribuição diversa do ônus da prova por convenção das partes, antes ou durante o processo, salvo quando recair sobre direito indisponível ou tornar excessivamente difícil a uma parte o exercício do direito (art. 373, §§3º e 4º).",
+   "Errada. O art. 190 admite a convenção processual antes ou durante o processo.",
+   "Errada. O calendário processual é fixado de comum acordo pelo juiz e pelas partes (art. 191). A concordância do magistrado é indispensável.",
+   "Errada. Em regra, o negócio processual produz efeitos imediatamente, independentemente de homologação (art. 200). O juiz não pode recusá-lo por conveniência ou celeridade.",
+   "CORRETA. O art. 190, parágrafo único, limita o controle judicial à validade da convenção: o juiz só recusa sua aplicação nos casos de nulidade, de inserção abusiva em contrato de adesão ou de manifesta situação de vulnerabilidade. Entre empresas de grande porte bem assessoradas, não há base para o controle de conveniência feito pelo magistrado."
+  ],
+  "base": "CPC, arts. 190, 191, 200 e 373, §§3º e 4º.",
+  "dica": "Negócio processual: vale sem homologação; o juiz só nega em caso de nulidade, adesão abusiva ou vulnerabilidade. Calendário: precisa do juiz."
+ },
+ "e3-39": {
+  "nivel": "médio",
+  "tema": "Conexão, juízo aleatório e reunião de processos (CPC, arts. 55 e 63, §5º)",
+  "coms": [
+   "Errada. A afirmativa III também está correta, pois reproduz o art. 55, §1º, do CPC.",
+   "Errada. A afirmativa II é falsa: o ajuizamento em juízo aleatório constitui prática abusiva que justifica a declinação de competência de ofício (CPC, art. 63, §5º, incluído pela Lei 14.879/2024), em linha com a jurisprudência do STJ.",
+   "CORRETA. I: o juízo que decretou o divórcio é competente para a partilha posterior, pela conexão entre as demandas, segundo a jurisprudência. III reproduz o art. 55, §1º: os processos conexos serão reunidos, salvo se um deles já houver sido sentenciado (Súmula 235/STJ). II é falsa, pois o juízo aleatório autoriza a declinação de ofício.",
+   "Errada. A afirmativa I é verdadeira, e a II é falsa.",
+   "Errada. A afirmativa II é falsa, pois a escolha de juízo aleatório é prática abusiva que permite a declinação de ofício."
+  ],
+  "base": "CPC, arts. 55, §1º, 63, §5º, e 64; Súmula 235/STJ.",
+  "dica": "Conexos se reúnem, salvo se um já foi sentenciado (Súmula 235). Juízo aleatório (sem ligação com partes ou negócio) = abusivo e dá declinação de ofício (art. 63, §5º)."
+ },
+ "e5-58": {
+  "nivel": "difícil",
+  "tema": "Tomada de decisão apoiada: preservação da capacidade civil e validade do negócio (CC, art. 1.783-A; Lei 13.146/2015)",
+  "coms": [
+   "Errada. A tomada de decisão apoiada não gera incapacidade, nem relativa nem absoluta. A pessoa com deficiência tem plena capacidade civil (Lei 13.146/2015, arts. 6º e 84).",
+   "Errada. A nulidade exige previsão legal (CC, art. 166), e não há regra que torne nulo o ato praticado pelo apoiado sem consultar os apoiadores. O próprio termo previu que o dever de informação era interno ao regime, sem efeito para terceiros.",
+   "Errada. Não há ineficácia condicionada à manifestação judicial. O juiz decide divergências entre apoiado e apoiadores em negócios de risco relevante (art. 1.783-A, §6º), mas isso não suspende a eficácia dos atos praticados pelo apoiado.",
+   "Errada. A anulabilidade também exige previsão legal ou vício do consentimento comprovado. O descumprimento do dever procedimental de consulta não torna o ato automaticamente anulável.",
+   "CORRETA. A tomada de decisão apoiada é instrumento de apoio, escolhido pela própria pessoa, que preserva integralmente sua capacidade civil. O apoiador não representa nem substitui a vontade. O negócio celebrado por Renata é válido, e eventual invalidação dependerá da prova de vício do consentimento, como erro ou dolo."
+  ],
+  "base": "CC, arts. 166, 171 e 1.783-A; Lei 13.146/2015, arts. 6º e 84.",
+  "dica": "Tomada de decisão apoiada não tira capacidade: o apoiado assina sozinho e o negócio vale. Para derrubar, só provando vício de consentimento."
+ },
+ "e4-52": {
+  "nivel": "fácil",
+  "tema": "Doação pura a absolutamente incapaz: dispensa da aceitação (CC, art. 543)",
+  "coms": [
+   "Errada. Não é preciso esperar a idade de 16 anos: tratando-se de doação pura a absolutamente incapaz, a aceitação é dispensada (CC, art. 543).",
+   "Errada. A aceitação pelos representantes legais não é exigida na doação pura a absolutamente incapaz.",
+   "Errada. A lei dispensa a aceitação, e não apenas a exige de ambos os pais.",
+   "CORRETA. Gael, com 12 anos, é absolutamente incapaz (CC, art. 3º). Sendo a doação pura, sem encargo ou condição, o art. 543 dispensa a aceitação, bastando a declaração de vontade do doador.",
+   "Errada. Não se aguarda a maioridade: a aceitação é dispensada na doação pura feita a absolutamente incapaz."
+  ],
+  "base": "CC, arts. 3º, 538, 539 e 543.",
+  "dica": "Doação PURA a absolutamente incapaz (menor de 16): não precisa de aceitação. Com encargo, precisa."
+ },
+ "e3-68": {
+  "nivel": "difícil",
+  "tema": "Cooperativa como substituta processual dos associados (Lei 5.764/1971, art. 88-A)",
+  "coms": [
+   "Errada. O art. 88-A refere-se à defesa dos direitos coletivos dos associados, e não aos individuais homogêneos.",
+   "Errada. A lei exige que a causa de pedir verse sobre atos de interesse direto dos associados relacionados às operações de mercado da cooperativa, e não às obrigações dos associados perante a cooperativa.",
+   "Errada. A autorização deve ser manifestada individualmente pelo associado ou por meio de assembleia geral. A lei não fala em maioria absoluta dos associados.",
+   "Errada. A lei não contém restrição relativa ao tipo de cooperativa (singular, central ou confederação).",
+   "CORRETA. O art. 88-A da Lei 5.764/1971 (incluído pela Lei 13.806/2019) exige, entre outros requisitos, que a legitimidade extraordinária esteja prevista no estatuto da cooperativa, além da autorização expressa, individual ou assemblear, e da pertinência com as operações de mercado da cooperativa."
+  ],
+  "base": "Lei 5.764/1971, art. 88-A (Lei 13.806/2019); CPC, art. 18.",
+  "dica": "Cooperativa substituta processual: direitos COLETIVOS dos associados, ligados às operações de mercado, com previsão no ESTATUTO e autorização individual ou da assembleia."
+ },
+ "e3-70": {
+  "nivel": "fácil",
+  "tema": "Lei penal no tempo: ultra-atividade, abolitio criminis e crime permanente (CP, arts. 2º e 3º; Súmula 711/STF)",
+  "coms": [
+   "Errada. A primeira afirmativa é verdadeira (CP, art. 3º).",
+   "Errada. A segunda afirmativa é falsa: a abolitio criminis faz cessar a execução e os efeitos penais da sentença, mas não os efeitos extrapenais, como a obrigação de reparar o dano (CP, art. 2º).",
+   "Errada. A terceira afirmativa é verdadeira (Súmula 711/STF), e a segunda é falsa.",
+   "Errada. A primeira e a terceira afirmativas são verdadeiras.",
+   "CORRETA. V, F, V. A lei temporária ou excepcional aplica-se aos fatos praticados durante sua vigência, mesmo após a autorrevogação (art. 3º). A abolitio criminis não apaga os efeitos civis da condenação (art. 2º). Segundo a Súmula 711 do STF, a lei penal mais grave aplica-se ao crime continuado ou permanente se sua vigência for anterior à cessação da continuidade ou da permanência."
+  ],
+  "base": "CP, arts. 2º e 3º; Súmula 711/STF.",
+  "dica": "Lei temporária = ultra-ativa. Abolitio apaga os efeitos penais, NÃO os civis. Permanente ou continuado: aplica-se a lei vigente no fim, ainda que mais grave (Súmula 711)."
+ },
+ "e4-70": {
+  "nivel": "difícil",
+  "tema": "Legítima defesa contra condutas justificadas, excesso, legítima defesa putativa e coação moral irresistível",
+  "coms": [
+   "Errada. A afirmativa I é falsa: não cabe legítima defesa real contra legítima defesa real, pois esta é agressão lícita, e a legítima defesa pressupõe agressão injusta (CP, art. 25).",
+   "CORRETA. III: o excesso é agressão injusta e autoriza legítima defesa (legítima defesa sucessiva). IV: a legítima defesa putativa, fruto de erro, pode ser exercida contra quem age em legítima defesa real, pois o erro está na cabeça de quem reage. V: o coagido moralmente pratica fato típico e ilícito (a coação exclui só a culpabilidade, art. 22), e por isso pode ser repelido em legítima defesa. I e II são falsas porque não há agressão injusta.",
+   "Errada. A afirmativa II é falsa: o estado de necessidade é causa de justificação, e quem nele age não pratica agressão injusta. Admite-se estado de necessidade contra estado de necessidade, mas não legítima defesa.",
+   "Errada. As afirmativas I e II são falsas, porque a legítima defesa real e o estado de necessidade são condutas lícitas, contra as quais não cabe legítima defesa real.",
+   "Errada. A afirmativa II é falsa, e a V, verdadeira."
+  ],
+  "base": "CP, arts. 20, §1º, 22, 23, 24 e 25.",
+  "dica": "Legítima defesa só contra agressão INJUSTA: não cabe contra LD real nem contra estado de necessidade. Cabe contra excesso, contra o coagido (a coação exclui só a culpabilidade) e, na putativa, até contra LD real."
  }
 }

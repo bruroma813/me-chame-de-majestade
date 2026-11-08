@@ -1,0 +1,483 @@
+[
+{
+"disc": "Direito Constitucional",
+"item": "C14",
+"nivel": "médio",
+"tema": "Anterioridade anual e nonagesimal: exceções e revogação de benefício fiscal (CF, art. 150, III, b e c, e §1º)",
+"enun": "Em 28 de dezembro do ano X, foram publicados os seguintes atos normativos: (i) lei do Estado Alfa que majorou a alíquota do ICMS incidente sobre bebidas alcoólicas; (ii) decreto do Presidente da República que, dentro dos limites fixados em lei, majorou a alíquota do IPI sobre cigarros; (iii) lei federal que majorou alíquotas do imposto de renda das pessoas físicas; (iv) lei do Município Beta que atualizou a planta genérica de valores, elevando a base de cálculo do IPTU acima da inflação; e (v) decreto do Governador do Estado Alfa que reduziu, com vigência imediata, benefício fiscal de redução de base de cálculo do ICMS concedido a fabricantes de móveis. Os contribuintes afetados questionam judicialmente o momento a partir do qual as novas regras podem ser aplicadas. Considerando a Constituição e a jurisprudência do STF, assinale a afirmativa correta.",
+"alts": [
+[
+"A majoração do imposto de renda e a nova base de cálculo do IPTU podem ser exigidas a partir de 1º de janeiro do ano X+1, ao passo que a redução do benefício de ICMS deve observar as anterioridades anual e nonagesimal.",
+"CORRETA. O IR é exceção apenas à noventena, e a fixação da base de cálculo do IPTU também foi excepcionada da noventena (CF, art. 150, §1º). Os dois observam só a anterioridade anual, de modo que valem a partir de 1º de janeiro. Já a redução ou revogação de benefício fiscal configura majoração indireta do tributo e, segundo o STF (RE 564.225 AgR), sujeita-se às duas anterioridades."
+],
+[
+"A majoração do ICMS sobre bebidas alcoólicas pode ser exigida a partir de 1º de janeiro do ano X+1, pois a lei foi publicada no exercício anterior.",
+"Errada. O ICMS não está entre as exceções do art. 150, §1º. Além da anterioridade anual, deve respeitar os noventa dias da alínea c, contados da publicação. Por isso só pode ser cobrado no final de março do ano X+1."
+],
+[
+"O decreto que majorou o IPI é inconstitucional, pois a alteração de alíquota de imposto exige lei em sentido formal e deve respeitar a anterioridade anual.",
+"Errada. O art. 153, §1º, da CF permite ao Executivo alterar as alíquotas do IPI nos limites legais. O IPI é exceção à anterioridade anual, mas não à nonagesimal. Assim, o decreto é válido e produz efeitos após noventa dias."
+],
+[
+"A redução do benefício fiscal de ICMS pode produzir efeitos imediatos, pois não se confunde com a instituição ou o aumento de tributo, únicos casos protegidos pelo princípio da anterioridade.",
+"Errada. O STF entende que a redução ou a supressão de benefício fiscal que resulte em aumento da carga tributária equivale a majoração indireta e atrai as anterioridades anual e nonagesimal."
+],
+[
+"A majoração do imposto de renda deve observar a noventena e só pode ser exigida noventa dias após a publicação da lei.",
+"Errada. O IR (art. 153, III) foi expressamente excluído da noventena pelo art. 150, §1º. Ele observa apenas a anterioridade anual e pode ser cobrado a partir de 1º de janeiro."
+]
+],
+"c": 0,
+"base": "CF, arts. 150, III, b e c, e §1º, e 153, §1º; STF, RE 564.225 AgR; Súmula Vinculante 50.",
+"dica": "Só anual (fura a noventena): IR e base de cálculo de IPTU/IPVA. Só noventena (fura a anual): IPI. Nenhuma: II, IE, IOF, guerra e empréstimo compulsório de calamidade. Benefício reduzido = aumento indireto."
+},
+{
+"disc": "Direito Constitucional",
+"item": "C15",
+"nivel": "médio",
+"tema": "Ação declaratória de constitucionalidade: objeto, controvérsia judicial relevante e cautelar (Lei 9.868/1999, arts. 13 a 21)",
+"enun": "A Confederação Nacional do Transporte ajuizou, no Supremo Tribunal Federal, ação declaratória de constitucionalidade tendo por objeto lei federal que fixou regras de jornada para motoristas profissionais. Na petição inicial, a autora juntou diversos artigos doutrinários que defendem a inconstitucionalidade da lei e pediu medida cautelar para que todos os juízes e tribunais suspendessem o julgamento de processos que envolvam a aplicação da norma. Na mesma peça, requereu que fosse declarada também a constitucionalidade de uma lei do Estado Alfa com conteúdo semelhante. Considerando a Constituição e a Lei nº 9.868/1999, assinale a afirmativa correta.",
+"alts": [
+[
+"A petição inicial deve demonstrar a existência de controvérsia judicial relevante sobre a aplicação da lei federal, não bastando a divergência doutrinária, e a cautelar, se deferida por maioria absoluta, pode suspender os processos, devendo o mérito ser julgado em 180 dias, sob pena de perda de sua eficácia.",
+"CORRETA. A Lei 9.868/1999 exige a comprovação de controvérsia judicial relevante (art. 14, III), pois a ADC visa a transformar a presunção relativa de constitucionalidade em absoluta. A cautelar é deferida por maioria absoluta e pode determinar a suspensão dos julgamentos que envolvam a aplicação da norma; o Tribunal deve julgar a ação em 180 dias, sob pena de a cautelar perder eficácia (art. 21 e parágrafo único)."
+],
+[
+"A Confederação Nacional do Transporte não tem legitimidade para a ADC, que é restrita ao Presidente da República, às Mesas da Câmara e do Senado e ao Procurador-Geral da República.",
+"Errada. Essa restrição existia na redação original da EC 3/1993. Desde a EC 45/2004, os legitimados da ADC são os mesmos da ADI (CF, art. 103), incluindo as confederações sindicais, que devem demonstrar pertinência temática."
+],
+[
+"A ADC pode ter por objeto tanto a lei federal quanto a lei estadual, desde que ambas tratem da mesma matéria, em homenagem à economia processual.",
+"Errada. Segundo o art. 102, I, a, da CF, a ADC só pode ter por objeto lei ou ato normativo federal. A lei estadual pode ser impugnada por ADI, mas não confirmada por ADC."
+],
+[
+"A existência de relevante divergência doutrinária sobre a constitucionalidade da lei é suficiente para o conhecimento da ADC, pois demonstra a insegurança jurídica.",
+"Errada. A lei exige controvérsia judicial, isto é, decisões judiciais em sentidos opostos sobre a validade da norma. Divergência apenas acadêmica não supre o requisito."
+],
+[
+"A decisão de mérito que declarar a constitucionalidade da lei produzirá efeitos apenas entre as partes, até que o Senado Federal edite resolução conferindo-lhe eficácia geral.",
+"Errada. As decisões definitivas de mérito em ADC têm eficácia contra todos e efeito vinculante para os demais órgãos do Judiciário e para a Administração (CF, art. 102, §2º). A resolução do Senado (art. 52, X) diz respeito ao controle difuso."
+]
+],
+"c": 0,
+"base": "CF, arts. 102, I, a, e §2º, e 103; Lei 9.868/1999, arts. 13, 14, III, e 21.",
+"dica": "ADC = só lei federal + controvérsia JUDICIAL relevante. Cautelar: maioria absoluta, suspende processos, 180 dias para julgar."
+},
+{
+"disc": "Direito Constitucional",
+"item": "C09",
+"nivel": "médio",
+"tema": "Intervenção estadual em Município: representação ao TJ e controle (CF, arts. 35 e 36, §3º; Súmula 637/STF)",
+"enun": "O Município Gama, situado no Estado Beta, descumpre há mais de um ano decisão judicial transitada em julgado que determinou a reintegração de servidores ilegalmente exonerados. Diante da recalcitrância do Prefeito, o Procurador-Geral de Justiça apresentou representação ao Tribunal de Justiça para prover a execução da decisão judicial. O Tribunal de Justiça deu provimento à representação, e o Governador editou decreto de intervenção, que foi remetido à Assembleia Legislativa para apreciação em vinte e quatro horas. O Município pretende interpor recurso extraordinário contra o acórdão do Tribunal de Justiça. Considerando a Constituição e a jurisprudência do STF, assinale a afirmativa correta.",
+"alts": [
+[
+"Nessa hipótese, dispensa-se a apreciação do decreto pela Assembleia Legislativa, que se limitará a suspender a execução do ato impugnado, se essa medida bastar ao restabelecimento da normalidade, e não cabe recurso extraordinário contra o acórdão do Tribunal de Justiça.",
+"CORRETA. Na intervenção do art. 35, IV, o controle político é dispensado e o decreto limita-se a suspender o ato impugnado, se isso bastar (art. 36, §3º). A Súmula 637 do STF afirma que não cabe recurso extraordinário contra acórdão de Tribunal de Justiça que defere pedido de intervenção estadual em Município, por se tratar de decisão de natureza político-administrativa."
+],
+[
+"O decreto interventivo deve ser obrigatoriamente apreciado pela Assembleia Legislativa no prazo de vinte e quatro horas, sob pena de nulidade.",
+"Errada. A regra do art. 36, §1º, é afastada nos casos dos arts. 34, VI e VII, e 35, IV, em que se dispensa a apreciação legislativa (art. 36, §3º)."
+],
+[
+"Cabe recurso extraordinário ao STF contra o acórdão do Tribunal de Justiça, pois a intervenção afeta a autonomia municipal assegurada pela Constituição Federal.",
+"Errada. A Súmula 637 do STF veda o recurso extraordinário contra a decisão do Tribunal de Justiça que defere a intervenção estadual em Município."
+],
+[
+"A intervenção para prover a execução de decisão judicial depende de requisição do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, conforme a matéria.",
+"Errada. A requisição pelo STF, STJ ou TSE (art. 36, II) refere-se à intervenção federal nos Estados. No Município, a hipótese de descumprimento de decisão judicial depende de provimento de representação pelo Tribunal de Justiça (art. 35, IV)."
+],
+[
+"Diante da inércia do Estado, a União poderia intervir diretamente no Município Gama para assegurar o cumprimento da decisão judicial.",
+"Errada. A União só intervém em Municípios localizados em Território Federal (art. 35, caput). Nos Municípios situados em Estados, a intervenção é estadual."
+]
+],
+"c": 0,
+"base": "CF, arts. 35, IV, e 36, §§1º e 3º; Súmula 637/STF.",
+"dica": "Intervenção para cumprir ordem judicial ou princípio sensível: sem controle do Legislativo e decreto mínimo (suspende o ato). Súmula 637: sem RE contra o TJ."
+},
+{
+"disc": "Direito Constitucional",
+"item": "C10",
+"nivel": "difícil",
+"tema": "Tribunal de Contas da União: parecer prévio, sustação de contratos e título executivo (CF, art. 71; Tema 899/STF)",
+"enun": "Sobre a fiscalização contábil, financeira e orçamentária exercida pelo Tribunal de Contas da União, avalie as afirmativas a seguir.\nI. Compete ao Tribunal de Contas da União julgar as contas prestadas anualmente pelo Presidente da República, cabendo ao Congresso Nacional apenas tomar ciência da decisão.\nII. No caso de contrato, o ato de sustação será adotado diretamente pelo Congresso Nacional, que solicitará, de imediato, ao Poder Executivo as medidas cabíveis; se, no prazo de noventa dias, essas medidas não forem efetivadas, o Tribunal decidirá a respeito.\nIII. As decisões do Tribunal de que resulte imputação de débito ou multa terão eficácia de título executivo, sendo prescritível, segundo o STF, a pretensão de ressarcimento ao erário nelas fundada.\nEstá correto o que se afirma em",
+"alts": [
+[
+"I, apenas.",
+"Errada. A afirmativa I é falsa e as afirmativas II e III são verdadeiras."
+],
+[
+"II, apenas.",
+"Errada. A afirmativa III também é verdadeira: o art. 71, §3º, confere eficácia de título executivo às decisões do TCU, e o STF fixou a prescritibilidade da execução nelas fundada (Tema 899)."
+],
+[
+"I e III, apenas.",
+"Errada. A afirmativa I é falsa: o TCU apenas aprecia as contas do Presidente mediante parecer prévio (art. 71, I); o julgamento compete ao Congresso Nacional (art. 49, IX)."
+],
+[
+"II e III, apenas.",
+"CORRETA. II reproduz o art. 71, §§1º e 2º: no contrato, a sustação cabe ao Congresso, e o TCU decide se as medidas não forem adotadas em noventa dias. III está de acordo com o art. 71, §3º, e com o Tema 899 do STF (é prescritível a pretensão de ressarcimento fundada em decisão de Tribunal de Contas). I é falsa, porque o TCU emite parecer prévio e o Congresso julga."
+],
+[
+"I, II e III.",
+"Errada. A afirmativa I inverte as funções: quem julga as contas anuais do Presidente é o Congresso Nacional, com base no parecer prévio do TCU."
+]
+],
+"c": 3,
+"fixa": true,
+"base": "CF, arts. 49, IX, e 71, I, II, §§1º a 3º; STF, Tema 899 (RE 636.886).",
+"dica": "Contas do Presidente: TCU APRECIA (parecer em 60 dias), Congresso JULGA. Ato: TCU susta. Contrato: Congresso susta; se ficar inerte por 90 dias, o TCU decide."
+},
+{
+"disc": "Direito Constitucional",
+"item": "C07",
+"nivel": "fácil",
+"tema": "Extradição de brasileiros e estrangeiros (CF, art. 5º, LI e LII; Súmula 421/STF)",
+"enun": "O Supremo Tribunal Federal recebeu, no mesmo mês, cinco pedidos de extradição formulados por Estados estrangeiros com os quais o Brasil mantém tratado. Os extraditandos são: Pedro, brasileiro naturalizado desde 2015, acusado de tráfico ilícito de entorpecentes praticado em 2022; Ana, brasileira naturalizada desde 2020, acusada de homicídio praticado em 2010 no país requerente; Carlos, brasileiro nato, acusado de corrupção praticada no exterior; Luís, estrangeiro, acusado de crime político; e Marta, estrangeira casada com brasileiro e mãe de filho brasileiro, acusada de estelionato. Considerando apenas a disciplina constitucional e a jurisprudência do STF, podem, em tese, ser extraditados",
+"alts": [
+[
+"Pedro, Ana e Marta.",
+"CORRETA. O naturalizado pode ser extraditado por crime comum praticado antes da naturalização (Ana) ou por comprovado envolvimento em tráfico de entorpecentes, a qualquer tempo (Pedro) (CF, art. 5º, LI). O estrangeiro pode ser extraditado, e o casamento com brasileiro ou o filho brasileiro não impedem a extradição (Súmula 421/STF)."
+],
+[
+"Pedro, Ana, Carlos e Marta.",
+"Errada. O brasileiro nato nunca será extraditado (art. 5º, LI). Carlos poderá, conforme o caso, ser processado no Brasil pela extraterritorialidade da lei penal."
+],
+[
+"Ana e Marta, apenas.",
+"Errada. O naturalizado também pode ser extraditado por comprovado envolvimento em tráfico de entorpecentes, ainda que o crime seja posterior à naturalização, o que alcança Pedro."
+],
+[
+"Pedro, Ana, Luís e Marta.",
+"Errada. Não será concedida extradição de estrangeiro por crime político ou de opinião (art. 5º, LII)."
+],
+[
+"Pedro e Ana, apenas.",
+"Errada. O vínculo familiar com brasileiro não impede a extradição de estrangeiro, segundo a Súmula 421 do STF, de modo que Marta também pode ser extraditada."
+]
+],
+"c": 0,
+"base": "CF, art. 5º, LI e LII; Súmula 421/STF; Lei 13.445/2017, arts. 81 e 82.",
+"dica": "Nato: nunca. Naturalizado: crime comum ANTES da naturalização ou tráfico a QUALQUER tempo. Estrangeiro: sim, salvo crime político ou de opinião. Cônjuge ou filho brasileiro não impede."
+},
+{
+"disc": "Direito Administrativo",
+"item": "A15",
+"nivel": "difícil",
+"tema": "LGPD: tratamento de dados de crianças e adolescentes e melhor interesse (art. 14; Enunciado CD/ANPD 1/2023)",
+"enun": "A Secretaria de Educação do Município Delta lançou um aplicativo para acompanhamento escolar dos alunos da rede municipal, que inclui crianças de 6 a 11 anos e adolescentes de 12 a 14 anos. O aplicativo coleta nome, imagem, frequência e notas, para fins de execução da política pública de combate à evasão escolar. Simultaneamente, a empresa privada Lúdica Ltda., contratada para fornecer jogos educativos no mesmo aplicativo, passou a condicionar o acesso aos jogos ao fornecimento da localização em tempo real e da lista de contatos do aparelho. Um conselheiro tutelar questionou a regularidade dos tratamentos, sustentando que qualquer dado de criança ou adolescente só pode ser tratado com o consentimento escrito de ambos os pais. Considerando a Lei nº 13.709/2018 (LGPD) e a orientação da Autoridade Nacional de Proteção de Dados, assinale a afirmativa correta.",
+"alts": [
+[
+"O tratamento de dados pessoais de crianças e adolescentes pode fundamentar-se nas hipóteses legais dos arts. 7º e 11 da LGPD, como a execução de políticas públicas, desde que observado e prevalecente o seu melhor interesse, e a empresa não pode condicionar a participação nos jogos ao fornecimento de informações além das estritamente necessárias.",
+"CORRETA. Segundo o Enunciado CD/ANPD nº 1/2023, o tratamento de dados de crianças e adolescentes pode se apoiar nas bases legais dos arts. 7º e 11, desde que observado e prevalecente o melhor interesse, avaliado no caso concreto (art. 14, caput). O art. 14, §4º, proíbe condicionar a participação em jogos e aplicações ao fornecimento de dados além dos estritamente necessários à atividade."
+],
+[
+"O tratamento de dados de crianças exige consentimento específico e em destaque de ambos os pais, sob pena de nulidade.",
+"Errada. O art. 14, §1º, exige o consentimento de pelo menos um dos pais ou do responsável legal, quando o consentimento for a base utilizada. Além disso, conforme a ANPD, o consentimento não é a única base legal possível."
+],
+[
+"Os dados coletados sem consentimento para contatar os pais podem ser armazenados pelo controlador por até cinco anos, para eventual nova comunicação.",
+"Errada. O art. 14, §3º, só admite a coleta sem consentimento quando necessária para contatar os pais ou para a proteção da criança, e os dados devem ser usados uma única vez, sem armazenamento, e não podem ser repassados a terceiros sem consentimento."
+],
+[
+"A empresa pode exigir a localização e a lista de contatos como condição para o acesso aos jogos, desde que obtenha o consentimento de um dos pais.",
+"Errada. Mesmo com consentimento, o art. 14, §4º, veda condicionar a participação em jogos e aplicações de internet ao fornecimento de informações pessoais além das estritamente necessárias à atividade."
+],
+[
+"Por se tratar de ente público, o Município está dispensado de observar o princípio do melhor interesse, bastando a previsão da política pública em lei.",
+"Errada. O melhor interesse da criança e do adolescente é o vetor do art. 14, caput, e se aplica a qualquer controlador, público ou privado. A execução de política pública (art. 7º, III) é base legal possível, mas não afasta esse princípio."
+]
+],
+"c": 0,
+"base": "Lei 13.709/2018, arts. 7º, III, 11 e 14, §§1º, 3º e 4º; Enunciado CD/ANPD 1/2023; CF, art. 227.",
+"dica": "Dado de criança: melhor interesse acima de tudo; qualquer base legal dos arts. 7º e 11 (ANPD). Se a base for o consentimento: de UM dos pais. Contato com os pais: uma vez, sem guardar."
+},
+{
+"disc": "Direito Administrativo",
+"item": "A08",
+"nivel": "médio",
+"tema": "Garantias contratuais na Lei 14.133/2021: modalidades, percentuais e seguro-garantia com cláusula de retomada (arts. 96 a 102)",
+"enun": "O Município Ômega publicou edital de licitação para contratação de serviços contínuos de limpeza e conservação de prédios públicos, com vigência de três anos e valor anual estimado de R$ 2.000.000,00. O edital previu: (i) exigência de garantia de 8% sobre o valor total dos três anos de contrato; (ii) que a garantia deveria ser prestada exclusivamente por fiança bancária; (iii) que a garantia prestada em dinheiro, se aceita, seria devolvida ao final pelo valor nominal; e (iv) justificativa técnica sobre a complexidade e os riscos do objeto. Uma licitante impugnou o edital. Considerando a Lei nº 14.133/2021, assinale a afirmativa correta.",
+"alts": [
+[
+"A escolha da modalidade de garantia cabe ao contratado, e o percentual pode ser elevado acima de 5%, até 10%, se justificado pela complexidade técnica e pelos riscos, devendo ser calculado sobre o valor anual do contrato, por se tratar de serviço contínuo com vigência superior a um ano.",
+"CORRETA. O art. 96, §1º, assegura ao contratado optar entre caução em dinheiro ou em títulos da dívida pública, seguro-garantia, fiança bancária e título de capitalização. O art. 98 fixa até 5% do valor inicial, com majoração até 10% mediante justificativa, e seu parágrafo único manda usar o valor anual nos serviços contínuos com vigência superior a um ano."
+],
+[
+"A Administração pode impor a modalidade de garantia que melhor atender ao interesse público, desde que o faça de forma motivada no edital.",
+"Errada. A lei confere ao contratado a escolha da modalidade (art. 96, §1º). A Administração decide se exige garantia e em que percentual, mas não pode impor a fiança bancária."
+],
+[
+"O percentual da garantia nas contratações de serviços é limitado a 5% do valor do contrato, sem possibilidade de majoração.",
+"Errada. O art. 98 admite majorar até 10%, desde que justificado pela análise da complexidade técnica e dos riscos envolvidos."
+],
+[
+"A garantia prestada em dinheiro deve ser devolvida pelo valor nominal, pois a atualização monetária configuraria enriquecimento do contratado.",
+"Errada. O art. 100 determina a liberação ou restituição da garantia após a fiel execução do contrato, com atualização monetária quando prestada em dinheiro."
+],
+[
+"O seguro-garantia com cláusula de retomada, em percentual de até 30% do valor inicial, pode ser exigido em qualquer contratação de serviços contínuos.",
+"Errada. O art. 99 restringe essa exigência às contratações de obras e serviços de engenharia de grande vulto."
+]
+],
+"c": 0,
+"base": "Lei 14.133/2021, arts. 96, §1º, 98, 99, 100 e 102.",
+"dica": "Garantia: o CONTRATADO escolhe a modalidade. Regra até 5%, com justificativa até 10%; obra de grande vulto com retomada até 30%. Serviço contínuo acima de um ano: base no valor anual."
+},
+{
+"disc": "Direito Administrativo",
+"item": "A19",
+"nivel": "médio",
+"tema": "Ação civil pública: associação pré-constituída, Defensoria Pública e sucessão processual (Lei 7.347/1985, arts. 5º, 17 e 18)",
+"enun": "A Associação dos Ribeirinhos do Rio Claro, constituída havia sete meses e cuja finalidade estatutária é a defesa do meio ambiente regional, ajuizou ação civil pública contra a Mineradora Sigma, alegando contaminação do rio que abastece três Municípios e cerca de 200 mil pessoas. A ré sustentou ilegitimidade ativa por ausência do requisito de um ano de constituição. Meses depois, a associação deixou de praticar os atos processuais que lhe incumbiam, abandonando a causa, e a Defensoria Pública pediu para assumir o polo ativo. A ré argumentou, ainda, que a associação, se vencida, deveria arcar com honorários advocatícios. Considerando a Lei nº 7.347/1985 e a jurisprudência do STF, assinale a afirmativa correta.",
+"alts": [
+[
+"O juiz pode dispensar o requisito da pré-constituição há pelo menos um ano, diante do manifesto interesse social evidenciado pela dimensão do dano, e, havendo abandono da ação pela associação, o Ministério Público ou outro legitimado, como a Defensoria Pública, assumirá a titularidade ativa.",
+"CORRETA. O art. 5º, §4º, permite ao juiz dispensar a pré-constituição quando houver manifesto interesse social evidenciado pela dimensão ou característica do dano ou pela relevância do bem jurídico. O §3º prevê que, em caso de desistência infundada ou abandono, o MP ou outro legitimado assumirá a titularidade ativa. A Defensoria é legitimada pelo art. 5º, II, e o STF confirmou sua legitimidade (ADI 3.943)."
+],
+[
+"O requisito de um ano de constituição é absoluto e não admite dispensa, sob pena de violação à isonomia entre os legitimados.",
+"Errada. O próprio art. 5º, §4º, autoriza a dispensa judicial do requisito em hipóteses de manifesto interesse social."
+],
+[
+"A Defensoria Pública só pode ajuizar ou assumir ações civis públicas se demonstrar que todos os beneficiados são hipossuficientes econômicos.",
+"Errada. O STF, na ADI 3.943, reconheceu a legitimidade ampla da Defensoria para a ACP, sem exigir prévia comprovação de que todos os beneficiários são necessitados, especialmente em direitos difusos."
+],
+[
+"A associação autora, se vencida, será condenada em honorários advocatícios, custas e despesas processuais, como qualquer litigante.",
+"Errada. O art. 18 dispensa o adiantamento de custas e afasta a condenação da associação autora em honorários, custas e despesas, salvo comprovada má-fé, hipótese em que responde com seus diretores (art. 17)."
+],
+[
+"Diante do abandono, a associação poderá instaurar inquérito civil para colher provas e retomar a ação posteriormente.",
+"Errada. O inquérito civil é instrumento privativo do Ministério Público (CF, art. 129, III; Lei 7.347/1985, art. 8º, §1º)."
+]
+],
+"c": 0,
+"base": "Lei 7.347/1985, arts. 5º, II, V, §§3º e 4º, 8º, §1º, 17 e 18; STF, ADI 3.943; CF, art. 129, III.",
+"dica": "Associação: um ano de constituição, dispensável pelo juiz. Desistência ou abandono: MP ou outro legitimado assume. Associação só paga honorários se houver má-fé. Inquérito civil é só do MP."
+},
+{
+"disc": "Direito Administrativo",
+"item": "A17",
+"nivel": "médio",
+"tema": "Alienação de bens imóveis públicos na Lei 14.133/2021: autorização legislativa, avaliação e leilão (art. 76)",
+"enun": "O Estado Alfa pretende alienar dois imóveis. O primeiro pertence a uma autarquia estadual e foi desafetado por ato administrativo, após a mudança da sede da entidade. O segundo foi recebido pelo Estado em dação em pagamento de débito tributário de uma sociedade empresária. O Procurador do Estado é consultado sobre os requisitos para a alienação, tendo em vista proposta do Secretário de Fazenda de vender ambos os imóveis diretamente a interessados, sem autorização legislativa, após avaliação. Considerando a Lei nº 14.133/2021 e o Código Civil, assinale a afirmativa correta.",
+"alts": [
+[
+"O imóvel recebido em dação em pagamento pode ser alienado sem autorização legislativa, exigindo-se avaliação prévia e licitação na modalidade leilão, ao passo que a alienação do imóvel da autarquia depende de autorização legislativa, avaliação prévia e licitação na modalidade leilão.",
+"CORRETA. O art. 76, I, exige, para imóveis da Administração direta, autárquica e fundacional, autorização legislativa, avaliação prévia e licitação na modalidade leilão. O §1º dispensa a autorização legislativa para os imóveis cuja aquisição derive de procedimentos judiciais ou de dação em pagamento, exigindo apenas avaliação prévia e leilão."
+],
+[
+"Ambos os imóveis podem ser vendidos diretamente, sem licitação, desde que precedidos de avaliação, pois a desafetação os converte em bens dominicais de livre disposição.",
+"Errada. Os bens dominicais podem ser alienados, mas observadas as exigências da lei (CC, art. 101). A Lei 14.133/2021 exige licitação na modalidade leilão, salvo as hipóteses de dispensa do art. 76, I."
+],
+[
+"A alienação do imóvel da autarquia dispensa autorização legislativa, exigida apenas para os bens da Administração direta.",
+"Errada. A autorização legislativa alcança os imóveis dos órgãos da Administração direta e das entidades autárquicas e fundacionais (art. 76, I)."
+],
+[
+"A alienação de imóveis públicos deve ser feita por concorrência, modalidade destinada às contratações de maior valor.",
+"Errada. Na Lei 14.133/2021, a alienação de imóveis se faz por leilão (art. 76, I, e art. 6º, XL). O leilão é a modalidade para alienar imóveis ou móveis inservíveis ou legalmente apreendidos."
+],
+[
+"O imóvel da autarquia poderia ser alienado mesmo enquanto afetado à sede da entidade, desde que precedido de autorização legislativa e avaliação.",
+"Errada. Bens de uso comum e de uso especial são inalienáveis enquanto conservarem essa qualificação (CC, art. 100). A desafetação é pressuposto da alienação."
+]
+],
+"c": 0,
+"base": "Lei 14.133/2021, arts. 6º, XL, e 76, I e §1º; CC, arts. 100 e 101.",
+"dica": "Imóvel público: desafetar + lei autorizadora + avaliação + LEILÃO. Veio de processo judicial ou de dação? Dispensa só a lei autorizadora."
+},
+{
+"disc": "Noções Gerais de Direito e Formação Humanística",
+"item": "H5",
+"nivel": "médio",
+"tema": "Antinomias jurídicas: critérios de solução e antinomias de segundo grau (Bobbio; LINDB, art. 2º, §2º)",
+"enun": "Em sua obra sobre a teoria do ordenamento jurídico, Norberto Bobbio define a antinomia como a situação em que duas normas incompatíveis pertencem ao mesmo ordenamento e têm o mesmo âmbito de validade, e propõe três critérios para sua solução: o cronológico, o hierárquico e o da especialidade. Uma juíza precisa decidir um caso em que uma lei anterior especial regula determinado contrato de modo incompatível com uma lei posterior de caráter geral, ambas de mesma hierarquia. Considerando a teoria das antinomias e a Lei de Introdução às Normas do Direito Brasileiro, assinale a afirmativa correta.",
+"alts": [
+[
+"No conflito entre norma anterior especial e norma posterior geral, prevalece em regra a norma especial, pois o critério da especialidade se sobrepõe ao cronológico, o que é coerente com a previsão da LINDB de que a lei nova que estabeleça disposições gerais a par das já existentes não revoga nem modifica a anterior.",
+"CORRETA. Na antinomia de segundo grau entre os critérios da especialidade e o cronológico, Bobbio indica a prevalência da especialidade (lex posterior generalis non derogat priori speciali). O art. 2º, §2º, da LINDB segue a mesma lógica."
+],
+[
+"O critério cronológico prevalece sobre o hierárquico, pois a norma posterior expressa a vontade mais recente do legislador.",
+"Errada. No conflito entre esses dois critérios, prevalece o hierárquico: a norma inferior posterior não revoga a norma superior anterior (lex posterior inferior non derogat priori superiori)."
+],
+[
+"Antinomia real é aquela que pode ser resolvida pela aplicação dos critérios cronológico, hierárquico ou da especialidade.",
+"Errada. A classificação foi invertida. A antinomia aparente é a solucionável pelos critérios normativos; a real é aquela em que os critérios são insuficientes ou conflitantes, exigindo do intérprete solução por outros meios (ou pela revogação legislativa)."
+],
+[
+"Pela LINDB, a lei posterior de caráter geral sempre revoga a lei anterior especial que trate da mesma matéria.",
+"Errada. A LINDB afirma o oposto: a lei nova com disposições gerais ou especiais a par das já existentes não revoga nem modifica a anterior (art. 2º, §2º). A revogação ocorre quando a lei nova o declare, seja incompatível ou regule inteiramente a matéria (art. 2º, §1º)."
+],
+[
+"Para que haja antinomia, é indispensável que as normas incompatíveis pertençam a ordenamentos jurídicos distintos.",
+"Errada. A antinomia pressupõe normas do mesmo ordenamento e com o mesmo âmbito de validade (temporal, espacial, pessoal e material). Conflitos entre ordenamentos distintos são tratados pelo direito internacional privado."
+]
+],
+"c": 0,
+"base": "Bobbio, Teoria do Ordenamento Jurídico; LINDB, art. 2º, §§1º e 2º.",
+"dica": "Hierárquico vence cronológico; especialidade vence cronológico. Aparente = os critérios resolvem; real = os critérios não resolvem."
+},
+{
+"disc": "Noções Gerais de Direito e Formação Humanística",
+"item": "H4",
+"nivel": "fácil",
+"tema": "Rawls: posição original, véu de ignorância e princípios da justiça",
+"enun": "Em um seminário sobre filosofia do direito, um magistrado apresentou a seguinte proposta: imagine-se que os membros de uma sociedade devam escolher os princípios que regerão as suas instituições básicas sem saber qual será o seu lugar nela, a sua classe social, os seus talentos naturais ou a sua concepção de bem. Segundo o expositor, princípios escolhidos nessas condições seriam equitativos, pois ninguém poderia moldá-los em benefício próprio. A proposta corresponde à teoria da justiça como equidade de John Rawls. Sobre essa teoria, assinale a afirmativa correta.",
+"alts": [
+[
+"Na posição original, sob o véu de ignorância, as partes escolheriam o princípio da igual liberdade e o princípio segundo o qual as desigualdades sociais e econômicas só se justificam se beneficiarem os menos favorecidos e estiverem vinculadas a posições abertas a todos em condições de igualdade equitativa de oportunidades, com prioridade do primeiro princípio sobre o segundo.",
+"CORRETA. Esses são os dois princípios de Rawls: (1) iguais liberdades básicas para todos; (2) desigualdades admitidas apenas se beneficiarem os menos favorecidos (princípio da diferença) e se ligadas a cargos abertos com igualdade equitativa de oportunidades. A ordem é lexical, e as liberdades básicas não podem ser trocadas por vantagens econômicas."
+],
+[
+"A teoria de Rawls é uma forma de utilitarismo, pois os princípios escolhidos buscam maximizar a soma total do bem-estar da sociedade.",
+"Errada. Rawls construiu sua teoria em oposição ao utilitarismo, que, ao somar utilidades, pode sacrificar direitos de alguns em favor do bem-estar agregado."
+],
+[
+"O véu de ignorância permite que as partes conheçam suas posições sociais, para que possam negociar princípios realistas e adequados aos seus interesses.",
+"Errada. O véu oculta justamente a posição social, os talentos e as concepções de bem das partes, garantindo a imparcialidade da escolha."
+],
+[
+"O princípio da diferença autoriza restringir as liberdades básicas sempre que isso produzir ganhos econômicos para os menos favorecidos.",
+"Errada. A prioridade do princípio da liberdade impede essa troca: as liberdades básicas só podem ser limitadas em nome da própria liberdade."
+],
+[
+"Rawls sustenta que apenas um Estado mínimo, limitado à proteção contra a força, o roubo e a fraude, é justificável, sendo ilegítima qualquer redistribuição de renda.",
+"Errada. Essa é a tese libertária de Robert Nozick, formulada em crítica a Rawls. O princípio da diferença justifica arranjos redistributivos."
+]
+],
+"c": 0,
+"base": "John Rawls, Uma Teoria da Justiça (1971).",
+"dica": "Rawls: véu de ignorância, depois liberdade igual e, em segundo lugar, desigualdade só se beneficiar os menos favorecidos. Nozick = Estado mínimo. Utilitarismo = soma do bem-estar."
+},
+{
+"disc": "Direitos Humanos",
+"item": "DH3",
+"nivel": "médio",
+"tema": "Sentenças da Corte Interamericana: definitividade, pedido de interpretação e execução interna (CADH, arts. 61, 62, 67 e 68)",
+"enun": "A Corte Interamericana de Direitos Humanos proferiu sentença condenando a República Federativa do Brasil por violações à Convenção Americana em caso relativo à morte de trabalhadores rurais, ocorrida em 2005. A sentença determinou o pagamento de indenizações às famílias, a reabertura das investigações e a realização de ato público de reconhecimento de responsabilidade. Representantes do Estado discutem como proceder: um sustenta que a decisão poderia ser revista pela Comissão Interamericana; outro, que ela dependeria de homologação pelo Superior Tribunal de Justiça; um terceiro, que seria possível pedir esclarecimentos à Corte sobre o alcance das medidas determinadas. Considerando a Convenção Americana sobre Direitos Humanos, assinale a afirmativa correta.",
+"alts": [
+[
+"A sentença da Corte é definitiva e inapelável; havendo divergência sobre seu sentido ou alcance, qualquer das partes pode solicitar sua interpretação no prazo de noventa dias da notificação, e a parte indenizatória pode ser executada no país pelo processo interno vigente para a execução de sentenças contra o Estado.",
+"CORRETA. É o que dispõem os arts. 67 e 68.2 da CADH. A sentença não admite recurso, mas cabe pedido de interpretação em até noventa dias. A indenização compensatória pode ser executada internamente pelo procedimento de execução contra a Fazenda Pública."
+],
+[
+"A sentença pode ser objeto de recurso ao plenário da Comissão Interamericana de Direitos Humanos, órgão que exerce a revisão das decisões da Corte.",
+"Errada. A Comissão não é instância recursal da Corte. As sentenças da Corte são definitivas e inapeláveis (art. 67)."
+],
+[
+"Por ser decisão proferida fora do território nacional, a sentença depende de homologação pelo Superior Tribunal de Justiça para produzir efeitos no Brasil.",
+"Errada. A sentença da Corte IDH é internacional, proferida por tribunal cuja jurisdição o Brasil reconheceu, e não sentença estrangeira. Por isso não se sujeita à homologação do art. 105, I, i, da CF."
+],
+[
+"O caso poderia ter sido submetido à Corte diretamente pelas famílias das vítimas, que têm legitimidade para iniciar o processo contencioso.",
+"Errada. Segundo o art. 61.1 da CADH, somente os Estados Partes e a Comissão podem submeter casos à Corte. As vítimas peticionam à Comissão e participam do processo perante a Corte, mas não o iniciam."
+],
+[
+"Como o Brasil reconheceu a competência contenciosa da Corte, ela pode julgar quaisquer violações ocorridas após a promulgação da Constituição de 1988.",
+"Errada. O Brasil reconheceu a competência contenciosa da Corte para fatos posteriores a 10 de dezembro de 1998 (Decreto 4.463/2002), ressalvadas as violações de caráter contínuo ou permanente que persistam após essa data."
+]
+],
+"c": 0,
+"base": "CADH, arts. 61.1, 62, 67 e 68; Decreto 4.463/2002; CF, art. 105, I, i.",
+"dica": "Corte IDH: sentença definitiva e inapelável; pedido de interpretação em 90 dias; indenização executada como sentença contra a Fazenda. Só Estados e Comissão levam o caso. Brasil: fatos a partir de 10/12/1998."
+},
+{
+"disc": "Direito Processual Civil",
+"item": "P07",
+"nivel": "fácil",
+"tema": "Emenda e indeferimento da petição inicial e apelação com juízo de retratação (CPC, arts. 321 e 331)",
+"enun": "Joana ajuizou ação de cobrança contra Felipe, mas a petição inicial não indicou o valor da causa nem trouxe o contrato que fundamentava o pedido. O juiz, ao receber a inicial, proferiu de imediato sentença de indeferimento, sem oportunizar a correção dos vícios. Inconformada, Joana pretende recorrer. Considerando o Código de Processo Civil, assinale a afirmativa correta.",
+"alts": [
+[
+"O juiz deveria ter determinado a emenda ou a complementação da petição inicial no prazo de 15 dias, indicando com precisão o que deveria ser corrigido; contra a sentença de indeferimento cabe apelação, que faculta ao juiz retratar-se no prazo de 5 dias.",
+"CORRETA. O art. 321 impõe ao juiz oportunizar a emenda em 15 dias, indicando com precisão o vício, e só depois indeferir a inicial (parágrafo único). Indeferida a inicial, cabe apelação, e o juiz pode retratar-se em 5 dias (art. 331)."
+],
+[
+"O prazo para a emenda da petição inicial é de 10 dias, findo o qual o juiz deve indeferi-la, cabendo agravo de instrumento.",
+"Errada. O prazo de 10 dias era o do CPC/1973. No CPC/2015 o prazo é de 15 dias, e a decisão que indefere a inicial é sentença, recorrível por apelação."
+],
+[
+"Contra a sentença de indeferimento da petição inicial não cabe juízo de retratação, que é exclusivo do agravo de instrumento.",
+"Errada. O art. 331 prevê a retratação em 5 dias na apelação contra o indeferimento da inicial. A retratação também ocorre na improcedência liminar (art. 332, §3º) e na extinção sem mérito (art. 485, §7º)."
+],
+[
+"Se o juiz não se retratar, os autos serão remetidos ao tribunal sem a citação do réu, pois ele ainda não integra a relação processual.",
+"Errada. Não havendo retratação, o juiz manda citar o réu para responder ao recurso (art. 331, §1º)."
+],
+[
+"A ausência de indicação do valor da causa é vício insanável, pois o valor é requisito essencial da petição inicial.",
+"Errada. O valor da causa é requisito da inicial (art. 319, V), mas a sua falta é sanável por emenda. O juiz pode ainda corrigi-lo de ofício (art. 292, §3º)."
+]
+],
+"c": 0,
+"base": "CPC, arts. 292, §3º, 319, 321 e 331.",
+"dica": "Inicial com defeito: emenda em 15 dias (o juiz aponta o vício). Indeferiu: apelação com retratação em 5 dias; sem retratação, cita o réu para contrarrazões."
+},
+{
+"disc": "Direito Processual Civil",
+"item": "P01",
+"nivel": "médio",
+"tema": "Primazia do julgamento de mérito: preparo, peças do agravo e vícios sanáveis dos recursos (CPC, arts. 4º, 932, parágrafo único, e 1.007)",
+"enun": "No Tribunal de Justiça do Estado Alfa, a Desembargadora Helena relata dois recursos. No primeiro, uma apelação interposta no prazo legal, o apelante não juntou o comprovante do recolhimento do preparo. No segundo, um agravo de instrumento em autos físicos, o agravante deixou de juntar cópia da decisão agravada, peça obrigatória. A assessoria sugere que ambos os recursos não sejam conhecidos de plano, por deserção e por irregularidade formal, respectivamente. Considerando o Código de Processo Civil, assinale a afirmativa correta.",
+"alts": [
+[
+"O apelante deve ser intimado para recolher o preparo em dobro, sob pena de deserção, e o agravante deve ser intimado para juntar a peça faltante em 5 dias, pois o relator, antes de considerar inadmissível o recurso, deve conceder prazo para sanar o vício.",
+"CORRETA. O art. 1.007, §4º, determina a intimação para recolhimento em dobro quando não comprovado o preparo no ato de interposição. O art. 932, parágrafo único, e o art. 1.017, §3º, impõem ao relator conceder 5 dias para sanar vício ou complementar documentação, concretizando a primazia do mérito (art. 4º)."
+],
+[
+"Ambos os recursos devem ser inadmitidos de plano, pois a comprovação do preparo e a juntada das peças obrigatórias devem ocorrer no ato de interposição.",
+"Errada. O CPC/2015 adotou a primazia do julgamento de mérito e impõe a oportunidade de correção dos vícios sanáveis antes da inadmissão."
+],
+[
+"O apelante deve ser intimado para recolher o preparo no valor simples, em 5 dias, pois a dobra só se aplica à insuficiência do valor recolhido.",
+"Errada. A lógica é inversa. Na insuficiência, o recorrente complementa em 5 dias (art. 1.007, §2º). Na ausência de comprovação, recolhe em dobro (art. 1.007, §4º)."
+],
+[
+"Pelo princípio da primazia do mérito, o relator também deveria conceder prazo para sanar eventual intempestividade do recurso.",
+"Errada. A intempestividade não é vício sanável. A primazia do mérito alcança vícios formais corrigíveis, mas não reabre prazo recursal já esgotado."
+],
+[
+"O agravo de instrumento deve ser inadmitido, pois a falta de peça obrigatória gera preclusão consumativa, mas a apelação deve ser conhecida, porque o preparo pode ser comprovado até o julgamento.",
+"Errada. Ambos os vícios são sanáveis mediante intimação, e o preparo não pode ser comprovado a qualquer tempo: segue o regime do art. 1.007, §4º."
+]
+],
+"c": 0,
+"base": "CPC, arts. 4º, 932, parágrafo único, 1.007, §§2º e 4º, e 1.017, §3º.",
+"dica": "Sem preparo: recolhe em DOBRO. Preparo insuficiente: complementa em 5 dias. Peça faltando: 5 dias. Intempestividade: não tem conserto."
+},
+{
+"disc": "Direito Processual Civil",
+"item": "P24",
+"nivel": "médio",
+"tema": "Gratuidade da justiça: presunção, pessoa jurídica, advogado particular e suspensão da exigibilidade (CPC, arts. 98 e 99; Súmula 481/STJ)",
+"enun": "Rita, diarista, ajuizou ação indenizatória representada por advogado particular contratado mediante honorários de êxito e declarou na inicial não ter condições de arcar com as custas. O juiz indeferiu a gratuidade sob o fundamento de que a contratação de advogado particular demonstra capacidade econômica. No mesmo juízo, a sociedade empresária Delta Comércio Ltda. pediu gratuidade alegando apenas dificuldades financeiras, sem juntar documentos. Em outro processo, um autor beneficiário da gratuidade teve o pedido julgado improcedente e sustenta que não pode ser condenado em honorários sucumbenciais. Considerando o Código de Processo Civil e a jurisprudência do STJ, assinale a afirmativa correta.",
+"alts": [
+[
+"Presume-se verdadeira a alegação de insuficiência deduzida por pessoa natural, e a assistência por advogado particular não impede a concessão da gratuidade; a pessoa jurídica deve demonstrar a impossibilidade de arcar com os encargos processuais; e o beneficiário vencido é condenado em honorários, mas a exigibilidade fica suspensa por até cinco anos.",
+"CORRETA. Ver arts. 99, §§3º e 4º, e 98, §§2º e 3º, do CPC e Súmula 481 do STJ. A presunção vale para a pessoa natural; a pessoa jurídica, com ou sem fins lucrativos, precisa demonstrar a impossibilidade. A gratuidade não afasta a condenação em honorários, apenas suspende sua exigibilidade por cinco anos, extinguindo-se a obrigação depois disso."
+],
+[
+"O beneficiário da gratuidade da justiça não pode ser condenado ao pagamento de honorários advocatícios de sucumbência.",
+"Errada. O art. 98, §2º, afirma que a gratuidade não afasta a responsabilidade pelas despesas e pelos honorários decorrentes da sucumbência. O que ocorre é a suspensão da exigibilidade (§3º)."
+],
+[
+"A pessoa jurídica com fins lucrativos não pode ser beneficiária da gratuidade da justiça, que se destina às pessoas naturais e às entidades filantrópicas.",
+"Errada. O art. 98 admite a gratuidade para pessoa natural ou jurídica, e a Súmula 481 do STJ a reconhece à pessoa jurídica com ou sem fins lucrativos que demonstre a impossibilidade de arcar com os encargos."
+],
+[
+"A concessão da gratuidade abrange as multas processuais impostas ao beneficiário, como a multa por litigância de má-fé.",
+"Errada. O art. 98, §4º, determina que a gratuidade não afasta o dever de pagar, ao final, as multas processuais impostas."
+],
+[
+"A decisão que indefere a gratuidade da justiça só pode ser impugnada em preliminar de apelação, por não constar do rol do agravo de instrumento.",
+"Errada. A decisão que rejeita o pedido de gratuidade ou acolhe o pedido de sua revogação é agravável (art. 1.015, V). Se a questão for resolvida na sentença, cabe apelação (art. 101)."
+]
+],
+"c": 0,
+"base": "CPC, arts. 98, §§2º a 4º, 99, §§3º e 4º, 101 e 1.015, V; Súmula 481/STJ.",
+"dica": "Pessoa natural: presunção. PJ: precisa provar (Súmula 481). Advogado particular não impede. Perdeu? Paga honorários, mas com exigibilidade suspensa por 5 anos. Multa processual não é perdoada."
+}
+]
