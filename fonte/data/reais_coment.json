@@ -1922,5 +1922,304 @@
   ],
   "base": "CP, arts. 20, §1º, 22, 23, 24 e 25.",
   "dica": "Legítima defesa só contra agressão INJUSTA: não cabe contra LD real nem contra estado de necessidade. Cabe contra excesso, contra o coagido (a coação exclui só a culpabilidade) e, na putativa, até contra LD real."
+ },
+ "e4-4": {
+  "nivel": "difícil",
+  "tema": "Intervenção federal por descumprimento de decisão da Justiça do Trabalho: requisição do STF (CF, arts. 34, VI, e 36, II)",
+  "coms": [
+   "Errada. Na hipótese de desobediência a ordem ou decisão judicial (art. 34, VI), a intervenção não é espontânea: depende de requisição do STF, do STJ ou do TSE (art. 36, II). A modalidade espontânea é própria das hipóteses do art. 34, I, II, III e V.",
+   "CORRETA. Desobedecida decisão da Justiça do Trabalho, a requisição cabe ao STF, já que o art. 36, II, menciona apenas STF, STJ e TSE, e o TST não está entre eles; matéria trabalhista é encaminhada pelo STF. Como regra, o decreto interventivo é submetido ao Congresso em 24 horas (art. 36, §1º); nos casos do art. 34, VI, o controle político é dispensado apenas se o decreto se limitar a suspender a execução do ato impugnado e isso bastar (art. 36, §3º). Entre as opções, é a única compatível com o sistema constitucional.",
+   "Errada. A ação direta interventiva proposta pelo PGR é pressuposto da intervenção para assegurar os princípios sensíveis (art. 34, VII) e a execução de lei federal (art. 36, III), e não para o descumprimento de decisão judicial.",
+   "Errada. Varas e turmas do TRT não têm legitimidade para requerer a intervenção; somente os tribunais indicados no art. 36, II, podem requisitá-la.",
+   "Errada. O TST não está entre os tribunais legitimados pelo art. 36, II (STF, STJ e TSE). Em matéria trabalhista, a requisição cabe ao STF."
+  ],
+  "base": "CF, arts. 34, VI, 36, II, e §§1º e 3º.",
+  "dica": "Desobediência judicial: requisição do STF, STJ ou TSE (TST, não!). Justiça do Trabalho e Militar → STF. Requisição VINCULA o Presidente."
+ },
+ "e4-13": {
+  "nivel": "médio",
+  "tema": "Competência da Justiça Federal: crime contra servidor federal no exercício da função e bens da União (CF, art. 109, IV; Súmula 147/STJ)",
+  "coms": [
+   "Errada. Tráfico praticado por militar da ativa a bordo de navio militar é crime militar por extensão (CPM, art. 9º, II, b, com a Lei 13.491/2017), da competência da Justiça Militar da União (CF, art. 124), e não da Justiça Federal comum.",
+   "Errada. Ato infracional praticado por adolescente é sempre apurado pela Justiça Estadual (Vara da Infância e Juventude), qualquer que seja a infração análoga, pois a Justiça Federal não julga atos infracionais.",
+   "Errada. Crime praticado por ou contra indígena, sem disputa sobre direitos indígenas coletivos, é de competência da Justiça Estadual (Súmula 140/STJ). A violência doméstica entre indígenas não atrai o art. 109, XI.",
+   "CORRETA. O homicídio culposo atingiu servidor federal no exercício de suas funções, dirigindo viatura da União, o que atrai a competência federal (CF, art. 109, IV): compete à Justiça Federal processar crimes praticados contra funcionário público federal quando relacionados com o exercício da função (Súmula 147/STJ), além de haver lesão a bem da União.",
+   "Errada. Homicídio cometido no Brasil contra estrangeiro não é, por si, crime de competência federal. O auxílio direto prestado à França não desloca a competência para julgar o fato no Brasil, que continua com a Justiça Estadual."
+  ],
+  "base": "CF, arts. 109, IV e XI, e 124; CPM, art. 9º; Súmulas 140 e 147/STJ.",
+  "dica": "Contra SERVIDOR federal NA FUNÇÃO = JF (Súmula 147). Indígena sem disputa coletiva = Estadual (Súmula 140). Adolescente = sempre Estadual."
+ },
+ "e5-23": {
+  "nivel": "médio",
+  "tema": "Silêncio administrativo e aprovação tácita na Lei de Liberdade Econômica (Lei 13.874/2019, art. 3º, IX)",
+  "coms": [
+   "Errada. A afirmativa II também está correta, de modo que a resposta não se limita à I.",
+   "CORRETA. I: a doutrina distingue o silêncio negativo (indeferimento tácito) do silêncio positivo (aprovação tácita, ficção legal que substitui o deferimento expresso). II: a aprovação tácita do art. 3º, IX, pressupõe o decurso do prazo para a análise do pedido de liberação; se já houve indeferimento expresso, o atraso no julgamento do recurso não converte o indeferimento em deferimento (o Decreto 10.178/2019 delimita o instituto). III está errada: a inércia administrativa é controlável judicialmente, à luz da razoável duração do processo (CF, art. 5º, LXXVIII) e do dever de decidir (Lei 9.784/1999, arts. 48 e 49).",
+   "Errada. A afirmativa III é falsa: a omissão em julgar recurso no prazo é ilegalidade sindicável pelo Judiciário, que pode determinar a decisão.",
+   "Errada. A I está correta e a III é falsa.",
+   "Errada. A afirmativa III é falsa, pois o controle judicial da inércia administrativa não depende de juízo discricionário."
+  ],
+  "base": "Lei 13.874/2019, art. 3º, IX; Decreto 10.178/2019; Lei 9.784/1999, arts. 48 e 49; CF, art. 5º, XXXV e LXXVIII.",
+  "dica": "Aprovação tácita = só para pedido SEM resposta no prazo. Indeferiu expressamente? Não vira deferimento. Inércia: o juiz pode mandar decidir."
+ },
+ "e4-29": {
+  "nivel": "médio",
+  "tema": "Código de Ética da Magistratura Nacional (Res. CNJ 60/2008): imparcialidade, transparência, integridade e atividade empresarial",
+  "coms": [
+   "CORRETA. O Código de Ética da Magistratura Nacional, em linha com a LOMAN (art. 36, I), dispõe que o magistrado não deve exercer atividade empresarial, exceto na condição de acionista ou cotista e desde que não exerça o controle ou a gerência.",
+   "Errada. O Código veda ao magistrado usar para fins privados, SEM AUTORIZAÇÃO, os bens públicos ou os meios disponibilizados para o exercício de suas funções. A expressão 'em qualquer hipótese' torna a afirmativa incorreta.",
+   "Errada. É vedado ao magistrado manifestar opinião sobre processo pendente de julgamento, seu ou de outrem (LOMAN, art. 36, III), ressalvadas a crítica nos autos e em obras técnicas ou no magistério. Ser 'parte interessada' agravaria, e não autorizaria, a manifestação.",
+   "Errada. O dever de transparência (art. 10 do Código) determina documentar os atos sempre que possível, mesmo quando não legalmente previsto, de modo a favorecer sua publicidade, EXCETO nos casos de sigilo contemplado em lei. A afirmativa diz 'inclusive', invertendo a regra.",
+   "Errada. O texto reproduz a definição do magistrado IMPARCIAL (art. 8º do Código), e não do magistrado prudente. A prudência, em capítulo próprio, refere-se a comportamentos e decisões resultantes de juízo justificado racionalmente."
+  ],
+  "base": "Resolução CNJ 60/2008 (Código de Ética da Magistratura Nacional), arts. 8º, 10 e capítulos da integridade e da prudência; LOMAN (LC 35/1979), art. 36, I e III.",
+  "dica": "Código de Ética: cuidado com as trocas de rótulo (imparcial x prudente) e de exceção ('exceto sigilo' x 'inclusive sigilo'; 'sem autorização' x 'em qualquer hipótese')."
+ },
+ "e4-33": {
+  "nivel": "fácil",
+  "tema": "Corte Interamericana de Direitos Humanos: acesso, supervisão de cumprimento e definitividade das sentenças (Caso Acari)",
+  "coms": [
+   "Errada. A afirmativa I é falsa: particulares não têm acesso direto à Corte IDH; só os Estados Partes e a Comissão podem submeter casos (CADH, art. 61). O caso chega à Corte depois do trâmite na Comissão.",
+   "Errada. A afirmativa II é falsa: a Corte supervisiona o cumprimento de suas sentenças (prática consolidada, prevista em seu Regulamento, art. 69) e informa à Assembleia Geral da OEA os casos de descumprimento (CADH, art. 65).",
+   "CORRETA. Apenas a III está correta: a sentença da Corte é definitiva e inapelável (CADH, art. 67), cabendo somente pedido de interpretação em caso de divergência sobre seu sentido ou alcance, no prazo de 90 dias.",
+   "Errada. A afirmativa I é falsa, pois o indivíduo não tem jus standi para iniciar o caso perante a Corte.",
+   "Errada. A afirmativa II é falsa: a supervisão de cumprimento existe e é exercida rotineiramente pela Corte."
+  ],
+  "base": "Convenção Americana sobre Direitos Humanos, arts. 61, 65, 67 e 68; Regulamento da Corte IDH, art. 69.",
+  "dica": "Corte IDH: indivíduo NÃO entra direto (só Comissão e Estados). Sentença DEFINITIVA e INAPELÁVEL (só interpretação). A Corte SUPERVISIONA o cumprimento."
+ },
+ "e3-48": {
+  "nivel": "médio",
+  "tema": "Produção antecipada de prova: competência, prevenção, citação e recorribilidade (CPC, arts. 381 e 382)",
+  "coms": [
+   "Errada. A produção antecipada da prova é da competência do juízo do foro onde ela deva ser produzida ou do foro de domicílio do réu (art. 381, §2º): há competência concorrente, e não incompetência.",
+   "Errada. No procedimento não se admite defesa ou recurso, salvo contra a decisão que indeferir totalmente a produção da prova pleiteada pelo requerente originário (art. 382, §4º). A decisão que indefere a prova e extingue o procedimento é, portanto, impugnável por apelação.",
+   "CORRETA. A produção antecipada da prova não previne a competência do juízo para a ação que venha a ser proposta (art. 381, §3º).",
+   "Errada. O juiz determinará, de ofício ou a requerimento, a citação dos interessados na produção da prova ou no fato a ser provado (art. 382, §1º). A ausência de lide e de valoração da prova (art. 382, §2º) não dispensa o contraditório.",
+   "Errada. A antecipação é admitida também quando o prévio conhecimento dos fatos possa justificar ou evitar o ajuizamento de ação (art. 381, III), independentemente de urgência. Há interesse de agir."
+  ],
+  "base": "CPC, arts. 381, I a III e §§2º e 3º, e 382, §§1º, 2º e 4º.",
+  "dica": "Prova antecipada: foro da prova OU do réu; NÃO previne; cita interessados; só recorre de quem teve a prova TOTALMENTE indeferida."
+ },
+ "e5-46": {
+  "nivel": "médio",
+  "tema": "Penhora de bem indivisível em copropriedade: alienação integral e proteção da quota do coproprietário (CPC, art. 843)",
+  "coms": [
+   "Errada. Não há vício no polo passivo: os coproprietários não devem figurar como executados, pois a dívida é só de João. Eles devem ser intimados da penhora e da alienação (arts. 799 e 889), mas não citados como réus.",
+   "CORRETA. Art. 843: tratando-se de penhora de bem indivisível, o equivalente à quota-parte do coproprietário alheio à execução recairá sobre o produto da alienação do bem. O coproprietário tem preferência na arrematação em igualdade de condições (§1º), e não se leva a efeito expropriação por preço inferior ao da avaliação que impeça o pagamento da quota do coproprietário calculado sobre o valor da avaliação (§2º).",
+   "Errada. O CPC/2015 autoriza a alienação do bem indivisível por inteiro, protegendo os coproprietários pela sub-rogação no produto e pela preferência (art. 843). Não há limitação à alienação da fração ideal.",
+   "Errada. A alegação não teria êxito: a lei permite a alienação integral do bem indivisível, e os embargos à execução são meio de defesa do executado, não dos coproprietários.",
+   "Errada. Os irmãos poderiam opor embargos de terceiro para proteger sua quota, mas a lei não restringe a alienação à fração ideal: assegura-lhes o equivalente em dinheiro sobre o produto da alienação (art. 843, caput e §2º)."
+  ],
+  "base": "CPC, arts. 674, 799, 843 e 889.",
+  "dica": "Bem INDIVISÍVEL penhorado: vende-se INTEIRO; o coproprietário recebe sua parte em DINHEIRO (calculada na avaliação) e tem preferência na arrematação."
+ },
+ "e4-57": {
+  "nivel": "médio",
+  "tema": "Renúncia à prescrição consumada (CC, art. 191) e prescrição ânua da pretensão dos hospedeiros (art. 206, §1º, I)",
+  "coms": [
+   "Errada. As causas suspensivas estão nos arts. 197 a 199 do CC e não incluem a proposta de pagamento. Além disso, o prazo já se havia consumado, e não se suspende prazo já esgotado.",
+   "Errada. A interrupção (art. 202) só ocorre uma vez e pressupõe prazo em curso. Em maio de 2025, o prazo de um ano (vencido em 1º/1/2025) já havia transcorrido, de modo que não havia o que interromper.",
+   "CORRETA. A pretensão dos hospedeiros pelo pagamento da hospedagem prescreve em um ano (art. 206, §1º, I), consumada em 1º/1/2025. A proposta escrita de pagamento feita por Fátima depois disso é ato incompatível com a prescrição, configurando renúncia (art. 191), que pode ser expressa ou tácita e só vale depois que a prescrição se consumar, sem prejuízo de terceiro. Com a renúncia, a dívida volta a ser exigível judicialmente.",
+   "Errada. O impedimento é causa que obsta o início do prazo (como as do art. 197) e não guarda relação com o caso. E a dívida pode ser cobrada, em razão da renúncia.",
+   "Errada. Embora a prescrição tenha se consumado, a devedora a ela renunciou tacitamente (art. 191), restaurando a exigibilidade da pretensão."
+  ],
+  "base": "CC, arts. 191, 197 a 202 e 206, §1º, I.",
+  "dica": "Prescrição JÁ CONSUMADA + devedor reconhece/propõe pagar = RENÚNCIA (art. 191), não interrupção. Hospedagem e alimentos em hotel: 1 ano."
+ },
+ "e5-60": {
+  "nivel": "difícil",
+  "tema": "Princípios contratuais: funções da boa-fé objetiva, função social interna e externa e tutela externa do crédito (CC, arts. 113, 187, 421 e 422)",
+  "coms": [
+   "Errada. Lesão e estado de perigo são defeitos do negócio jurídico que geram anulabilidade (art. 171, II), e não nulidade por violação à ordem pública.",
+   "Errada. A função social do contrato tem eficácia externa e também interna, incidindo sobre as relações entre os próprios contratantes (Enunciado 360 da IV Jornada de Direito Civil: o princípio da função social dos contratos também pode ter eficácia interna entre as partes contratantes).",
+   "CORRETA. A boa-fé objetiva exerce tríplice função: interpretativa (art. 113), integrativa, como fonte de deveres anexos ou laterais (art. 422), e de controle, limitando o exercício abusivo de direitos (art. 187). Por ser norma de ordem pública, não pode ser afastada por convenção das partes.",
+   "Errada. A boa-fé não impede o exercício regular de direito pactuado só porque prejudica a contraparte; o limite está no exercício abusivo (art. 187). Se o prejuízo decorre do comportamento do próprio devedor, o exercício do direito pelo credor é legítimo.",
+   "Errada. A função social fundamenta a tutela externa do crédito: o terceiro que, ciente do contrato, interfere para frustrar seu adimplemento pode ser responsabilizado (Enunciado 21 da I Jornada de Direito Civil; teoria do terceiro cúmplice)."
+  ],
+  "base": "CC, arts. 113, 171, II, 187, 421 e 422; Enunciados 21 e 360 das Jornadas de Direito Civil.",
+  "dica": "Boa-fé objetiva: INTERPRETA (113), CRIA deveres (422), LIMITA abuso (187) — e não se afasta por contrato. Função social: vale entre as partes E contra o terceiro cúmplice."
+ },
+ "e5-63": {
+  "nivel": "fácil",
+  "tema": "Redução do capital da sociedade limitada por excesso: oposição de credores e eficácia (CC, art. 1.084)",
+  "coms": [
+   "Errada. Na redução por excesso de capital, a ata deve ser publicada para permitir a oposição dos credores; o arquivamento só ocorre depois de satisfeitas as condições do §2º (art. 1.084, §3º).",
+   "Errada. O prazo para oposição do credor quirografário é de 90 dias, contados da publicação da ata (art. 1.084, §1º), e não de 30.",
+   "Errada. A ordem é inversa: primeiro a publicação e o decurso do prazo de oposição; o arquivamento na Junta só ocorre se não houver impugnação ou se provado o pagamento ou depósito (art. 1.084, §§2º e 3º).",
+   "CORRETA. Art. 1.084, §1º: no prazo de 90 dias, contado da publicação da ata, o credor quirografário, por título líquido anterior a essa data, pode opor-se ao deliberado. §2º: a redução somente se tornará eficaz se, nesse prazo, não for impugnada ou se provado o pagamento da dívida ou o depósito judicial do respectivo valor. §3º: satisfeitas as condições, procede-se à averbação, no Registro Público de Empresas Mercantis, da ata que aprovou a redução.",
+   "Errada. O prazo legal de oposição é de 90 dias (art. 1.084, §1º), e não de 60."
+  ],
+  "base": "CC, arts. 1.082, II, e 1.084, §§1º a 3º.",
+  "dica": "Redução de capital por EXCESSO na limitada: publica a ata → 90 DIAS para credor quirografário se opor → só depois fica eficaz e se averba."
+ },
+ "e1-70": {
+  "nivel": "médio",
+  "tema": "Medidas de segurança: destinatários, espécies, conversão e limite temporal (CP, arts. 96 a 98; Súmula 527/STJ)",
+  "coms": [
+   "Errada. A medida de segurança também se aplica ao semi-imputável que necessite de especial tratamento curativo, em substituição à pena (art. 98).",
+   "Errada. O art. 97 prevê internação para fato punido com reclusão, facultando o tratamento ambulatorial quando punido com detenção; não há vinculação ao regime fechado. Além disso, o STJ admite tratamento ambulatorial mesmo para crimes punidos com reclusão, conforme a periculosidade concreta.",
+   "Errada. Em qualquer fase do tratamento ambulatorial, o juiz pode determinar a internação, se necessária para fins curativos (art. 97, §4º).",
+   "Errada. A inimputabilidade não conduz automaticamente à medida de segurança: se houver causa de exclusão da ilicitude, atipicidade, falta de provas da autoria ou extinção da punibilidade, a absolvição será própria, sem medida de segurança.",
+   "CORRETA. O art. 97, §1º, prevê internação ou tratamento ambulatorial por tempo indeterminado, enquanto não cessada a periculosidade, mas os Tribunais Superiores limitam sua duração: o STJ fixou que não deve ultrapassar o limite máximo da pena abstratamente cominada ao delito (Súmula 527/STJ)."
+  ],
+  "base": "CP, arts. 96, 97, §§1º e 4º, e 98; CPP, art. 386, parágrafo único, III; Súmula 527/STJ.",
+  "dica": "Medida de segurança: inimputável E semi-imputável; tempo indeterminado, mas com teto na PENA MÁXIMA em abstrato (Súmula 527/STJ); ambulatorial pode virar internação."
+ },
+ "e4-73": {
+  "nivel": "fácil",
+  "tema": "Teoria geral do crime: crimes formais, omissivos próprios, erro de tipo, imputação objetiva e crime impossível",
+  "coms": [
+   "Errada. Nos crimes formais (de consumação antecipada), o tipo descreve resultado naturalístico, mas a consumação ocorre com a conduta, sendo o resultado mero exaurimento (ex.: extorsão, Súmula 96/STJ).",
+   "Errada. Os crimes omissivos próprios consumam-se com a simples abstenção do dever de agir previsto no tipo, exigindo dolo genérico; não se exige dolo específico como condição da relevância penal da omissão.",
+   "Errada. O erro de tipo INEVITÁVEL exclui o dolo e a culpa. Só o erro EVITÁVEL exclui o dolo, mas permite a punição por crime culposo, se previsto em lei (art. 20, caput).",
+   "CORRETA. Para a teoria da imputação objetiva (Roxin), além da causalidade física, a atribuição do resultado exige que a conduta tenha criado ou incrementado um risco juridicamente proibido e relevante e que o resultado seja a realização desse risco, dentro do alcance do tipo (âmbito de proteção da norma).",
+   "Errada. O crime impossível não é punível: não se pune a tentativa quando, por ineficácia absoluta do meio ou absoluta impropriedade do objeto, é impossível consumar-se o crime (art. 17), qualquer que seja a intenção do agente."
+  ],
+  "base": "CP, arts. 13, 17 e 20; Súmula 96/STJ; doutrina da imputação objetiva (Roxin).",
+  "dica": "Erro de tipo: INEVITÁVEL = sem dolo e sem culpa; EVITÁVEL = pune culposo. Crime impossível: NÃO se pune. Imputação objetiva: risco proibido + realização do risco no âmbito da norma."
+ },
+ "e4-3": {
+  "nivel": "médio",
+  "tema": "Ação anulatória de cláusula de convenção coletiva: legitimidade do MPT e competência originária do TRT",
+  "coms": [
+   "Errada. A competência originária do TST para a ação anulatória só se dá quando a norma coletiva tem abrangência suprarregional ou nacional. Os sindicatos do caso têm atuação regional, sem representatividade nacional.",
+   "Errada. As ações sobre representação sindical e normas coletivas de trabalho são da competência da Justiça do Trabalho (CF, art. 114, I e III), e não da Justiça Federal.",
+   "Errada. A ação anulatória é ação coletiva de competência originária dos tribunais trabalhistas, e o trabalhador individualmente não tem legitimidade para pedir a anulação da cláusula com efeitos gerais (pode apenas, incidentalmente, pedir sua inaplicabilidade em reclamação individual). Além disso, a Justiça Estadual não é competente.",
+   "Errada. A Justiça Comum Estadual não tem competência para ações sobre normas coletivas de trabalho, que pertencem à Justiça do Trabalho (CF, art. 114).",
+   "CORRETA. O MPT tem legitimidade para propor ação anulatória de cláusula de contrato, acordo ou convenção coletiva que viole liberdades individuais ou coletivas ou direitos indisponíveis dos trabalhadores (LC 75/1993, art. 83, IV). A competência originária é do TRT quando a norma coletiva tem abrangência regional, e do TST quando suprarregional ou nacional."
+  ],
+  "base": "CF, art. 114; LC 75/1993, art. 83, IV; jurisprudência da SDC do TST sobre competência originária.",
+  "dica": "Anulatória de norma coletiva: MPT propõe; abrangência REGIONAL = TRT; SUPRARREGIONAL/nacional = TST. Nunca Justiça Comum."
+ },
+ "e5-10": {
+  "nivel": "difícil",
+  "tema": "Intervenção: recurso extraordinário contra decisão de TJ, iniciativa no art. 34, IV, e taxatividade das hipóteses de intervenção em Município",
+  "coms": [
+   "Errada. A afirmativa III também está correta, de modo que a resposta não se limita à II.",
+   "Errada. A afirmativa I é falsa: não cabe recurso extraordinário contra acórdão de Tribunal de Justiça que defere pedido de intervenção estadual em Município (Súmula 637/STF), dada a natureza político-administrativa da decisão.",
+   "Errada. A afirmativa I é falsa (Súmula 637/STF).",
+   "CORRETA. II: art. 36, I — no caso do art. 34, IV (livre exercício dos Poderes), a intervenção depende de solicitação do Poder Legislativo ou Executivo coacto ou impedido, ou de requisição do STF, se a coação for exercida contra o Judiciário. III: o STF considera taxativas as hipóteses do art. 35 da CF, sendo inconstitucional norma de Constituição Estadual que amplie os casos de intervenção estadual em Município. I é falsa (Súmula 637/STF).",
+   "Errada. A afirmativa I é falsa, pois a Súmula 637/STF afasta o recurso extraordinário nesse caso."
+  ],
+  "base": "CF, arts. 34, IV, 35 e 36, I; Súmula 637/STF.",
+  "dica": "Intervenção estadual em Município: hipóteses do art. 35 são TAXATIVAS; decisão do TJ não comporta RE (Súmula 637). Coação ao Judiciário: requisição do STF."
+ },
+ "e5-19": {
+  "nivel": "médio",
+  "tema": "Delegação de competência administrativa: delegação ao órgão e não à pessoa do titular (Lei 9.784/1999, arts. 12 a 14)",
+  "coms": [
+   "CORRETA. A delegação foi feita à Subprefeitura do Butantã, isto é, ao órgão, e não à pessoa de João. A competência é atributo do órgão, que se mantém independentemente da mudança de seu titular. Enquanto não revogado o ato de delegação (revogável a qualquer tempo pelo delegante, Lei 9.784/1999, art. 14, §2º), o novo Subprefeito, Cícero, exerce a competência delegada.",
+   "Errada. A retirada por contraposição (ou derrubada) ocorre quando a Administração edita ato com efeitos contrapostos ao anterior; a simples troca do titular do órgão delegatário não é ato desse tipo e não extingue a delegação.",
+   "Errada. O desaparecimento do sujeito extingue atos personalíssimos ou ligados a determinado beneficiário; aqui a delegação é ao órgão, que continua existindo, de modo que não há extinção.",
+   "Errada. A delegação é ato unilateral do delegante (Lei 9.784/1999, arts. 12 e 14); seu aperfeiçoamento não depende de aceitação do delegatário, que não pode recusar a competência recebida.",
+   "Errada. Não existe 'denúncia unilateral' pelo delegatário: a delegação é ato administrativo unilateral, revogável a qualquer tempo pela autoridade delegante, e não ajuste bilateral."
+  ],
+  "base": "Lei 9.784/1999, arts. 11 a 14; doutrina sobre extinção dos atos administrativos.",
+  "dica": "Delegação ao ÓRGÃO sobrevive à troca do chefe. Só o DELEGANTE revoga (a qualquer tempo); o delegatário não recusa nem 'denuncia'."
+ },
+ "e3-24": {
+  "nivel": "médio",
+  "tema": "Desapropriação: vedação ao exame judicial da utilidade pública no processo expropriatório e indenização de benfeitorias após a declaração (DL 3.365/1941, arts. 9º e 26, §1º)",
+  "coms": [
+   "Errada. No processo de desapropriação, é vedado ao Poder Judiciário decidir se se verificam ou não os casos de utilidade pública (art. 9º). Além disso, as benfeitorias úteis feitas sem autorização não são indenizadas.",
+   "Errada. A primeira parte contraria o art. 9º do DL 3.365/1941; a questão da utilidade pública só pode ser discutida em ação direta (art. 20).",
+   "Errada. A indenização na desapropriação por utilidade pública é justa, prévia e em dinheiro (CF, art. 5º, XXIV). Títulos da dívida são próprios das desapropriações-sanção (arts. 182, §4º, III, e 184). E as benfeitorias úteis não autorizadas não são indenizadas.",
+   "Errada. As benfeitorias úteis realizadas após a declaração de utilidade pública só são indenizadas quando autorizadas pelo expropriante (art. 26, §1º), o que não ocorreu.",
+   "CORRETA. Art. 9º: ao Poder Judiciário é vedado, no processo de desapropriação, decidir se se verificam ou não os casos de utilidade pública. Art. 26, §1º: serão atendidas as benfeitorias necessárias feitas após a desapropriação; as úteis, quando realizadas com autorização do expropriante. João tem direito à indenização justa, prévia e em dinheiro, sem as benfeitorias úteis não autorizadas."
+  ],
+  "base": "CF, arts. 5º, XXIV, 182, §4º, III, e 184; Decreto-Lei 3.365/1941, arts. 9º, 20 e 26, §1º.",
+  "dica": "Na desapropriação, o juiz NÃO discute a utilidade pública (só preço e vícios). Benfeitoria após a declaração: NECESSÁRIA sempre; ÚTIL só se autorizada; voluptuária, nunca."
+ },
+ "e1-28": {
+  "nivel": "fácil",
+  "tema": "Meios adequados de solução de conflitos: prazo da sentença arbitral, convenção de arbitragem, auxiliares da justiça e homologação (Lei 9.307/1996; Res. CNJ 125/2010)",
+  "coms": [
+   "CORRETA. Lei 9.307/1996, art. 23: a sentença arbitral será proferida no prazo estipulado pelas partes; nada tendo sido convencionado, o prazo é de seis meses, contado da instituição da arbitragem ou da substituição do árbitro.",
+   "Errada. Os conceitos estão invertidos: a cláusula compromissória é a convenção pela qual as partes se comprometem a submeter à arbitragem os litígios que possam vir a surgir relativamente ao contrato (art. 4º); o compromisso arbitral é a convenção pela qual submetem um litígio já existente à arbitragem (art. 9º).",
+   "Errada. O art. 148, II, do CPC estende os motivos de impedimento e suspeição aos auxiliares da justiça, entre os quais os mediadores e conciliadores judiciais (art. 149). Não há a exceção indicada.",
+   "Errada. A Resolução CNJ 125/2010 atribui ao Conselho Nacional de Justiça, e não ao STF, a organização do programa de incentivo à autocomposição e à pacificação social (art. 4º).",
+   "Errada. A homologação de sentença arbitral estrangeira compete ao STJ (CF, art. 105, I, i; Lei 9.307/1996, art. 35). Além disso, considera-se estrangeira a sentença proferida fora do território nacional (art. 34, parágrafo único), e não a proferida por organismo estrangeiro."
+  ],
+  "base": "Lei 9.307/1996, arts. 4º, 9º, 23, 34 e 35; CPC, arts. 148, II, e 149; Resolução CNJ 125/2010, art. 4º; CF, art. 105, I, i.",
+  "dica": "Arbitragem: sem prazo combinado = 6 MESES. Cláusula = litígio FUTURO; compromisso = litígio ATUAL. Sentença arbitral estrangeira = proferida fora do Brasil, homologa no STJ."
+ },
+ "e3-36": {
+  "nivel": "médio",
+  "tema": "Laicidade e liberdade religiosa: ensino religioso confessional (ADI 4.439) e sacrifício ritual de animais (RE 494.601)",
+  "coms": [
+   "Errada. A Constituição faz referência à fé e à religião em vários pontos: o preâmbulo invoca a proteção de Deus, o art. 5º, VI a VIII, protege a liberdade de crença e de culto e a escusa de consciência, e o art. 210, §1º, prevê o ensino religioso facultativo.",
+   "Errada. Na ADI 4.439, o STF admitiu o ensino religioso confessional nas escolas públicas, de matrícula facultativa (CF, art. 210, §1º), por entender que a laicidade não impõe neutralidade hostil à religião.",
+   "Errada. O Estado laico não pode eleger religião oficial nem estabelecer cultos ou subvencioná-los (art. 19, I). O ensino confessional admitido pelo STF não pressupõe religião oficial.",
+   "CORRETA. Na ADI 4.439, o STF julgou constitucional o ensino religioso confessional nas escolas públicas, de matrícula facultativa, a ser ministrado de forma a contemplar as diversas crenças, por professores que atendam a requisitos formais de credenciamento e preparo previamente fixados pelo Ministério da Educação, observado o princípio da igualdade entre as religiões.",
+   "Errada. No RE 494.601 (2019), o STF fixou ser constitucional a lei de proteção animal que, para resguardar a liberdade religiosa, permite o sacrifício ritual de animais em cultos de religiões de matriz africana."
+  ],
+  "base": "CF, preâmbulo, arts. 5º, VI a VIII, 19, I, e 210, §1º; STF, ADI 4.439 e RE 494.601.",
+  "dica": "STF: ensino religioso CONFESSIONAL em escola pública é constitucional, FACULTATIVO e plural. Sacrifício ritual em religiões de matriz africana: CONSTITUCIONAL."
+ },
+ "e3-45": {
+  "nivel": "médio",
+  "tema": "Juizados Especiais: mandado de segurança contra ato de juizado, inexigibilidade de título e prazos da Fazenda nos JEFP",
+  "coms": [
+   "CORRETA. Apenas a I está correta. I: Súmula 376/STJ — compete à turma recursal processar e julgar o mandado de segurança contra ato de juizado especial. II é falsa: embora não caiba ação rescisória nos Juizados (Lei 9.099/1995, art. 59), o STF admite a arguição de inexigibilidade do título judicial fundado em norma declarada inconstitucional, na fase de cumprimento (Tema 100/STF). III é falsa: nos Juizados da Fazenda Pública não há prazo diferenciado para a prática de qualquer ato processual pelas pessoas jurídicas de direito público, inclusive a interposição de recursos (Lei 12.153/2009, art. 7º).",
+   "Errada. A afirmativa II é falsa: a vedação à rescisória não impede a arguição de inexigibilidade do título (CPC, art. 525, §12; Tema 100/STF).",
+   "Errada. A afirmativa III é falsa: a Lei 12.153/2009, art. 7º, afasta prazos diferenciados para a Fazenda, inclusive para recorrer.",
+   "Errada. A afirmativa II é falsa (Tema 100/STF), embora a I seja verdadeira.",
+   "Errada. A afirmativa III é falsa (Lei 12.153/2009, art. 7º), embora a I seja verdadeira."
+  ],
+  "base": "Lei 9.099/1995, art. 59; Lei 12.153/2009, art. 7º; CPC, art. 525, §12; Súmula 376/STJ; STF, Tema 100.",
+  "dica": "Juizados: MS contra ato do juizado = TURMA RECURSAL (Súmula 376). Sem rescisória, mas cabe alegar inexigibilidade do título. JEFP: Fazenda SEM prazo em dobro."
+ },
+ "e1-57": {
+  "nivel": "médio",
+  "tema": "Menor relativamente incapaz que oculta dolosamente a idade: validade da obrigação (CC, art. 180)",
+  "coms": [
+   "Errada. O negócio celebrado por relativamente incapaz sem assistência seria anulável, e não nulo (art. 171, I). No caso, porém, a malícia de Rebeca, que declarou ser maior, impede-a de invocar a incapacidade (art. 180).",
+   "CORRETA. Art. 180: o menor, entre 16 e 18 anos, não pode, para eximir-se de uma obrigação, invocar a sua idade se dolosamente a ocultou quando inquirido pela outra parte, ou se, no ato de obrigar-se, declarou-se maior. O negócio é válido e o restaurante pode exigir o cumprimento da prestação ou a restituição do valor antecipado, com perdas e danos comprovadas. É a alternativa indicada no gabarito oficial: a redação menciona impropriamente a obrigação 'assumida por Laura' (quem se obrigou foi Rebeca), mas é a única que reconhece a validade do negócio e a exigibilidade da prestação, enquanto as demais partem da invalidade afastada pelo art. 180.",
+   "Errada. O negócio não é inválido: por força do art. 180, a menor que se declarou maior não pode invocar a incapacidade para eximir-se da obrigação.",
+   "Errada. A falta de assistência tornaria o contrato anulável (art. 171, I), mas o art. 180 afasta essa consequência quando o menor oculta dolosamente sua idade ou se declara maior.",
+   "Errada. Não há nulidade absoluta: a incapacidade relativa gera, no máximo, anulabilidade, e, aqui, sequer pode ser invocada (art. 180)."
+  ],
+  "base": "CC, arts. 4º, I, 171, I, 180 e 181.",
+  "dica": "Menor de 16 a 18 que MENTIU a idade (ou se disse maior) NÃO pode alegar incapacidade para fugir da obrigação (art. 180): 'malitia supplet aetatem'."
+ },
+ "e3-61": {
+  "nivel": "fácil",
+  "tema": "Usucapião familiar por abandono do lar (CC, art. 1.240-A)",
+  "coms": [
+   "Errada. A usucapião familiar do art. 1.240-A refere-se a imóvel URBANO de até 250 m²; não se exige área rural.",
+   "Errada. A regra do art. 197, I (não corre prescrição entre cônjuges na constância da sociedade conjugal), não impede a usucapião familiar, que pressupõe justamente o abandono do lar e a ruptura de fato da convivência.",
+   "Errada. O prazo da usucapião familiar é de dois anos de posse direta, ininterrupta e sem oposição, após o abandono do lar (art. 1.240-A), e não de dez.",
+   "Errada. O prazo legal é de dois anos, e não de quatro.",
+   "CORRETA. Art. 1.240-A: aquele que exercer, por 2 anos ininterruptamente e sem oposição, posse direta, com exclusividade, sobre imóvel urbano de até 250 m², cuja propriedade divida com ex-cônjuge ou ex-companheiro que abandonou o lar, utilizando-o para sua moradia ou de sua família, adquirir-lhe-á o domínio integral, desde que não seja proprietário de outro imóvel urbano ou rural. Genailda exerceu posse exclusiva desde dezembro de 2020."
+  ],
+  "base": "CC, arts. 197, I, e 1.240-A.",
+  "dica": "Usucapião FAMILIAR: 2 ANOS, imóvel URBANO até 250 m², ex que ABANDONOU o lar, uma vez só, sem outro imóvel."
+ },
+ "e1-79": {
+  "nivel": "médio",
+  "tema": "Confisco alargado de bens: patrimônio considerado, requerimento do MP e diferença incompatível (CP, art. 91-A)",
+  "coms": [
+   "Errada. A afirmativa I é falsa: considera-se patrimônio do condenado todos os bens de sua titularidade, ou sobre os quais tenha domínio e benefício direto ou indireto, na data da infração penal ou recebidos POSTERIORMENTE, além dos transferidos a terceiros a título gratuito ou por contraprestação irrisória a partir do início da atividade criminal (art. 91-A, §1º).",
+   "CORRETA. Apenas a III está correta: o confisco alargado consiste na perda, como produto ou proveito do crime, dos bens correspondentes à diferença entre o valor do patrimônio do condenado e aquele compatível com seu rendimento lícito, nas condenações por infrações com pena máxima superior a 6 anos de reclusão (art. 91-A, caput). II é falsa: a perda deve ser requerida expressamente pelo MP por ocasião do oferecimento da denúncia, com indicação da diferença apurada (§3º), e não a qualquer tempo.",
+   "Errada. A afirmativa I é falsa (art. 91-A, §1º, I: bens na data da infração ou recebidos posteriormente).",
+   "Errada. A afirmativa II é falsa: o requerimento deve ser feito na denúncia (art. 91-A, §3º).",
+   "Errada. As afirmativas I e II são falsas."
+  ],
+  "base": "CP, art. 91-A, caput e §§1º a 4º (Lei 13.964/2019).",
+  "dica": "Confisco ALARGADO: pena máxima > 6 anos; patrimônio na data do crime OU posterior; MP pede NA DENÚNCIA indicando a diferença; condenado pode provar a origem lícita."
+ },
+ "e1-80": {
+  "nivel": "médio",
+  "tema": "Crimes de periclitação da vida e da saúde: forma livre, maus-tratos, abandono de incapaz, perigo de contágio e omissão de socorro (CP, arts. 130 a 136)",
+  "coms": [
+   "CORRETA. O crime de perigo para a vida ou saúde de outrem (art. 132) é de forma livre: pode ser praticado por qualquer meio, inclusive por ação ou omissão, desde que exponha a vítima a perigo direto e iminente.",
+   "Errada. O sujeito passivo dos maus-tratos (art. 136) é pessoa sob autoridade, guarda ou vigilância do agente, para fim de educação, ensino, tratamento ou custódia. A esposa não está sob autoridade do marido nesses termos; a conduta pode configurar outro crime (por exemplo, lesão corporal com violência doméstica).",
+   "Errada. O abandono de incapaz (art. 133) é crime instantâneo de efeitos permanentes, que se consuma no momento do abandono, com a criação do perigo concreto, e não crime permanente.",
+   "Errada. O perigo de contágio venéreo é crime de perigo; na forma qualificada (art. 130, §1º, intenção de transmitir a moléstia), consuma-se com a prática do ato capaz de produzir o contágio, sendo dispensável a efetiva transmissão.",
+   "Errada. Quem, intencional ou culposamente, criou a situação de perigo assume a posição de garante (art. 13, §2º, c) e responde pelo resultado ou pelo crime de perigo correspondente, e não pela omissão de socorro (art. 135), que é crime omissivo próprio de quem não causou o perigo."
+  ],
+  "base": "CP, arts. 13, §2º, c, 130, 132, 133, 135 e 136.",
+  "dica": "Art. 132 = FORMA LIVRE. Maus-tratos exige relação de autoridade/guarda para educação, ensino, tratamento ou custódia. Quem CRIOU o perigo é GARANTE, não responde por omissão de socorro."
  }
 }
