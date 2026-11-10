@@ -2221,5 +2221,265 @@
   ],
   "base": "CP, arts. 13, §2º, c, 130, 132, 133, 135 e 136.",
   "dica": "Art. 132 = FORMA LIVRE. Maus-tratos exige relação de autoridade/guarda para educação, ensino, tratamento ou custódia. Quem CRIOU o perigo é GARANTE, não responde por omissão de socorro."
+ },
+ "e3-6": {
+  "nivel": "fácil",
+  "tema": "Proibições constitucionais ao trabalho do menor e trabalho perigoso de adultos (CF, art. 7º, XXII, XXIII e XXXIII)",
+  "coms": [
+   "Errada. O contrato de Silvia é lícito: aos 17 anos ela pode ser aprendiz (e até empregada comum), pois a CF só veda trabalho de menor de 16, salvo na condição de aprendiz a partir de 14 (art. 7º, XXXIII). Apenas o de Pedro, de 13 anos, é proibido.",
+   "CORRETA. Pedro (13 anos) não pode trabalhar nem como aprendiz, porque a aprendizagem só é admitida a partir dos 14 anos; Júlio (17 anos) não pode cumprir jornada noturna (das 19h às 7h), vedada ao menor de 18 (art. 7º, XXXIII). Regina, adulta, pode trabalhar na escala 12x36 à noite.",
+   "Errada. Acerta quanto a Pedro, mas o trabalho de Isadora, maior de 18, com inflamáveis é permitido: a CF prevê redução dos riscos por normas de segurança e adicional de periculosidade (art. 7º, XXII e XXIII), não proibição. A vedação de trabalho perigoso ou insalubre só alcança menores de 18.",
+   "Errada. Isadora e Roberto são adultos e podem exercer atividade perigosa, com EPI e adicional (art. 7º, XXIII); Silvia, com 17 anos, pode ser aprendiz. Nenhum desses contratos é proibido.",
+   "Errada. Nem todos são válidos: o de Pedro viola a idade mínima de 14 anos para aprendiz, e o de Júlio viola a proibição de trabalho noturno ao menor de 18 (art. 7º, XXXIII)."
+  ],
+  "base": "CF, art. 7º, XXII, XXIII e XXXIII; CLT, arts. 403 e 404.",
+  "dica": "Menor: 14 = aprendiz; 16 = trabalho comum; 18 = noturno, perigoso e insalubre. Adulto em atividade perigosa recebe adicional, não proibição."
+ },
+ "e1-15": {
+  "nivel": "médio",
+  "tema": "Competência criminal da Justiça Federal: crimes previstos em tratado, IDC e crimes de militares em GLO (CF, art. 109, V e V-A, §5º; STF, ADI 5.032)",
+  "coms": [
+   "Errada. A afirmativa I é falsa: no julgamento da ADI 5.032, o STF declarou constitucional a atribuição à Justiça Militar da União dos crimes praticados por militares das Forças Armadas no exercício de atribuições subsidiárias, como a garantia da lei e da ordem (LC 97/1999, art. 15, §7º, e Lei 13.491/2017).",
+   "CORRETA. Só a II é verdadeira: o art. 109, V, da CF exige, além da previsão em tratado, que a execução tenha se iniciado no País e o resultado ocorrido ou devesse ocorrer no estrangeiro, ou reciprocamente, isto é, a transnacionalidade. A I é falsa (ADI 5.032) e a III erra o órgão julgador do IDC.",
+   "Errada. A afirmativa III é falsa: o incidente de deslocamento de competência é suscitado pelo Procurador-Geral da República perante o Superior Tribunal de Justiça, e não perante o STF (art. 109, §5º).",
+   "Errada. A I é falsa, porque o STF validou a competência da Justiça Militar da União para os crimes de militares federais em operações de GLO (ADI 5.032).",
+   "Errada. A III é falsa: o IDC é julgado pelo STJ (art. 109, §5º), em qualquer fase do inquérito ou processo, e exige grave violação de direitos humanos, risco de descumprimento de obrigações internacionais e incapacidade das instâncias locais."
+  ],
+  "base": "CF, art. 109, IV, V, V-A e §5º; LC 97/1999, art. 15, §7º; Lei 13.491/2017; STF, ADI 5.032.",
+  "dica": "IDC: quem pede é o PGR, quem decide é o STJ. Crime previsto em tratado só vai à JF se for transnacional."
+ },
+ "e3-20": {
+  "nivel": "médio",
+  "tema": "Empregado público aposentado: rompimento do vínculo e competência (CF, art. 37, §14; EC 103/2019, art. 6º; Tema 606/STF)",
+  "coms": [
+   "Errada. No Tema 606 (RE 655.283), o STF afirmou que a natureza do ato de demissão de empregado público é constitucional-administrativa, e não trabalhista, o que atrai a competência da Justiça comum.",
+   "CORRETA. É a segunda parte da tese do Tema 606: a aposentadoria que utilize tempo de contribuição decorrente do emprego público rompe o vínculo (art. 37, §14, incluído pela EC 103/2019), salvo as aposentadorias concedidas pelo RGPS até a entrada em vigor da EC 103/2019 (art. 6º da emenda). A I e a III são falsas.",
+   "Errada. A permanência no emprego não é admitida 'independentemente da data': a ressalva do art. 6º da EC 103/2019 alcança apenas as aposentadorias concedidas pelo RGPS até a entrada em vigor da emenda (13/11/2019).",
+   "Errada. A I é falsa, porque o STF fixou a competência da Justiça comum, dada a natureza constitucional-administrativa do ato.",
+   "Errada. A III é falsa, por desconsiderar o marco temporal da EC 103/2019. Após a emenda, a aposentadoria com tempo do emprego público rompe o vínculo, ainda que concedida pelo RGPS."
+  ],
+  "base": "CF, art. 37, §14; EC 103/2019, art. 6º; STF, RE 655.283 (Tema 606).",
+  "dica": "Tema 606: demissão de empregado público aposentado = Justiça comum; aposentadoria após a EC 103/2019 rompe o vínculo."
+ },
+ "e3-38": {
+  "nivel": "médio",
+  "tema": "Controle de convencionalidade segundo a Corte IDH: de ofício, por todas as autoridades e com base na interpretação da Corte (Almonacid Arellano; Gelman; ADPF 153)",
+  "coms": [
+   "Errada. A afirmativa mistura conceitos: o controle de matriz internacional é o feito por órgãos internacionais (como a Corte IDH), enquanto o juiz brasileiro faz o de matriz nacional (controle difuso ou concentrado de convencionalidade), à luz dos tratados de DH incorporados.",
+   "Errada. Desde Almonacid Arellano vs. Chile (2006), a Corte IDH exige que os juízes levem em conta não só o tratado, mas também a interpretação que dele faz a própria Corte, intérprete última da Convenção Americana.",
+   "Errada. Em Trabajadores Cesados del Congreso vs. Peru (2006), a Corte IDH afirmou que o controle de convencionalidade deve ser exercido ex officio, no marco das competências e regulações processuais correspondentes.",
+   "CORRETA. A partir de Cabrera García y Montiel Flores vs. México (2010) e Gelman vs. Uruguai (2011), a Corte IDH estendeu o dever de controlar a convencionalidade a todos os órgãos do Estado, inclusive os vinculados à administração da justiça, como o Ministério Público, dentro de suas competências.",
+   "Errada. Na ADPF 153 (2010), o STF julgou a Lei de Anistia compatível com a Constituição (controle de constitucionalidade, não de convencionalidade). Foi a Corte IDH, em Gomes Lund vs. Brasil (2010), que a considerou incompatível com a Convenção Americana."
+  ],
+  "base": "CADH, arts. 1.1 e 2; Corte IDH: Almonacid Arellano vs. Chile (2006), Trabajadores Cesados del Congreso vs. Peru (2006), Gelman vs. Uruguai (2011), Gomes Lund vs. Brasil (2010); STF, ADPF 153; Recomendação CNJ 123/2022.",
+  "dica": "Controle de convencionalidade (Corte IDH): de ofício, por todas as autoridades e segundo a interpretação da Corte. ADPF 153 (STF validou a Anistia) x Gomes Lund (Corte IDH a afastou)."
+ },
+ "e1-44": {
+  "nivel": "fácil",
+  "tema": "Impedimento, horário dos atos, prazo para citação e conceito de citação (CPC, arts. 144, II, 212, 238)",
+  "coms": [
+   "Errada. A IV é falsa: citação é o ato pelo qual são convocados o réu, o executado ou o interessado para integrar a relação processual (art. 238). Dar ciência de atos e termos do processo é a definição de intimação (art. 269). E a combinação omite II e III, que são verdadeiras.",
+   "Errada. Omite a I, que é verdadeira: há impedimento do juiz no processo de que conheceu em outro grau de jurisdição, tendo proferido decisão (art. 144, II).",
+   "Errada. Inclui a IV, falsa (confunde citação com intimação, art. 269), e omite a I, verdadeira (art. 144, II).",
+   "CORRETA. I: impedimento do art. 144, II. II: os atos processuais são realizados em dias úteis, das 6 às 20 horas (art. 212). III: a citação será efetivada em até 45 dias a partir da propositura da ação (art. 238, parágrafo único, incluído pela Lei 14.195/2021). IV é falsa, pois descreve a intimação (art. 269).",
+   "Errada. A IV é falsa: a ciência de atos e termos do processo é a intimação (art. 269); a citação convoca o réu, o executado ou o interessado a integrar a relação processual (art. 238)."
+  ],
+  "base": "CPC, arts. 144, II, 212, 238 e parágrafo único, e 269.",
+  "dica": "Citação = convoca para integrar o processo; intimação = dá ciência de atos. Atos: dias úteis, 6h–20h. Citação em até 45 dias."
+ },
+ "e5-59": {
+  "nivel": "médio",
+  "tema": "Desconsideração da personalidade jurídica: desvio de finalidade e confusão patrimonial sem mistura de contas (CC, art. 50, §§1º, 2º e 4º)",
+  "coms": [
+   "CORRETA. O art. 50 do CC exige abuso da personalidade, por desvio de finalidade OU por confusão patrimonial (requisitos alternativos). O desvio de finalidade é a utilização da PJ com o propósito de lesar credores (§1º), e a transferência de ativos sem efetiva contraprestação configura confusão patrimonial (§2º, II). Escrituração regular e ausência de mistura de contas não impedem a medida.",
+   "Errada. A mera existência de grupo econômico não autoriza a desconsideração (§4º), mas aqui há mais: direcionamento de faturamento sem contraprestação identificável, o que caracteriza confusão patrimonial (art. 50, §2º, II) e indica propósito de lesar credores.",
+   "Errada. A confusão patrimonial é a ausência de separação DE FATO entre os patrimônios (art. 50, §2º) e pode decorrer da transferência de ativos sem contraprestação (inciso II), ainda que as contas bancárias estejam formalmente separadas e a contabilidade regular.",
+   "Errada. Desvio de finalidade e confusão patrimonial são hipóteses alternativas ('ou'), e não cumulativas, de abuso da personalidade jurídica (art. 50, caput).",
+   "Errada. O CC adota a teoria maior: a insuficiência patrimonial ou a subcapitalização, por si sós, não autorizam a desconsideração, que exige abuso (desvio de finalidade ou confusão patrimonial). A teoria menor (mera insolvência) é própria do CDC (art. 28, §5º) e do direito ambiental."
+  ],
+  "base": "CC, art. 50, caput e §§1º, 2º, 4º e 5º (Lei 13.874/2019); CDC, art. 28, §5º; CPC, arts. 133 a 137.",
+  "dica": "CC = teoria maior: desvio de finalidade OU confusão patrimonial (alternativos). Grupo econômico sozinho não basta; insolvência sozinha só no CDC/ambiental."
+ },
+ "e5-61": {
+  "nivel": "difícil",
+  "tema": "Princípios da LGPD: necessidade, transparência, responsabilização, finalidade/adequação, prevenção/segurança (Lei 13.709/2018, art. 6º)",
+  "coms": [
+   "Errada. O princípio da necessidade limita o tratamento ao mínimo necessário para a realização de suas finalidades, abrangendo dados pertinentes, proporcionais e não excessivos (art. 6º, III). A pertinência não é o único critério: dados pertinentes, mas excessivos, não podem ser coletados.",
+   "CORRETA. Transparência é a garantia, aos titulares, de informações claras, precisas e facilmente acessíveis sobre o tratamento e os respectivos agentes, observados os segredos comercial e industrial (art. 6º, VI). Aplica-se a qualquer base legal; no legítimo interesse, o art. 10, §2º, reforça que o controlador deve adotar medidas para garantir a transparência.",
+   "Errada. A responsabilização e prestação de contas exige a demonstração da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas, inclusive da eficácia dessas medidas (art. 6º, X). Documentação formal sem implementação efetiva não basta.",
+   "Errada. Finalidade (propósitos legítimos, específicos, explícitos e informados, art. 6º, I) e adequação (compatibilidade do tratamento com as finalidades informadas, conforme o contexto, art. 6º, II) são princípios distintos e autônomos, que devem ser examinados separadamente.",
+   "Errada. Segurança (art. 6º, VII) é a utilização de medidas técnicas e administrativas aptas a proteger os dados de acessos não autorizados e de situações acidentais ou ilícitas; prevenção (art. 6º, VIII) é a adoção de medidas para prevenir danos. Ambas atuam preventivamente; não é correto dizer que a segurança só opera após o incidente."
+  ],
+  "base": "Lei 13.709/2018 (LGPD), arts. 6º, I, II, III, VI, VII, VIII e X, e 10, §2º.",
+  "dica": "Necessidade = mínimo necessário (pertinente + proporcional + não excessivo). Accountability = demonstrar medidas EFICAZES, não só papel."
+ },
+ "e1-63": {
+  "nivel": "difícil",
+  "tema": "Pedido de falência contra empresa em recuperação judicial: crédito extraconcursal e exigência de protesto (Lei 11.101/2005, arts. 49, 73, 94, I, e 97)",
+  "coms": [
+   "CORRETA. O crédito, constituído após o pedido de recuperação, não se sujeita a ela (art. 49), e o credor pode requerer a falência da recuperanda (art. 73, parágrafo único, e art. 97, IV). Mas o pedido fundado em impontualidade (art. 94, I) exige título protestado (art. 94, §3º), ainda que o protesto seja facultativo para cobrar o avalista em via executiva.",
+   "Errada. Os créditos posteriores ao pedido de recuperação não se submetem a ela (art. 49) nem à suspensão do art. 6º, e a lei admite expressamente a decretação da falência durante a recuperação por inadimplemento de obrigação não sujeita (art. 73, parágrafo único).",
+   "Errada. A legitimidade existe, mas o pedido com base na impontualidade exige protesto para fim falimentar (art. 94, §3º; Súmula 361/STJ quanto à notificação do protesto). Sem protesto, falta requisito do pedido.",
+   "Errada. O valor mínimo do art. 94, I, é de 40 salários mínimos, e R$ 80.000,00 o superava na data. Além disso, o litisconsórcio de credores para atingir o piso é possível (art. 94, §1º), mas não é o caso aqui; o problema é a falta de protesto.",
+   "Errada. É o inverso: justamente por ter sido constituído após o pedido de recuperação, o crédito NÃO se sujeita a seus efeitos (art. 49, caput), o que permite o pedido de falência."
+  ],
+  "base": "Lei 11.101/2005, arts. 6º, 49, 73, parágrafo único, 94, I e §§1º e 3º, e 97, IV; Súmula 361/STJ.",
+  "dica": "Falência por impontualidade: título protestado + mais de 40 SM. Crédito posterior ao pedido de RJ fica fora dela e pode embasar falência."
+ },
+ "e3-73": {
+  "nivel": "médio",
+  "tema": "Reincidência: período depurador, crime militar próprio, contravenção anterior e fato anterior ao trânsito (CP, arts. 63 e 64; LCP, art. 7º)",
+  "coms": [
+   "Errada. A pena de Valéria foi extinta em 2017; o novo fato é de 2023, mais de 5 anos depois. Passado o período depurador, contado da extinção da pena, a condenação anterior não prevalece para reincidência (art. 64, I), podendo servir apenas como maus antecedentes.",
+   "Errada. Reincidência exige novo crime cometido DEPOIS do trânsito em julgado da condenação anterior (art. 63). O estelionato é de 2022, antes do trânsito da condenação por peculato (2023).",
+   "Errada. Condenação definitiva por contravenção seguida da prática de crime não gera reincidência: o art. 63 do CP fala em crime anterior, e o art. 7º da LCP só prevê reincidência em contravenção após crime ou contravenção.",
+   "Errada. Para efeito de reincidência, não se consideram os crimes militares próprios e os políticos (art. 64, II). Deserção é crime militar próprio.",
+   "CORRETA. Giovana cometeu o roubo em 2020, depois do trânsito em julgado (2014) e dentro dos 5 anos contados do fim do cumprimento da pena (2016). A reincidência não exige crimes da mesma natureza, e a condenação por crime culposo também gera reincidência (arts. 63 e 64, I)."
+  ],
+  "base": "CP, arts. 63 e 64, I e II; Decreto-Lei 3.688/1941 (LCP), art. 7º.",
+  "dica": "Reincidência: novo crime após o trânsito e até 5 anos do fim da pena. Não contam crime militar próprio e político; contravenção seguida de crime também não."
+ },
+ "e4-75": {
+  "nivel": "fácil",
+  "tema": "Violação sexual mediante fraude praticada por médico contra adolescente de 15 anos (CP, arts. 215, 217-A e 218)",
+  "coms": [
+   "Errada. A conduta é crime: praticar ato libidinoso com alguém mediante fraude ou outro meio que impeça ou dificulte a livre manifestação de vontade da vítima configura o art. 215 do CP.",
+   "Errada. O art. 218 pune induzir menor de 14 anos a satisfazer a lascívia de outrem. Aqui o médico satisfaz a própria lascívia, e a vítima tem 15 anos.",
+   "Errada. O art. 227 pune quem induz alguém a satisfazer a lascívia de outrem (lenocínio). O médico agiu em proveito próprio.",
+   "Errada. O crime de sedução (antigo art. 217) foi revogado pela Lei 11.106/2005. Hoje o art. 217-A trata do estupro de vulnerável, que não se aplica, pois a vítima tem 15 anos e não há outra causa de vulnerabilidade.",
+   "CORRETA. O pretexto de exame de rotina é a fraude que vicia a vontade da paciente, o que caracteriza a violação sexual mediante fraude (art. 215). Como Letícia tem 15 anos, não incide o estupro de vulnerável (art. 217-A, que exige menor de 14)."
+  ],
+  "base": "CP, arts. 215, 217-A, 218 e 227; Lei 11.106/2005; Lei 12.015/2009.",
+  "dica": "Fraude que vicia o consentimento = art. 215. Menor de 14 = 217-A. Lascívia de OUTREM = 218/227."
+ },
+ "e1-13": {
+  "nivel": "fácil",
+  "tema": "Direitos dos trabalhadores na CF: avulso, irredutibilidade, seguro-desemprego, licença-gestante e PLR (CF, art. 7º)",
+  "coms": [
+   "CORRETA. Literalidade do art. 7º, XXXIV: igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso.",
+   "Errada. A irredutibilidade salarial só admite exceção por convenção ou acordo COLETIVO de trabalho (art. 7º, VI), não por acordo individual homologado em juízo.",
+   "Errada. O seguro-desemprego é devido em caso de desemprego INVOLUNTÁRIO (art. 7º, II), e não em qualquer causa de ruptura do contrato.",
+   "Errada. A CF garante licença à gestante de 120 dias (art. 7º, XVIII). A estabilidade da confirmação da gravidez até cinco meses após o parto é outra garantia, prevista no ADCT, art. 10, II, b, e não a duração da licença.",
+   "Errada. A participação nos lucros ou resultados é desvinculada da remuneração (art. 7º, XI)."
+  ],
+  "base": "CF, art. 7º, II, VI, XI, XVIII e XXXIV; ADCT, art. 10, II, b.",
+  "dica": "PLR: desvinculada da remuneração. Redução salarial: só por negociação COLETIVA. Licença 120 dias x estabilidade até 5 meses pós-parto."
+ },
+ "e4-11": {
+  "nivel": "difícil",
+  "tema": "Controle interno, denúncia ao Tribunal de Contas e julgamento das contas de gestão do prefeito ordenador de despesas (CF, arts. 71, 74 e 31; Temas 157 e 835/STF)",
+  "coms": [
+   "Errada. As duas primeiras assertivas reproduzem o art. 74, caput e §§1º e 2º, da CF e são verdadeiras.",
+   "Errada. As duas primeiras são verdadeiras (art. 74, §§1º e 2º), e a terceira é falsa quanto à inelegibilidade.",
+   "Errada. A primeira é verdadeira: os Poderes manterão sistema integrado de controle interno, e os responsáveis que souberem de irregularidade devem dar ciência ao Tribunal de Contas, sob pena de responsabilidade solidária (art. 74, caput e §1º). E a terceira é falsa.",
+   "CORRETA. V, V, F. A primeira e a segunda são o art. 74, §§1º e 2º. A terceira é falsa: segundo o STF (Temas 157 e 835, RE 848.826), para fins de inelegibilidade (LC 64/1990, art. 1º, I, g), as contas do prefeito, inclusive as de gestão, são julgadas pela Câmara Municipal, com parecer prévio do Tribunal de Contas. Ainda que se admita a imputação de débito e multa pelo Tribunal de Contas ao prefeito ordenador de despesas, a inelegibilidade não decorre dela sem o julgamento da Câmara.",
+   "Errada. A terceira é falsa: a inelegibilidade do prefeito por rejeição de contas depende do julgamento pela Câmara Municipal (art. 31, §2º; Temas 157 e 835/STF)."
+  ],
+  "base": "CF, arts. 31, §§1º e 2º, 71 e 74, §§1º e 2º; LC 64/1990, art. 1º, I, g; STF, RE 848.826 (Tema 835) e RE 729.744 (Tema 157).",
+  "dica": "Contas de prefeito (governo ou gestão) para inelegibilidade: quem julga é a Câmara; o TC dá parecer prévio, que só deixa de prevalecer por 2/3 dos vereadores."
+ },
+ "e5-18": {
+  "nivel": "difícil",
+  "tema": "Execução das condenações dos Tribunais de Contas: ilegitimidade do MP, legitimidade do ente prejudicado e multas simples (Temas 642 e 768/STF)",
+  "coms": [
+   "Errada. A segunda assertiva é verdadeira (Tema 642/STF): o município prejudicado é legitimado para executar a multa imposta por TCE a agente municipal por dano ao erário municipal.",
+   "CORRETA. F, V, V. O MP não tem legitimidade para executar condenações patrimoniais impostas pelos Tribunais de Contas (Tema 768/STF, ARE 823.347), cabendo a execução ao ente beneficiário. O município prejudicado executa a multa relativa ao dano ao seu erário (Tema 642/STF, RE 1.003.433). Já as multas simples, por descumprimento de normas de direito financeiro ou dos deveres de colaboração com o órgão de controle, são executadas pelo Estado ao qual se vincula o TCE (entendimento fixado pelo STF ao delimitar o Tema 642).",
+   "Errada. A primeira assertiva é falsa: o STF negou legitimidade ao Ministério Público para a ação executiva decorrente de condenação patrimonial dos Tribunais de Contas (Tema 768).",
+   "Errada. A terceira é verdadeira: quando a multa não decorre de dano ao erário municipal, mas da inobservância de normas de direito financeiro ou dos deveres de colaboração com o TCE, o crédito pertence ao Estado, que o executa.",
+   "Errada. A primeira é falsa (Tema 768: o MP não executa condenações dos Tribunais de Contas) e a terceira é verdadeira."
+  ],
+  "base": "CF, arts. 70, 71, §3º, e 75; STF, ARE 823.347 (Tema 768) e RE 1.003.433 (Tema 642).",
+  "dica": "Título do TC: quem executa é o ente credor, nunca o MP. Multa por dano ao Município = Município; multa simples (dever de colaboração/direito financeiro) = Estado."
+ },
+ "e1-32": {
+  "nivel": "médio",
+  "tema": "Recomendação CNJ 123/2022: poder normativo do CNJ, vinculação à jurisprudência da Corte IDH e reconhecimento da jurisdição contenciosa (Decreto Legislativo 89/1998)",
+  "coms": [
+   "Errada. Correta quanto à I, mas omite a III, também verdadeira: o Brasil reconheceu a competência contenciosa da Corte IDH por meio do Decreto Legislativo 89/1998, para fatos posteriores a 10/12/1998 (Decreto 4.463/2002).",
+   "Errada. A II é falsa: a recomendação não autoriza o juiz a desconsiderar a jurisprudência da Corte IDH. O Brasil, ao reconhecer sua jurisdição, obrigou-se a cumprir suas decisões (CADH, arts. 62 e 68), e o controle de convencionalidade exige considerar a interpretação da Corte.",
+   "Errada. Inclui a II, que é falsa, e omite a III, que é verdadeira.",
+   "CORRETA. I: o CNJ tem competência constitucional para expedir atos regulamentares e recomendações (CF, art. 103-B, §4º, I), com poder normativo reconhecido pelo STF (ADC 12). III: o Brasil aceitou a competência contenciosa da Corte IDH por meio do Decreto Legislativo 89/1998 e do Decreto 4.463/2002, para fatos posteriores a 10/12/1998. A II é falsa.",
+   "Errada. A II é falsa: a natureza de recomendação não libera o magistrado de considerar a jurisprudência da Corte IDH no controle de convencionalidade."
+  ],
+  "base": "CF, art. 103-B, §4º, I; STF, ADC 12; Recomendação CNJ 123/2022; CADH, arts. 62 e 68; Decreto Legislativo 89/1998; Decreto 4.463/2002.",
+  "dica": "Corte IDH: Brasil se submete à jurisdição contenciosa para fatos a partir de 10/12/1998 (DL 89/1998)."
+ },
+ "e1-35": {
+  "nivel": "médio",
+  "tema": "Empresas e direitos humanos: Princípios Orientadores da ONU (Ruggie), Pacto Global e Diretrizes da OCDE",
+  "coms": [
+   "Errada. As Diretrizes da OCDE para Empresas Multinacionais são recomendações dos governos às empresas, de adesão voluntária (soft law). Não são juridicamente vinculantes; seu mecanismo de implementação são os Pontos de Contato Nacionais.",
+   "Errada. O Pacto Global (2000), lançado por Kofi Annan, é iniciativa voluntária baseada em dez princípios e é criticado justamente por não ter mecanismos de exigibilidade ou sanção.",
+   "Errada. Os Princípios Orientadores (2011) definem as 'atividades' da empresa como abrangendo tanto ações quanto omissões (comentário ao Princípio 13).",
+   "CORRETA. Os Princípios Orientadores, elaborados por John Ruggie e endossados pelo Conselho de Direitos Humanos em 2011, seguem o marco 'proteger, respeitar e reparar'. O terceiro pilar é o acesso a mecanismos de reparação, e o Princípio 25 impõe ao Estado o dever de garantir às vítimas meios eficazes de reparação por violações cometidas por empresas.",
+   "Errada. Os Princípios Orientadores impõem às empresas a responsabilidade de respeitar os direitos humanos (segundo pilar, inclusive com devida diligência), mas não as impedem de contribuir positivamente para sua promoção; a premissa de que a atividade empresarial é incompatível com essa promoção é falsa."
+  ],
+  "base": "Princípios Orientadores sobre Empresas e Direitos Humanos (ONU, 2011), Princípios 13 e 25; Pacto Global (2000); Diretrizes da OCDE para Empresas Multinacionais; Decreto 9.571/2018.",
+  "dica": "Ruggie: o Estado PROTEGE, a empresa RESPEITA, e ambos garantem REPARAÇÃO. OCDE e Pacto Global são soft law."
+ },
+ "e1-46": {
+  "nivel": "médio",
+  "tema": "Mandado de segurança de competência originária do TJ: efeitos patrimoniais, reexame necessário, recursos e honorários (Súmulas 269 e 271/STF; Lei 12.016/2009)",
+  "coms": [
+   "Errada. O reexame necessário do art. 14, §1º, da Lei 12.016/2009 aplica-se à sentença concessiva de primeiro grau, e não ao acórdão de tribunal em MS de competência originária.",
+   "CORRETA. A concessão de MS não produz efeitos patrimoniais em relação a período pretérito, que devem ser reclamados administrativamente ou pela via judicial própria (Súmula 271/STF; Lei 12.016/2009, art. 14, §4º). O MS não é substitutivo de ação de cobrança (Súmula 269/STF).",
+   "Errada. O recurso ordinário ao STJ (CF, art. 105, II, b) cabe apenas contra acórdão que DENEGA a segurança em única instância nos tribunais locais. Contra acórdão concessivo, cabem recurso especial e/ou extraordinário.",
+   "Errada, segundo o gabarito oficial. Atenção: o STJ admite a técnica do art. 942 do CPC no julgamento não unânime de APELAÇÃO em mandado de segurança (REsp 1.868.072). No MS de competência originária do tribunal, o art. 942 não prevê a ampliação, de modo que o ponto é discutível; a banca preferiu a alternativa da Súmula 271/STF, de resposta inequívoca. Na prova, marque a afirmativa sem controvérsia.",
+   "Errada. Não cabem honorários advocatícios no mandado de segurança (Lei 12.016/2009, art. 25; Súmulas 512/STF e 105/STJ)."
+  ],
+  "base": "Lei 12.016/2009, arts. 14, §§1º e 4º, e 25; CF, art. 105, II, b; Súmulas 269, 271 e 512/STF; Súmula 105/STJ; CPC, art. 942.",
+  "dica": "MS: sem honorários, sem efeitos patrimoniais pretéritos (cobrança em via própria). ROC só contra denegação em única instância."
+ },
+ "e4-39": {
+  "nivel": "médio",
+  "tema": "Competência: Kompetenz-Kompetenz, perpetuatio jurisdictionis e foro do guardião do menor (CPC, art. 43; Súmula 383/STJ)",
+  "coms": [
+   "Errada. A primeira é falsa: o direito brasileiro adota o princípio da competência sobre a competência (Kompetenz-Kompetenz), pelo qual todo juiz tem competência mínima para examinar a própria competência.",
+   "Errada. A primeira e a segunda são falsas, e a terceira, verdadeira.",
+   "Errada. A terceira é verdadeira (Súmula 383/STJ), e a segunda é falsa, pois o marco da perpetuação é o registro ou a distribuição, não a citação.",
+   "Errada. A segunda é falsa: a competência é determinada no momento do registro ou da distribuição da petição inicial (art. 43 do CPC), e não da citação válida.",
+   "CORRETA. F, F, V. A primeira é falsa, porque o Brasil adota a Kompetenz-Kompetenz. A segunda é falsa, porque a perpetuatio jurisdictionis se fixa no registro ou na distribuição da inicial (art. 43). A terceira reproduz a Súmula 383/STJ: a competência para as ações conexas de interesse de menor é, em princípio, do foro do domicílio do detentor de sua guarda."
+  ],
+  "base": "CPC, art. 43; Súmula 383/STJ; ECA, art. 147, I.",
+  "dica": "Perpetuatio: registro ou distribuição (não a citação). Todo juiz é competente para dizer da própria competência."
+ },
+ "e3-60": {
+  "nivel": "fácil",
+  "tema": "Adoção póstuma: manifestação inequívoca de vontade do adotante falecido no curso do processo (ECA, art. 42, §6º)",
+  "coms": [
+   "Errada. O falecimento do adotante no curso do procedimento não extingue o processo se ele já havia manifestado vontade inequívoca de adotar: a adoção póstuma é expressamente admitida (ECA, art. 42, §6º).",
+   "Errada. A adoção póstuma não decorre de a vontade do sobrevivente suprir a do falecido, mas da vontade inequívoca manifestada pelo próprio adotante falecido (ECA, art. 42, §6º).",
+   "Errada. A adoção atribui a condição de filho para todos os efeitos, inclusive sucessórios (ECA, art. 41; CF, art. 227, §6º), e na adoção póstuma os efeitos retroagem à data do óbito (ECA, art. 47, §7º). Não há restrição de direitos sucessórios em relação ao adotante falecido.",
+   "CORRETA. O ECA admite a adoção ao adotante que, após inequívoca manifestação de vontade, vier a falecer no curso do procedimento, antes de prolatada a sentença (art. 42, §6º). Edson ajuizara a ação com Gabriela, o que demonstra a vontade inequívoca, e os efeitos da sentença retroagem à data do óbito (art. 47, §7º).",
+   "Errada. Não há exigência de concordância dos herdeiros do adotante falecido; a lei exige apenas a manifestação inequívoca de vontade do próprio adotante (ECA, art. 42, §6º)."
+  ],
+  "base": "ECA, arts. 41, 42, §6º, e 47, §7º; CF, art. 227, §6º.",
+  "dica": "Adoção póstuma: vontade inequívoca + óbito no curso do processo, antes da sentença. Efeitos retroagem à data do óbito."
+ },
+ "e3-77": {
+  "nivel": "médio",
+  "tema": "Efeitos da condenação por corrupção: progressão condicionada à reparação, instrumento do crime, perda alargada e perda do cargo (CP, arts. 33, §4º, 91, 91-A e 92)",
+  "coms": [
+   "Errada. A incapacidade para o exercício do poder familiar é efeito específico e não automático (art. 92, II, e parágrafo único), restrito a crimes dolosos sujeitos a reclusão cometidos contra outrem igualmente titular do mesmo poder familiar, filho, filha ou outro descendente, tutelado ou curatelado. Não é o caso.",
+   "Errada. A perda dos instrumentos do crime (art. 91, II, a) alcança apenas coisas cujo fabrico, alienação, uso, porte ou detenção constitua fato ilícito. O carro, de uso lícito, usado apenas para ir buscar o dinheiro, não se enquadra.",
+   "CORRETA. O condenado por crime contra a administração pública terá a progressão de regime condicionada à reparação do dano que causou ou à devolução do produto do ilícito, com os acréscimos legais (art. 33, §4º, do CP).",
+   "Errada. É o oposto: a perda alargada do art. 91-A permite, nos crimes com pena máxima superior a 6 anos (a corrupção passiva tem pena de 2 a 12 anos), decretar a perda dos bens correspondentes à diferença entre o patrimônio do condenado e aquele compatível com seu rendimento lícito, como produto ou proveito do crime.",
+   "Errada. Nos crimes praticados com abuso de poder ou violação de dever para com a Administração Pública, a perda do cargo é possível quando a pena aplicada for igual ou superior a 1 ano (art. 92, I, a). O patamar de mais de 4 anos é para os demais casos (art. 92, I, b). O efeito não é automático e deve ser motivado."
+  ],
+  "base": "CP, arts. 33, §4º, 91, II, a, 91-A, 92, I e II, e parágrafo único, e 317.",
+  "dica": "Crime contra a Administração: progressão exige reparar o dano (33, §4º). Perda do cargo: pena de 1 ano ou mais, se houver abuso/violação de dever; mais de 4 anos nos demais casos."
+ },
+ "e3-72": {
+  "nivel": "médio",
+  "tema": "Legítima defesa putativa por erro sobre a situação de fato: descriminante putativa e exclusão do dolo (CP, art. 20, §1º)",
+  "coms": [
+   "CORRETA. José supôs, por erro plenamente justificado pelas circunstâncias, situação de fato que, se existisse, tornaria a ação legítima: é a descriminante putativa por erro de tipo permissivo (art. 20, §1º). Pela teoria limitada da culpabilidade, adotada pelo CP (Exposição de Motivos, item 17), esse erro exclui o dolo, e, se evitável, permite a punição por culpa, se houver previsão.",
+   "Errada. Não há legítima defesa real, pois não existia agressão injusta, atual ou iminente (art. 25). A ilicitude objetiva permanece; o que se discute é o erro de José.",
+   "Errada. Pela teoria limitada da culpabilidade, o erro sobre os pressupostos fáticos de uma causa de justificação é tratado como erro de tipo (art. 20, §1º) e exclui o dolo. A exclusão da culpabilidade seria a consequência do erro de proibição indireto (erro sobre a existência ou os limites da justificante), segundo a teoria extremada.",
+   "Errada. O erro de tipo permissivo não exclui a ilicitude: o fato continua objetivamente ilícito, pois a agressão não existia. A consequência é a exclusão do dolo (art. 20, §1º).",
+   "Errada. A inexigibilidade de conduta diversa é causa supralegal ou legal (coação moral irresistível e obediência hierárquica, art. 22) de exclusão da culpabilidade e não descreve a situação de quem erra sobre os fatos que justificariam sua reação."
+  ],
+  "base": "CP, arts. 20, §1º, 21, 22 e 25; Exposição de Motivos da Parte Geral, item 17.",
+  "dica": "Erro sobre os FATOS da justificante = erro de tipo permissivo = exclui o dolo (teoria limitada). Erro sobre a EXISTÊNCIA ou os LIMITES da justificante = erro de proibição."
  }
 }
