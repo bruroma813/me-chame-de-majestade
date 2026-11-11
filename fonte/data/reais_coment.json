@@ -2481,5 +2481,239 @@
   ],
   "base": "CP, arts. 20, §1º, 21, 22 e 25; Exposição de Motivos da Parte Geral, item 17.",
   "dica": "Erro sobre os FATOS da justificante = erro de tipo permissivo = exclui o dolo (teoria limitada). Erro sobre a EXISTÊNCIA ou os LIMITES da justificante = erro de proibição."
+ },
+ "e3-7": {
+  "nivel": "médio",
+  "tema": "Limites da negociação coletiva: direitos constitucionais indisponíveis e Convenções 118 e 19 da OIT (CF, art. 7º; Tema 1.046/STF)",
+  "coms": [
+   "Errada. A licença-paternidade é direito constitucional autônomo (CF, art. 7º, XIX; ADCT, art. 10, §1º). Pelo Tema 1.046 do STF, a norma coletiva pode limitar ou afastar direitos, salvo os absolutamente indisponíveis, entre eles os direitos assegurados pela Constituição; a supressão é inválida (CLT, art. 611-B, XIII).",
+   "Errada. A estabilidade da gestante vai da confirmação da gravidez até cinco meses após o parto (ADCT, art. 10, II, 'b'), e sua redução por norma coletiva é objeto ilícito (CLT, art. 611-B, XXX; Tema 1.046/STF). Uma estabilidade normativa diversa não autoriza diminuir a garantia constitucional.",
+   "CORRETA. A Convenção 118 da OIT, ratificada pelo Brasil, impõe igualdade de tratamento entre nacionais e não nacionais em matéria de previdência social. A cláusula apenas reproduz norma internacional incorporada e harmoniza-se com o art. 5º, caput, da CF (igualdade entre brasileiros e estrangeiros residentes).",
+   "Errada. O seguro-desemprego em caso de desemprego involuntário é direito social previsto no art. 7º, II, da CF, indisponível pela via negocial (CLT, art. 611-B, II). A existência de programa assistencial de transferência de renda não o substitui.",
+   "Errada. A premissa é falsa: o Brasil ratificou a Convenção 19 da OIT (igualdade de tratamento entre nacionais e estrangeiros em indenização por acidente do trabalho). Além disso, a CF assegura igualdade a estrangeiros (art. 5º, caput) e o seguro contra acidentes como direito do trabalhador (art. 7º, XXVIII)."
+  ],
+  "base": "CF, arts. 5º, caput, e 7º, II, XIX e XXVIII; ADCT, art. 10; CLT, art. 611-B; STF, Tema 1.046; Convenções 19 e 118 da OIT.",
+  "dica": "Negociado prevalece sobre o legislado (Tema 1.046), mas nunca sobre direito constitucional indisponível: licença-paternidade, estabilidade da gestante e seguro-desemprego estão fora da mesa."
+ },
+ "e3-12": {
+  "nivel": "fácil",
+  "tema": "Prova emprestada da investigação penal (agente infiltrado) no processo administrativo disciplinar (Súmula 591/STJ)",
+  "coms": [
+   "Errada. A independência das instâncias impede que uma vincule a outra quanto à decisão, mas não proíbe o compartilhamento de provas. A Súmula 591 do STJ admite expressamente a prova emprestada no PAD.",
+   "CORRETA. Súmula 591 do STJ: é permitida a prova emprestada no processo administrativo disciplinar, desde que devidamente autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa. O pressuposto é a produção regular na origem, com autorização judicial fundamentada (Lei 12.850/2013, art. 10), e, no PAD, a submissão da prova ao contraditório.",
+   "Errada. A infiltração não é utilizada para apurar a infração disciplinar; ela é produzida na investigação criminal e apenas trasladada. O que se exige é a regularidade da produção na origem e o contraditório no destino, não que o meio de prova seja previsto para a instância administrativa.",
+   "Errada. Não se exige que a decisão que autorizou a infiltração tenha previsto, de antemão, o uso em outras instâncias. Basta que o compartilhamento seja autorizado pelo juízo competente e que se assegure o contraditório no PAD (Súmula 591/STJ).",
+   "Errada. O devido processo legal não veda a prova emprestada; ao contrário, a jurisprudência a admite como regra, observados o contraditório e a regularidade da produção. Não se trata de aproveitamento excepcional por proporcionalidade de prova em tese vedada."
+  ],
+  "base": "CF, art. 5º, LIV, LV e LVI; Lei 12.850/2013, arts. 10 a 14; Súmula 591/STJ; CPC, art. 372.",
+  "dica": "Prova emprestada no PAD (Súmula 591/STJ): autorização do juízo competente + contraditório. Independência das instâncias não impede o compartilhamento."
+ },
+ "e4-47": {
+  "nivel": "difícil",
+  "tema": "Execução fiscal: embargos sem garantia do hipossuficiente, vedação de reconvenção, embargos infringentes do art. 34 e falência (Lei 6.830/1980)",
+  "coms": [
+   "Errada. A sequência inverte a primeira e a segunda afirmativas. A primeira é verdadeira (o STJ admite embargos sem garantia quando o executado comprovadamente não tem bens); a segunda é falsa, pois a LEF não admite reconvenção em nenhuma hipótese (art. 16, §3º).",
+   "Errada. Acerta as duas primeiras, mas erra a terceira: os embargos infringentes do art. 34 da LEF continuam em vigor, cabíveis contra sentenças em execuções de valor igual ou inferior a 50 ORTN, julgados pelo próprio juízo (constitucionalidade reconhecida pelo STF, Tema 408).",
+   "Errada. Acerta as três primeiras, mas considera verdadeira a quarta. Segundo o STJ, a Fazenda pode escolher entre a execução fiscal e a habilitação na falência; optando pela habilitação, renuncia ao rito da execução fiscal, não podendo manter as duas vias com constrições simultâneas sobre os mesmos bens (vedação ao bis in idem).",
+   "CORRETA. V: embora o art. 16, §1º, da LEF exija garantia, o STJ admite os embargos do executado hipossuficiente sem bens, em homenagem ao acesso à justiça. F: o art. 16, §3º, veda a reconvenção (e a compensação). V: os embargos infringentes do art. 34 subsistem com disciplina própria. F: escolhida a habilitação na falência, a Fazenda não pode simultaneamente impulsionar constrições na execução fiscal (STJ).",
+   "Errada. Erra a terceira e a quarta: os embargos infringentes do art. 34 persistem, e a habilitação do crédito fiscal na falência implica renúncia ao prosseguimento da execução fiscal com medidas constritivas (STJ)."
+  ],
+  "base": "Lei 6.830/1980, arts. 16, §§1º e 3º, 29 e 34; Lei 11.101/2005, arts. 6º, §7º-B, e 76; STF, Tema 408; jurisprudência do STJ.",
+  "dica": "LEF: garantia para embargar (salvo hipossuficiente), reconvenção NUNCA, embargos infringentes do art. 34 VIVOS, e na falência a Fazenda escolhe uma via só."
+ },
+ "e3-41": {
+  "nivel": "médio",
+  "tema": "Prazos processuais no CPC: dias úteis, contagem com exclusão do dia do começo, prazo supletivo de cinco dias (CPC, arts. 218, 219, 224)",
+  "coms": [
+   "Errada. Só o item I não está correto: a prorrogação por indisponibilidade não decorre da regra dos dias úteis do art. 219, e sim do art. 224, §1º (e da Lei 11.419/2006, art. 10, §2º), conforme a regulamentação dos tribunais (Res. CNJ 185/2013), e não 'toda vez' que constatada qualquer falha. O item III, que está correto, foi excluído.",
+   "Errada. O item II inverte a regra do art. 224 do CPC: os prazos são contados excluindo o dia do começo e incluindo o dia do vencimento.",
+   "CORRETA. Apenas o item III está correto: inexistindo preceito legal ou prazo fixado pelo juiz, será de 5 dias o prazo para a prática de ato processual a cargo da parte (CPC, art. 218, §3º). O item I vincula indevidamente a prorrogação ao art. 219 e a generaliza; o item II inverte a regra do art. 224.",
+   "Errada. Inclui o item I, que atribui a prorrogação por indisponibilidade ao art. 219 e a torna automática a qualquer falha; a prorrogação decorre do art. 224, §1º, nos termos da regulamentação.",
+   "Errada. Inclui o item II, que inverte a regra legal: exclui-se o dia do começo e inclui-se o do vencimento (CPC, art. 224, caput)."
+  ],
+  "base": "CPC, arts. 218, §3º, 219, 224 e 231; Lei 11.419/2006, art. 10, §2º; Res. CNJ 185/2013.",
+  "dica": "Prazo no CPC: dias úteis, exclui o começo e inclui o fim; silêncio da lei e do juiz = 5 dias."
+ },
+ "e1-55": {
+  "nivel": "difícil",
+  "tema": "Alienação fiduciária de imóvel: responsabilidade do credor fiduciário pelas cotas condominiais após a consolidação da propriedade (Lei 9.514/1997, art. 27, §8º; CC, arts. 1.345 e 1.368-B)",
+  "coms": [
+   "Errada. Em fevereiro de 2020 registrou-se a alienação fiduciária: o banco passou a ter apenas a propriedade resolúvel em garantia, e o devedor fiduciante, possuidor direto, responde pelas despesas condominiais (Lei 9.514/1997, art. 27, §8º).",
+   "Errada. A constituição em mora e a intimação para purgá-la não transferem a propriedade; o banco continua credor com propriedade fiduciária, sem responder perante o condomínio pelas cotas.",
+   "CORRETA. Gabarito oficial. Com a consolidação da propriedade (janeiro de 2022), o banco passa a ser proprietário pleno, e a cota condominial, obrigação propter rem (CC, art. 1.345), pode ser cobrada dele a partir daí. Ressalva: o art. 27, §8º, da Lei 9.514/1997 e o art. 1.368-B, parágrafo único, do CC falam em responsabilidade do fiduciário a partir da imissão na posse, o que a jurisprudência do STJ tem lido como regra da relação interna entre fiduciante e fiduciário (direito de regresso), sem afastar a legitimidade do proprietário perante o condomínio após a consolidação. É ponto discutido.",
+   "Errada. Os leilões negativos (abril de 2022) apenas extinguem a dívida e liberam o credor de entregar saldo (Lei 9.514/1997, art. 27, §§5º e 6º); não são o marco da responsabilidade, que nasce com a titularidade plena decorrente da consolidação.",
+   "Errada. A efetiva imissão na posse é o marco da literalidade do art. 27, §8º, para a relação entre fiduciante e fiduciário, mas o gabarito oficial adotou a consolidação, momento em que o banco se torna proprietário e passa a responder pela obrigação propter rem perante o condomínio."
+  ],
+  "base": "Lei 9.514/1997, arts. 26, 27, §§5º, 6º e 8º, e 30; CC, arts. 1.345 e 1.368-B, parágrafo único; jurisprudência do STJ.",
+  "dica": "Cota condominial é propter rem: segue o proprietário. Na alienação fiduciária, o banco vira proprietário pleno com a CONSOLIDAÇÃO; a imissão na posse importa para o acerto interno com o devedor."
+ },
+ "e5-62": {
+  "nivel": "difícil",
+  "tema": "Agente de garantia: atuação em nome próprio, patrimônio separado, repasse em dez dias úteis e substituição (CC, art. 853-A, Lei 14.711/2023)",
+  "coms": [
+   "Errada. O produto da realização da garantia constitui patrimônio separado do agente e não responde por suas obrigações pelo prazo de 180 dias contado do recebimento (CC, art. 853-A, §5º). Credores próprios do agente não podem penhorá-lo.",
+   "Errada. O agente de garantia é designado pelos credores justamente para constituir, levar a registro, gerir e executar a garantia, atuando em nome próprio e em benefício dos credores, inclusive em ações judiciais e na execução extrajudicial (CC, art. 853-A, caput e §1º).",
+   "Errada. A substituição pode ser deliberada pela maioria simples dos titulares dos créditos, mas só produz efeitos perante terceiros após publicidade na mesma forma de publicidade da garantia (CC, art. 853-A, §2º).",
+   "Errada. O descumprimento do prazo de dez dias úteis para repasse (art. 853-A, §4º) gera responsabilidade do agente e pode justificar sua substituição por deliberação dos credores, mas não extingue automaticamente o contrato.",
+   "CORRETA. Reproduz o regime do art. 853-A do CC: o agente atua em nome próprio e em benefício dos credores, inclusive em ações judiciais e na execução extrajudicial da garantia, e o produto da realização constitui patrimônio separado, que não responde por suas obrigações pelo prazo legal de 180 dias (§§1º e 5º)."
+  ],
+  "base": "CC, art. 853-A (incluído pela Lei 14.711/2023); Lei 9.514/1997, arts. 26 e 27.",
+  "dica": "Agente de garantia: age em nome próprio, repassa em 10 dias úteis, é trocado por maioria simples (com publicidade) e o dinheiro recebido é patrimônio separado por 180 dias."
+ },
+ "e1-65": {
+  "nivel": "médio",
+  "tema": "Direitos autorais: autoria, coautoria na obra audiovisual, obra coletiva e registro (Lei 9.610/1998, arts. 12 a 19)",
+  "coms": [
+   "Errada. Pela regra mantida na disciplina do registro (Lei 5.988/1973, art. 17, §1º, preservado pelo art. 19 da Lei 9.610), se a obra comportar registro em mais de um órgão, será registrada naquele com que tiver maior afinidade, e não em todos. Lembre-se também de que o registro é facultativo (art. 18).",
+   "CORRETA. Literalidade do art. 16 da Lei 9.610/1998: são coautores da obra audiovisual o autor do assunto ou argumento literário, musical ou lítero-musical e o diretor.",
+   "Errada. Quem adapta, traduz, arranja ou orquestra obra caída no domínio público é titular dos direitos sobre a sua versão, mas não pode opor-se a outra adaptação, arranjo, orquestração ou tradução, salvo se for cópia da sua (art. 14).",
+   "Errada. Na obra coletiva, cabe ao organizador a titularidade dos direitos patrimoniais sobre o conjunto da obra (art. 17, §2º); aos participantes assegura-se a proteção de suas contribuições individuais.",
+   "Errada. O art. 13 presume autor quem tiver, por uma das modalidades de identificação do art. 12, indicada ou anunciada essa qualidade. O art. 12 admite nome civil, completo ou abreviado até por suas iniciais, pseudônimo 'ou qualquer outro sinal convencional'; a alternativa restringe indevidamente as formas ('apenas')."
+  ],
+  "base": "Lei 9.610/1998, arts. 12, 13, 14, 16, 17, 18 e 19; Lei 5.988/1973, art. 17.",
+  "dica": "Audiovisual: coautores = autor do argumento + diretor. Obra coletiva: patrimonial do organizador. Domínio público adaptado: não impede outras versões."
+ },
+ "e1-75": {
+  "nivel": "médio",
+  "tema": "Reincidência: período depurador, crimes militares próprios e políticos, preponderância e sursis (CP, arts. 63, 64, 67 e 77)",
+  "coms": [
+   "Errada. O art. 64, I, do CP manda computar (e não excluir) o período de prova da suspensão ou do livramento condicional, se não houver revogação, no prazo de 5 anos.",
+   "Errada. O art. 64, II, exclui da reincidência os crimes militares próprios e os políticos, sem a ressalva inventada pela alternativa.",
+   "Errada. O art. 63 fala em cometer novo crime depois do trânsito em julgado de sentença que o tenha condenado por crime anterior. Contravenção anterior seguida de crime não gera reincidência (LCP, art. 7º, só trata de contravenção posterior), de modo que 'infração penal' torna o enunciado impreciso.",
+   "CORRETA. Art. 67 do CP: no concurso de agravantes e atenuantes, a pena deve aproximar-se do limite indicado pelas circunstâncias preponderantes, entendendo-se como tais as que resultam dos motivos determinantes do crime, da personalidade do agente e da reincidência.",
+   "Errada. O art. 77, I, exige que o condenado não seja reincidente em crime doloso; a reincidência em crime culposo não impede o sursis."
+  ],
+  "base": "CP, arts. 63, 64, 67 e 77; LCP, art. 7º.",
+  "dica": "Reincidência: 5 anos COMPUTANDO o período de prova; fora militares próprios e políticos; é circunstância preponderante; sursis só barrado por reincidência em DOLOSO."
+ },
+ "e1-72": {
+  "nivel": "médio",
+  "tema": "Concurso de agentes: teoria monista temperada, cooperação dolosamente distinta e participação dependente do início da execução (CP, arts. 29 e 31)",
+  "coms": [
+   "Errada. O item I é falso: o CP adota a teoria monista (unitária) temperada ou mitigada, com exceções pluralistas (ex.: arts. 124 e 126; 317 e 333) e a graduação do art. 29, §§1º e 2º. O item III, correto, ficou de fora.",
+   "Errada. O item II é falso: na cooperação dolosamente distinta, quem quis participar de crime menos grave responde pela pena deste, aumentada até metade se o resultado mais grave era previsível (CP, art. 29, §2º). Não há responsabilidade solidária pelo fato mais grave.",
+   "CORRETA. Só o item III está correto: a participação pode ocorrer da cogitação à consumação, mas, salvo disposição expressa em contrário, o ajuste, a determinação, a instigação e o auxílio não são puníveis se o crime não chega, pelo menos, a ser tentado (CP, art. 31), o que reflete a acessoriedade da participação.",
+   "Errada. Inclui o item I, que fala em teoria monista 'estrita'; o Código adota a monista temperada, com exceções pluralistas.",
+   "Errada. Inclui o item II, que contraria o art. 29, §2º, do CP: o concorrente que quis crime menos grave responde por este, com aumento se previsível o resultado mais grave."
+  ],
+  "base": "CP, arts. 29, §§1º e 2º, e 31.",
+  "dica": "Concurso de agentes: monista TEMPERADA; quis menos grave responde pelo menos grave (+ até metade se previsível); partícipe só é punido se o autor ao menos tentar."
+ },
+ "e4-7": {
+  "nivel": "médio",
+  "tema": "Revista íntima vexatória em visitas a presídios: ilicitude da prova e restrição fundamentada da visita (STF, Tema 998)",
+  "coms": [
+   "Errada. A tese do Tema 998 do STF veda a revista íntima vexatória, com desnudamento ou exames invasivos, de qualquer visitante; não há exceção para crianças nem a autoriza a realização por equipe especializada. O controle deve ser feito por equipamentos eletrônicos e, havendo indício robusto, pode-se impedir a visita.",
+   "Errada. A autoridade pode impedir a visita, de forma fundamentada e por escrito, somente diante de indício robusto de que o visitante porta item oculto ou proibido. Não há poder de vedar a visita 'independentemente' de indícios.",
+   "CORRETA. Reproduz a primeira parte da tese do Tema 998 do STF (ARE 959.620): em visitas sociais nos presídios é inadmissível a revista íntima vexatória com desnudamento de visitantes ou exames invasivos, e a prova assim obtida é ilícita, ressalvadas decisões judiciais em cada caso concreto.",
+   "Errada. O STF não proibiu toda e qualquer revista, mas a revista íntima vexatória; admitem-se meios não invasivos (scanners, detectores) e a restrição fundamentada da visita diante de indício robusto. A afirmação de vedação absoluta 'em qualquer hipótese' de toda revista é excessiva.",
+   "Errada. A primeira parte reproduz a tese, mas a conclusão é incorreta: processo anterior com absolvição transitada em julgado e o fato de residir em área dominada por facção não são indícios robustos de porte de material proibido; usá-los violaria a presunção de inocência e configuraria discriminação."
+  ],
+  "base": "CF, arts. 1º, III, e 5º, III, X, LVI e LVII; STF, ARE 959.620 (Tema 998); LEP, art. 41, X.",
+  "dica": "Tema 998: revista íntima vexatória = proibida e prova ilícita; visita só pode ser barrada por ato escrito e fundamentado diante de indício ROBUSTO (antecedentes e endereço não bastam)."
+ },
+ "e4-2": {
+  "nivel": "médio",
+  "tema": "Controle judicial de políticas públicas de saúde: finalidades x meios e apresentação de plano pela Administração (STF, Tema 698)",
+  "coms": [
+   "Errada. Pelo Tema 698 do STF, o Judiciário não elabora ele próprio o plano de atuação; aponta as finalidades a serem alcançadas e determina que a Administração apresente um plano e/ou os meios adequados.",
+   "CORRETA. Tese do Tema 698 do STF (RE 684.612): diante de ausência ou deficiência grave do serviço, a intervenção judicial não viola a separação de Poderes, mas a decisão, como regra, em vez de determinar medidas pontuais, deve apontar as finalidades a serem alcançadas e determinar à Administração que apresente um plano e/ou os meios adequados para alcançar o resultado.",
+   "Errada. O STF orienta exatamente o oposto: como regra, o juiz deve evitar medidas pontuais (contratar pessoal, comprar equipamentos), ainda que tecnicamente embasadas, e priorizar a fixação de finalidades com plano elaborado pela Administração.",
+   "Errada. O Judiciário pode intervir diante de deficiência grave do serviço, com base nos próprios indicadores estatais e no dever constitucional (CF, art. 196), não se limitando a obrigações literalmente previstas em lei.",
+   "Errada. O direito à saúde tem eficácia que autoriza a intervenção judicial em caso de omissão ou deficiência grave (Tema 698), sem que isso represente violação à separação de Poderes. A situação pode, sim, ser resolvida pelo Judiciário."
+  ],
+  "base": "CF, arts. 2º, 6º e 196; STF, RE 684.612 (Tema 698); CPC, art. 536.",
+  "dica": "Tema 698: o juiz diz AONDE chegar (finalidade); a Administração diz COMO (plano). Medidas pontuais são exceção."
+ },
+ "e5-22": {
+  "nivel": "fácil",
+  "tema": "Responsabilidade civil de concessionária de serviço público e tese da dupla garantia (CF, art. 37, §6º; STF, Tema 940)",
+  "coms": [
+   "Errada. Pela tese da dupla garantia (Tema 940 do STF), a vítima não pode acionar diretamente o agente, que responde apenas em regresso perante a pessoa jurídica. Não há litisconsórcio passivo com o funcionário.",
+   "Errada. A concessionária responde objetivamente (CF, art. 37, §6º), e a ação não pode ser proposta, à escolha da vítima, contra o agente (Tema 940).",
+   "CORRETA. A pessoa jurídica de direito privado prestadora de serviço público responde objetivamente pelos danos que seus agentes causarem a usuários e não usuários (CF, art. 37, §6º; RE 591.874). Pelo Tema 940, a ação deve ser ajuizada contra a pessoa jurídica, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.",
+   "Errada. Além de admitir o litisconsórcio com o agente, vedado pelo Tema 940, atribui a ele responsabilidade objetiva, quando sua responsabilidade é subjetiva e apenas regressiva.",
+   "Errada. O agente não pode ser demandado diretamente pela vítima; responde apenas em ação regressiva, mediante prova de dolo ou culpa (CF, art. 37, §6º; Tema 940)."
+  ],
+  "base": "CF, art. 37, §6º; STF, Tema 940 (RE 1.027.633) e RE 591.874; Lei 8.987/1995, art. 25.",
+  "dica": "Dupla garantia: vítima processa só a pessoa jurídica (objetiva); o agente responde em regresso (subjetiva). Vale para concessionárias."
+ },
+ "e4-17": {
+  "nivel": "fácil",
+  "tema": "Regime jurídico dos bens públicos: classificação, alienabilidade dos dominicais, uso retribuído e alienação de imóveis (CC, arts. 99 a 103; Lei 14.133, art. 76)",
+  "coms": [
+   "Errada. Rios, mares, estradas, ruas e praças são bens de uso comum do povo (CC, art. 99, I), e não de uso especial.",
+   "Errada. Inalienáveis enquanto conservarem a qualificação são os bens de uso comum e de uso especial (CC, art. 100). Os dominicais podem ser alienados, observadas as exigências legais (CC, art. 101).",
+   "Errada. O uso comum dos bens públicos pode ser gratuito ou retribuído, conforme estabelecido legalmente pela entidade a cuja administração pertencerem (CC, art. 103).",
+   "Errada. Edifícios ou terrenos destinados a serviço ou estabelecimento da administração, inclusive de autarquias, são bens de uso especial (CC, art. 99, II). Dominicais são os que constituem o patrimônio das pessoas jurídicas de direito público como objeto de direito pessoal ou real (art. 99, III).",
+   "CORRETA. Lei 14.133/2021, art. 76, I: a alienação de bens imóveis, inclusive os pertencentes às autarquias e às fundações, exige interesse público justificado, avaliação prévia, autorização legislativa e, em regra, licitação na modalidade leilão, ressalvadas as hipóteses de dispensa."
+  ],
+  "base": "CC, arts. 98 a 103; Lei 14.133/2021, art. 76, I.",
+  "dica": "Uso comum (ruas) e especial (repartições) = inalienáveis enquanto afetados; dominicais = alienáveis. Imóvel público: autorização legislativa + avaliação + LEILÃO."
+ },
+ "e5-28": {
+  "nivel": "fácil",
+  "tema": "Litigância abusiva e demandas frívolas: o depósito prévio da ação rescisória como desincentivo (Recomendação CNJ 159/2024; CPC, art. 968, II)",
+  "coms": [
+   "Errada. A denunciação da lide é intervenção de terceiro que permite ao denunciante exercer regresso no mesmo processo (CPC, art. 125); não tem função de desestimular o ajuizamento de demandas frívolas.",
+   "Errada. A gratuidade de justiça reduz os custos de litigar e, por isso, se algo, facilita o acesso, inclusive a demandas com pequena chance de êxito; não é mecanismo de desincentivo (CPC, art. 98).",
+   "Errada. A modificação de competência por conexão (CPC, arts. 54 e 55) busca evitar decisões conflitantes e promover economia processual, sem relação com o custo ou o risco de ajuizar demandas infundadas.",
+   "CORRETA. O depósito de 5% sobre o valor da causa na ação rescisória (CPC, art. 968, II), que se converte em multa em favor do réu se a ação for, por unanimidade, declarada inadmissível ou improcedente (art. 974, parágrafo único), eleva o custo esperado da demanda de baixa probabilidade de êxito e funciona como desincentivo econômico às demandas frívolas.",
+   "Errada. A inversão do ônus da prova em favor do consumidor (CDC, art. 6º, VIII) facilita a defesa do autor hipossuficiente, o que tende a estimular, e não a desincentivar, o ajuizamento."
+  ],
+  "base": "CPC, arts. 968, II e §§1º e 2º, e 974, parágrafo único; Recomendação CNJ 159/2024.",
+  "dica": "Demanda frívola se combate aumentando o custo de perder: depósito da rescisória (5%, vira multa se unânime contra) é o exemplo clássico."
+ },
+ "e4-36": {
+  "nivel": "difícil",
+  "tema": "Controle de convencionalidade: autoridades que o exercem, paradigma de controle e hierarquia no plano internacional e nacional (Corte IDH; RE 466.343)",
+  "coms": [
+   "Errada. O item III também está correto: no controle internacional, a norma internacional sempre prevalece sobre o ato interno; no nacional, a posição hierárquica do tratado depende do status que o ordenamento interno lhe confere.",
+   "Errada. O item II é incorreto segundo a doutrina e a jurisprudência prevalecentes: o controle de convencionalidade nacional pode ter como paradigma qualquer norma internacional incorporada, e sua hierarquia varia conforme o direito interno (no Brasil, tratados de direitos humanos são supralegais ou equivalentes a emendas, CF, art. 5º, §3º, e RE 466.343, e os demais têm status de lei ordinária), sem exigência de status superior à lei para servir de parâmetro.",
+   "CORRETA. I: a Corte IDH (casos Almonacid Arellano, Gelman e outros) afirma que o dever de controle de convencionalidade alcança todos os órgãos do Estado vinculados à administração da justiça, inclusive autoridades administrativas, MP e Defensoria, e admite o controle preventivo pelo Legislativo. III: no plano internacional a norma convencional sempre prevalece; no nacional, a hierarquia depende da conformação do ordenamento interno.",
+   "Errada. Inclui o item II, que exige status supralegal ou constitucional para que a norma internacional sirva de paradigma, e exclui o item I, que está correto.",
+   "Errada. O item II é incorreto, conforme a corrente adotada pelo gabarito: a hierarquia da norma internacional no plano interno varia, e não se exige status superior à lei ordinária para o controle."
+  ],
+  "base": "CADH, arts. 1º e 2º; CF, art. 5º, §§2º e 3º; STF, RE 466.343; Corte IDH, casos Almonacid Arellano vs. Chile (2006) e Gelman vs. Uruguai (2011).",
+  "dica": "Controle de convencionalidade: todos os órgãos do Estado (não só juízes); no plano internacional o tratado sempre vence; no nacional, depende do status interno."
+ },
+ "e3-55": {
+  "nivel": "difícil",
+  "tema": "Divulgação não autorizada de fotos com nudez produzidas para fins comerciais: inaplicabilidade do art. 21 do Marco Civil e necessidade de ordem judicial (STJ)",
+  "coms": [
+   "Errada. O art. 21 do Marco Civil permite a remoção por simples notificação apenas para conteúdo de nudez ou atos sexuais de caráter privado. Para o STJ, imagens produzidas e divulgadas com finalidade comercial em plataforma de assinatura não são de caráter privado, de modo que não incide essa exceção.",
+   "Errada. O uso indevido de imagem com fins econômicos ou comerciais gera dano moral in re ipsa, independentemente de prova do prejuízo (Súmula 403/STJ; CC, art. 20).",
+   "CORRETA. Segundo o STJ, as fotos não se enquadram no conceito de imagens íntimas de caráter privado do art. 21 do Marco Civil, porque foram produzidas para exploração comercial. A remoção depende, portanto, de ordem judicial, nos termos da regra geral de responsabilidade dos provedores, sem prejuízo da indenização pela violação dos direitos autorais e de imagem.",
+   "Errada. A disponibilização a assinantes, mediante pagamento, não equivale a consentimento para reprodução por terceiros; a publicação sem autorização viola o direito de imagem (CC, art. 20) e os direitos autorais (Lei 9.610/1998), gerando dever de indenizar (Súmula 403/STJ).",
+   "Errada. O consentimento para uso da imagem é restrito à finalidade autorizada; a autorização para exibição a assinantes não se estende à reprodução por revista online, e há direito tanto à remoção (por via judicial) quanto à indenização."
+  ],
+  "base": "Lei 12.965/2014, arts. 19 e 21; CC, art. 20; Lei 9.610/1998; Súmula 403/STJ.",
+  "dica": "Art. 21 do MCI (remoção por notificação) é só para nudez de caráter PRIVADO; conteúdo comercial exige ordem judicial, mas a indenização continua devida."
+ },
+ "e3-76": {
+  "nivel": "médio",
+  "tema": "Teoria da imputação objetiva de Roxin: criação de risco não permitido, distinta de funcionalismo sistêmico, tipicidade conglobante, domínio do fato e teoria social da ação",
+  "coms": [
+   "Errada. A ideia de que a finalidade do Direito Penal é reafirmar a vigência da norma (prevenção geral positiva) é marca do funcionalismo sistêmico de Günther Jakobs, e não da imputação objetiva de Roxin, voltada à proteção de bens jurídicos.",
+   "CORRETA. Para Roxin, a imputação ao tipo objetivo exige que o agente tenha criado (ou incrementado) um risco juridicamente não permitido para o bem jurídico, que esse risco se realize no resultado e que o resultado esteja no alcance do tipo. Ações cobertas pelo risco permitido não são imputáveis.",
+   "Errada. A tipicidade conglobante, que examina a norma no conjunto do ordenamento, é formulação de Eugenio Raúl Zaffaroni, não da imputação objetiva de Roxin.",
+   "Errada. O domínio do fato é teoria sobre autoria (distinção entre autor e partícipe), desenvolvida por Welzel e sistematizada por Roxin, mas não integra a teoria da imputação objetiva do resultado.",
+   "Errada. A definição de ação como conduta socialmente relevante dominada ou dominável pela vontade é da teoria social da ação (Jescheck, Wessels), não da imputação objetiva."
+  ],
+  "base": "Doutrina: Roxin, Derecho Penal, Parte General; Jakobs; Zaffaroni; Jescheck.",
+  "dica": "Roxin = risco não permitido + realização do risco + alcance do tipo. Jakobs = vigência da norma. Zaffaroni = conglobante."
+ },
+ "e1-74": {
+  "nivel": "médio",
+  "tema": "Crimes ambientais: responsabilidade do dirigente omisso e da pessoa jurídica, independentemente da persecução das pessoas físicas (Lei 9.605/1998, arts. 2º e 3º; RE 548.181)",
+  "coms": [
+   "CORRETA. Só o item I está correto: reproduz o art. 2º da Lei 9.605/1998, que responsabiliza diretor, administrador, membro de conselho e de órgão técnico, auditor, gerente, preposto ou mandatário que, sabendo da conduta criminosa de outrem, deixar de impedir a sua prática quando podia agir para evitá-la. O II restringe indevidamente o art. 3º; o III cria exceção inexistente.",
+   "Errada. O item II é falso: o art. 3º prevê a responsabilidade da pessoa jurídica quando a infração for cometida por decisão de seu representante legal ou contratual, ou de seu órgão colegiado, no interesse ou benefício da entidade. Não se limita à decisão do órgão superior colegiado.",
+   "Errada. O item III é falso: o STF (RE 548.181) afastou a teoria da dupla imputação necessária, e a responsabilização da pessoa jurídica não depende da identificação e persecução simultânea de pessoas físicas, sem exceção para dirigentes com poder de comando.",
+   "Errada. Ambos os itens II e III são falsos, e o item I, correto, foi excluído.",
+   "Errada. Somente o item I está correto; os itens II e III contrariam, respectivamente, o art. 3º da Lei 9.605/1998 e o entendimento do STF no RE 548.181 (seguido pelo STJ)."
+  ],
+  "base": "CF, art. 225, §3º; Lei 9.605/1998, arts. 2º e 3º; STF, RE 548.181.",
+  "dica": "PJ ambiental: decisão do representante legal/contratual OU do colegiado, no interesse ou benefício da entidade; sem dupla imputação obrigatória (RE 548.181)."
  }
 }
