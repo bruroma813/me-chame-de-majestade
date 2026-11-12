@@ -2715,5 +2715,109 @@
   ],
   "base": "CF, art. 225, §3º; Lei 9.605/1998, arts. 2º e 3º; STF, RE 548.181.",
   "dica": "PJ ambiental: decisão do representante legal/contratual OU do colegiado, no interesse ou benefício da entidade; sem dupla imputação obrigatória (RE 548.181)."
+ },
+ "e4-8": {
+  "nivel": "médio",
+  "tema": "Iniciativa parlamentar de lei sobre política pública e cooperação federativa (CF, arts. 23, p.ú., 61, §1º, II, 84, VI, e 241; Tema 917/STF)",
+  "coms": [
+   "Errada. A cooperação entre os entes federados não é vedada: a CF prevê leis complementares fixando normas de cooperação (art. 23, parágrafo único) e autoriza consórcios públicos e convênios de cooperação, com gestão associada de serviços (art. 241). A parceria não transfere a titularidade da competência da União.",
+   "CORRETA. Não há vício formal: a iniciativa privativa do Presidente (art. 61, §1º, II) é de interpretação restrita e não abrange a instituição de políticas públicas que não criem órgãos nem alterem a estrutura ou as atribuições da Administração. O STF fixou que não usurpa a competência privativa do Chefe do Executivo lei que, embora crie despesa, não trata da estrutura ou atribuição de órgãos nem do regime jurídico de servidores (Tema 917, ARE 878.911). Também não há vício material, pois a política protege a vida e a saúde, e a parceria interfederativa é admitida (arts. 23, p.ú., e 241).",
+   "Errada. A Câmara é a casa iniciadora dos projetos do Presidente, do STF e dos Tribunais Superiores e da iniciativa popular (arts. 61, §2º, e 64). Projeto de senador pode começar no Senado; a natureza da matéria não impõe o início pela Câmara.",
+   "Errada. A iniciativa das leis ordinárias cabe a qualquer membro ou comissão da Câmara, do Senado ou do Congresso (art. 61, caput). Como a matéria não está no rol de iniciativa reservada, os parlamentares têm legitimidade.",
+   "Errada. Parte da premissa correta (políticas públicas não são de iniciativa privativa), mas erra na conclusão: o projeto não disciplina criação, estruturação ou atribuições de órgãos do Executivo (art. 61, §1º, II, e; art. 84, VI), apenas prevê que a política será por ele implementada. Por isso não afronta a CF (Tema 917/STF)."
+  ],
+  "base": "CF, arts. 23, parágrafo único, 61, caput e §1º, II, 64, 84, VI, e 241; STF, Tema 917 (ARE 878.911).",
+  "dica": "Iniciativa privativa do Executivo é exceção: política pública pode nascer do Parlamento, desde que não crie órgão, não mexa em atribuições nem no regime dos servidores (Tema 917)."
+ },
+ "e1-1": {
+  "nivel": "fácil",
+  "tema": "Medida provisória que perde a eficácia: disciplina das relações jurídicas por decreto legislativo do Congresso (CF, art. 62, §§3º e 11)",
+  "coms": [
+   "Errada. A disciplina cabe ao Congresso Nacional, não à Câmara, e o instrumento é o decreto legislativo, não decreto executivo (CF, art. 62, §3º).",
+   "Errada. O órgão está certo (Congresso Nacional), mas o instrumento previsto é o decreto legislativo, e não a resolução (CF, art. 62, §3º).",
+   "Errada. O Senado sozinho não disciplina essas relações: o art. 62, §3º, atribui a tarefa ao Congresso Nacional.",
+   "CORRETA. Medida provisória não convertida em lei no prazo de 60 dias, prorrogável uma vez por igual período, perde a eficácia desde a edição, e o Congresso Nacional deve disciplinar, por decreto legislativo, as relações jurídicas dela decorrentes (art. 62, §3º). Se o decreto não for editado em até 60 dias, as relações constituídas e decorrentes de atos praticados na vigência da MP conservam-se por ela regidas (art. 62, §11).",
+   "Errada. O Presidente não tem essa atribuição: o poder regulamentar (art. 84, IV) serve para a fiel execução das leis, e a CF reservou ao Congresso, por decreto legislativo, a disciplina das relações decorrentes da MP (art. 62, §3º)."
+  ],
+  "base": "CF, art. 62, §§3º, 7º e 11.",
+  "dica": "MP caducou ou foi rejeitada: CN + decreto legislativo em 60 dias; se não editar, a MP rege as relações do período (§11)."
+ },
+ "e4-61": {
+  "nivel": "médio",
+  "tema": "Transporte aéreo internacional: limite das Convenções de Varsóvia e Montreal só para danos materiais (CF, art. 178; Temas 210 e 1.240/STF)",
+  "coms": [
+   "Errada. A prevalência das convenções sobre o CDC (Tema 210/STF) não é integral: limita-se à indenização por danos materiais (extravio de bagagem e atraso). Não alcança os danos morais (Tema 1.240/STF).",
+   "CORRETA. Por força do art. 178 da CF, as normas e os tratados que limitam a responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, prevalecem sobre o CDC (Tema 210/STF, RE 636.331). Esse limite, porém, só se aplica aos danos materiais; a reparação por danos morais decorrentes de transporte aéreo internacional não se submete aos tetos das convenções e segue o CDC (Tema 1.240/STF, RE 1.394.401). O argumento procede, portanto, em parte.",
+   "Errada. No transporte aéreo internacional, quanto aos danos materiais, as convenções prevalecem sobre o CDC (art. 178 da CF; Tema 210/STF). A rejeição integral do argumento contraria esse precedente.",
+   "Errada. Inverte a solução: o teto incide sobre os danos materiais, e não sobre os morais, que ficam fora do alcance das convenções (Temas 210 e 1.240/STF).",
+   "Errada. A Convenção de Varsóvia (e a de Montreal, que a sucedeu, promulgada pelo Decreto 5.910/2006) está incorporada ao direito brasileiro e é aplicada por força do art. 178 da CF."
+  ],
+  "base": "CF, art. 178; Convenção de Montreal (Decreto 5.910/2006); STF, Tema 210 (RE 636.331) e Tema 1.240 (RE 1.394.401).",
+  "dica": "Voo internacional: dano material = teto da convenção; dano moral = CDC, sem teto."
+ },
+ "e3-25": {
+  "nivel": "fácil",
+  "tema": "Classificação dos bens públicos: uso comum do povo, uso especial e dominicais (CC, art. 99)",
+  "coms": [
+   "CORRETA. O edifício da comarca é destinado a serviço ou estabelecimento da Administração, logo bem de uso especial (CC, art. 99, II). A estrada é bem de uso comum do povo, como os rios, mares, ruas e praças (art. 99, I). O terreno vazio, sem afetação, integra o patrimônio disponível do Estado como objeto de direito pessoal ou real: é bem dominical (art. 99, III).",
+   "Errada. O terreno vazio não está afetado ao uso coletivo; sem destinação pública, é bem dominical (CC, art. 99, III), e não de uso comum do povo.",
+   "Errada. O edifício da comarca não é de uso comum: é aplicado a serviço público, o que o caracteriza como bem de uso especial (CC, art. 99, II).",
+   "Errada. A estrada é de uso comum do povo (CC, art. 99, I), pois aberta à utilização geral, e não bem de uso especial.",
+   "Errada. Só a estrada é de uso comum do povo; o edifício da comarca é de uso especial (art. 99, II) e o terreno vazio é dominical (art. 99, III)."
+  ],
+  "base": "CC, arts. 98 a 103.",
+  "dica": "Comum = todos usam (ruas, rios, estradas); especial = serve à repartição; dominical = patrimônio disponível, sem afetação (o único alienável na forma da lei, art. 101)."
+ },
+ "e1-34": {
+  "nivel": "médio",
+  "tema": "Sistema global de proteção: mecanismos extraconvencionais da ONU, procedimento 1.503, Revisão Periódica Universal e procedimentos especiais",
+  "coms": [
+   "Errada. Os mecanismos extraconvencionais derivam da Carta da ONU e de resoluções de seus órgãos, alcançando todos os Estados-membros, independentemente de ratificação de tratado específico. Por isso têm abrangência até maior que os convencionais; não há menor aplicabilidade ou efetividade decorrente da origem.",
+   "Errada. A Resolução 1.503 (1970) do ECOSOC criou justamente o procedimento confidencial para comunicações que revelem um padrão consistente de violações graves. Ele não foi excluído; foi sucedido pelo procedimento de queixas (complaint procedure) do Conselho de Direitos Humanos (Resolução 5/1), que mantém o caráter confidencial.",
+   "CORRETA. A Revisão Periódica Universal (RPU), criada pela Resolução 60/251 da Assembleia Geral (2006) e regulada pela Resolução 5/1 do Conselho de Direitos Humanos, é mecanismo extraconvencional de revisão por pares (peer review): todos os Estados-membros da ONU têm, periodicamente, a sua situação de direitos humanos examinada pelos demais Estados.",
+   "Errada. Os mecanismos extraconvencionais têm fundamento na Carta e em resoluções da Assembleia Geral, do ECOSOC e do Conselho de Direitos Humanos, e permitem o monitoramento de qualquer Estado-membro, ainda que não seja parte nos tratados de direitos humanos. A afirmativa inverte a principal vantagem desses mecanismos.",
+   "Errada. Com a substituição da Comissão pelo Conselho de Direitos Humanos (2006), os procedimentos especiais (relatores especiais, grupos de trabalho, peritos independentes) foram assumidos, revistos e mantidos pelo Conselho, e não substituídos por mecanismos novos."
+  ],
+  "base": "Carta da ONU, arts. 55, 56 e 68; Resolução 1.503 (XLVIII) do ECOSOC; Resolução 60/251 da AGNU; Resolução 5/1 do Conselho de Direitos Humanos.",
+  "dica": "Extraconvencional = nasce da Carta e de resoluções, vale para todos os membros: RPU (revisão por pares), procedimentos especiais e queixa confidencial (ex-1.503)."
+ },
+ "e4-40": {
+  "nivel": "difícil",
+  "tema": "Denunciação da lide pelo autor e denunciação sucessiva única: agravo de instrumento contra a inadmissão (CPC, arts. 125, §2º, 127 e 1.015, IX)",
+  "coms": [
+   "Errada. O CPC admite uma única denunciação sucessiva, promovida pelo denunciado contra seu antecessor imediato na cadeia dominial; o denunciado sucessivo não pode promover nova denunciação, e o eventual direito de regresso é exercido por ação autônoma (art. 125, §2º).",
+   "Errada. O CPC prevê expressamente a denunciação pelo autor, requerida na petição inicial (arts. 126 e 127). Por isso a primeira denunciação foi corretamente admitida.",
+   "CORRETA. Feita a denunciação pelo autor, o denunciado poderá assumir a posição de litisconsorte do denunciante e acrescentar novos argumentos à petição inicial, procedendo-se em seguida à citação do réu (CPC, art. 127).",
+   "Errada. Cabe agravo de instrumento contra decisão interlocutória sobre admissão ou inadmissão de intervenção de terceiros (CPC, art. 1.015, IX). O tribunal conheceu corretamente do recurso.",
+   "Errada. O provimento foi acertado: o art. 125, §2º, admite uma denunciação sucessiva pelo denunciado contra seu antecessor imediato, e o juiz não pode afastá-la com base genérica na celeridade, pois a lei já fez a ponderação ao limitar a uma só a denunciação sucessiva."
+  ],
+  "base": "CPC, arts. 125, I e §2º, 126, 127 e 1.015, IX.",
+  "dica": "Denunciação: o autor pode (na inicial; o denunciado vira litisconsorte, art. 127); sucessiva só UMA (125, §2º); da decisão cabe agravo de instrumento (1.015, IX)."
+ },
+ "e5-47": {
+  "nivel": "médio",
+  "tema": "Assistência simples: justiça da decisão e suas exceções (CPC, arts. 121 a 123)",
+  "coms": [
+   "Errada. O assistente simples atua como auxiliar da parte principal (CPC, art. 121), não como litisconsorte. Ele não é parte na demanda e não é atingido pela coisa julgada, mas sim pela chamada eficácia da intervenção (justiça da decisão, art. 123).",
+   "Errada. O assistente simples não fica sujeito à coisa julgada material, mas à justiça da decisão, que admite exceções: ele pode rediscuti-la se provar que foi impedido de produzir provas ou que desconhecia alegações ou provas das quais o assistido, por dolo ou culpa, não se valeu (art. 123, I e II).",
+   "CORRETA. Transitada em julgado a sentença, o assistente não poderá, em processo posterior, discutir a justiça da decisão, salvo se alegar e provar que, pelo estado em que recebeu o processo ou pelas declarações e pelos atos do assistido, foi impedido de produzir provas suscetíveis de influir na sentença, ou que desconhecia a existência de alegações ou de provas das quais o assistido, por dolo ou culpa, não se valeu (CPC, art. 123, I e II).",
+   "Errada. O \"em nenhuma hipótese\" contraria o art. 123, que prevê duas exceções à imutabilidade da justiça da decisão para o assistente. Além disso, o que o vincula não é a coisa julgada material.",
+   "Errada. O ingresso tardio é admitido em qualquer procedimento e grau de jurisdição, recebendo o assistente o processo no estado em que se encontra (art. 119, parágrafo único). Justamente por isso a lei permite que ele afaste a justiça da decisão se, pelo estado em que recebeu o processo, foi impedido de produzir provas (art. 123, I)."
+  ],
+  "base": "CPC, arts. 119, 121, 122 e 123.",
+  "dica": "Assistente simples não sofre coisa julgada, sofre a justiça da decisão; escapa se provar exceptio male gesti processus (impedido de provar ou omissão dolosa/culposa do assistido, art. 123)."
+ },
+ "e1-66": {
+  "nivel": "médio",
+  "tema": "Sociedade limitada unipessoal (Lei 14.195/2021): constituição, administração, sócio de serviço e nome empresarial (CC, arts. 1.052, §§1º e 2º, 1.055, §2º, 1.060 e 1.158)",
+  "coms": [
+   "Errada. Antes da Lei 14.195/2021, o art. 1.033, IV, do CC previa a dissolução da sociedade pela falta de pluralidade de sócios não reconstituída no prazo de 180 dias, e não de 1 ano. (Esse inciso foi revogado em 2021.)",
+   "Errada. A unipessoalidade superveniente da limitada não depende de cláusula de regência supletiva pela Lei das S.A.: o art. 1.052, §§1º e 2º, permite a constituição por uma ou mais pessoas e aplica ao documento de constituição do sócio único, no que couber, as disposições sobre o contrato social.",
+   "Errada. A administração da limitada é atribuída a uma ou mais pessoas designadas no contrato social (ou documento de constituição) ou em ato separado (CC, art. 1.060). Não há presunção legal de que o sócio único será o administrador.",
+   "Errada. É vedada contribuição que consista em prestação de serviços na sociedade limitada (CC, art. 1.055, §2º). Não existe sócio de serviço na limitada, seja ela pluripessoal ou unipessoal.",
+   "CORRETA. A firma é composta pelo nome de um ou mais sócios, desde que pessoas naturais (CC, art. 1.158, §1º, combinado com o art. 1.052, §2º); na limitada, o nome deve ser seguido da palavra \"limitada\", por extenso ou abreviada (art. 1.158, caput). Na unipessoal, a firma será formada pelo nome do sócio pessoa natural acrescido do aditivo."
+  ],
+  "base": "CC, arts. 1.052, §§1º e 2º, 1.055, §2º, 1.060 e 1.158; Lei 14.195/2021.",
+  "dica": "Limitada unipessoal: nasce ou fica com um sócio sem prazo; sem sócio de serviço; firma só com nome de pessoa natural + \"Limitada\"."
  }
 }
