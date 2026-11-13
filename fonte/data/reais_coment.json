@@ -2819,5 +2819,161 @@
   ],
   "base": "CC, arts. 1.052, §§1º e 2º, 1.055, §2º, 1.060 e 1.158; Lei 14.195/2021.",
   "dica": "Limitada unipessoal: nasce ou fica com um sócio sem prazo; sem sócio de serviço; firma só com nome de pessoa natural + \"Limitada\"."
+ },
+ "e4-27": {
+  "nivel": "difícil",
+  "tema": "Inteligência artificial no Poder Judiciário (Resolução CNJ nº 615/2025)",
+  "coms": [
+   "Errada. A Resolução CNJ nº 615/2025, em linha com a LGPD (Lei nº 13.709/2018, arts. 6º, VII, e 46), exige que dados sigilosos ou protegidos por segredo de justiça usados no desenvolvimento e no uso das soluções de IA sejam anonimizados ou pseudonimizados sempre que possível, com medidas de segurança da informação. Dispensar a anonimização contraria a própria lógica da norma.",
+   "Errada. Classificar ou ranquear pessoas naturais por comportamento, situação social ou atributos da personalidade, para avaliar a plausibilidade de seus direitos, méritos judiciais ou testemunhos, está entre as soluções de risco excessivo, cujo desenvolvimento e uso são vedados pela resolução.",
+   "CORRETA. A resolução determina que, verificado viés discriminatório ou incompatibilidade da solução com os princípios nela previstos, o tribunal adote as medidas corretivas necessárias: suspensão temporária (imediata ou programada), correção ou, se necessário, eliminação definitiva da solução ou do seu viés. É a reprodução quase literal do texto normativo.",
+   "Errada. O incentivo ao desenvolvimento de APIs que permitam interoperabilidade com os sistemas de outras instituições do sistema de Justiça é diretriz expressa dos processos internos de segurança dos sistemas de IA. Logo, não é \"prescindível\": integra obrigatoriamente esses processos.",
+   "Errada. A priorização de soluções interoperáveis, compartilháveis entre órgãos e que evitem duplicação de esforços, é diretriz dos processos internos de segurança aplicáveis às soluções de IA em geral (ao lado do incentivo às APIs). A alternativa a desloca para o rol de medidas de governança exigidas das soluções de alto risco antes da entrada em produção, que trata de outros cuidados (testes, mitigação de vieses, documentação, supervisão humana)."
+  ],
+  "base": "Resolução CNJ nº 615/2025 (vedações de risco excessivo, medidas corretivas em caso de viés, processos internos de segurança, governança de soluções de alto risco); LGPD, arts. 6º e 46.",
+  "dica": "Resolução 615/2025: viés detectado gera suspender, corrigir ou eliminar. Ranquear pessoas por comportamento é risco excessivo e, portanto, vedado. APIs e interoperabilidade são diretrizes de segurança, não medidas de alto risco."
+ },
+ "e3-43": {
+  "nivel": "fácil",
+  "tema": "Princípios da execução: taxatividade, menor onerosidade e atipicidade (CPC, arts. 139, IV, 784 e 805)",
+  "coms": [
+   "Errada. O primeiro princípio está certo (taxatividade), mas o segundo não: a execução \"menos gravosa\" para o executado é o princípio da menor onerosidade (CPC, art. 805), e não o da proporcionalidade. O terceiro é chamado pela doutrina de atipicidade, não de \"liberdade\" dos meios executivos.",
+   "Errada. A \"tipicidade\" dos títulos é próxima da taxatividade, mas \"eficiência\" não corresponde ao menor gravame (art. 805) e \"autonomia\" designa outra ideia (a independência do processo de execução). O nome técnico do terceiro é atipicidade.",
+   "Errada. A ordem está trocada: \"não onerosidade\" não descreve a exigência de previsão legal do título executivo (taxatividade), e proporcionalidade não é o nome do princípio do menor gravame.",
+   "Errada. Realidade (a execução recai sobre o patrimônio, não sobre a pessoa, conforme o art. 789 do CPC), razoabilidade e \"fidelidade\" não correspondem às três ideias descritas.",
+   "CORRETA. I – Taxatividade (nulla executio sine titulo / nullus titulus sine lege): só é título executivo o que a lei define como tal (CPC, arts. 515 e 784, XII). II – Menor onerosidade: quando houver vários meios, o juiz manda fazer pelo modo menos gravoso ao executado (CPC, art. 805), desde que o executado indique meio igualmente eficaz (parágrafo único). III – Atipicidade dos meios executivos: o juiz pode determinar medidas indutivas, coercitivas, mandamentais ou sub-rogatórias não previstas especificamente em lei (CPC, art. 139, IV; STF, ADI 5.941; STJ, Tema 1.137)."
+  ],
+  "base": "CPC, arts. 139, IV, 515, 784, 789 e 805; STF, ADI 5.941; STJ, Tema 1.137.",
+  "dica": "Título: só o que a lei diz (taxatividade). Meio executivo: o juiz pode criar (atipicidade, art. 139, IV). Gravame: o menor possível (art. 805)."
+ },
+ "e3-5": {
+  "nivel": "médio",
+  "tema": "Acesso a dados cadastrais por polícia e MP sem autorização judicial (Lei nº 9.613/1998, art. 17-B; Lei nº 12.850/2013, art. 15; STF, ADI 4.906)",
+  "coms": [
+   "Errada. O STF não fez distinção entre MP e polícia: a norma é constitucional para ambos. Além disso, o fundamento não é a competência legislativa da União sobre processo penal (CF, art. 22, I), mas o fato de que os dados meramente cadastrais têm baixo grau de intimidade.",
+   "Errada. A autoridade policial também pode ter acesso. A lei confere a ambos o acesso a dados cadastrais (qualificação, filiação e endereço), e o STF o validou. O poder requisitório do MP (CF, art. 129, VI e VIII) não exclui a polícia.",
+   "Errada. O STF entendeu que dados cadastrais básicos (qualificação pessoal, filiação e endereço) não são protegidos por reserva de jurisdição. Seu acesso não atinge o núcleo da intimidade nem o sigilo das comunicações (CF, art. 5º, X e XII), desde que vinculado a investigação e com finalidade legítima.",
+   "CORRETA. No julgamento da ADI 4.906, o STF declarou constitucional o art. 17-B da Lei nº 9.613/1998, que permite à autoridade policial e ao MP o acesso, independentemente de autorização judicial, exclusivamente aos dados cadastrais que informam qualificação pessoal, filiação e endereço (regra semelhante à do art. 15 da Lei nº 12.850/2013). Por serem dados de baixa sensibilidade, o acesso não viola a privacidade nem a proteção de dados (CF, art. 5º, X e LXXIX).",
+   "Errada. A conclusão (constitucionalidade) está certa, mas o fundamento está errado. A Constituição protege expressamente a proteção de dados pessoais como direito fundamental (CF, art. 5º, LXXIX, incluído pela EC 115/2022), e o STF a reconheceu como direito autônomo (ADI 6.387). Não há liberdade irrestrita de compartilhamento, inclusive entre empresas, o que é regulado pela LGPD."
+  ],
+  "base": "CF, art. 5º, X, XII e LXXIX (EC 115/2022); Lei nº 9.613/1998, art. 17-B; Lei nº 12.850/2013, art. 15; STF, ADI 4.906 e ADI 6.387.",
+  "dica": "Dados cadastrais (nome, filiação, endereço): polícia e MP acessam sem juiz. Conteúdo de comunicações e sigilo bancário e fiscal (fora as exceções legais): reserva de jurisdição."
+ },
+ "e3-4": {
+  "nivel": "difícil",
+  "tema": "Teoria externa dos direitos fundamentais: conteúdo prima facie e concordância prática (Alexy; Hesse)",
+  "coms": [
+   "Errada. A teoria externa não nega o conteúdo essencial. Ela o compatibiliza com a ponderação (teoria relativa do núcleo essencial: o núcleo é o que resta após a ponderação). Nada nas premissas do magistrado afasta essa garantia.",
+   "Errada. Para a teoria externa, que o magistrado adota, a posição definitiva só surge depois da incidência da restrição (resultado da concordância prática com outras normas). Quem dispensa a restrição para definir a posição definitiva é a teoria interna.",
+   "Errada. Os limites imanentes pertencem à teoria interna: o direito já nasceria com seus contornos definidos, sem necessidade de ponderação posterior. O magistrado, ao contrário, primeiro interpreta e depois harmoniza o direito com outras normas, o que pressupõe restrição externa.",
+   "Errada. A tópica pura (Viehweg) parte do problema e dos topoi, relegando a norma a mero ponto de vista. O magistrado parte do texto normativo (significante e significados possíveis) e só depois faz a concordância prática, em um método estruturado e não puramente tópico.",
+   "CORRETA. Se, depois de interpretada, a norma de direito fundamental ainda precisa ser harmonizada com outras normas de mesma natureza (concordância prática, Hesse), o conteúdo obtido na interpretação é apenas prima facie. O conteúdo definitivo surge após a restrição ou ponderação. É a lógica da teoria externa (Alexy), em que os direitos fundamentais têm natureza de princípios (mandamentos de otimização)."
+  ],
+  "base": "Robert Alexy, Teoria dos Direitos Fundamentais (teoria externa, princípios como mandamentos de otimização); Konrad Hesse (concordância prática); Virgílio Afonso da Silva (conteúdo essencial relativo).",
+  "dica": "Teoria externa: direito prima facie, depois restrição, depois direito definitivo. Teoria interna: limites imanentes, sem ponderação. Se o enunciado fala em \"concordância prática\" após a interpretação, a resposta é prima facie."
+ },
+ "e3-15": {
+  "nivel": "médio",
+  "tema": "Intervenção federal, estado de defesa e estado de sítio (CF, arts. 34, IV, 36, I, 84, IX, 136 e 137)",
+  "coms": [
+   "CORRETA. 1ª afirmativa: F. Na intervenção para garantir o livre exercício do Poder Judiciário coacto, a CF exige requisição do STF, e não \"solicitação\" (CF, art. 36, I). A solicitação cabe ao Legislativo ou Executivo coacto ou impedido, e a diferença é relevante: a solicitação é discricionária para o Presidente, enquanto a requisição o vincula. 2ª afirmativa: V. Reproduz o art. 137, I e II, e o parágrafo único (maioria absoluta). 3ª afirmativa: V. Decretar o estado de defesa compete privativamente ao Presidente (art. 84, IX); o decreto é submetido em 24 horas ao CN, que decide por maioria absoluta (art. 136, §4º); rejeitado o decreto, o estado de defesa cessa imediatamente (art. 136, §7º).",
+   "Errada. A 1ª afirmativa é falsa (o STF requisita, não solicita, conforme o art. 36, I) e a 3ª é verdadeira (art. 136, §§4º e 7º).",
+   "Errada. A 1ª é falsa e a 2ª e a 3ª são verdadeiras, por reproduzirem o art. 137 e o art. 136, §§4º e 7º.",
+   "Errada. A 2ª e a 3ª afirmativas reproduzem fielmente o texto constitucional (arts. 137 e 136, §§4º e 7º).",
+   "Errada. A 1ª afirmativa é falsa (art. 36, I: requisição do STF) e a 2ª é verdadeira (art. 137, parágrafo único)."
+  ],
+  "base": "CF, arts. 34, IV, 36, I, 84, IX, 136, §§4º e 7º, e 137, I, II e parágrafo único.",
+  "dica": "Intervenção do art. 34, IV: Legislativo ou Executivo coacto SOLICITA; Judiciário coacto, o STF REQUISITA. Estado de defesa: decreta e depois submete (24 h). Estado de sítio: pede autorização antes. Ambos por maioria absoluta."
+ },
+ "e5-38": {
+  "nivel": "fácil",
+  "tema": "Sistema global (ONU) e sistema interamericano: natureza dos mecanismos (CADH, arts. 44, 61, 62 e 68)",
+  "coms": [
+   "Errada. Ambos os sistemas admitem petições individuais: no sistema interamericano, qualquer pessoa, grupo ou ONG pode peticionar à Comissão (CADH, art. 44); na ONU, os comitês de tratados recebem comunicações individuais quando o Estado as aceita (por exemplo, Protocolo Facultativo ao PIDCP).",
+   "Errada. As sentenças da Corte IDH são definitivas, inapeláveis e obrigatórias para os Estados que reconheceram sua jurisdição (CADH, arts. 67 e 68; o Brasil a reconheceu pelo Decreto nº 4.463/2002). Não dependem de aceitação política posterior; a parte indenizatória pode ser executada internamente (art. 68.2).",
+   "CORRETA. Na ONU predominam mecanismos de monitoramento e recomendação (relatórios periódicos, comunicações aos comitês de tratados, Revisão Periódica Universal, relatores especiais), sem um tribunal de direitos humanos. O sistema interamericano conta com a Corte IDH, órgão jurisdicional com competência contenciosa para declarar a responsabilidade internacional dos Estados (CADH, arts. 62 e 63).",
+   "Errada. Indivíduos e ONGs não acessam diretamente a Corte IDH: peticionam à Comissão (art. 44), e somente os Estados-partes e a Comissão podem submeter casos à Corte (CADH, art. 61.1), após o esgotamento do procedimento dos arts. 48 a 50.",
+   "Errada. A ONU não possui tribunal permanente de direitos humanos com jurisdição sobre denúncias contra Estados. A CIJ julga litígios entre Estados em geral, e o TPI julga indivíduos, não Estados (Estatuto de Roma, art. 25)."
+  ],
+  "base": "CADH (Pacto de São José), arts. 44, 61, 62, 63, 67 e 68; Decreto nº 4.463/2002; Protocolo Facultativo ao PIDCP; Estatuto de Roma, art. 25.",
+  "dica": "ONU: recomenda e monitora. OEA: tem Corte que condena. Indivíduo vai à Comissão, nunca direto à Corte."
+ },
+ "e4-49": {
+  "nivel": "médio",
+  "tema": "Honorários advocatícios e advocacia privada no CPC (arts. 77, §6º, 85, §§14 a 17, e 99, §4º)",
+  "coms": [
+   "CORRETA. Reprodução do CPC, art. 85, §16: quando os honorários forem fixados em quantia certa, os juros moratórios incidem a partir do trânsito em julgado da decisão.",
+   "Errada. O advogado pode pedir o pagamento em favor da sociedade de advogados que integra como sócio, aplicando-se à hipótese o §14, isto é, os honorários mantêm a natureza alimentar e os privilégios dos créditos trabalhistas (CPC, art. 85, §§14 e 15; Súmula Vinculante 47).",
+   "Errada. A multa por ato atentatório à dignidade da justiça (até 20% do valor da causa) não se aplica a advogados públicos ou privados, defensores e membros do MP. Eventual responsabilidade disciplinar é apurada pelo respectivo órgão de classe, ao qual o juiz oficiará (CPC, art. 77, §§2º e 6º).",
+   "Errada. A assistência do requerente por advogado particular não impede a concessão da gratuidade da justiça (CPC, art. 99, §4º).",
+   "Errada. Os honorários são devidos quando o advogado atua em causa própria (CPC, art. 85, §17)."
+  ],
+  "base": "CPC, arts. 77, §§2º e 6º, 85, §§14 a 17, e 99, §4º; Súmula Vinculante 47.",
+  "dica": "Art. 85: §14 alimentar; §15 sociedade (continua alimentar); §16 quantia certa, juros desde o trânsito; §17 causa própria, devidos. Advogado não paga a multa do art. 77; vai ofício à OAB."
+ },
+ "e5-55": {
+  "nivel": "médio",
+  "tema": "Repetição do indébito em dobro no CDC independentemente de má-fé (CDC, art. 42, parágrafo único; STJ, EAREsp 676.608)",
+  "coms": [
+   "Errada. O STJ (Corte Especial, EAREsp 676.608/RS) fixou que a restituição em dobro do art. 42, parágrafo único, do CDC independe da natureza do elemento volitivo do fornecedor. Basta que a cobrança indevida seja contrária à boa-fé objetiva; não se exige prova de má-fé.",
+   "Errada. O CDC aplica-se aos serviços públicos prestados mediante remuneração tarifária, como o fornecimento de energia elétrica (CDC, arts. 3º, §2º, 6º, X, e 22). O STJ aplica o art. 42, parágrafo único, inclusive às concessionárias.",
+   "Errada. A exigência de má-fé para a dobra foi superada pela Corte Especial do STJ (EAREsp 676.608/RS). A única excludente legal é o engano justificável, que não existe quando a cobrança persiste mesmo após reiteradas decisões judiciais declarando sua ilegalidade.",
+   "CORRETA. A cobrança persistiu apesar de várias decisões reconhecendo a ilegalidade, o que viola a boa-fé objetiva e afasta o engano justificável. Pela tese do EAREsp 676.608/RS, a repetição em dobro é cabível independentemente de prova de má-fé. A modulação de efeitos alcançou só os indébitos contratuais não públicos; para os serviços públicos, a tese vale sem restrição temporal, o que abrange a cobrança \"ao longo dos anos\".",
+   "Errada. Há base legal expressa: CDC, art. 42, parágrafo único. A dobra é sanção legal e não configura enriquecimento sem causa, que pressupõe ausência de causa jurídica (CC, art. 884)."
+  ],
+  "base": "CDC, arts. 3º, §2º, 6º, X, 22 e 42, parágrafo único; CC, art. 884; STJ, Corte Especial, EAREsp 676.608/RS (2020).",
+  "dica": "CDC, art. 42: dobro se a cobrança contraria a boa-fé objetiva; a má-fé não importa. Só o engano justificável afasta. No CC (art. 940), ainda se exige má-fé."
+ },
+ "e5-52": {
+  "nivel": "médio",
+  "tema": "Natureza propter rem das cotas condominiais e convenção não registrada (CC, art. 1.345; CPC, art. 784, X; Súmula 260/STJ; Lei nº 8.009/1990, art. 3º, IV)",
+  "coms": [
+   "Errada. A impenhorabilidade do bem de família não é oponível na cobrança de contribuições devidas em função do próprio imóvel (Lei nº 8.009/1990, art. 3º, IV). O STJ inclui nessa exceção as cotas condominiais, por terem natureza propter rem.",
+   "Errada. A obrigação condominial não é pessoal: é propter rem e acompanha a coisa. O adquirente responde pelos débitos do alienante perante o condomínio, inclusive multas e juros (CC, art. 1.345), sem prejuízo do direito de regresso contra o vendedor.",
+   "CORRETA. O CC, art. 1.345, dispõe que o adquirente da unidade responde pelos débitos do alienante em relação ao condomínio, inclusive multas e juros moratórios. Pela natureza propter rem, Manoela tem legitimidade passiva para os débitos de 2023, ainda que anteriores à aquisição, e pode depois cobrar regressivamente o antigo proprietário.",
+   "Errada. O prazo prescricional para a cobrança de cotas condominiais é de cinco anos (CC, art. 206, §5º, I), conforme o STJ (REsp 1.483.930/DF, Tema 949). Débitos de 2023 cobrados em 2025 não estão prescritos.",
+   "Errada. A convenção aprovada, ainda que não registrada, é eficaz para regular as relações entre os condôminos (Súmula 260/STJ); o registro só serve para a oponibilidade a terceiros (CC, art. 1.333, parágrafo único). E é título executivo extrajudicial o crédito de contribuições condominiais previstas na convenção ou aprovadas em assembleia, documentalmente comprovadas (CPC, art. 784, X)."
+  ],
+  "base": "CC, arts. 206, §5º, I, 1.333 e 1.345; CPC, art. 784, X; Lei nº 8.009/1990, art. 3º, IV; Súmula 260/STJ; STJ, Tema 949 (REsp 1.483.930/DF).",
+  "dica": "Condomínio: propter rem (o adquirente paga), prescrição em 5 anos, bem de família penhorável, convenção sem registro vale entre condôminos (Súmula 260) e a cota é título executivo (art. 784, X)."
+ },
+ "e4-64": {
+  "nivel": "médio",
+  "tema": "Exigência de certidões negativas fiscais para concessão da recuperação judicial após a Lei nº 14.112/2020 (LRF, art. 57; CTN, art. 191-A)",
+  "coms": [
+   "Errada. A alternativa se contradiz: se o art. 57 exige as certidões, não há como a jurisprudência ter sedimentado a desnecessidade de demonstrar a regularidade fiscal. O fato de o crédito tributário não se sujeitar à recuperação (LRF, art. 6º, §7º-B; CTN, art. 187) é justamente o fundamento para exigir a regularização à parte.",
+   "Errada. Esse era o entendimento anterior do STJ, que dispensava as CNDs por falta de parcelamento específico para empresas em recuperação. Com a Lei nº 14.112/2020 (que criou parcelamentos e transação específicos, na Lei nº 10.522/2002, arts. 10-A e 10-B, e na Lei nº 13.988/2020), o STJ passou a exigir as certidões como condição para a homologação do plano (por exemplo, REsp 2.053.240/SP).",
+   "Errada. É verdade que as execuções fiscais não se suspendem (LRF, art. 6º, §7º-B), mas isso não dispensa a regularidade fiscal: o art. 57 da LRF e o art. 191-A do CTN condicionam a concessão da recuperação à prova de quitação ou suspensão da exigibilidade dos tributos.",
+   "Errada. O descumprimento do parcelamento fiscal é, de fato, causa de convolação em falência (LRF, art. 73, V, incluído pela Lei nº 14.112/2020), mas isso reforça a exigência de regularização fiscal, e não a dispensa.",
+   "CORRETA. Com os parcelamentos especiais e a transação criados ou ampliados pela Lei nº 14.112/2020, o STJ superou a jurisprudência anterior e passou a exigir, para a homologação do plano e a concessão da recuperação judicial, CND ou certidão positiva com efeito de negativa (CTN, arts. 151, 205 e 206), demonstrando a adesão a parcelamento ou a transação com a Fazenda (LRF, art. 57; CTN, art. 191-A)."
+  ],
+  "base": "Lei nº 11.101/2005, arts. 6º, §7º-B, 57 e 73, V; CTN, arts. 151, 187, 191-A, 205 e 206; Lei nº 10.522/2002, arts. 10-A e 10-B; Lei nº 13.988/2020; STJ, REsp 2.053.240/SP.",
+  "dica": "Antes da Lei 14.112/2020, a CND era dispensada. Depois dela, a CND ou a CPEN é exigida, porque agora existem parcelamento e transação próprios para a recuperanda."
+ },
+ "e5-66": {
+  "nivel": "médio",
+  "tema": "Dever de sigilo e vedação ao insider trading na LSA (Lei nº 6.404/1976, art. 155, §§1º a 4º)",
+  "coms": [
+   "Errada. Guardar sigilo sobre informação privilegiada é desdobramento do dever de lealdade (LSA, art. 155, §1º), e não dos deveres de informar (art. 157) ou de diligência (art. 153). A repercussão penal, quando houver, decorre do crime de uso indevido de informação privilegiada (Lei nº 6.385/1976, art. 27-D), e não da violação dos deveres indicados.",
+   "Errada. O administrador deve zelar para que a violação do sigilo não ocorra por meio de subordinados ou terceiros de sua confiança (LSA, art. 155, §2º). Portanto, pode ser responsabilizado também nessa hipótese.",
+   "Errada. O dever de sigilo do §1º do art. 155 abrange a informação ainda não divulgada, obtida em razão do cargo e capaz de influir de modo ponderável na cotação de valores mobiliários. A relevância (aptidão para influir na cotação) é elemento do tipo, e não algo indiferente.",
+   "CORRETA. Reprodução do art. 155, §4º, da LSA (redação da Lei nº 13.506/2017): é vedada a utilização de informação relevante ainda não divulgada, por qualquer pessoa que a ela tenha tido acesso, com a finalidade de auferir vantagem, para si ou para outrem, no mercado de valores mobiliários. A vedação alcança também quem não é administrador.",
+   "Errada. A pessoa prejudicada em compra e venda de valores mobiliários contratada com infração dos §§1º e 2º tem direito de obter do infrator indenização por perdas e danos, salvo se já conhecia a informação (LSA, art. 155, §3º). Além disso, os administradores respondem pessoalmente quando agem com violação da lei ou do estatuto (art. 158, II)."
+  ],
+  "base": "Lei nº 6.404/1976, arts. 153, 155, §§1º a 4º, 157 e 158; Lei nº 6.385/1976, art. 27-D.",
+  "dica": "Art. 155 da LSA: §1º sigilo do administrador (informação relevante); §2º responde por subordinados; §3º prejudicado é indenizado pelo infrator; §4º ninguém pode usar informação privilegiada."
+ },
+ "e4-76": {
+  "nivel": "médio",
+  "tema": "Crimes militares em tempo de paz (CPM, art. 9º, II e III, com redação da Lei nº 14.688/2023)",
+  "coms": [
+   "Errada. O militar da reserva é equiparado ao civil para fins do art. 9º, III, do CPM. Só comete crime militar quando atenta contra as instituições militares (patrimônio ou ordem administrativa militar, militar da ativa em serviço etc.), e não em qualquer crime contra civil.",
+   "Errada. Crime de civil contra civil não é militar, ainda que praticado em lugar sujeito à administração militar. O art. 9º, III, b, do CPM exige que a vítima seja militar da ativa ou servidor das instituições militares ou da Justiça Militar no exercício da função.",
+   "CORRETA. Art. 9º, II, b, do CPM: são crimes militares em tempo de paz os previstos no CPM e na legislação penal, quando praticados por militar da ativa, em lugar sujeito à administração militar, contra militar da reserva ou reformado ou contra civil.",
+   "Errada. O art. 9º, II, e, do CPM refere-se a crime praticado por militar da ativa contra o patrimônio sob a administração militar ou contra a ordem administrativa militar, e não contra o patrimônio de instituição não militar.",
+   "Errada. Não há previsão genérica de crime militar de civil contra militar da reserva. O art. 9º, III, protege as instituições militares e o militar da ativa ou em função de natureza militar."
+  ],
+  "base": "Decreto-Lei nº 1.001/1969 (CPM), art. 9º, II, b e e, e III, com redação das Leis nº 13.491/2017 e nº 14.688/2023.",
+  "dica": "Art. 9º, II (militar da ativa como autor): conta o lugar militar, mesmo contra civil. Art. 9º, III (civil ou militar da reserva como autor): só há crime militar se atingir as instituições militares."
  }
 }

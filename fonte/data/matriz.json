@@ -2153,6 +2153,64 @@
     "D07 Iter criminis",
     "D21b Crimes contra o patrimônio"
    ]
+  },
+  "S22": {
+   "Constitucional": [
+    "C12 Judiciário/funções essenciais",
+    "C12 Judiciário/funções essenciais",
+    "C13 Defesa do Estado/segurança pública",
+    "C13 Defesa do Estado/segurança pública",
+    "C08t Constitucional do Trabalho",
+    "C07 Garantias processuais/prova/prisão",
+    "C15 Controle de constitucionalidade"
+   ],
+   "Administrativo": [
+    "A09 Contratos administrativos",
+    "A20 Responsabilidade civil do Estado",
+    "A07 Processo administrativo",
+    "A19 MS/ação popular/ACP/improbidade",
+    "A16 Agentes públicos",
+    "A18 Controle/Tribunais de contas"
+   ],
+   "Humanística": [
+    "H2 Psicologia judiciária/conflitos",
+    "H7 Direito digital/tecnologia",
+    "H8 Cognição/decisão/AED"
+   ],
+   "Direitos Humanos": [
+    "DH2 Sistema global (ONU)",
+    "DH5-8 Incorporação/hierarquia/CF"
+   ],
+   "Processo Civil": [
+    "P24 Custas/honorários/gratuidade",
+    "P10 Tutela provisória",
+    "P02 Jurisdição/impedimento/suspeição",
+    "P03 Competência/cooperação",
+    "P04-05 Ação/partes/terceiros"
+   ],
+   "Civil": [
+    "V20 Consumidor",
+    "V12-14 Condomínio/fiduciária/garantias",
+    "V19 Família e sucessões",
+    "V09 Responsabilidade civil",
+    "V02 Pessoas naturais/personalidade/capacidade",
+    "V10-11 Posse/propriedade/usucapião/registro",
+    "V07 Teoria geral dos contratos"
+   ],
+   "Empresarial": [
+    "E10 Recuperação/falência",
+    "E05 Limitada e S.A."
+   ],
+   "Penal": [
+    "D19-20 Penal militar/tratados",
+    "D07 Iter criminis",
+    "D21b Crimes contra o patrimônio",
+    "D12 Penas/concurso de crimes/conflito aparente",
+    "D11 Concurso de agentes",
+    "D21a Crimes contra a pessoa/honra",
+    "D17 Extinção da punibilidade/prescrição",
+    "D21d Fé pública/Adm Pública/Adm justiça"
+   ]
   }
  },
  "reais": {
@@ -3742,22 +3800,68 @@
    "Civil": [],
    "Empresarial": [],
    "Penal": []
+  },
+  "S22": {
+   "Constitucional": [
+    {
+     "pos": 0,
+     "id": "e3-5"
+    },
+    {
+     "pos": 1,
+     "id": "e3-4"
+    },
+    {
+     "pos": 2,
+     "id": "e3-15"
+    }
+   ],
+   "Administrativo": [],
+   "Humanística": [],
+   "Direitos Humanos": [
+    {
+     "pos": 0,
+     "id": "e5-38"
+    }
+   ],
+   "Processo Civil": [
+    {
+     "pos": 0,
+     "id": "e4-49"
+    }
+   ],
+   "Civil": [
+    {
+     "pos": 0,
+     "id": "e5-55"
+    },
+    {
+     "pos": 1,
+     "id": "e5-52"
+    }
+   ],
+   "Empresarial": [
+    {
+     "pos": 0,
+     "id": "e4-64"
+    },
+    {
+     "pos": 1,
+     "id": "e5-66"
+    }
+   ],
+   "Penal": [
+    {
+     "pos": 0,
+     "id": "e4-76"
+    }
+   ]
   }
  },
  "sobra_reais": [
-  "e3-5",
-  "e3-4",
-  "e1-9",
-  "e3-15",
-  "e5-55",
-  "e4-64",
-  "e5-66",
-  "e5-38",
-  "e5-52",
   "e5-3",
   "e5-4",
   "e3-66",
-  "e4-49",
   "e4-67",
   "e1-67",
   "e5-67",
@@ -3766,7 +3870,6 @@
   "e1-10",
   "e1-7",
   "e4-10",
-  "e4-76",
   "e4-68",
   "e3-67"
  ]
