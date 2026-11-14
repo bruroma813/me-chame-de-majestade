@@ -2975,5 +2975,148 @@
   ],
   "base": "Decreto-Lei nº 1.001/1969 (CPM), art. 9º, II, b e e, e III, com redação das Leis nº 13.491/2017 e nº 14.688/2023.",
   "dica": "Art. 9º, II (militar da ativa como autor): conta o lugar militar, mesmo contra civil. Art. 9º, III (civil ou militar da reserva como autor): só há crime militar se atingir as instituições militares."
+ },
+ "e5-3": {
+  "nivel": "médio",
+  "tema": "Proibição do retrocesso social e normas programáticas (eficácia negativa; CF, arts. 1º, III, 3º e 6º)",
+  "coms": [
+   "Errada. A proibição do retrocesso opera justamente na interação entre os dois planos: a norma constitucional programática (plano constitucional) e a lei que a concretizou (plano infraconstitucional). É a supressão da norma integradora que pode esvaziar a eficácia da norma constitucional, por isso a tese de Maria é, em tese, viável.",
+   "Errada. O princípio não 'constitucionaliza' a lei regulamentadora nem a petrifica: o legislador pode revogá-la ou alterá-la por lei ordinária, desde que preserve o núcleo essencial já realizado ou ofereça alternativas ou compensações. Não se exige emenda constitucional.",
+   "CORRETA. A vedação do retrocesso (eficácia negativa ou 'efeito cliquet') impede que, uma vez integrada a norma constitucional de eficácia limitada pela lei, o legislador simplesmente suprima essa integração e devolva o direito ao estado de mera promessa, mesmo sem tocar no texto constitucional. Ver STF, ARE 639.337 AgR (Rel. Min. Celso de Mello) e a doutrina de Canotilho.",
+   "Errada. As normas programáticas não são meras diretrizes políticas sem força jurídica: produzem eficácia negativa, ou seja, invalidam atos contrários e vedam a supressão pura e simples do grau de concretização alcançado. Embora não 'congelem' a ordem jurídica, a revogação sem alternativa pode, sim, violar seus objetivos.",
+   "Errada. A análise do retrocesso é feita a partir de cada direito social concretamente considerado (o grau de realização daquele direito específico, como a assistência social do art. 203 da CF), e não a partir de uma visão abstrata da 'universalidade' das relações entre indivíduo e Estado."
+  ],
+  "base": "CF, arts. 1º, III, 3º, 6º e 203; STF, ARE 639.337 AgR (vedação do retrocesso e mínimo existencial); doutrina de Canotilho e J. A. da Silva (eficácia das normas programáticas).",
+  "dica": "Retrocesso = norma constitucional programática + lei que a concretizou. A lei pode mudar, mas não pode zerar o núcleo já conquistado sem oferecer algo no lugar."
+ },
+ "e5-4": {
+  "nivel": "fácil",
+  "tema": "Limites ao poder de reforma: iniciativa, cláusulas pétreas e vício de decoro na formação da vontade (CF, art. 60; ADIs 4.887, 4.888 e 4.889)",
+  "coms": [
+   "Errada. A afirmativa II está correta, mas I e III também estão, porque reproduzem o art. 60, caput, I a III, e §4º, da CF.",
+   "Errada. A afirmativa III também está correta: reproduz o rol de cláusulas pétreas do art. 60, §4º, I a IV, da CF.",
+   "Errada. A afirmativa II também está correta: o STF admitiu, em tese, a inconstitucionalidade formal de emenda por vício na manifestação de vontade do parlamentar (compra de votos), nas ADIs 4.887, 4.888 e 4.889.",
+   "Errada. A afirmativa I também está correta: iniciativa de 1/3 da Câmara ou do Senado, do Presidente da República ou de mais da metade das Assembleias Legislativas, cada uma pela maioria relativa de seus membros (CF, art. 60, I a III).",
+   "CORRETA. I: literalidade do art. 60, I a III. II: nas ADIs 4.887, 4.888 e 4.889 (EC 41/2003, no contexto da AP 470), o STF reconheceu ser possível, em tese, a inconstitucionalidade formal por vício de decoro parlamentar, mas exigiu prova de que os votos comprados foram determinantes para alcançar o quórum de 3/5. Como isso não se demonstrou, a emenda foi mantida. III: literalidade do art. 60, §4º, I a IV."
+  ],
+  "base": "CF, art. 60, I a III, §§2º e 4º; STF, ADIs 4.887, 4.888 e 4.889 (vício de decoro parlamentar no processo de emenda).",
+  "dica": "Iniciativa de PEC: 1/3 de uma das Casas, o Presidente, ou mais da metade das ALs (cada uma por maioria relativa). Não há iniciativa popular nem iniciativa do STF."
+ },
+ "e5-6": {
+  "nivel": "médio",
+  "tema": "Processo legislativo e simetria: lei complementar exigida pela Constituição Estadual, vedações à MP e quórum de emenda estadual (CF, arts. 25, 60, §2º, e 62, §1º, IV)",
+  "coms": [
+   "Errada. A afirmativa I está correta, mas a II também está, porque reproduz o art. 62, §1º, IV, da CF.",
+   "CORRETA. I: o STF entende que viola a Constituição Federal a Constituição Estadual exigir lei complementar para matérias que a CF reserva à lei ordinária, porque isso engessa a maioria parlamentar e afronta o princípio democrático e a simetria (ADI 5.003/SC e outros julgados). II: a CF proíbe MP sobre matéria já disciplinada em projeto de lei aprovado pelo Congresso e pendente de sanção ou veto (CF, art. 62, §1º, IV). III está errada: as regras básicas do processo de emenda (art. 60, §2º, com dois turnos e 3/5) são de observância obrigatória pelos Estados.",
+   "Errada. A afirmativa III é falsa: para o STF, a Constituição Estadual não pode adotar quórum diverso de 3/5 para suas emendas (ex.: ADI 6.453). As normas centrais do processo de reforma aplicam-se por simetria (CF, art. 25 e ADCT, art. 11).",
+   "Errada. A afirmativa II é verdadeira, mas a III é falsa: o quórum de 3/5 do art. 60, §2º, é de reprodução obrigatória, e a Constituição Estadual não pode elevá-lo para 2/3.",
+   "Errada. A afirmativa III é falsa. O STF aplica a simetria ao quórum de emenda à Constituição Estadual, que deve seguir os 3/5 em dois turnos previstos no art. 60, §2º, da CF."
+  ],
+  "base": "CF, arts. 25, 59, 60, §2º, e 62, §1º, IV; ADCT, art. 11; STF, ADI 5.003/SC (lei complementar exigida pela Constituição Estadual); ADI 6.453 (quórum de emenda estadual).",
+  "dica": "Simetria no processo legislativo: o Estado não cria lei complementar onde a CF não exige e não altera o quórum de 3/5 das emendas."
+ },
+ "e3-14": {
+  "nivel": "médio",
+  "tema": "Eleição dos órgãos diretivos dos Tribunais: competência privativa e LOMAN (CF, arts. 93 e 96, I, 'a'; LC 35/1979, art. 102)",
+  "coms": [
+   "Errada. A emenda constitucional estadual não supre o vício: a matéria pertence ao Estatuto da Magistratura, reservado pela CF à lei complementar nacional de iniciativa do STF (art. 93), e à autonomia dos tribunais (art. 96, I, 'a'). Para o STF, o constituinte estadual não pode legislar sobre o tema, seja qual for a iniciativa.",
+   "Errada. O tema é, de fato, do Estatuto da Magistratura, mas a espécie normativa exigida é lei complementar de iniciativa do STF (CF, art. 93), e não lei ordinária. Até a edição do novo Estatuto, vale a LOMAN (LC 35/1979), recepcionada com status de lei complementar.",
+   "Errada. A ampliação do colégio eleitoral não decorre do princípio democrático e não pode ser criada pela Constituição Estadual. A competência é privativa dos tribunais (art. 96, I, 'a') e as regras gerais estão na LOMAN (art. 102). O STF declarou inconstitucionais normas estaduais que incluíam juízes de 1º grau na eleição (ex.: ADI 5.310).",
+   "CORRETA. O art. 96, I, 'a', da CF atribui aos tribunais, como órgãos colegiados formados por seus membros, a eleição dos órgãos diretivos. Segundo o STF, isso afasta a participação de juízes de 1º grau no colégio eleitoral por norma estadual, já que a matéria é reservada ao Estatuto da Magistratura (art. 93; LOMAN, art. 102, recepcionado). Atualização: a EC 134/2024 incluiu o parágrafo único do art. 96, segundo o qual, nos TJs com mais de 170 desembargadores, a eleição é feita entre os membros do tribunal pleno, para mandato de 2 anos, permitida uma recondução sucessiva. A regra só reforça que o colégio eleitoral é composto por desembargadores.",
+   "Errada. A LOMAN (LC 35/1979) foi recepcionada pela CF/1988 com status de lei complementar e continua regendo a matéria até a edição do Estatuto previsto no art. 93. A origem no regime militar não impede a recepção, que depende de compatibilidade material. Logo, não há vácuo legislativo."
+  ],
+  "base": "CF, arts. 93 e 96, I, 'a', e parágrafo único (EC 134/2024); LC 35/1979 (LOMAN), art. 102; STF, ADI 5.310 e ADI 3.566 (recepção do art. 102 da LOMAN).",
+  "dica": "Eleição no Tribunal: quem vota são os membros do Tribunal, nunca os juízes de 1º grau. A matéria é da LOMAN (lei complementar), e não da Constituição Estadual."
+ },
+ "e1-10": {
+  "nivel": "difícil",
+  "tema": "Subsídio da magistratura estadual: escalonamento por entrâncias e autonomia dos Estados (CF, arts. 93, V, 96, II, 'b', e 125)",
+  "coms": [
+   "Errada. A CF não reserva à União a definição do escalonamento por entrâncias. Cabe a cada Estado organizar sua Justiça (art. 125) e fixar por lei os subsídios de seus juízes, por iniciativa do TJ (art. 96, II, 'b' e 'd'), observando os limites do art. 93, V (diferença de 5% a 10% entre categorias e o teto).",
+   "CORRETA. A lei respeita a CF: o desembargador recebe 90,25% do subsídio dos Ministros do STF, que é o limite do art. 37, XI, e equivale a 95% de 95%, conforme o art. 93, V. Os degraus de 5% entre as categorias estão dentro da faixa constitucional de 5% a 10%. A iniciativa do TJ é a exigida pelo art. 96, II, 'b'. Os Estados podem definir o número de entrâncias e escalonar os subsídios entre elas (art. 125 e art. 96, II, 'd'), e o STF tem reconhecido essa autonomia federativa.",
+   "Errada. A lei não fixa tetos diferentes: fixa subsídios escalonados, como manda o art. 93, V. Na ADI 3.854, o STF afastou o subteto diferenciado para a magistratura estadual, mas isso trata do teto, não do escalonamento dos subsídios, que a própria CF exige.",
+   "Errada. A iniciativa da lei que fixa o subsídio dos magistrados é privativa do respectivo Tribunal (CF, art. 96, II, 'b'), e não do Chefe do Executivo. Atribuí-la ao Governador violaria a autonomia do Judiciário (art. 99).",
+   "Errada. O caráter nacional do Judiciário não impõe reduzir o escalonamento a três categorias. A expressão 'categorias da estrutura judiciária nacional' (art. 93, V) não impede que o Estado, ao organizar sua Justiça (art. 125), escalone os subsídios entre as entrâncias que criou. Não há interpretação conforme a fazer."
+  ],
+  "base": "CF, arts. 37, XI, 93, V, 96, II, 'b' e 'd', 99 e 125; STF, ADI 3.854 (teto da magistratura estadual).",
+  "dica": "Faça a conta: Min. STF 100% → Tribunais Superiores 95% → desembargador 90,25%. Entre as categorias, a diferença fica entre 5% e 10%. A iniciativa é sempre do Tribunal."
+ },
+ "e1-7": {
+  "nivel": "médio",
+  "tema": "Competência para ações sobre concurso público em regime celetista (STF, Tema 992 – RE 960.429; CF, art. 114, I)",
+  "coms": [
+   "Errada. Não é 'sempre' a Justiça Comum. Na ADI 3.395, o STF afastou da Justiça do Trabalho apenas as causas de servidores estatutários ou de vínculo jurídico-administrativo. Nas relações celetistas já formadas com a Administração, a competência é, em regra, da Justiça do Trabalho (art. 114, I), ressalvadas hipóteses como a do Tema 1.143 (parcelas de natureza administrativa).",
+   "Errada. O STF rejeitou a tese de que a fase pré-contratual seria 'relação de trabalho' para fins do art. 114. O concurso é procedimento administrativo regido pelo direito público e é julgado pela Justiça Comum (Tema 992).",
+   "CORRETA. Tese do Tema 992/STF (RE 960.429): compete à Justiça Comum processar e julgar as controvérsias sobre a fase pré-contratual de seleção e admissão de pessoal e a eventual nulidade do certame contra a Administração direta e indireta, mesmo quando adotado o regime celetista. A modulação manteve na Justiça do Trabalho apenas os processos com sentença de mérito proferida até 6/6/2018.",
+   "Errada. Adotado o regime celetista, as controvérsias da relação de emprego já formada com o Município são, em regra, da Justiça do Trabalho (CF, art. 114, I). A exclusão da ADI 3.395 alcança apenas vínculos estatutários ou jurídico-administrativos.",
+   "Errada. A competência trabalhista não se limita às estatais que exploram atividade econômica. Ela alcança também a Administração direta, autárquica e fundacional quando contrata pelo regime da CLT (art. 114, I). O que a afasta é a natureza estatutária do vínculo ou, como no caso, o caráter administrativo da fase do concurso."
+  ],
+  "base": "CF, arts. 37, II, e 114, I; STF, Tema 992 (RE 960.429); ADI 3.395; Tema 1.143 (RE 1.288.440).",
+  "dica": "Concurso público vai para a Justiça Comum, mesmo no regime celetista. Depois da posse do celetista, a competência passa à Justiça do Trabalho. Para o estatutário, é sempre a Justiça Comum."
+ },
+ "e4-10": {
+  "nivel": "difícil",
+  "tema": "MP e regime dos servidores das agências reguladoras: vedação de outra atividade profissional e de direção político-partidária (CF, art. 62, §1º; Lei 10.871/2004, art. 23, II)",
+  "coms": [
+   "Errada. A medida provisória tem força de lei e pode ser objeto de ADI desde sua edição (STF, jurisprudência pacífica, ex.: ADI 293). Se for convertida em lei durante o processo, basta o aditamento da inicial. Se for rejeitada ou perder a eficácia, a ação fica prejudicada.",
+   "CORRETA. O cenário reproduz a MP 155/2003, convertida na Lei 10.871/2004 (art. 23, II, 'c' e 'd'). A matéria, regime jurídico de servidores federais, não está entre as vedações do art. 62, §1º, nem exige lei complementar. As restrições são proporcionais à independência técnica e à neutralidade das agências e se apoiam na moralidade (art. 37, caput). O STF reconheceu a constitucionalidade dessas vedações (ADI 6.033).",
+   "Errada. Não há vedação material: proibir a direção político-partidária a servidores não é legislar sobre 'partidos políticos' ou 'direito eleitoral' (art. 62, §1º, I, 'a'). A norma disciplina deveres funcionais. A filiação continua permitida e só se restringe o exercício de funções de direção.",
+   "Errada. A União pode estabelecer regimes específicos para carreiras com atribuições peculiares. A isonomia não impede tratamento diferenciado com fundamento razoável, como a necessidade de imparcialidade e independência técnica das agências reguladoras.",
+   "Errada. A CF não exige lei complementar para restringir a atividade político-partidária de servidores. A reserva do art. 14, §9º, trata de inelegibilidades, tema diferente. As duas restrições cabem em lei ordinária e, portanto, também em medida provisória."
+  ],
+  "base": "CF, arts. 37, caput, 61, §1º, II, 'c', e 62, §1º; Lei 10.871/2004, art. 23, II, 'c' e 'd' (origem: MP 155/2003); STF, ADI 6.033.",
+  "dica": "Vedações a MP (art. 62, §1º): nacionalidade, cidadania, direitos políticos, partidos e direito eleitoral; direito penal e processual; organização do Judiciário e do MP; orçamento; confisco de ativos; matéria de lei complementar; e projeto aprovado aguardando sanção. Regime de servidor não está na lista."
+ },
+ "e3-66": {
+  "nivel": "médio",
+  "tema": "Contrato de concessão comercial de veículos (Lei Ferrari – Lei 6.729/1979, arts. 5º e 8º): cláusula de distância mínima, área operacional e índice de fidelidade",
+  "coms": [
+   "CORRETA. A Lei Ferrari declara inerentes à concessão a área operacional e as distâncias mínimas entre concessionários da mesma rede (art. 5º, I e II) e admite que a área tenha mais de um concessionário da mesma rede (art. 5º, §1º). Essas cláusulas são lícitas, inclusive por força de lei, e afastam a tese de violação à livre iniciativa ou à exclusividade absoluta. Já o índice de fidelidade de compra de componentes (art. 8º) não pode alcançar as aquisições de acessórios, que o parágrafo único, 'a', exclui expressamente. Só essa cláusula é nula, e só ela pode gerar indenização.",
+   "Errada. Nem todas as cláusulas são lícitas: estender o índice de fidelidade às compras de acessórios contraria o art. 8º, parágrafo único, 'a', da Lei 6.729/1979, norma cogente que limita a liberdade contratual na concessão.",
+   "Errada. A distância mínima entre estabelecimentos da mesma rede está prevista na lei como inerente à concessão (Lei 6.729/1979, art. 5º, II). Não é vedada e não se confunde com uma cláusula de raio abusiva. Ter natureza de adesão também não basta para invalidá-la (CC, art. 424, que só invalida a renúncia antecipada a direito resultante da natureza do negócio).",
+   "Errada. Apenas a cláusula do índice de fidelidade sobre acessórios é nula. A distância mínima (art. 5º, II) e a presença de mais de um concessionário na mesma área (art. 5º, §1º) têm amparo expresso na Lei Ferrari.",
+   "Errada. A exclusividade territorial absoluta não é característica essencial da concessão de veículos: o art. 5º, §1º, da Lei 6.729/1979 permite que a área operacional tenha mais de um concessionário da mesma rede, observados os critérios legais e a convenção de marca."
+  ],
+  "base": "Lei 6.729/1979 (Lei Ferrari), arts. 5º, I e II e §1º, e 8º, parágrafo único, 'a' e 'b'; CF, art. 170, IV; CC, art. 424.",
+  "dica": "Lei Ferrari: área operacional e distância mínima são lícitas; mais de um concessionário na mesma área também pode. O índice de fidelidade vale para componentes, mas não alcança acessórios, implementos ou máquinas agrícolas."
+ },
+ "e4-67": {
+  "nivel": "médio",
+  "tema": "Distribuição de lucros nos tipos societários (CC, arts. 1.007, 1.008, 1.046, 1.055, §2º, 1.094, VII; Lei 6.404/1976, art. 202)",
+  "coms": [
+   "CORRETA. O art. 1.007 do CC adota a proporção das quotas apenas 'salvo estipulação em contrário'. O contrato pode prever outro critério, até mesmo a proporção inversa ao capital, desde que nenhum sócio seja excluído dos lucros e perdas (art. 1.008, que proíbe a sociedade leonina). A regra vale para a sociedade simples e, por remissão, para a comandita simples (art. 1.046).",
+   "Errada. Na sociedade limitada é vedada a contribuição que consista em prestação de serviços (CC, art. 1.055, §2º). Além disso, na sociedade simples o sócio de serviço participa dos lucros pela média do valor das quotas (art. 1.007), e não pelo percentual do sócio de menor entrada.",
+   "Errada. O dividendo obrigatório é o fixado no estatuto. Só se o estatuto for omisso aplica-se a metade do lucro líquido ajustado, diminuído da reserva legal e acrescido ou diminuído das reservas para contingências (Lei 6.404/1976, art. 202, I). Não há regra fixa de 'metade' como determinação geral, e a distribuição pode até deixar de ocorrer nas hipóteses do art. 202, §4º.",
+   "Errada. Na sociedade em conta de participação, a participação do sócio participante nos resultados segue o que for estipulado no contrato (CC, arts. 991 e 996, com aplicação subsidiária das regras da sociedade simples). Não existe critério legal de 'média das operações do sócio ostensivo'.",
+   "Errada. Na cooperativa, com ou sem capital, os resultados são distribuídos proporcionalmente ao valor das operações do sócio com a sociedade, podendo ser atribuído juro fixo ao capital realizado (CC, art. 1.094, VII; Lei 5.764/1971, art. 4º, VII). Não há distribuição proporcional às quotas."
+  ],
+  "base": "CC, arts. 991, 996, 1.007, 1.008, 1.046, 1.055, §2º, e 1.094, VII; Lei 6.404/1976, art. 202; Lei 5.764/1971, art. 4º, VII.",
+  "dica": "Lucro: na sociedade simples, o contrato pode tudo, menos ser leonino. Na cooperativa, conta a proporção das operações. A limitada não admite sócio de serviço. Na S.A., o dividendo obrigatório é o do estatuto, e na omissão vale a metade do lucro ajustado."
+ },
+ "e1-67": {
+  "nivel": "fácil",
+  "tema": "Comércio eletrônico (Decreto 7.962/2013, arts. 3º a 5º) e informação de preços (Decreto 5.903/2006; CDC, art. 31)",
+  "coms": [
+   "Errada. Informar preços em moeda estrangeira sem a conversão para a moeda nacional configura expressamente infração ao direito à informação (Decreto 5.903/2006, art. 9º, que regulamenta a Lei 10.962/2004; CDC, arts. 6º, III, e 31).",
+   "Errada. O art. 3º do Decreto 7.962/2013 exige que os sites de compras coletivas informem a quantidade mínima de consumidores, o prazo para utilização da oferta e a identificação do fornecedor responsável. A lei não fixa prazo mínimo de 48 horas para a utilização.",
+   "Errada. O arrependimento pode ser exercido pela mesma ferramenta usada na contratação (art. 5º, §1º). Porém a rescisão dos contratos acessórios ocorre 'sem qualquer ônus para o consumidor' (art. 5º, §2º), sem a ressalva de ônus previstos no contrato, que seria nula (CDC, arts. 49 e 51).",
+   "CORRETA. Literalidade do art. 4º, IV, do Decreto 7.962/2013: para garantir o atendimento facilitado, o fornecedor deve disponibilizar o contrato ao consumidor em meio que permita sua conservação e reprodução, imediatamente após a contratação.",
+   "Errada. O dever de manter um serviço adequado e eficaz de atendimento eletrônico está no art. 4º, V, mas o prazo para responder ao consumidor é de até 5 dias, e não 2 (art. 4º, parágrafo único)."
+  ],
+  "base": "Decreto 7.962/2013, arts. 3º, 4º, IV e V e parágrafo único, e 5º, §§1º e 2º; CDC, arts. 6º, III, 31, 49 e 51; Decreto 5.903/2006, art. 9º.",
+  "dica": "E-commerce: o contrato vai para o consumidor imediatamente; a resposta ao consumidor sai em até 5 dias; o arrependimento pode ser feito pelo mesmo canal; e os contratos acessórios caem sem qualquer ônus."
+ },
+ "e4-68": {
+  "nivel": "médio",
+  "tema": "Termo legal e ineficácia objetiva de atos na falência (Lei 11.101/2005, arts. 99, II, e 129, I a V)",
+  "coms": [
+   "CORRETA. A renúncia à herança ou ao legado só é ineficaz se praticada até 2 anos antes da decretação da falência (art. 129, V). Com a falência decretada em 15/7/2025, o marco é 15/7/2023. Os atos de jan./abr. de 2022 ficam fora desse período e são eficazes perante a massa. O termo legal (90 dias antes de 6/4/2022, art. 99, II) não influi nos incisos IV e V, que têm prazo próprio.",
+   "Errada. O termo legal foi fixado em 90 dias antes do primeiro protesto, isto é, por volta de 6/1/2022 (art. 99, II), e o período suspeito vai dele até a decretação. Pagamentos de dívidas vencidas em 2024 por forma não prevista no contrato estão dentro desse período e são ineficazes (art. 129, II).",
+   "Errada. Pagar dívida não vencida dentro do termo legal (12/3/2022 é posterior a cerca de 6/1/2022) é ineficaz por qualquer meio extintivo, 'ainda que pelo desconto do próprio título' (art. 129, I). A alternativa inverte a regra ao excepcionar o desconto.",
+   "Errada. Atos a título gratuito praticados desde 2 anos antes da decretação são ineficazes (art. 129, IV). Doações de nov./dez. de 2023 são posteriores a 15/7/2023 e, portanto, ineficazes perante a massa.",
+   "Errada. Constituir direito real de garantia (penhor) dentro do termo legal (20/4/2022) para dívida contraída antes (30/9/2021) é ineficaz (art. 129, III)."
+  ],
+  "base": "Lei 11.101/2005, arts. 99, II, e 129, I a V e parágrafo único (ineficácia objetiva, independe de intenção de fraudar e pode ser declarada de ofício).",
+  "dica": "Art. 129: os incisos I a III dependem do termo legal (até 90 dias antes do pedido, do pedido de RJ ou do 1º protesto). Os incisos IV (atos gratuitos) e V (renúncia a herança) usam o prazo de 2 anos antes da decretação."
  }
 }
