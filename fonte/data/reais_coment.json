@@ -3118,5 +3118,31 @@
   ],
   "base": "Lei 11.101/2005, arts. 99, II, e 129, I a V e parágrafo único (ineficácia objetiva, independe de intenção de fraudar e pode ser declarada de ofício).",
   "dica": "Art. 129: os incisos I a III dependem do termo legal (até 90 dias antes do pedido, do pedido de RJ ou do 1º protesto). Os incisos IV (atos gratuitos) e V (renúncia a herança) usam o prazo de 2 anos antes da decretação."
+ },
+ "e5-67": {
+  "nivel": "médio",
+  "tema": "Consórcio: restituição ao consorciado desistente e liberdade na taxa de administração (Tema 312/STJ; Súmula 538/STJ)",
+  "coms": [
+   "Errada. A primeira parte inverte a tese repetitiva: o STJ (Tema 312, REsp 1.119.300/RS) decidiu que a restituição ao desistente NÃO é imediata, mas em até 30 dias do prazo previsto para o encerramento do plano. A segunda parte está correta (Súmula 538/STJ).",
+   "Errada. Erra nas duas partes: a restituição não é imediata (Tema 312/STJ: até 30 dias após o encerramento do plano), e a taxa de administração superior a 10% não é ilegal, pois as administradoras têm liberdade para fixá-la (Súmula 538/STJ; Lei 8.177/1991, art. 33). O limite de 10% do antigo Decreto 70.951/1972 não foi recepcionado como teto para as administradoras.",
+   "Errada. Não há prazo de 60 dias contado da comunicação da desistência; o marco é o encerramento do plano, com 30 dias para devolver (Tema 312/STJ). Também não existe teto de 20%: a súmula reconhece liberdade de fixação, ainda que acima de 10%, sem fixar outro limite.",
+   "CORRETA. Reproduz as duas teses do STJ: (i) Tema 312 (REsp 1.119.300/RS, repetitivo): 'é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de forma imediata, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano'; (ii) Súmula 538/STJ: 'as administradoras de consórcio têm liberdade para estabelecer a respectiva taxa de administração, ainda que fixada em percentual superior a dez por cento'. Obs.: para contratos sob a Lei 11.795/2008, o desistente participa dos sorteios (art. 22), mas a banca cobrou a tese repetitiva.",
+   "Errada. O prazo é de 30 dias (não 90) a partir do encerramento contratual do plano (Tema 312/STJ), e a taxa superior a 10% não é abusiva (Súmula 538/STJ)."
+  ],
+  "base": "Tema 312/STJ (REsp 1.119.300/RS); Súmula 538/STJ; Lei 8.177/1991, art. 33; Lei 11.795/2008, art. 22",
+  "dica": "Consórcio: desistente recebe, mas só 30 dias após o fim do plano; taxa de administração é livre (pode passar de 10%)."
+ },
+ "e3-67": {
+  "nivel": "fácil",
+  "tema": "Proteção do nome empresarial: âmbito estadual decorrente da inscrição na Junta Comercial (CC, art. 1.166)",
+  "coms": [
+   "Errada. O CC não confere proteção internacional automática ao nome empresarial, e a proteção depende do registro (art. 1.166). A proteção internacional da Convenção da União de Paris (art. 8º) refere-se ao nome comercial e não é o critério de novidade do Código Civil cobrado no enunciado.",
+   "Errada. O âmbito da proteção não é municipal. O art. 1.166 assegura o uso exclusivo 'nos limites do respectivo Estado'; a extensão a outros Estados depende de registro especial na forma da lei (parágrafo único), e não de filiais em municípios.",
+   "CORRETA. CC, art. 1.166: 'A inscrição do empresário, ou dos atos constitutivos das pessoas jurídicas, ou as respectivas averbações, no registro próprio, asseguram o uso exclusivo do nome nos limites do respectivo Estado.' O critério da novidade (art. 1.163: o nome deve distinguir-se de qualquer outro já inscrito no mesmo registro) é aferido no âmbito da Junta Comercial do Estado; o parágrafo único admite extensão a todo o território nacional se registrado na forma de lei especial.",
+   "Errada. Duplo erro: o âmbito não é municipal e a proteção depende da inscrição no registro próprio (art. 1.166). Sem registro, não há uso exclusivo do nome.",
+   "Errada. A proteção nacional não decorre da simples inscrição na Junta: a regra é estadual (art. 1.166, caput); a extensão a todo o país exige registro na forma de lei especial (parágrafo único)."
+  ],
+  "base": "CC, arts. 1.155, 1.163 e 1.166",
+  "dica": "Nome empresarial: Junta Comercial protege no Estado; marca (INPI) protege no Brasil todo."
  }
 }
