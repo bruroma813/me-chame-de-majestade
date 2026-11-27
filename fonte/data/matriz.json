@@ -3719,6 +3719,122 @@
     "D21d Fé pública/Adm Pública/Adm justiça",
     "D21e Leis 7.716/12.288/13.869"
    ]
+  },
+  "S49": {
+   "Constitucional": [
+    "C14 Tributário/finanças",
+    "C15 Controle de constitucionalidade",
+    "C08t Constitucional do Trabalho",
+    "C06 Direitos fundamentais (teoria, expressão, privacidade)",
+    "C10 Legislativo/processo legislativo/TCU",
+    "C12 Judiciário/funções essenciais",
+    "C01 Teoria/poder constituinte/emendas"
+   ],
+   "Administrativo": [
+    "A08 Licitação",
+    "A10-11 Poder de polícia/intervenção na propriedade",
+    "A15 Regulação/agências/LGPD/liberdade econômica",
+    "A18 Controle/Tribunais de contas",
+    "A20 Responsabilidade civil do Estado",
+    "A05 Ato administrativo"
+   ],
+   "Humanística": [
+    "H3 Ética/estatuto da magistratura",
+    "H4 Filosofia do direito",
+    "H7 Direito digital/tecnologia"
+   ],
+   "Direitos Humanos": [
+    "DH1 Teoria geral/empresas",
+    "DH2 Sistema global (ONU)"
+   ],
+   "Processo Civil": [
+    "P01 Normas fundamentais/NJP",
+    "P03 Competência/cooperação",
+    "P04-05 Ação/partes/terceiros",
+    "P06 Atos/prazos/nulidades",
+    "P10 Tutela provisória"
+   ],
+   "Civil": [
+    "V01 LINDB/constitucionalização/DIP",
+    "V18 Marco Civil/LGPD",
+    "V19 Família e sucessões",
+    "V09 Responsabilidade civil",
+    "V12-14 Condomínio/fiduciária/garantias",
+    "V06 Obrigações",
+    "V04 Bens/bem de família"
+   ],
+   "Empresarial": [
+    "E10 Recuperação/falência",
+    "E08 Contratos empresariais"
+   ],
+   "Penal": [
+    "D21b Crimes contra o patrimônio",
+    "D07 Iter criminis",
+    "D13-16 Efeitos/reabilitação/medida de segurança/ação penal",
+    "D21a Crimes contra a pessoa/honra",
+    "D17 Extinção da punibilidade/prescrição",
+    "D11 Concurso de agentes",
+    "D18 Penal econômico/PJ",
+    "D21d Fé pública/Adm Pública/Adm justiça"
+   ]
+  },
+  "S50": {
+   "Constitucional": [
+    "C14 Tributário/finanças",
+    "C15 Controle de constitucionalidade",
+    "C07 Garantias processuais/prova/prisão",
+    "C09 Federação/competências/intervenção",
+    "C11 Executivo/Adm Pública/servidores",
+    "C08 Direitos sociais",
+    "C03 Eficácia/aplicabilidade/recepção"
+   ],
+   "Administrativo": [
+    "A08 Licitação",
+    "A16 Agentes públicos",
+    "A19 MS/ação popular/ACP/improbidade",
+    "A09 Contratos administrativos",
+    "A07 Processo administrativo",
+    "A17 Bens públicos"
+   ],
+   "Humanística": [
+    "H5 Teoria geral do direito/gênero",
+    "H8 Cognição/decisão/AED",
+    "H9 Antidiscriminação"
+   ],
+   "Direitos Humanos": [
+    "DH9 Povos originários",
+    "DH3 Sistema interamericano/Corte IDH"
+   ],
+   "Processo Civil": [
+    "P24 Custas/honorários/gratuidade",
+    "P12-15 Precedentes/recursos/IRDR/rescisória",
+    "P16-19 Execução/cumprimento",
+    "P09-11 Sentença/coisa julgada",
+    "P07 Petição inicial/resposta/saneamento"
+   ],
+   "Civil": [
+    "V19 Família e sucessões",
+    "V08 Contratos em espécie/atos unilaterais",
+    "V10-11 Posse/propriedade/usucapião/registro",
+    "V03 Pessoa jurídica/desconsideração",
+    "V07 Teoria geral dos contratos",
+    "V16-17 ECA/idoso/PcD",
+    "V20 Consumidor"
+   ],
+   "Empresarial": [
+    "E04 Sociedades (geral/não personificadas/simples)",
+    "E09 Bancários/SFN"
+   ],
+   "Penal": [
+    "D21b Crimes contra o patrimônio",
+    "D04-06 Teoria do crime/tipicidade/dolo/culpa",
+    "D13-16 Efeitos/reabilitação/medida de segurança/ação penal",
+    "D21a Crimes contra a pessoa/honra",
+    "D21d Fé pública/Adm Pública/Adm justiça",
+    "D21e Leis 7.716/12.288/13.869",
+    "D19-20 Penal militar/tratados",
+    "D12 Penas/concurso de crimes/conflito aparente"
+   ]
   }
  },
  "reais": {
@@ -5674,6 +5790,26 @@
    "Penal": []
   },
   "S48": {
+   "Constitucional": [],
+   "Administrativo": [],
+   "Humanística": [],
+   "Direitos Humanos": [],
+   "Processo Civil": [],
+   "Civil": [],
+   "Empresarial": [],
+   "Penal": []
+  },
+  "S49": {
+   "Constitucional": [],
+   "Administrativo": [],
+   "Humanística": [],
+   "Direitos Humanos": [],
+   "Processo Civil": [],
+   "Civil": [],
+   "Empresarial": [],
+   "Penal": []
+  },
+  "S50": {
    "Constitucional": [],
    "Administrativo": [],
    "Humanística": [],
